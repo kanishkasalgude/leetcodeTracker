@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 8 | 6 | 2 | 4 | 4 | 0 |
+| 9 | 7 | 2 | 5 | 4 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -15,6 +15,7 @@
 | 69 | [Sqrt(x)](../Math/0069-sqrtx/README.md) | Easy | Solved | 1 | cpp | 2025-07-05 |
 | 231 | [Power of Two](../Math/0231-power-of-two/README.md) | Easy | Solved | 3 | cpp | 2026-07-07 |
 | 1903 | [Largest Odd Number in String](../Math/1903-largest-odd-number-in-string/README.md) | Easy | Solved | 1 | cpp | 2026-06-15 |
+| 3536 | [Maximum Product of Two Digits](../Math/3536-maximum-product-of-two-digits/README.md) | Easy | Solved | 1 | cpp | 2026-07-25 |
 | 3993 | [Maximum Value of an Alternating Sequence](../Math/3993-maximum-value-of-an-alternating-sequence/README.md) | Medium | Attempted | 2 | cpp | - |
 
 ## Also tagged Math

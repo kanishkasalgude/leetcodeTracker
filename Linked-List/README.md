@@ -30,4 +30,6 @@ Filed under their main topic, but they use this one too.
 | 138 | [Copy List with Random Pointer](../Hash-Table/0138-copy-list-with-random-pointer/README.md) | Hash Table | Medium | Solved |
 | 141 | [Linked List Cycle](../Hash-Table/0141-linked-list-cycle/README.md) | Hash Table | Easy | Solved |
 | 142 | [Linked List Cycle II](../Hash-Table/0142-linked-list-cycle-ii/README.md) | Hash Table | Medium | Solved |
+| 146 | [LRU Cache](../Hash-Table/0146-lru-cache/README.md) | Hash Table | Medium | Solved |
 | 160 | [Intersection of Two Linked Lists](../Hash-Table/0160-intersection-of-two-linked-lists/README.md) | Hash Table | Easy | Solved |
+| 460 | [LFU Cache](../Hash-Table/0460-lfu-cache/README.md) | Hash Table | Hard | Solved |

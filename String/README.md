@@ -4,13 +4,14 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 7 | 7 | 0 | 5 | 1 | 1 |
+| 8 | 8 | 0 | 5 | 2 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 8 | [String to Integer (atoi)](../String/0008-string-to-integer-atoi/README.md) | Medium | Solved | 1 | cpp | 2026-06-18 |
 | 20 | [Valid Parentheses](../String/0020-valid-parentheses/README.md) | Easy | Solved | 7 | cpp | 2026-01-15 |
 | 297 | [Serialize and Deserialize Binary Tree](../String/0297-serialize-and-deserialize-binary-tree/README.md) | Hard | Solved | 1 | java | 2026-01-27 |
+| 402 | [Remove K Digits](../String/0402-remove-k-digits/README.md) | Medium | Solved | 5 | cpp | 2026-07-27 |
 | 796 | [Rotate String](../String/0796-rotate-string/README.md) | Easy | Solved | 1 | cpp | 2026-06-15 |
 | 1021 | [Remove Outermost Parentheses](../String/1021-remove-outermost-parentheses/README.md) | Easy | Solved | 1 | java | 2026-01-29 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](../String/1614-maximum-nesting-depth-of-the-parentheses/README.md) | Easy | Solved | 3 | cpp | 2026-06-15 |

@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 63 | 59 | 4 | 24 | 36 | 3 |
+| 73 | 69 | 4 | 26 | 40 | 7 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -19,6 +19,7 @@
 | 33 | [Search in Rotated Sorted Array](../Array/0033-search-in-rotated-sorted-array/README.md) | Medium | Solved | 3 | cpp | 2026-02-13 |
 | 34 | [Find First and Last Position of Element in Sorted Array](../Array/0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | Solved | 10 | cpp | 2026-02-13 |
 | 35 | [Search Insert Position](../Array/0035-search-insert-position/README.md) | Easy | Solved | 3 | cpp | 2026-01-19 |
+| 42 | [Trapping Rain Water](../Array/0042-trapping-rain-water/README.md) | Hard | Solved | 1 | cpp | 2026-07-21 |
 | 48 | [Rotate Image](../Array/0048-rotate-image/README.md) | Medium | Solved | 1 | cpp | 2025-10-19 |
 | 53 | [Maximum Subarray](../Array/0053-maximum-subarray/README.md) | Medium | Solved | 2 | cpp | 2025-10-12 |
 | 54 | [Spiral Matrix](../Array/0054-spiral-matrix/README.md) | Medium | Solved | 1 | cpp | 2025-10-20 |
@@ -28,6 +29,8 @@
 | 75 | [Sort Colors](../Array/0075-sort-colors/README.md) | Medium | Solved | 1 | cpp | 2025-10-06 |
 | 78 | [Subsets](../Array/0078-subsets/README.md) | Medium | Solved | 1 | cpp | 2026-07-16 |
 | 81 | [Search in Rotated Sorted Array II](../Array/0081-search-in-rotated-sorted-array-ii/README.md) | Medium | Solved | 3 | cpp | 2026-02-13 |
+| 84 | [Largest Rectangle in Histogram](../Array/0084-largest-rectangle-in-histogram/README.md) | Hard | Solved | 1 | cpp | 2026-07-27 |
+| 85 | [Maximal Rectangle](../Array/0085-maximal-rectangle/README.md) | Hard | Solved | 1 | cpp | 2026-07-31 |
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Easy | Solved | 1 | cpp | 2026-01-14 |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](../Array/0105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md) | Medium | Solved | 1 | java | 2026-01-27 |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](../Array/0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md) | Medium | Solved | 1 | java | 2026-01-27 |
@@ -42,17 +45,23 @@
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Easy | Solved | 1 | cpp | 2025-10-06 |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Medium | Solved | 2 | cpp | 2025-09-23 |
 | 204 | [Count Primes](../Array/0204-count-primes/README.md) | Medium | Solved | 9 | cpp | 2026-07-16 |
+| 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Easy | Solved | 1 | cpp | 2026-08-06 |
 | 229 | [Majority Element II](../Array/0229-majority-element-ii/README.md) | Medium | Solved | 1 | cpp | 2025-10-30 |
+| 239 | [Sliding Window Maximum](../Array/0239-sliding-window-maximum/README.md) | Hard | Solved | 1 | cpp | 2026-08-05 |
 | 240 | [Search a 2D Matrix II](../Array/0240-search-a-2d-matrix-ii/README.md) | Medium | Solved | 1 | cpp | 2026-06-07 |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 1 | cpp | 2025-09-25 |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 1 | cpp | 2025-09-23 |
 | 410 | [Split Array Largest Sum](../Array/0410-split-array-largest-sum/README.md) | Hard | Solved | 1 | cpp | 2026-06-04 |
 | 485 | [Max Consecutive Ones](../Array/0485-max-consecutive-ones/README.md) | Easy | Solved | 1 | cpp | 2025-09-25 |
 | 493 | [Reverse Pairs](../Array/0493-reverse-pairs/README.md) | Hard | Solved | 1 | cpp | 2026-01-21 |
+| 496 | [Next Greater Element I](../Array/0496-next-greater-element-i/README.md) | Easy | Solved | 1 | cpp | 2026-07-20 |
+| 503 | [Next Greater Element II](../Array/0503-next-greater-element-ii/README.md) | Medium | Solved | 1 | cpp | 2026-07-20 |
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Medium | Solved | 1 | cpp | 2026-02-14 |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Medium | Solved | 1 | cpp | 2025-10-14 |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 3 | cpp | 2025-12-06 |
+| 735 | [Asteroid Collision](../Array/0735-asteroid-collision/README.md) | Medium | Solved | 1 | cpp | 2026-07-25 |
 | 875 | [Koko Eating Bananas](../Array/0875-koko-eating-bananas/README.md) | Medium | Solved | 4 | cpp | 2026-03-15 |
+| 907 | [Sum of Subarray Minimums](../Array/0907-sum-of-subarray-minimums/README.md) | Medium | Solved | 2 | cpp | 2026-07-24 |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](../Array/1008-construct-binary-search-tree-from-preorder-traversal/README.md) | Medium | Solved | 1 | cpp | 2026-06-12 |
 | 1011 | [Capacity To Ship Packages Within D Days](../Array/1011-capacity-to-ship-packages-within-d-days/README.md) | Medium | Solved | 1 | cpp | 2026-03-22 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](../Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | Medium | Solved | 1 | cpp | 2026-03-21 |
@@ -64,6 +73,7 @@
 | 1672 | [Richest Customer Wealth](../Array/1672-richest-customer-wealth/README.md) | Easy | Solved | 2 | cpp | 2026-04-21 |
 | 1752 | [Check if Array Is Sorted and Rotated](../Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Easy | Solved | 2 | cpp | 2025-09-22 |
 | 1901 | [Find a Peak Element II](../Array/1901-find-a-peak-element-ii/README.md) | Medium | Solved | 3 | cpp | 2026-06-07 |
+| 2104 | [Sum of Subarray Ranges](../Array/2104-sum-of-subarray-ranges/README.md) | Medium | Solved | 1 | cpp | 2026-07-27 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 1 | cpp | 2025-10-12 |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 1 | cpp | 2026-02-01 |
 | 3842 | [Toggle Light Bulbs](../Array/3842-toggle-light-bulbs/README.md) | Easy | Solved | 4 | cpp | 2026-02-15 |

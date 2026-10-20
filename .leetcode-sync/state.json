@@ -2540,6 +2540,284 @@
       "submissions": [
         {"id":2072980171,"status":"Wrong Answer","lang":"cpp","timestamp":1784431623,"runtime":null,"memory":null}
       ]
+    },
+    "next-greater-element-ii": {
+      "id": "503",
+      "title": "Next Greater Element II",
+      "slug": "next-greater-element-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Stack","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0503-next-greater-element-ii",
+      "first_attempt_at": 1784556627,
+      "last_attempt_at": 1784556627,
+      "solved_at": 1784556627,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2074649884,"status":"Accepted","lang":"cpp","timestamp":1784556627,"runtime":"65 ms","memory":"29.2 MB"}
+      },
+      "submissions": [
+        {"id":2074649884,"status":"Accepted","lang":"cpp","timestamp":1784556627,"runtime":"65 ms","memory":"29.2 MB"}
+      ]
+    },
+    "next-greater-element-i": {
+      "id": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Stack","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0496-next-greater-element-i",
+      "first_attempt_at": 1784557430,
+      "last_attempt_at": 1784557430,
+      "solved_at": 1784557430,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2074664942,"status":"Accepted","lang":"cpp","timestamp":1784557430,"runtime":"0 ms","memory":"12.8 MB"}
+      },
+      "submissions": [
+        {"id":2074664942,"status":"Accepted","lang":"cpp","timestamp":1784557430,"runtime":"0 ms","memory":"12.8 MB"}
+      ]
+    },
+    "trapping-rain-water": {
+      "id": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "difficulty": "Hard",
+      "tags": ["Array","Two Pointers","Dynamic Programming","Stack","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0042-trapping-rain-water",
+      "first_attempt_at": 1784655870,
+      "last_attempt_at": 1784655870,
+      "solved_at": 1784655870,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2076202904,"status":"Accepted","lang":"cpp","timestamp":1784655870,"runtime":"0 ms","memory":"25.8 MB"}
+      },
+      "submissions": [
+        {"id":2076202904,"status":"Accepted","lang":"cpp","timestamp":1784655870,"runtime":"0 ms","memory":"25.8 MB"}
+      ]
+    },
+    "sum-of-subarray-minimums": {
+      "id": "907",
+      "title": "Sum of Subarray Minimums",
+      "slug": "sum-of-subarray-minimums",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Stack","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0907-sum-of-subarray-minimums",
+      "first_attempt_at": 1784903354,
+      "last_attempt_at": 1784903441,
+      "solved_at": 1784903441,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2079680595,"status":"Accepted","lang":"cpp","timestamp":1784903441,"runtime":"73 ms","memory":"208.3 MB"}
+      },
+      "submissions": [
+        {"id":2079679014,"status":"Wrong Answer","lang":"cpp","timestamp":1784903354,"runtime":null,"memory":null},
+        {"id":2079680595,"status":"Accepted","lang":"cpp","timestamp":1784903441,"runtime":"73 ms","memory":"208.3 MB"}
+      ]
+    },
+    "asteroid-collision": {
+      "id": "735",
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "difficulty": "Medium",
+      "tags": ["Array","Stack","Simulation"],
+      "topic": "Array",
+      "dir": "Array/0735-asteroid-collision",
+      "first_attempt_at": 1784991422,
+      "last_attempt_at": 1784991422,
+      "solved_at": 1784991422,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2080872275,"status":"Accepted","lang":"cpp","timestamp":1784991422,"runtime":"0 ms","memory":"21.6 MB"}
+      },
+      "submissions": [
+        {"id":2080872275,"status":"Accepted","lang":"cpp","timestamp":1784991422,"runtime":"0 ms","memory":"21.6 MB"}
+      ]
+    },
+    "maximum-product-of-two-digits": {
+      "id": "3536",
+      "title": "Maximum Product of Two Digits",
+      "slug": "maximum-product-of-two-digits",
+      "difficulty": "Easy",
+      "tags": ["Math","Sorting"],
+      "topic": "Math",
+      "dir": "Math/3536-maximum-product-of-two-digits",
+      "first_attempt_at": 1785001224,
+      "last_attempt_at": 1785001224,
+      "solved_at": 1785001224,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2081065466,"status":"Accepted","lang":"cpp","timestamp":1785001224,"runtime":"0 ms","memory":"9.3 MB"}
+      },
+      "submissions": [
+        {"id":2081065466,"status":"Accepted","lang":"cpp","timestamp":1785001224,"runtime":"0 ms","memory":"9.3 MB"}
+      ]
+    },
+    "sum-of-subarray-ranges": {
+      "id": "2104",
+      "title": "Sum of Subarray Ranges",
+      "slug": "sum-of-subarray-ranges",
+      "difficulty": "Medium",
+      "tags": ["Array","Stack","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/2104-sum-of-subarray-ranges",
+      "first_attempt_at": 1785168072,
+      "last_attempt_at": 1785168072,
+      "solved_at": 1785168072,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2083601721,"status":"Accepted","lang":"cpp","timestamp":1785168072,"runtime":"1 ms","memory":"17.2 MB"}
+      },
+      "submissions": [
+        {"id":2083601721,"status":"Accepted","lang":"cpp","timestamp":1785168072,"runtime":"1 ms","memory":"17.2 MB"}
+      ]
+    },
+    "remove-k-digits": {
+      "id": "402",
+      "title": "Remove K Digits",
+      "slug": "remove-k-digits",
+      "difficulty": "Medium",
+      "tags": ["String","Stack","Greedy","Monotonic Stack"],
+      "topic": "String",
+      "dir": "String/0402-remove-k-digits",
+      "first_attempt_at": 1785170616,
+      "last_attempt_at": 1785171437,
+      "solved_at": 1785171437,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2083686604,"status":"Accepted","lang":"cpp","timestamp":1785171437,"runtime":"4 ms","memory":"11.3 MB"}
+      },
+      "submissions": [
+        {"id":2083665146,"status":"Wrong Answer","lang":"cpp","timestamp":1785170616,"runtime":null,"memory":null},
+        {"id":2083666086,"status":"Wrong Answer","lang":"cpp","timestamp":1785170650,"runtime":null,"memory":null},
+        {"id":2083672681,"status":"Memory Limit Exceeded","lang":"cpp","timestamp":1785170904,"runtime":null,"memory":null},
+        {"id":2083682827,"status":"Memory Limit Exceeded","lang":"cpp","timestamp":1785171291,"runtime":null,"memory":null},
+        {"id":2083686604,"status":"Accepted","lang":"cpp","timestamp":1785171437,"runtime":"4 ms","memory":"11.3 MB"}
+      ]
+    },
+    "largest-rectangle-in-histogram": {
+      "id": "84",
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "tags": ["Array","Stack","Monotonic Stack","Range Minimum/Maximum Query"],
+      "topic": "Array",
+      "dir": "Array/0084-largest-rectangle-in-histogram",
+      "first_attempt_at": 1785174426,
+      "last_attempt_at": 1785174426,
+      "solved_at": 1785174426,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2083766211,"status":"Accepted","lang":"cpp","timestamp":1785174426,"runtime":"20 ms","memory":"93.8 MB"}
+      },
+      "submissions": [
+        {"id":2083766211,"status":"Accepted","lang":"cpp","timestamp":1785174426,"runtime":"20 ms","memory":"93.8 MB"}
+      ]
+    },
+    "maximal-rectangle": {
+      "id": "85",
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "difficulty": "Hard",
+      "tags": ["Array","Dynamic Programming","Stack","Matrix","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0085-maximal-rectangle",
+      "first_attempt_at": 1785519230,
+      "last_attempt_at": 1785519230,
+      "solved_at": 1785519230,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2089122635,"status":"Accepted","lang":"cpp","timestamp":1785519230,"runtime":"9 ms","memory":"20.5 MB"}
+      },
+      "submissions": [
+        {"id":2089122635,"status":"Accepted","lang":"cpp","timestamp":1785519230,"runtime":"9 ms","memory":"20.5 MB"}
+      ]
+    },
+    "sliding-window-maximum": {
+      "id": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "difficulty": "Hard",
+      "tags": ["Array","Queue","Sliding Window","Heap (Priority Queue)","Monotonic Queue","Range Minimum/Maximum Query"],
+      "topic": "Array",
+      "dir": "Array/0239-sliding-window-maximum",
+      "first_attempt_at": 1785932247,
+      "last_attempt_at": 1785932247,
+      "solved_at": 1785932247,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2095284130,"status":"Accepted","lang":"cpp","timestamp":1785932247,"runtime":"24 ms","memory":"139.1 MB"}
+      },
+      "submissions": [
+        {"id":2095284130,"status":"Accepted","lang":"cpp","timestamp":1785932247,"runtime":"24 ms","memory":"139.1 MB"}
+      ]
+    },
+    "online-stock-span": {
+      "id": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "difficulty": "Medium",
+      "tags": ["Stack","Design","Monotonic Stack","Data Stream"],
+      "topic": "Stack",
+      "dir": "Stack/0901-online-stock-span",
+      "first_attempt_at": 1785934401,
+      "last_attempt_at": 1785934401,
+      "solved_at": 1785934401,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2095319295,"status":"Accepted","lang":"cpp","timestamp":1785934401,"runtime":"44 ms","memory":"92.1 MB"}
+      },
+      "submissions": [
+        {"id":2095319295,"status":"Accepted","lang":"cpp","timestamp":1785934401,"runtime":"44 ms","memory":"92.1 MB"}
+      ]
+    },
+    "contains-duplicate": {
+      "id": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0217-contains-duplicate",
+      "first_attempt_at": 1785997226,
+      "last_attempt_at": 1785997226,
+      "solved_at": 1785997226,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2096240608,"status":"Accepted","lang":"cpp","timestamp":1785997226,"runtime":"75 ms","memory":"111.4 MB"}
+      },
+      "submissions": [
+        {"id":2096240608,"status":"Accepted","lang":"cpp","timestamp":1785997226,"runtime":"75 ms","memory":"111.4 MB"}
+      ]
+    },
+    "lfu-cache": {
+      "id": "460",
+      "title": "LFU Cache",
+      "slug": "lfu-cache",
+      "difficulty": "Hard",
+      "tags": ["Hash Table","Linked List","Design","Doubly-Linked List"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0460-lfu-cache",
+      "first_attempt_at": 1786118980,
+      "last_attempt_at": 1786119578,
+      "solved_at": 1786118980,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2098177474,"status":"Accepted","lang":"cpp","timestamp":1786119578,"runtime":"153 ms","memory":"211.8 MB"}
+      },
+      "submissions": [
+        {"id":2098165268,"status":"Accepted","lang":"cpp","timestamp":1786118980,"runtime":null,"memory":null},
+        {"id":2098170552,"status":"Compile Error","lang":"cpp","timestamp":1786119241,"runtime":null,"memory":null},
+        {"id":2098170867,"status":"Runtime Error","lang":"cpp","timestamp":1786119255,"runtime":null,"memory":null},
+        {"id":2098177474,"status":"Accepted","lang":"cpp","timestamp":1786119578,"runtime":"153 ms","memory":"211.8 MB"}
+      ]
+    },
+    "lru-cache": {
+      "id": "146",
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","Linked List","Design","Doubly-Linked List"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0146-lru-cache",
+      "first_attempt_at": 1786120760,
+      "last_attempt_at": 1786120760,
+      "solved_at": 1786120760,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2098202783,"status":"Accepted","lang":"cpp","timestamp":1786120760,"runtime":"106 ms","memory":"186.7 MB"}
+      },
+      "submissions": [
+        {"id":2098202783,"status":"Accepted","lang":"cpp","timestamp":1786120760,"runtime":"106 ms","memory":"186.7 MB"}
+      ]
     }
   }
 }

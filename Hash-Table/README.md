@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 12 | 12 | 0 | 6 | 5 | 1 |
+| 14 | 14 | 0 | 6 | 6 | 2 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -12,10 +12,12 @@
 | 138 | [Copy List with Random Pointer](../Hash-Table/0138-copy-list-with-random-pointer/README.md) | Medium | Solved | 1 | cpp | 2025-09-20 |
 | 141 | [Linked List Cycle](../Hash-Table/0141-linked-list-cycle/README.md) | Easy | Solved | 1 | cpp | 2025-08-13 |
 | 142 | [Linked List Cycle II](../Hash-Table/0142-linked-list-cycle-ii/README.md) | Medium | Solved | 1 | cpp | 2025-08-13 |
+| 146 | [LRU Cache](../Hash-Table/0146-lru-cache/README.md) | Medium | Solved | 1 | cpp | 2026-08-07 |
 | 160 | [Intersection of Two Linked Lists](../Hash-Table/0160-intersection-of-two-linked-lists/README.md) | Easy | Solved | 1 | cpp | 2025-09-08 |
 | 205 | [Isomorphic Strings](../Hash-Table/0205-isomorphic-strings/README.md) | Easy | Solved | 1 | cpp | 2026-06-15 |
 | 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Easy | Solved | 1 | cpp | 2026-06-15 |
 | 451 | [Sort Characters By Frequency](../Hash-Table/0451-sort-characters-by-frequency/README.md) | Medium | Solved | 1 | cpp | 2026-06-15 |
+| 460 | [LFU Cache](../Hash-Table/0460-lfu-cache/README.md) | Hard | Solved | 4 | cpp | 2026-08-07 |
 | 653 | [Two Sum IV - Input is a BST](../Hash-Table/0653-two-sum-iv-input-is-a-bst/README.md) | Easy | Solved | 1 | cpp | 2026-06-13 |
 | 863 | [All Nodes Distance K in Binary Tree](../Hash-Table/0863-all-nodes-distance-k-in-binary-tree/README.md) | Medium | Solved | 4 | cpp | 2026-01-26 |
 | 987 | [Vertical Order Traversal of a Binary Tree](../Hash-Table/0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard | Solved | 1 | cpp | 2026-01-24 |
@@ -33,8 +35,10 @@ Filed under their main topic, but they use this one too.
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](../Array/0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md) | Array | Medium | Solved |
 | 128 | [Longest Consecutive Sequence](../Array/0128-longest-consecutive-sequence/README.md) | Array | Medium | Solved |
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Array | Easy | Solved |
+| 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Array | Easy | Solved |
 | 229 | [Majority Element II](../Array/0229-majority-element-ii/README.md) | Array | Medium | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
+| 496 | [Next Greater Element I](../Array/0496-next-greater-element-i/README.md) | Array | Easy | Solved |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Array | Medium | Solved |
 | 1512 | [Number of Good Pairs](../Array/1512-number-of-good-pairs/README.md) | Array | Easy | Solved |
 | 3842 | [Toggle Light Bulbs](../Array/3842-toggle-light-bulbs/README.md) | Array | Easy | Solved |
