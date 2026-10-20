@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 34 | 33 | 1 | 16 | 17 | 1 |
+| 47 | 45 | 2 | 18 | 28 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,8 @@
 | 26 | [Remove Duplicates from Sorted Array](../Array/0026-remove-duplicates-from-sorted-array/README.md) | Easy | Solved | 1 | cpp | 2025-09-22 |
 | 27 | [Remove Element](../Array/0027-remove-element/README.md) | Easy | Solved | 1 | cpp | 2026-01-31 |
 | 31 | [Next Permutation](../Array/0031-next-permutation/README.md) | Medium | Solved | 3 | cpp | 2025-10-12 |
+| 33 | [Search in Rotated Sorted Array](../Array/0033-search-in-rotated-sorted-array/README.md) | Medium | Solved | 3 | cpp | 2026-02-13 |
+| 34 | [Find First and Last Position of Element in Sorted Array](../Array/0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | Solved | 10 | cpp | 2026-02-13 |
 | 35 | [Search Insert Position](../Array/0035-search-insert-position/README.md) | Easy | Solved | 3 | cpp | 2026-01-19 |
 | 48 | [Rotate Image](../Array/0048-rotate-image/README.md) | Medium | Solved | 1 | cpp | 2025-10-19 |
 | 53 | [Maximum Subarray](../Array/0053-maximum-subarray/README.md) | Medium | Solved | 2 | cpp | 2025-10-12 |
@@ -21,6 +23,7 @@
 | 56 | [Merge Intervals](../Array/0056-merge-intervals/README.md) | Medium | Solved | 1 | cpp | 2026-01-12 |
 | 73 | [Set Matrix Zeroes](../Array/0073-set-matrix-zeroes/README.md) | Medium | Solved | 1 | cpp | 2025-10-18 |
 | 75 | [Sort Colors](../Array/0075-sort-colors/README.md) | Medium | Solved | 1 | cpp | 2025-10-06 |
+| 81 | [Search in Rotated Sorted Array II](../Array/0081-search-in-rotated-sorted-array-ii/README.md) | Medium | Solved | 3 | cpp | 2026-02-13 |
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Easy | Solved | 1 | cpp | 2026-01-14 |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](../Array/0105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md) | Medium | Solved | 1 | java | 2026-01-27 |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](../Array/0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md) | Medium | Solved | 1 | java | 2026-01-27 |
@@ -30,6 +33,8 @@
 | 128 | [Longest Consecutive Sequence](../Array/0128-longest-consecutive-sequence/README.md) | Medium | Solved | 1 | cpp | 2025-10-13 |
 | 136 | [Single Number](../Array/0136-single-number/README.md) | Easy | Solved | 2 | cpp | 2025-09-25 |
 | 152 | [Maximum Product Subarray](../Array/0152-maximum-product-subarray/README.md) | Medium | Solved | 1 | cpp | 2026-01-21 |
+| 153 | [Find Minimum in Rotated Sorted Array](../Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Medium | Solved | 2 | cpp | 2026-02-13 |
+| 162 | [Find Peak Element](../Array/0162-find-peak-element/README.md) | Medium | Solved | 2 | cpp | 2026-02-14 |
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Easy | Solved | 1 | cpp | 2025-10-06 |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Medium | Solved | 2 | cpp | 2025-09-23 |
 | 229 | [Majority Element II](../Array/0229-majority-element-ii/README.md) | Medium | Solved | 1 | cpp | 2025-10-30 |
@@ -37,8 +42,16 @@
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 1 | cpp | 2025-09-23 |
 | 485 | [Max Consecutive Ones](../Array/0485-max-consecutive-ones/README.md) | Easy | Solved | 1 | cpp | 2025-09-25 |
 | 493 | [Reverse Pairs](../Array/0493-reverse-pairs/README.md) | Hard | Solved | 1 | cpp | 2026-01-21 |
+| 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Medium | Solved | 1 | cpp | 2026-02-14 |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Medium | Solved | 1 | cpp | 2025-10-14 |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 3 | cpp | 2025-12-06 |
+| 875 | [Koko Eating Bananas](../Array/0875-koko-eating-bananas/README.md) | Medium | Solved | 4 | cpp | 2026-03-15 |
+| 1011 | [Capacity To Ship Packages Within D Days](../Array/1011-capacity-to-ship-packages-within-d-days/README.md) | Medium | Solved | 1 | cpp | 2026-03-22 |
+| 1283 | [Find the Smallest Divisor Given a Threshold](../Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | Medium | Solved | 1 | cpp | 2026-03-21 |
+| 1482 | [Minimum Number of Days to Make m Bouquets](../Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | Medium | Solved | 2 | cpp | 2026-03-21 |
+| 1539 | [Kth Missing Positive Number](../Array/1539-kth-missing-positive-number/README.md) | Easy | Solved | 1 | cpp | 2026-03-22 |
 | 1752 | [Check if Array Is Sorted and Rotated](../Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Easy | Solved | 2 | cpp | 2025-09-22 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 1 | cpp | 2025-10-12 |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 1 | cpp | 2026-02-01 |
+| 3842 | [Toggle Light Bulbs](../Array/3842-toggle-light-bulbs/README.md) | Easy | Solved | 4 | cpp | 2026-02-15 |
+| 3843 | [First Element with Unique Frequency](../Array/3843-first-element-with-unique-frequency/README.md) | Medium | Attempted | 7 | cpp | - |

@@ -1394,6 +1394,304 @@
       "submissions": [
         {"id":1904612973,"status":"Accepted","lang":"cpp","timestamp":1769966278,"runtime":"0 ms","memory":"30.4 MB"}
       ]
+    },
+    "find-first-and-last-position-of-element-in-sorted-array": {
+      "id": "34",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0034-find-first-and-last-position-of-element-in-sorted-array",
+      "first_attempt_at": 1770572653,
+      "last_attempt_at": 1770975440,
+      "solved_at": 1770975440,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1917857148,"status":"Accepted","lang":"cpp","timestamp":1770975440,"runtime":"0 ms","memory":"17.5 MB"}
+      },
+      "submissions": [
+        {"id":1912707744,"status":"Wrong Answer","lang":"cpp","timestamp":1770572653,"runtime":null,"memory":null},
+        {"id":1915772676,"status":"Wrong Answer","lang":"cpp","timestamp":1770812753,"runtime":null,"memory":null},
+        {"id":1917845303,"status":"Wrong Answer","lang":"cpp","timestamp":1770974556,"runtime":null,"memory":null},
+        {"id":1917846634,"status":"Runtime Error","lang":"cpp","timestamp":1770974649,"runtime":null,"memory":null},
+        {"id":1917848059,"status":"Runtime Error","lang":"cpp","timestamp":1770974748,"runtime":null,"memory":null},
+        {"id":1917848287,"status":"Wrong Answer","lang":"cpp","timestamp":1770974765,"runtime":null,"memory":null},
+        {"id":1917849812,"status":"Runtime Error","lang":"cpp","timestamp":1770974869,"runtime":null,"memory":null},
+        {"id":1917850940,"status":"Runtime Error","lang":"cpp","timestamp":1770974951,"runtime":null,"memory":null},
+        {"id":1917851782,"status":"Runtime Error","lang":"cpp","timestamp":1770975011,"runtime":null,"memory":null},
+        {"id":1917857148,"status":"Accepted","lang":"cpp","timestamp":1770975440,"runtime":"0 ms","memory":"17.5 MB"}
+      ]
+    },
+    "search-in-rotated-sorted-array": {
+      "id": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0033-search-in-rotated-sorted-array",
+      "first_attempt_at": 1770977189,
+      "last_attempt_at": 1770977759,
+      "solved_at": 1770977759,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1917887797,"status":"Accepted","lang":"cpp","timestamp":1770977759,"runtime":"0 ms","memory":"15.3 MB"}
+      },
+      "submissions": [
+        {"id":1917880349,"status":"Wrong Answer","lang":"cpp","timestamp":1770977189,"runtime":null,"memory":null},
+        {"id":1917882098,"status":"Runtime Error","lang":"cpp","timestamp":1770977320,"runtime":null,"memory":null},
+        {"id":1917887797,"status":"Accepted","lang":"cpp","timestamp":1770977759,"runtime":"0 ms","memory":"15.3 MB"}
+      ]
+    },
+    "search-in-rotated-sorted-array-ii": {
+      "id": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0081-search-in-rotated-sorted-array-ii",
+      "first_attempt_at": 1770979926,
+      "last_attempt_at": 1770980204,
+      "solved_at": 1770980204,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1917918217,"status":"Accepted","lang":"cpp","timestamp":1770980204,"runtime":"0 ms","memory":"17.9 MB"}
+      },
+      "submissions": [
+        {"id":1917914833,"status":"Wrong Answer","lang":"cpp","timestamp":1770979926,"runtime":null,"memory":null},
+        {"id":1917917109,"status":"Wrong Answer","lang":"cpp","timestamp":1770980113,"runtime":null,"memory":null},
+        {"id":1917918217,"status":"Accepted","lang":"cpp","timestamp":1770980204,"runtime":"0 ms","memory":"17.9 MB"}
+      ]
+    },
+    "find-minimum-in-rotated-sorted-array": {
+      "id": "153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0153-find-minimum-in-rotated-sorted-array",
+      "first_attempt_at": 1770981453,
+      "last_attempt_at": 1770981516,
+      "solved_at": 1770981516,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1917933237,"status":"Accepted","lang":"cpp","timestamp":1770981516,"runtime":"0 ms","memory":"14.2 MB"}
+      },
+      "submissions": [
+        {"id":1917932557,"status":"Wrong Answer","lang":"cpp","timestamp":1770981453,"runtime":null,"memory":null},
+        {"id":1917933237,"status":"Accepted","lang":"cpp","timestamp":1770981516,"runtime":"0 ms","memory":"14.2 MB"}
+      ]
+    },
+    "single-element-in-a-sorted-array": {
+      "id": "540",
+      "title": "Single Element in a Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0540-single-element-in-a-sorted-array",
+      "first_attempt_at": 1771082764,
+      "last_attempt_at": 1771082764,
+      "solved_at": 1771082764,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1919116101,"status":"Accepted","lang":"cpp","timestamp":1771082764,"runtime":"0 ms","memory":"26.2 MB"}
+      },
+      "submissions": [
+        {"id":1919116101,"status":"Accepted","lang":"cpp","timestamp":1771082764,"runtime":"0 ms","memory":"26.2 MB"}
+      ]
+    },
+    "find-peak-element": {
+      "id": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0162-find-peak-element",
+      "first_attempt_at": 1771084456,
+      "last_attempt_at": 1771084484,
+      "solved_at": 1771084484,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1919163823,"status":"Accepted","lang":"cpp","timestamp":1771084484,"runtime":"0 ms","memory":"12.5 MB"}
+      },
+      "submissions": [
+        {"id":1919163099,"status":"Wrong Answer","lang":"cpp","timestamp":1771084456,"runtime":null,"memory":null},
+        {"id":1919163823,"status":"Accepted","lang":"cpp","timestamp":1771084484,"runtime":"0 ms","memory":"12.5 MB"}
+      ]
+    },
+    "toggle-light-bulbs": {
+      "id": "3842",
+      "title": "Toggle Light Bulbs",
+      "slug": "toggle-light-bulbs",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Sorting","Simulation"],
+      "topic": "Array",
+      "dir": "Array/3842-toggle-light-bulbs",
+      "first_attempt_at": 1771123876,
+      "last_attempt_at": 1771124699,
+      "solved_at": 1771124699,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1919585870,"status":"Accepted","lang":"cpp","timestamp":1771124699,"runtime":"13 ms","memory":"37.1 MB"}
+      },
+      "submissions": [
+        {"id":1919561770,"status":"Wrong Answer","lang":"cpp","timestamp":1771123876,"runtime":null,"memory":null},
+        {"id":1919563518,"status":"Wrong Answer","lang":"cpp","timestamp":1771123934,"runtime":null,"memory":null},
+        {"id":1919568005,"status":"Wrong Answer","lang":"cpp","timestamp":1771124083,"runtime":null,"memory":null},
+        {"id":1919585870,"status":"Accepted","lang":"cpp","timestamp":1771124699,"runtime":"13 ms","memory":"37.1 MB"}
+      ]
+    },
+    "first-element-with-unique-frequency": {
+      "id": "3843",
+      "title": "First Element with Unique Frequency",
+      "slug": "first-element-with-unique-frequency",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Counting"],
+      "topic": "Array",
+      "dir": "Array/3843-first-element-with-unique-frequency",
+      "first_attempt_at": 1771125284,
+      "last_attempt_at": 1771127679,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1919662113,"status":"Wrong Answer","lang":"cpp","timestamp":1771127679,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":1919602120,"status":"Wrong Answer","lang":"cpp","timestamp":1771125284,"runtime":null,"memory":null},
+        {"id":1919604944,"status":"Wrong Answer","lang":"cpp","timestamp":1771125386,"runtime":null,"memory":null},
+        {"id":1919606377,"status":"Wrong Answer","lang":"cpp","timestamp":1771125442,"runtime":null,"memory":null},
+        {"id":1919623157,"status":"Compile Error","lang":"cpp","timestamp":1771126083,"runtime":null,"memory":null},
+        {"id":1919658809,"status":"Compile Error","lang":"cpp","timestamp":1771127541,"runtime":null,"memory":null},
+        {"id":1919661031,"status":"Wrong Answer","lang":"cpp","timestamp":1771127635,"runtime":null,"memory":null},
+        {"id":1919662113,"status":"Wrong Answer","lang":"cpp","timestamp":1771127679,"runtime":null,"memory":null}
+      ]
+    },
+    "longest-almost-palindromic-substring": {
+      "id": "3844",
+      "title": "Longest Almost-Palindromic Substring",
+      "slug": "longest-almost-palindromic-substring",
+      "difficulty": "Medium",
+      "tags": ["Two Pointers","String","Dynamic Programming"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/3844-longest-almost-palindromic-substring",
+      "first_attempt_at": 1771128008,
+      "last_attempt_at": 1771128008,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1919670533,"status":"Wrong Answer","lang":"cpp","timestamp":1771128008,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":1919670533,"status":"Wrong Answer","lang":"cpp","timestamp":1771128008,"runtime":null,"memory":null}
+      ]
+    },
+    "koko-eating-bananas": {
+      "id": "875",
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0875-koko-eating-bananas",
+      "first_attempt_at": 1773595934,
+      "last_attempt_at": 1773596901,
+      "solved_at": 1773596901,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1949356415,"status":"Accepted","lang":"cpp","timestamp":1773596901,"runtime":"15 ms","memory":"23.1 MB"}
+      },
+      "submissions": [
+        {"id":1949339357,"status":"Runtime Error","lang":"cpp","timestamp":1773595934,"runtime":null,"memory":null},
+        {"id":1949340631,"status":"Runtime Error","lang":"cpp","timestamp":1773596006,"runtime":null,"memory":null},
+        {"id":1949342950,"status":"Runtime Error","lang":"cpp","timestamp":1773596132,"runtime":null,"memory":null},
+        {"id":1949356415,"status":"Accepted","lang":"cpp","timestamp":1773596901,"runtime":"15 ms","memory":"23.1 MB"}
+      ]
+    },
+    "minimum-number-of-days-to-make-m-bouquets": {
+      "id": "1482",
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "slug": "minimum-number-of-days-to-make-m-bouquets",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/1482-minimum-number-of-days-to-make-m-bouquets",
+      "first_attempt_at": 1774086734,
+      "last_attempt_at": 1774086764,
+      "solved_at": 1774086764,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1954636832,"status":"Accepted","lang":"cpp","timestamp":1774086764,"runtime":"19 ms","memory":"70.5 MB"}
+      },
+      "submissions": [
+        {"id":1954636509,"status":"Runtime Error","lang":"cpp","timestamp":1774086734,"runtime":null,"memory":null},
+        {"id":1954636832,"status":"Accepted","lang":"cpp","timestamp":1774086764,"runtime":"19 ms","memory":"70.5 MB"}
+      ]
+    },
+    "find-the-smallest-divisor-given-a-threshold": {
+      "id": "1283",
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "slug": "find-the-smallest-divisor-given-a-threshold",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/1283-find-the-smallest-divisor-given-a-threshold",
+      "first_attempt_at": 1774088021,
+      "last_attempt_at": 1774088021,
+      "solved_at": 1774088021,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1954650314,"status":"Accepted","lang":"cpp","timestamp":1774088021,"runtime":"7 ms","memory":"26.2 MB"}
+      },
+      "submissions": [
+        {"id":1954650314,"status":"Accepted","lang":"cpp","timestamp":1774088021,"runtime":"7 ms","memory":"26.2 MB"}
+      ]
+    },
+    "capacity-to-ship-packages-within-d-days": {
+      "id": "1011",
+      "title": "Capacity To Ship Packages Within D Days",
+      "slug": "capacity-to-ship-packages-within-d-days",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/1011-capacity-to-ship-packages-within-d-days",
+      "first_attempt_at": 1774151525,
+      "last_attempt_at": 1774151525,
+      "solved_at": 1774151525,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1955364180,"status":"Accepted","lang":"cpp","timestamp":1774151525,"runtime":"11 ms","memory":"35 MB"}
+      },
+      "submissions": [
+        {"id":1955364180,"status":"Accepted","lang":"cpp","timestamp":1774151525,"runtime":"11 ms","memory":"35 MB"}
+      ]
+    },
+    "kth-missing-positive-number": {
+      "id": "1539",
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "difficulty": "Easy",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/1539-kth-missing-positive-number",
+      "first_attempt_at": 1774152894,
+      "last_attempt_at": 1774152894,
+      "solved_at": 1774152894,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1955384796,"status":"Accepted","lang":"cpp","timestamp":1774152894,"runtime":"0 ms","memory":"13.4 MB"}
+      },
+      "submissions": [
+        {"id":1955384796,"status":"Accepted","lang":"cpp","timestamp":1774152894,"runtime":"0 ms","memory":"13.4 MB"}
+      ]
+    },
+    "search-in-a-binary-search-tree": {
+      "id": "700",
+      "title": "Search in a Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "tags": ["Tree","Binary Search Tree","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0700-search-in-a-binary-search-tree",
+      "first_attempt_at": 1776492887,
+      "last_attempt_at": 1776492887,
+      "solved_at": 1776492887,
+      "languages": {
+        "java": {"file":"solution.java","id":1981483804,"status":"Accepted","lang":"java","timestamp":1776492887,"runtime":"0 ms","memory":"46.7 MB"}
+      },
+      "submissions": [
+        {"id":1981483804,"status":"Accepted","lang":"java","timestamp":1776492887,"runtime":"0 ms","memory":"46.7 MB"}
+      ]
     }
   }
 }

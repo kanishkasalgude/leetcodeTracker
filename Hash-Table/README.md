@@ -31,3 +31,5 @@ Filed under their main topic, but they use this one too.
 | 229 | [Majority Element II](../Array/0229-majority-element-ii/README.md) | Array | Medium | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Array | Medium | Solved |
+| 3842 | [Toggle Light Bulbs](../Array/3842-toggle-light-bulbs/README.md) | Array | Easy | Solved |
+| 3843 | [First Element with Unique Frequency](../Array/3843-first-element-with-unique-frequency/README.md) | Array | Medium | Attempted |

@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 10 | 10 | 0 | 5 | 5 | 0 |
+| 11 | 11 | 0 | 6 | 5 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -18,6 +18,7 @@
 | 236 | [Lowest Common Ancestor of a Binary Tree](../Tree/0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Medium | Solved | 1 | cpp | 2026-01-25 |
 | 543 | [Diameter of Binary Tree](../Tree/0543-diameter-of-binary-tree/README.md) | Easy | Solved | 1 | cpp | 2026-01-23 |
 | 662 | [Maximum Width of Binary Tree](../Tree/0662-maximum-width-of-binary-tree/README.md) | Medium | Solved | 2 | cpp | 2026-01-25 |
+| 700 | [Search in a Binary Search Tree](../Tree/0700-search-in-a-binary-search-tree/README.md) | Easy | Solved | 1 | java | 2026-04-18 |
 
 ## Also tagged Tree
 

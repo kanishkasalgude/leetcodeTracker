@@ -21,3 +21,4 @@ Filed under their main topic, but they use this one too.
 | --- | --- | --- | --- | --- |
 | 13 | [Roman to Integer](../Hash-Table/0013-roman-to-integer/README.md) | Hash Table | Easy | Solved |
 | 125 | [Valid Palindrome](../Two-Pointers/0125-valid-palindrome/README.md) | Two Pointers | Easy | Solved |
+| 3844 | [Longest Almost-Palindromic Substring](../Two-Pointers/3844-longest-almost-palindromic-substring/README.md) | Two Pointers | Medium | Attempted |
