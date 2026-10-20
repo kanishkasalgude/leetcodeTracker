@@ -4,11 +4,12 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 2 | 1 | 1 | 1 | 1 | 0 |
+| 3 | 2 | 1 | 1 | 2 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 125 | [Valid Palindrome](../Two-Pointers/0125-valid-palindrome/README.md) | Easy | Solved | 2 | cpp | 2025-07-03 |
+| 151 | [Reverse Words in a String](../Two-Pointers/0151-reverse-words-in-a-string/README.md) | Medium | Solved | 1 | cpp | 2026-06-15 |
 | 3844 | [Longest Almost-Palindromic Substring](../Two-Pointers/3844-longest-almost-palindromic-substring/README.md) | Medium | Attempted | 1 | cpp | - |
 
 ## Also tagged Two Pointers
@@ -33,6 +34,7 @@ Filed under their main topic, but they use this one too.
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Array | Medium | Solved |
 | 234 | [Palindrome Linked List](../Linked-List/0234-palindrome-linked-list/README.md) | Linked List | Easy | Solved |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Array | Easy | Solved |
+| 653 | [Two Sum IV - Input is a BST](../Hash-Table/0653-two-sum-iv-input-is-a-bst/README.md) | Hash Table | Easy | Solved |
 | 876 | [Middle of the Linked List](../Linked-List/0876-middle-of-the-linked-list/README.md) | Linked List | Easy | Solved |
 | 2095 | [Delete the Middle Node of a Linked List](../Linked-List/2095-delete-the-middle-node-of-a-linked-list/README.md) | Linked List | Medium | Solved |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Array | Medium | Solved |

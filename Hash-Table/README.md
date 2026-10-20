@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 7 | 7 | 0 | 3 | 3 | 1 |
+| 12 | 12 | 0 | 6 | 5 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -13,8 +13,13 @@
 | 141 | [Linked List Cycle](../Hash-Table/0141-linked-list-cycle/README.md) | Easy | Solved | 1 | cpp | 2025-08-13 |
 | 142 | [Linked List Cycle II](../Hash-Table/0142-linked-list-cycle-ii/README.md) | Medium | Solved | 1 | cpp | 2025-08-13 |
 | 160 | [Intersection of Two Linked Lists](../Hash-Table/0160-intersection-of-two-linked-lists/README.md) | Easy | Solved | 1 | cpp | 2025-09-08 |
+| 205 | [Isomorphic Strings](../Hash-Table/0205-isomorphic-strings/README.md) | Easy | Solved | 1 | cpp | 2026-06-15 |
+| 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Easy | Solved | 1 | cpp | 2026-06-15 |
+| 451 | [Sort Characters By Frequency](../Hash-Table/0451-sort-characters-by-frequency/README.md) | Medium | Solved | 1 | cpp | 2026-06-15 |
+| 653 | [Two Sum IV - Input is a BST](../Hash-Table/0653-two-sum-iv-input-is-a-bst/README.md) | Easy | Solved | 1 | cpp | 2026-06-13 |
 | 863 | [All Nodes Distance K in Binary Tree](../Hash-Table/0863-all-nodes-distance-k-in-binary-tree/README.md) | Medium | Solved | 4 | cpp | 2026-01-26 |
 | 987 | [Vertical Order Traversal of a Binary Tree](../Hash-Table/0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard | Solved | 1 | cpp | 2026-01-24 |
+| 1781 | [Sum of Beauty of All Substrings](../Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Medium | Solved | 1 | cpp | 2026-06-21 |
 
 ## Also tagged Hash Table
 

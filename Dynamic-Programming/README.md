@@ -4,11 +4,12 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 1 | 0 | 0 | 0 | 1 |
+| 2 | 2 | 0 | 0 | 0 | 2 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 124 | [Binary Tree Maximum Path Sum](../Dynamic-Programming/0124-binary-tree-maximum-path-sum/README.md) | Hard | Solved | 3 | cpp | 2026-01-23 |
+| 1373 | [Maximum Sum BST in Binary Tree](../Dynamic-Programming/1373-maximum-sum-bst-in-binary-tree/README.md) | Hard | Solved | 1 | java | 2026-06-13 |
 
 ## Also tagged Dynamic Programming
 

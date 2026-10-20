@@ -4,12 +4,13 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 56 | 54 | 2 | 22 | 31 | 3 |
+| 58 | 56 | 2 | 23 | 32 | 3 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](../Array/0001-two-sum/README.md) | Easy | Solved | 2 | cpp | 2025-06-27 |
 | 4 | [Median of Two Sorted Arrays](../Array/0004-median-of-two-sorted-arrays/README.md) | Hard | Solved | 1 | cpp | 2026-06-07 |
+| 14 | [Longest Common Prefix](../Array/0014-longest-common-prefix/README.md) | Easy | Solved | 1 | cpp | 2026-06-15 |
 | 15 | [3Sum](../Array/0015-3sum/README.md) | Medium | Solved | 1 | cpp | 2025-10-30 |
 | 18 | [4Sum](../Array/0018-4sum/README.md) | Medium | Solved | 1 | cpp | 2026-01-08 |
 | 26 | [Remove Duplicates from Sorted Array](../Array/0026-remove-duplicates-from-sorted-array/README.md) | Easy | Solved | 1 | cpp | 2025-09-22 |
@@ -50,6 +51,7 @@
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Medium | Solved | 1 | cpp | 2025-10-14 |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 3 | cpp | 2025-12-06 |
 | 875 | [Koko Eating Bananas](../Array/0875-koko-eating-bananas/README.md) | Medium | Solved | 4 | cpp | 2026-03-15 |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](../Array/1008-construct-binary-search-tree-from-preorder-traversal/README.md) | Medium | Solved | 1 | cpp | 2026-06-12 |
 | 1011 | [Capacity To Ship Packages Within D Days](../Array/1011-capacity-to-ship-packages-within-d-days/README.md) | Medium | Solved | 1 | cpp | 2026-03-22 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](../Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | Medium | Solved | 1 | cpp | 2026-03-21 |
 | 1470 | [Shuffle the Array](../Array/1470-shuffle-the-array/README.md) | Easy | Solved | 1 | cpp | 2026-04-21 |
