@@ -3384,6 +3384,283 @@
       "submissions": [
         {"id":2134132777,"status":"Accepted","lang":"cpp","timestamp":1788798707,"runtime":"2 ms","memory":"8.9 MB"}
       ]
+    },
+    "count-commas-in-range": {
+      "id": "3870",
+      "title": "Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/3870-count-commas-in-range",
+      "first_attempt_at": 1788857101,
+      "last_attempt_at": 1788857165,
+      "solved_at": 1788857101,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2134878378,"status":"Accepted","lang":"cpp","timestamp":1788857165,"runtime":"0 ms","memory":"8.5 MB"}
+      },
+      "submissions": [
+        {"id":2134877365,"status":"Accepted","lang":"cpp","timestamp":1788857101,"runtime":null,"memory":null},
+        {"id":2134878378,"status":"Accepted","lang":"cpp","timestamp":1788857165,"runtime":"0 ms","memory":"8.5 MB"}
+      ]
+    },
+    "minimum-distance-to-the-target-element": {
+      "id": "1848",
+      "title": "Minimum Distance to the Target Element",
+      "slug": "minimum-distance-to-the-target-element",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/1848-minimum-distance-to-the-target-element",
+      "first_attempt_at": 1788857389,
+      "last_attempt_at": 1788857496,
+      "solved_at": 1788857496,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2134883682,"status":"Accepted","lang":"cpp","timestamp":1788857496,"runtime":"0 ms","memory":"13.5 MB"}
+      },
+      "submissions": [
+        {"id":2134881911,"status":"Wrong Answer","lang":"cpp","timestamp":1788857389,"runtime":null,"memory":null},
+        {"id":2134883682,"status":"Accepted","lang":"cpp","timestamp":1788857496,"runtime":"0 ms","memory":"13.5 MB"}
+      ]
+    },
+    "path-with-minimum-effort": {
+      "id": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search","Depth-First Search","Breadth-First Search","Union-Find","Heap (Priority Queue)","Matrix","Dijkstra's Algorithm"],
+      "topic": "Array",
+      "dir": "Array/1631-path-with-minimum-effort",
+      "first_attempt_at": 1788864472,
+      "last_attempt_at": 1792231980,
+      "solved_at": 1788864472,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2135002049,"status":"Accepted","lang":"cpp","timestamp":1788864472,"runtime":"49 ms","memory":"24.4 MB"},
+        "python": {"file":"solution_python2.py","id":2174470301,"status":"Accepted","lang":"python","timestamp":1792231980,"runtime":"429 ms","memory":"13.2 MB"}
+      },
+      "submissions": [
+        {"id":2135002049,"status":"Accepted","lang":"cpp","timestamp":1788864472,"runtime":"49 ms","memory":"24.4 MB"},
+        {"id":2174470301,"status":"Accepted","lang":"python","timestamp":1792231980,"runtime":"429 ms","memory":"13.2 MB"}
+      ]
+    },
+    "count-commas-in-range-ii": {
+      "id": "3871",
+      "title": "Count Commas in Range II",
+      "slug": "count-commas-in-range-ii",
+      "difficulty": "Medium",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/3871-count-commas-in-range-ii",
+      "first_attempt_at": 1788942255,
+      "last_attempt_at": 1788942279,
+      "solved_at": 1788942279,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2136088351,"status":"Accepted","lang":"cpp","timestamp":1788942279,"runtime":"0 ms","memory":"9.1 MB"}
+      },
+      "submissions": [
+        {"id":2136087979,"status":"Wrong Answer","lang":"cpp","timestamp":1788942255,"runtime":null,"memory":null},
+        {"id":2136088351,"status":"Accepted","lang":"cpp","timestamp":1788942279,"runtime":"0 ms","memory":"9.1 MB"}
+      ]
+    },
+    "count-nodes-equal-to-average-of-subtree": {
+      "id": "2265",
+      "title": "Count Nodes Equal to Average of Subtree",
+      "slug": "count-nodes-equal-to-average-of-subtree",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/2265-count-nodes-equal-to-average-of-subtree",
+      "first_attempt_at": 1789011475,
+      "last_attempt_at": 1789011475,
+      "solved_at": 1789011475,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2136995945,"status":"Accepted","lang":"cpp","timestamp":1789011475,"runtime":"0 ms","memory":"15.7 MB"}
+      },
+      "submissions": [
+        {"id":2136995945,"status":"Accepted","lang":"cpp","timestamp":1789011475,"runtime":"0 ms","memory":"15.7 MB"}
+      ]
+    },
+    "max-consecutive-ones-iii": {
+      "id": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search","Sliding Window","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/1004-max-consecutive-ones-iii",
+      "first_attempt_at": 1789035378,
+      "last_attempt_at": 1789035378,
+      "solved_at": 1789035378,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2137361401,"status":"Accepted","lang":"cpp","timestamp":1789035378,"runtime":"0 ms","memory":"69.5 MB"}
+      },
+      "submissions": [
+        {"id":2137361401,"status":"Accepted","lang":"cpp","timestamp":1789035378,"runtime":"0 ms","memory":"69.5 MB"}
+      ]
+    },
+    "fruit-into-baskets": {
+      "id": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Sliding Window"],
+      "topic": "Array",
+      "dir": "Array/0904-fruit-into-baskets",
+      "first_attempt_at": 1789038244,
+      "last_attempt_at": 1789038244,
+      "solved_at": 1789038244,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2137404473,"status":"Accepted","lang":"cpp","timestamp":1789038244,"runtime":"40 ms","memory":"84.9 MB"}
+      },
+      "submissions": [
+        {"id":2137404473,"status":"Accepted","lang":"cpp","timestamp":1789038244,"runtime":"40 ms","memory":"84.9 MB"}
+      ]
+    },
+    "longest-repeating-character-replacement": {
+      "id": "424",
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String","Sliding Window"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0424-longest-repeating-character-replacement",
+      "first_attempt_at": 1789040222,
+      "last_attempt_at": 1789040222,
+      "solved_at": 1789040222,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2137429192,"status":"Accepted","lang":"cpp","timestamp":1789040222,"runtime":"0 ms","memory":"10.8 MB"}
+      },
+      "submissions": [
+        {"id":2137429192,"status":"Accepted","lang":"cpp","timestamp":1789040222,"runtime":"0 ms","memory":"10.8 MB"}
+      ]
+    },
+    "unique-3-digit-even-numbers": {
+      "id": "3483",
+      "title": "Unique 3-Digit Even Numbers",
+      "slug": "unique-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Recursion","Enumeration"],
+      "topic": "Array",
+      "dir": "Array/3483-unique-3-digit-even-numbers",
+      "first_attempt_at": 1789106578,
+      "last_attempt_at": 1789106873,
+      "solved_at": 1789106578,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2138230529,"status":"Accepted","lang":"cpp","timestamp":1789106873,"runtime":"0 ms","memory":"28.7 MB"}
+      },
+      "submissions": [
+        {"id":2138225568,"status":"Accepted","lang":"cpp","timestamp":1789106578,"runtime":null,"memory":null},
+        {"id":2138230529,"status":"Accepted","lang":"cpp","timestamp":1789106873,"runtime":"0 ms","memory":"28.7 MB"}
+      ]
+    },
+    "mirror-distance-of-an-integer": {
+      "id": "3783",
+      "title": "Mirror Distance of an Integer",
+      "slug": "mirror-distance-of-an-integer",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/3783-mirror-distance-of-an-integer",
+      "first_attempt_at": 1789216082,
+      "last_attempt_at": 1789216082,
+      "solved_at": 1789216082,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2139475161,"status":"Accepted","lang":"cpp","timestamp":1789216082,"runtime":"0 ms","memory":"8.4 MB"}
+      },
+      "submissions": [
+        {"id":2139475161,"status":"Accepted","lang":"cpp","timestamp":1789216082,"runtime":"0 ms","memory":"8.4 MB"}
+      ]
+    },
+    "binary-subarrays-with-sum": {
+      "id": "930",
+      "title": "Binary Subarrays With Sum",
+      "slug": "binary-subarrays-with-sum",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Sliding Window","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/0930-binary-subarrays-with-sum",
+      "first_attempt_at": 1789240741,
+      "last_attempt_at": 1789240741,
+      "solved_at": 1789240741,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2139949332,"status":"Accepted","lang":"cpp","timestamp":1789240741,"runtime":"0 ms","memory":"32.5 MB"}
+      },
+      "submissions": [
+        {"id":2139949332,"status":"Accepted","lang":"cpp","timestamp":1789240741,"runtime":"0 ms","memory":"32.5 MB"}
+      ]
+    },
+    "count-number-of-nice-subarrays": {
+      "id": "1248",
+      "title": "Count Number of Nice Subarrays",
+      "slug": "count-number-of-nice-subarrays",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Math","Sliding Window","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/1248-count-number-of-nice-subarrays",
+      "first_attempt_at": 1789241193,
+      "last_attempt_at": 1789241193,
+      "solved_at": 1789241193,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2139954475,"status":"Accepted","lang":"cpp","timestamp":1789241193,"runtime":"3 ms","memory":"71.4 MB"}
+      },
+      "submissions": [
+        {"id":2139954475,"status":"Accepted","lang":"cpp","timestamp":1789241193,"runtime":"3 ms","memory":"71.4 MB"}
+      ]
+    },
+    "number-of-substrings-containing-all-three-characters": {
+      "id": "1358",
+      "title": "Number of Substrings Containing All Three Characters",
+      "slug": "number-of-substrings-containing-all-three-characters",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String","Sliding Window"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/1358-number-of-substrings-containing-all-three-characters",
+      "first_attempt_at": 1789242185,
+      "last_attempt_at": 1789242185,
+      "solved_at": 1789242185,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2139965195,"status":"Accepted","lang":"cpp","timestamp":1789242185,"runtime":"11 ms","memory":"11.1 MB"}
+      },
+      "submissions": [
+        {"id":2139965195,"status":"Accepted","lang":"cpp","timestamp":1789242185,"runtime":"11 ms","memory":"11.1 MB"}
+      ]
+    },
+    "maximum-points-you-can-obtain-from-cards": {
+      "id": "1423",
+      "title": "Maximum Points You Can Obtain from Cards",
+      "slug": "maximum-points-you-can-obtain-from-cards",
+      "difficulty": "Medium",
+      "tags": ["Array","Sliding Window","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/1423-maximum-points-you-can-obtain-from-cards",
+      "first_attempt_at": 1789242876,
+      "last_attempt_at": 1789310209,
+      "solved_at": 1789242876,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2140699100,"status":"Accepted","lang":"cpp","timestamp":1789310209,"runtime":"0 ms","memory":"46.3 MB"}
+      },
+      "submissions": [
+        {"id":2139972154,"status":"Accepted","lang":"cpp","timestamp":1789242876,"runtime":null,"memory":null},
+        {"id":2140699100,"status":"Accepted","lang":"cpp","timestamp":1789310209,"runtime":"0 ms","memory":"46.3 MB"}
+      ]
+    },
+    "rectangle-overlap": {
+      "id": "836",
+      "title": "Rectangle Overlap",
+      "slug": "rectangle-overlap",
+      "difficulty": "Easy",
+      "tags": ["Math","Geometry"],
+      "topic": "Math",
+      "dir": "Math/0836-rectangle-overlap",
+      "first_attempt_at": 1789389717,
+      "last_attempt_at": 1789389717,
+      "solved_at": 1789389717,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2141554127,"status":"Accepted","lang":"cpp","timestamp":1789389717,"runtime":"0 ms","memory":"9.8 MB"}
+      },
+      "submissions": [
+        {"id":2141554127,"status":"Accepted","lang":"cpp","timestamp":1789389717,"runtime":"0 ms","memory":"9.8 MB"}
+      ]
     }
   }
 }

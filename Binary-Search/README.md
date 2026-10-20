@@ -32,8 +32,10 @@ Filed under their main topic, but they use this one too.
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Array | Medium | Solved |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Array | Easy | Solved |
 | 875 | [Koko Eating Bananas](../Array/0875-koko-eating-bananas/README.md) | Array | Medium | Solved |
+| 1004 | [Max Consecutive Ones III](../Array/1004-max-consecutive-ones-iii/README.md) | Array | Medium | Solved |
 | 1011 | [Capacity To Ship Packages Within D Days](../Array/1011-capacity-to-ship-packages-within-d-days/README.md) | Array | Medium | Solved |
 | 1283 | [Find the Smallest Divisor Given a Threshold](../Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | Array | Medium | Solved |
 | 1482 | [Minimum Number of Days to Make m Bouquets](../Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | Array | Medium | Solved |
 | 1539 | [Kth Missing Positive Number](../Array/1539-kth-missing-positive-number/README.md) | Array | Easy | Solved |
+| 1631 | [Path With Minimum Effort](../Array/1631-path-with-minimum-effort/README.md) | Array | Medium | Solved |
 | 1901 | [Find a Peak Element II](../Array/1901-find-a-peak-element-ii/README.md) | Array | Medium | Solved |

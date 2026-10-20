@@ -46,4 +46,6 @@ Filed under their main topic, but they use this one too.
 | 987 | [Vertical Order Traversal of a Binary Tree](../Hash-Table/0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hash Table | Hard | Solved |
 | 1020 | [Number of Enclaves](../Array/1020-number-of-enclaves/README.md) | Array | Medium | Solved |
 | 1373 | [Maximum Sum BST in Binary Tree](../Dynamic-Programming/1373-maximum-sum-bst-in-binary-tree/README.md) | Dynamic Programming | Hard | Solved |
+| 1631 | [Path With Minimum Effort](../Array/1631-path-with-minimum-effort/README.md) | Array | Medium | Solved |
+| 2265 | [Count Nodes Equal to Average of Subtree](../Tree/2265-count-nodes-equal-to-average-of-subtree/README.md) | Tree | Medium | Solved |
 | 3997 | [Count Dominant Nodes in a Binary Tree](../Tree/3997-count-dominant-nodes-in-a-binary-tree/README.md) | Tree | Medium | Solved |

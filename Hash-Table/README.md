@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 18 | 18 | 0 | 7 | 7 | 4 |
+| 20 | 20 | 0 | 7 | 9 | 4 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -20,11 +20,13 @@
 | 205 | [Isomorphic Strings](../Hash-Table/0205-isomorphic-strings/README.md) | Easy | Solved | 1 | cpp | 2026-06-15 |
 | 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Easy | Solved | 1 | cpp | 2026-06-15 |
 | 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Easy | Solved | 1 | cpp | 2026-08-21 |
+| 424 | [Longest Repeating Character Replacement](../Hash-Table/0424-longest-repeating-character-replacement/README.md) | Medium | Solved | 1 | cpp | 2026-09-10 |
 | 451 | [Sort Characters By Frequency](../Hash-Table/0451-sort-characters-by-frequency/README.md) | Medium | Solved | 1 | cpp | 2026-06-15 |
 | 460 | [LFU Cache](../Hash-Table/0460-lfu-cache/README.md) | Hard | Solved | 4 | cpp | 2026-08-07 |
 | 653 | [Two Sum IV - Input is a BST](../Hash-Table/0653-two-sum-iv-input-is-a-bst/README.md) | Easy | Solved | 1 | cpp | 2026-06-13 |
 | 863 | [All Nodes Distance K in Binary Tree](../Hash-Table/0863-all-nodes-distance-k-in-binary-tree/README.md) | Medium | Solved | 4 | cpp | 2026-01-26 |
 | 987 | [Vertical Order Traversal of a Binary Tree](../Hash-Table/0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard | Solved | 1 | cpp | 2026-01-24 |
+| 1358 | [Number of Substrings Containing All Three Characters](../Hash-Table/1358-number-of-substrings-containing-all-three-characters/README.md) | Medium | Solved | 1 | cpp | 2026-09-13 |
 | 1781 | [Sum of Beauty of All Substrings](../Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Medium | Solved | 1 | cpp | 2026-06-21 |
 
 ## Also tagged Hash Table
@@ -44,7 +46,11 @@ Filed under their main topic, but they use this one too.
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 496 | [Next Greater Element I](../Array/0496-next-greater-element-i/README.md) | Array | Easy | Solved |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Array | Medium | Solved |
+| 904 | [Fruit Into Baskets](../Array/0904-fruit-into-baskets/README.md) | Array | Medium | Solved |
+| 930 | [Binary Subarrays With Sum](../Array/0930-binary-subarrays-with-sum/README.md) | Array | Medium | Solved |
+| 1248 | [Count Number of Nice Subarrays](../Array/1248-count-number-of-nice-subarrays/README.md) | Array | Medium | Solved |
 | 1512 | [Number of Good Pairs](../Array/1512-number-of-good-pairs/README.md) | Array | Easy | Solved |
+| 3483 | [Unique 3-Digit Even Numbers](../Array/3483-unique-3-digit-even-numbers/README.md) | Array | Easy | Solved |
 | 3842 | [Toggle Light Bulbs](../Array/3842-toggle-light-bulbs/README.md) | Array | Easy | Solved |
 | 3843 | [First Element with Unique Frequency](../Array/3843-first-element-with-unique-frequency/README.md) | Array | Medium | Attempted |
 | 4038 | [Count Integers Appearing in a Single Block](../Array/4038-count-integers-appearing-in-a-single-block/README.md) | Array | Easy | Solved |

@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 18 | 18 | 0 | 6 | 12 | 0 |
+| 19 | 19 | 0 | 6 | 13 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -25,6 +25,7 @@
 | 662 | [Maximum Width of Binary Tree](../Tree/0662-maximum-width-of-binary-tree/README.md) | Medium | Solved | 2 | cpp | 2026-01-25 |
 | 700 | [Search in a Binary Search Tree](../Tree/0700-search-in-a-binary-search-tree/README.md) | Easy | Solved | 1 | java | 2026-04-18 |
 | 701 | [Insert into a Binary Search Tree](../Tree/0701-insert-into-a-binary-search-tree/README.md) | Medium | Solved | 2 | cpp | 2026-04-27 |
+| 2265 | [Count Nodes Equal to Average of Subtree](../Tree/2265-count-nodes-equal-to-average-of-subtree/README.md) | Medium | Solved | 1 | cpp | 2026-09-10 |
 | 3997 | [Count Dominant Nodes in a Binary Tree](../Tree/3997-count-dominant-nodes-in-a-binary-tree/README.md) | Medium | Solved | 5 | cpp | 2026-07-19 |
 
 ## Also tagged Tree

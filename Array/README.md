@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 89 | 85 | 4 | 30 | 52 | 7 |
+| 97 | 93 | 4 | 32 | 58 | 7 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -65,24 +65,32 @@
 | 733 | [Flood Fill](../Array/0733-flood-fill/README.md) | Easy | Solved | 1 | cpp | 2026-08-18 |
 | 735 | [Asteroid Collision](../Array/0735-asteroid-collision/README.md) | Medium | Solved | 1 | cpp | 2026-07-25 |
 | 875 | [Koko Eating Bananas](../Array/0875-koko-eating-bananas/README.md) | Medium | Solved | 4 | cpp | 2026-03-15 |
+| 904 | [Fruit Into Baskets](../Array/0904-fruit-into-baskets/README.md) | Medium | Solved | 1 | cpp | 2026-09-10 |
 | 907 | [Sum of Subarray Minimums](../Array/0907-sum-of-subarray-minimums/README.md) | Medium | Solved | 2 | cpp | 2026-07-24 |
+| 930 | [Binary Subarrays With Sum](../Array/0930-binary-subarrays-with-sum/README.md) | Medium | Solved | 1 | cpp | 2026-09-13 |
 | 994 | [Rotting Oranges](../Array/0994-rotting-oranges/README.md) | Medium | Solved | 2 | cpp | 2026-08-17 |
+| 1004 | [Max Consecutive Ones III](../Array/1004-max-consecutive-ones-iii/README.md) | Medium | Solved | 1 | cpp | 2026-09-10 |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](../Array/1008-construct-binary-search-tree-from-preorder-traversal/README.md) | Medium | Solved | 1 | cpp | 2026-06-12 |
 | 1011 | [Capacity To Ship Packages Within D Days](../Array/1011-capacity-to-ship-packages-within-d-days/README.md) | Medium | Solved | 1 | cpp | 2026-03-22 |
 | 1020 | [Number of Enclaves](../Array/1020-number-of-enclaves/README.md) | Medium | Solved | 1 | cpp | 2026-08-23 |
 | 1091 | [Shortest Path in Binary Matrix](../Array/1091-shortest-path-in-binary-matrix/README.md) | Medium | Solved | 3 | cpp, python | 2026-09-07 |
+| 1248 | [Count Number of Nice Subarrays](../Array/1248-count-number-of-nice-subarrays/README.md) | Medium | Solved | 1 | cpp | 2026-09-13 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](../Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | Medium | Solved | 1 | cpp | 2026-03-21 |
+| 1423 | [Maximum Points You Can Obtain from Cards](../Array/1423-maximum-points-you-can-obtain-from-cards/README.md) | Medium | Solved | 2 | cpp | 2026-09-13 |
 | 1470 | [Shuffle the Array](../Array/1470-shuffle-the-array/README.md) | Easy | Solved | 1 | cpp | 2026-04-21 |
 | 1480 | [Running Sum of 1d Array](../Array/1480-running-sum-of-1d-array/README.md) | Easy | Solved | 1 | cpp | 2026-04-21 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](../Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | Medium | Solved | 2 | cpp | 2026-03-21 |
 | 1512 | [Number of Good Pairs](../Array/1512-number-of-good-pairs/README.md) | Easy | Solved | 2 | cpp | 2026-04-21 |
 | 1539 | [Kth Missing Positive Number](../Array/1539-kth-missing-positive-number/README.md) | Easy | Solved | 1 | cpp | 2026-03-22 |
+| 1631 | [Path With Minimum Effort](../Array/1631-path-with-minimum-effort/README.md) | Medium | Solved | 2 | cpp, python | 2026-09-08 |
 | 1672 | [Richest Customer Wealth](../Array/1672-richest-customer-wealth/README.md) | Easy | Solved | 2 | cpp | 2026-04-21 |
 | 1752 | [Check if Array Is Sorted and Rotated](../Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Easy | Solved | 2 | cpp | 2025-09-22 |
+| 1848 | [Minimum Distance to the Target Element](../Array/1848-minimum-distance-to-the-target-element/README.md) | Easy | Solved | 2 | cpp | 2026-09-08 |
 | 1901 | [Find a Peak Element II](../Array/1901-find-a-peak-element-ii/README.md) | Medium | Solved | 3 | cpp | 2026-06-07 |
 | 2104 | [Sum of Subarray Ranges](../Array/2104-sum-of-subarray-ranges/README.md) | Medium | Solved | 1 | cpp | 2026-07-27 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 1 | cpp | 2025-10-12 |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 1 | cpp | 2026-02-01 |
+| 3483 | [Unique 3-Digit Even Numbers](../Array/3483-unique-3-digit-even-numbers/README.md) | Easy | Solved | 2 | cpp | 2026-09-11 |
 | 3842 | [Toggle Light Bulbs](../Array/3842-toggle-light-bulbs/README.md) | Easy | Solved | 4 | cpp | 2026-02-15 |
 | 3843 | [First Element with Unique Frequency](../Array/3843-first-element-with-unique-frequency/README.md) | Medium | Attempted | 7 | cpp | - |
 | 3875 | [Construct Uniform Parity Array I](../Array/3875-construct-uniform-parity-array-i/README.md) | Easy | Solved | 1 | cpp | 2026-09-02 |

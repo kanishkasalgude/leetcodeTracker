@@ -37,7 +37,9 @@ Filed under their main topic, but they use this one too.
 | 205 | [Isomorphic Strings](../Hash-Table/0205-isomorphic-strings/README.md) | Hash Table | Easy | Solved |
 | 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Hash Table | Easy | Solved |
 | 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Hash Table | Easy | Solved |
+| 424 | [Longest Repeating Character Replacement](../Hash-Table/0424-longest-repeating-character-replacement/README.md) | Hash Table | Medium | Solved |
 | 451 | [Sort Characters By Frequency](../Hash-Table/0451-sort-characters-by-frequency/README.md) | Hash Table | Medium | Solved |
+| 1358 | [Number of Substrings Containing All Three Characters](../Hash-Table/1358-number-of-substrings-containing-all-three-characters/README.md) | Hash Table | Medium | Solved |
 | 1781 | [Sum of Beauty of All Substrings](../Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Hash Table | Medium | Solved |
 | 1903 | [Largest Odd Number in String](../Math/1903-largest-odd-number-in-string/README.md) | Math | Easy | Solved |
 | 3844 | [Longest Almost-Palindromic Substring](../Two-Pointers/3844-longest-almost-palindromic-substring/README.md) | Two Pointers | Medium | Attempted |
