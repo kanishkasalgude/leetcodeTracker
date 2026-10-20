@@ -25,10 +25,13 @@ Filed under their main topic, but they use this one too.
 | --- | --- | --- | --- | --- |
 | 13 | [Roman to Integer](../Hash-Table/0013-roman-to-integer/README.md) | Hash Table | Easy | Solved |
 | 14 | [Longest Common Prefix](../Array/0014-longest-common-prefix/README.md) | Array | Easy | Solved |
+| 28 | [Find the Index of the First Occurrence in a String](../Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md) | Two Pointers | Easy | Solved |
 | 125 | [Valid Palindrome](../Two-Pointers/0125-valid-palindrome/README.md) | Two Pointers | Easy | Solved |
+| 127 | [Word Ladder](../Hash-Table/0127-word-ladder/README.md) | Hash Table | Hard | Solved |
 | 151 | [Reverse Words in a String](../Two-Pointers/0151-reverse-words-in-a-string/README.md) | Two Pointers | Medium | Solved |
 | 205 | [Isomorphic Strings](../Hash-Table/0205-isomorphic-strings/README.md) | Hash Table | Easy | Solved |
 | 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Hash Table | Easy | Solved |
+| 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Hash Table | Easy | Solved |
 | 451 | [Sort Characters By Frequency](../Hash-Table/0451-sort-characters-by-frequency/README.md) | Hash Table | Medium | Solved |
 | 1781 | [Sum of Beauty of All Substrings](../Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Hash Table | Medium | Solved |
 | 1903 | [Largest Odd Number in String](../Math/1903-largest-odd-number-in-string/README.md) | Math | Easy | Solved |

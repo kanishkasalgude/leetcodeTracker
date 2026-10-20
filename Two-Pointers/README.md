@@ -4,10 +4,11 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 4 | 3 | 1 | 2 | 2 | 0 |
+| 5 | 4 | 1 | 3 | 2 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
+| 28 | [Find the Index of the First Occurrence in a String](../Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md) | Easy | Solved | 3 | cpp | 2026-08-27 |
 | 125 | [Valid Palindrome](../Two-Pointers/0125-valid-palindrome/README.md) | Easy | Solved | 2 | cpp | 2025-07-03 |
 | 151 | [Reverse Words in a String](../Two-Pointers/0151-reverse-words-in-a-string/README.md) | Medium | Solved | 1 | cpp | 2026-06-15 |
 | 3844 | [Longest Almost-Palindromic Substring](../Two-Pointers/3844-longest-almost-palindromic-substring/README.md) | Medium | Attempted | 1 | cpp | - |
@@ -41,3 +42,4 @@ Filed under their main topic, but they use this one too.
 | 2095 | [Delete the Middle Node of a Linked List](../Linked-List/2095-delete-the-middle-node-of-a-linked-list/README.md) | Linked List | Medium | Solved |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Array | Medium | Solved |
 | 3998 | [Transform Binary String Using Subsequence Sort](../Array/3998-transform-binary-string-using-subsequence-sort/README.md) | Array | Medium | Attempted |
+| 4014 | [Minimum Total Price After Applying Discounts](../Array/4014-minimum-total-price-after-applying-discounts/README.md) | Array | Medium | Solved |

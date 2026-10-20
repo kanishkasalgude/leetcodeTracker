@@ -2818,6 +2818,289 @@
       "submissions": [
         {"id":2098202783,"status":"Accepted","lang":"cpp","timestamp":1786120760,"runtime":"106 ms","memory":"186.7 MB"}
       ]
+    },
+    "minimum-total-price-after-applying-discounts": {
+      "id": "4014",
+      "title": "Minimum Total Price After Applying Discounts",
+      "slug": "minimum-total-price-after-applying-discounts",
+      "difficulty": "Medium",
+      "tags": ["Array","Two Pointers","Greedy","Sorting"],
+      "topic": "Array",
+      "dir": "Array/4014-minimum-total-price-after-applying-discounts",
+      "first_attempt_at": 1786244002,
+      "last_attempt_at": 1786244002,
+      "solved_at": 1786244002,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2099743270,"status":"Accepted","lang":"cpp","timestamp":1786244002,"runtime":"71 ms","memory":"223.7 MB"}
+      },
+      "submissions": [
+        {"id":2099743270,"status":"Accepted","lang":"cpp","timestamp":1786244002,"runtime":"71 ms","memory":"223.7 MB"}
+      ]
+    },
+    "number-of-provinces": {
+      "id": "547",
+      "title": "Number of Provinces",
+      "slug": "number-of-provinces",
+      "difficulty": "Medium",
+      "tags": ["Depth-First Search","Breadth-First Search","Union-Find","Graph Theory"],
+      "topic": "Depth-First Search",
+      "dir": "Depth-First-Search/0547-number-of-provinces",
+      "first_attempt_at": 1786457390,
+      "last_attempt_at": 1792233580,
+      "solved_at": 1786457390,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2102930900,"status":"Accepted","lang":"cpp","timestamp":1786457390,"runtime":"1 ms","memory":"20.9 MB"},
+        "python": {"file":"solution_python2.py","id":2174485940,"status":"Accepted","lang":"python","timestamp":1792233580,"runtime":"5 ms","memory":"13.5 MB"}
+      },
+      "submissions": [
+        {"id":2102930900,"status":"Accepted","lang":"cpp","timestamp":1786457390,"runtime":"1 ms","memory":"20.9 MB"},
+        {"id":2174485940,"status":"Accepted","lang":"python","timestamp":1792233580,"runtime":"5 ms","memory":"13.5 MB"}
+      ]
+    },
+    "rotting-oranges": {
+      "id": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "difficulty": "Medium",
+      "tags": ["Array","Breadth-First Search","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0994-rotting-oranges",
+      "first_attempt_at": 1786983356,
+      "last_attempt_at": 1786983467,
+      "solved_at": 1786983467,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2110364293,"status":"Accepted","lang":"cpp","timestamp":1786983467,"runtime":"5 ms","memory":"16.7 MB"}
+      },
+      "submissions": [
+        {"id":2110361827,"status":"Wrong Answer","lang":"cpp","timestamp":1786983356,"runtime":null,"memory":null},
+        {"id":2110364293,"status":"Accepted","lang":"cpp","timestamp":1786983467,"runtime":"5 ms","memory":"16.7 MB"}
+      ]
+    },
+    "flood-fill": {
+      "id": "733",
+      "title": "Flood Fill",
+      "slug": "flood-fill",
+      "difficulty": "Easy",
+      "tags": ["Array","Depth-First Search","Breadth-First Search","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0733-flood-fill",
+      "first_attempt_at": 1787074362,
+      "last_attempt_at": 1787074362,
+      "solved_at": 1787074362,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2111789412,"status":"Accepted","lang":"cpp","timestamp":1787074362,"runtime":"0 ms","memory":"18.1 MB"}
+      },
+      "submissions": [
+        {"id":2111789412,"status":"Accepted","lang":"cpp","timestamp":1787074362,"runtime":"0 ms","memory":"18.1 MB"}
+      ]
+    },
+    "course-schedule": {
+      "id": "207",
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "difficulty": "Medium",
+      "tags": ["Depth-First Search","Breadth-First Search","Graph Theory","Topological Sort","Directed Acyclic Graph"],
+      "topic": "Depth-First Search",
+      "dir": "Depth-First-Search/0207-course-schedule",
+      "first_attempt_at": 1787078200,
+      "last_attempt_at": 1787762324,
+      "solved_at": 1787247335,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2121038447,"status":"Accepted","lang":"cpp","timestamp":1787762324,"runtime":"7 ms","memory":"19.3 MB"}
+      },
+      "submissions": [
+        {"id":2111885723,"status":"Wrong Answer","lang":"cpp","timestamp":1787078200,"runtime":null,"memory":null},
+        {"id":2111890116,"status":"Wrong Answer","lang":"cpp","timestamp":1787078427,"runtime":null,"memory":null},
+        {"id":2111893039,"status":"Wrong Answer","lang":"cpp","timestamp":1787078579,"runtime":null,"memory":null},
+        {"id":2114261588,"status":"Accepted","lang":"cpp","timestamp":1787247335,"runtime":null,"memory":null},
+        {"id":2121038447,"status":"Accepted","lang":"cpp","timestamp":1787762324,"runtime":"7 ms","memory":"19.3 MB"}
+      ]
+    },
+    "count-good-numbers": {
+      "id": "1922",
+      "title": "Count Good Numbers",
+      "slug": "count-good-numbers",
+      "difficulty": "Medium",
+      "tags": ["Math","Recursion"],
+      "topic": "Math",
+      "dir": "Math/1922-count-good-numbers",
+      "first_attempt_at": 1787158856,
+      "last_attempt_at": 1787159384,
+      "solved_at": 1787159384,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2113004340,"status":"Accepted","lang":"cpp","timestamp":1787159384,"runtime":"0 ms","memory":"8 MB"}
+      },
+      "submissions": [
+        {"id":2112991413,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1787158856,"runtime":null,"memory":null},
+        {"id":2112992546,"status":"Wrong Answer","lang":"cpp","timestamp":1787158903,"runtime":null,"memory":null},
+        {"id":2113004340,"status":"Accepted","lang":"cpp","timestamp":1787159384,"runtime":"0 ms","memory":"8 MB"}
+      ]
+    },
+    "find-the-difference": {
+      "id": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String","Bit Manipulation","Sorting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0389-find-the-difference",
+      "first_attempt_at": 1787330508,
+      "last_attempt_at": 1787330508,
+      "solved_at": 1787330508,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2115280988,"status":"Accepted","lang":"cpp","timestamp":1787330508,"runtime":"0 ms","memory":"9.3 MB"}
+      },
+      "submissions": [
+        {"id":2115280988,"status":"Accepted","lang":"cpp","timestamp":1787330508,"runtime":"0 ms","memory":"9.3 MB"}
+      ]
+    },
+    "01-matrix": {
+      "id": "542",
+      "title": "01 Matrix",
+      "slug": "01-matrix",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Breadth-First Search","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0542-01-matrix",
+      "first_attempt_at": 1787396159,
+      "last_attempt_at": 1787396159,
+      "solved_at": 1787396159,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2116039262,"status":"Accepted","lang":"cpp","timestamp":1787396159,"runtime":"30 ms","memory":"38.8 MB"}
+      },
+      "submissions": [
+        {"id":2116039262,"status":"Accepted","lang":"cpp","timestamp":1787396159,"runtime":"30 ms","memory":"38.8 MB"}
+      ]
+    },
+    "surrounded-regions": {
+      "id": "130",
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "difficulty": "Medium",
+      "tags": ["Array","Depth-First Search","Breadth-First Search","Union-Find","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0130-surrounded-regions",
+      "first_attempt_at": 1787399194,
+      "last_attempt_at": 1787399194,
+      "solved_at": 1787399194,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2116083439,"status":"Accepted","lang":"cpp","timestamp":1787399194,"runtime":"0 ms","memory":"14.5 MB"}
+      },
+      "submissions": [
+        {"id":2116083439,"status":"Accepted","lang":"cpp","timestamp":1787399194,"runtime":"0 ms","memory":"14.5 MB"}
+      ]
+    },
+    "number-of-enclaves": {
+      "id": "1020",
+      "title": "Number of Enclaves",
+      "slug": "number-of-enclaves",
+      "difficulty": "Medium",
+      "tags": ["Array","Depth-First Search","Breadth-First Search","Union-Find","Matrix"],
+      "topic": "Array",
+      "dir": "Array/1020-number-of-enclaves",
+      "first_attempt_at": 1787488233,
+      "last_attempt_at": 1787488233,
+      "solved_at": 1787488233,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2117326931,"status":"Accepted","lang":"cpp","timestamp":1787488233,"runtime":"3 ms","memory":"31.8 MB"}
+      },
+      "submissions": [
+        {"id":2117326931,"status":"Accepted","lang":"cpp","timestamp":1787488233,"runtime":"3 ms","memory":"31.8 MB"}
+      ]
+    },
+    "word-ladder": {
+      "id": "127",
+      "title": "Word Ladder",
+      "slug": "word-ladder",
+      "difficulty": "Hard",
+      "tags": ["Hash Table","String","Breadth-First Search","Bidirectional Search"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0127-word-ladder",
+      "first_attempt_at": 1787491338,
+      "last_attempt_at": 1787491338,
+      "solved_at": 1787491338,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2117375372,"status":"Accepted","lang":"cpp","timestamp":1787491338,"runtime":"59 ms","memory":"21.3 MB"}
+      },
+      "submissions": [
+        {"id":2117375372,"status":"Accepted","lang":"cpp","timestamp":1787491338,"runtime":"59 ms","memory":"21.3 MB"}
+      ]
+    },
+    "number-of-islands": {
+      "id": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "difficulty": "Medium",
+      "tags": ["Array","Depth-First Search","Breadth-First Search","Union-Find","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0200-number-of-islands",
+      "first_attempt_at": 1787588154,
+      "last_attempt_at": 1787588154,
+      "solved_at": 1787588154,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2118663826,"status":"Accepted","lang":"cpp","timestamp":1787588154,"runtime":"31 ms","memory":"24.4 MB"}
+      },
+      "submissions": [
+        {"id":2118663826,"status":"Accepted","lang":"cpp","timestamp":1787588154,"runtime":"31 ms","memory":"24.4 MB"}
+      ]
+    },
+    "is-graph-bipartite": {
+      "id": "785",
+      "title": "Is Graph Bipartite?",
+      "slug": "is-graph-bipartite",
+      "difficulty": "Medium",
+      "tags": ["Depth-First Search","Breadth-First Search","Union-Find","Graph Theory","Graph Coloring","Bipartite Graph"],
+      "topic": "Depth-First Search",
+      "dir": "Depth-First-Search/0785-is-graph-bipartite",
+      "first_attempt_at": 1787674328,
+      "last_attempt_at": 1787674328,
+      "solved_at": 1787674328,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2119868565,"status":"Accepted","lang":"cpp","timestamp":1787674328,"runtime":"3 ms","memory":"17.4 MB"}
+      },
+      "submissions": [
+        {"id":2119868565,"status":"Accepted","lang":"cpp","timestamp":1787674328,"runtime":"3 ms","memory":"17.4 MB"}
+      ]
+    },
+    "course-schedule-ii": {
+      "id": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "difficulty": "Medium",
+      "tags": ["Depth-First Search","Breadth-First Search","Graph Theory","Topological Sort"],
+      "topic": "Depth-First Search",
+      "dir": "Depth-First-Search/0210-course-schedule-ii",
+      "first_attempt_at": 1787677644,
+      "last_attempt_at": 1787762480,
+      "solved_at": 1787677694,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2121041623,"status":"Accepted","lang":"cpp","timestamp":1787762480,"runtime":"4 ms","memory":"18.1 MB"}
+      },
+      "submissions": [
+        {"id":2119941812,"status":"Wrong Answer","lang":"cpp","timestamp":1787677644,"runtime":null,"memory":null},
+        {"id":2119943003,"status":"Accepted","lang":"cpp","timestamp":1787677694,"runtime":null,"memory":null},
+        {"id":2121041623,"status":"Accepted","lang":"cpp","timestamp":1787762480,"runtime":"4 ms","memory":"18.1 MB"}
+      ]
+    },
+    "find-the-index-of-the-first-occurrence-in-a-string": {
+      "id": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String","String Matching","Z Algorithm","Knuth–Morris–Pratt Algorithm","Boyer–Moore String-Search Algorithm"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "first_attempt_at": 1787847304,
+      "last_attempt_at": 1787847493,
+      "solved_at": 1787847493,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2122101332,"status":"Accepted","lang":"cpp","timestamp":1787847493,"runtime":"0 ms","memory":"9.1 MB"}
+      },
+      "submissions": [
+        {"id":2122097809,"status":"Wrong Answer","lang":"cpp","timestamp":1787847304,"runtime":null,"memory":null},
+        {"id":2122098792,"status":"Wrong Answer","lang":"cpp","timestamp":1787847358,"runtime":null,"memory":null},
+        {"id":2122101332,"status":"Accepted","lang":"cpp","timestamp":1787847493,"runtime":"0 ms","memory":"9.1 MB"}
+      ]
     }
   }
 }

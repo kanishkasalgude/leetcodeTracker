@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 73 | 69 | 4 | 26 | 40 | 7 |
+| 80 | 76 | 4 | 27 | 46 | 7 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -38,12 +38,14 @@
 | 119 | [Pascal's Triangle II](../Array/0119-pascals-triangle-ii/README.md) | Easy | Attempted | 1 | cpp | - |
 | 121 | [Best Time to Buy and Sell Stock](../Array/0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Solved | 1 | cpp | 2025-10-12 |
 | 128 | [Longest Consecutive Sequence](../Array/0128-longest-consecutive-sequence/README.md) | Medium | Solved | 1 | cpp | 2025-10-13 |
+| 130 | [Surrounded Regions](../Array/0130-surrounded-regions/README.md) | Medium | Solved | 1 | cpp | 2026-08-22 |
 | 136 | [Single Number](../Array/0136-single-number/README.md) | Easy | Solved | 2 | cpp | 2025-09-25 |
 | 152 | [Maximum Product Subarray](../Array/0152-maximum-product-subarray/README.md) | Medium | Solved | 1 | cpp | 2026-01-21 |
 | 153 | [Find Minimum in Rotated Sorted Array](../Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Medium | Solved | 2 | cpp | 2026-02-13 |
 | 162 | [Find Peak Element](../Array/0162-find-peak-element/README.md) | Medium | Solved | 2 | cpp | 2026-02-14 |
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Easy | Solved | 1 | cpp | 2025-10-06 |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Medium | Solved | 2 | cpp | 2025-09-23 |
+| 200 | [Number of Islands](../Array/0200-number-of-islands/README.md) | Medium | Solved | 1 | cpp | 2026-08-24 |
 | 204 | [Count Primes](../Array/0204-count-primes/README.md) | Medium | Solved | 9 | cpp | 2026-07-16 |
 | 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Easy | Solved | 1 | cpp | 2026-08-06 |
 | 229 | [Majority Element II](../Array/0229-majority-element-ii/README.md) | Medium | Solved | 1 | cpp | 2025-10-30 |
@@ -57,13 +59,17 @@
 | 496 | [Next Greater Element I](../Array/0496-next-greater-element-i/README.md) | Easy | Solved | 1 | cpp | 2026-07-20 |
 | 503 | [Next Greater Element II](../Array/0503-next-greater-element-ii/README.md) | Medium | Solved | 1 | cpp | 2026-07-20 |
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Medium | Solved | 1 | cpp | 2026-02-14 |
+| 542 | [01 Matrix](../Array/0542-01-matrix/README.md) | Medium | Solved | 1 | cpp | 2026-08-22 |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Medium | Solved | 1 | cpp | 2025-10-14 |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 3 | cpp | 2025-12-06 |
+| 733 | [Flood Fill](../Array/0733-flood-fill/README.md) | Easy | Solved | 1 | cpp | 2026-08-18 |
 | 735 | [Asteroid Collision](../Array/0735-asteroid-collision/README.md) | Medium | Solved | 1 | cpp | 2026-07-25 |
 | 875 | [Koko Eating Bananas](../Array/0875-koko-eating-bananas/README.md) | Medium | Solved | 4 | cpp | 2026-03-15 |
 | 907 | [Sum of Subarray Minimums](../Array/0907-sum-of-subarray-minimums/README.md) | Medium | Solved | 2 | cpp | 2026-07-24 |
+| 994 | [Rotting Oranges](../Array/0994-rotting-oranges/README.md) | Medium | Solved | 2 | cpp | 2026-08-17 |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](../Array/1008-construct-binary-search-tree-from-preorder-traversal/README.md) | Medium | Solved | 1 | cpp | 2026-06-12 |
 | 1011 | [Capacity To Ship Packages Within D Days](../Array/1011-capacity-to-ship-packages-within-d-days/README.md) | Medium | Solved | 1 | cpp | 2026-03-22 |
+| 1020 | [Number of Enclaves](../Array/1020-number-of-enclaves/README.md) | Medium | Solved | 1 | cpp | 2026-08-23 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](../Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | Medium | Solved | 1 | cpp | 2026-03-21 |
 | 1470 | [Shuffle the Array](../Array/1470-shuffle-the-array/README.md) | Easy | Solved | 1 | cpp | 2026-04-21 |
 | 1480 | [Running Sum of 1d Array](../Array/1480-running-sum-of-1d-array/README.md) | Easy | Solved | 1 | cpp | 2026-04-21 |
@@ -81,3 +87,4 @@
 | 3994 | [Minimum Adjacent Swaps to Partition Array](../Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | Medium | Attempted | 6 | cpp | - |
 | 3996 | [Even Number of Knight Moves](../Array/3996-even-number-of-knight-moves/README.md) | Easy | Solved | 1 | cpp | 2026-07-19 |
 | 3998 | [Transform Binary String Using Subsequence Sort](../Array/3998-transform-binary-string-using-subsequence-sort/README.md) | Medium | Attempted | 1 | cpp | - |
+| 4014 | [Minimum Total Price After Applying Discounts](../Array/4014-minimum-total-price-after-applying-discounts/README.md) | Medium | Solved | 1 | cpp | 2026-08-09 |

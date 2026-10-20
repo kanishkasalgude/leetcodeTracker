@@ -4,11 +4,12 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 14 | 14 | 0 | 6 | 6 | 2 |
+| 16 | 16 | 0 | 7 | 6 | 3 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 13 | [Roman to Integer](../Hash-Table/0013-roman-to-integer/README.md) | Easy | Solved | 2 | cpp | 2026-01-23 |
+| 127 | [Word Ladder](../Hash-Table/0127-word-ladder/README.md) | Hard | Solved | 1 | cpp | 2026-08-23 |
 | 138 | [Copy List with Random Pointer](../Hash-Table/0138-copy-list-with-random-pointer/README.md) | Medium | Solved | 1 | cpp | 2025-09-20 |
 | 141 | [Linked List Cycle](../Hash-Table/0141-linked-list-cycle/README.md) | Easy | Solved | 1 | cpp | 2025-08-13 |
 | 142 | [Linked List Cycle II](../Hash-Table/0142-linked-list-cycle-ii/README.md) | Medium | Solved | 1 | cpp | 2025-08-13 |
@@ -16,6 +17,7 @@
 | 160 | [Intersection of Two Linked Lists](../Hash-Table/0160-intersection-of-two-linked-lists/README.md) | Easy | Solved | 1 | cpp | 2025-09-08 |
 | 205 | [Isomorphic Strings](../Hash-Table/0205-isomorphic-strings/README.md) | Easy | Solved | 1 | cpp | 2026-06-15 |
 | 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Easy | Solved | 1 | cpp | 2026-06-15 |
+| 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Easy | Solved | 1 | cpp | 2026-08-21 |
 | 451 | [Sort Characters By Frequency](../Hash-Table/0451-sort-characters-by-frequency/README.md) | Medium | Solved | 1 | cpp | 2026-06-15 |
 | 460 | [LFU Cache](../Hash-Table/0460-lfu-cache/README.md) | Hard | Solved | 4 | cpp | 2026-08-07 |
 | 653 | [Two Sum IV - Input is a BST](../Hash-Table/0653-two-sum-iv-input-is-a-bst/README.md) | Easy | Solved | 1 | cpp | 2026-06-13 |
