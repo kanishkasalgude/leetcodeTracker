@@ -4,11 +4,12 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 47 | 45 | 2 | 18 | 28 | 1 |
+| 56 | 54 | 2 | 22 | 31 | 3 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](../Array/0001-two-sum/README.md) | Easy | Solved | 2 | cpp | 2025-06-27 |
+| 4 | [Median of Two Sorted Arrays](../Array/0004-median-of-two-sorted-arrays/README.md) | Hard | Solved | 1 | cpp | 2026-06-07 |
 | 15 | [3Sum](../Array/0015-3sum/README.md) | Medium | Solved | 1 | cpp | 2025-10-30 |
 | 18 | [4Sum](../Array/0018-4sum/README.md) | Medium | Solved | 1 | cpp | 2026-01-08 |
 | 26 | [Remove Duplicates from Sorted Array](../Array/0026-remove-duplicates-from-sorted-array/README.md) | Easy | Solved | 1 | cpp | 2025-09-22 |
@@ -22,6 +23,7 @@
 | 54 | [Spiral Matrix](../Array/0054-spiral-matrix/README.md) | Medium | Solved | 1 | cpp | 2025-10-20 |
 | 56 | [Merge Intervals](../Array/0056-merge-intervals/README.md) | Medium | Solved | 1 | cpp | 2026-01-12 |
 | 73 | [Set Matrix Zeroes](../Array/0073-set-matrix-zeroes/README.md) | Medium | Solved | 1 | cpp | 2025-10-18 |
+| 74 | [Search a 2D Matrix](../Array/0074-search-a-2d-matrix/README.md) | Medium | Solved | 1 | cpp | 2026-06-07 |
 | 75 | [Sort Colors](../Array/0075-sort-colors/README.md) | Medium | Solved | 1 | cpp | 2025-10-06 |
 | 81 | [Search in Rotated Sorted Array II](../Array/0081-search-in-rotated-sorted-array-ii/README.md) | Medium | Solved | 3 | cpp | 2026-02-13 |
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Easy | Solved | 1 | cpp | 2026-01-14 |
@@ -38,8 +40,10 @@
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Easy | Solved | 1 | cpp | 2025-10-06 |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Medium | Solved | 2 | cpp | 2025-09-23 |
 | 229 | [Majority Element II](../Array/0229-majority-element-ii/README.md) | Medium | Solved | 1 | cpp | 2025-10-30 |
+| 240 | [Search a 2D Matrix II](../Array/0240-search-a-2d-matrix-ii/README.md) | Medium | Solved | 1 | cpp | 2026-06-07 |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 1 | cpp | 2025-09-25 |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 1 | cpp | 2025-09-23 |
+| 410 | [Split Array Largest Sum](../Array/0410-split-array-largest-sum/README.md) | Hard | Solved | 1 | cpp | 2026-06-04 |
 | 485 | [Max Consecutive Ones](../Array/0485-max-consecutive-ones/README.md) | Easy | Solved | 1 | cpp | 2025-09-25 |
 | 493 | [Reverse Pairs](../Array/0493-reverse-pairs/README.md) | Hard | Solved | 1 | cpp | 2026-01-21 |
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Medium | Solved | 1 | cpp | 2026-02-14 |
@@ -48,9 +52,14 @@
 | 875 | [Koko Eating Bananas](../Array/0875-koko-eating-bananas/README.md) | Medium | Solved | 4 | cpp | 2026-03-15 |
 | 1011 | [Capacity To Ship Packages Within D Days](../Array/1011-capacity-to-ship-packages-within-d-days/README.md) | Medium | Solved | 1 | cpp | 2026-03-22 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](../Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | Medium | Solved | 1 | cpp | 2026-03-21 |
+| 1470 | [Shuffle the Array](../Array/1470-shuffle-the-array/README.md) | Easy | Solved | 1 | cpp | 2026-04-21 |
+| 1480 | [Running Sum of 1d Array](../Array/1480-running-sum-of-1d-array/README.md) | Easy | Solved | 1 | cpp | 2026-04-21 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](../Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | Medium | Solved | 2 | cpp | 2026-03-21 |
+| 1512 | [Number of Good Pairs](../Array/1512-number-of-good-pairs/README.md) | Easy | Solved | 2 | cpp | 2026-04-21 |
 | 1539 | [Kth Missing Positive Number](../Array/1539-kth-missing-positive-number/README.md) | Easy | Solved | 1 | cpp | 2026-03-22 |
+| 1672 | [Richest Customer Wealth](../Array/1672-richest-customer-wealth/README.md) | Easy | Solved | 2 | cpp | 2026-04-21 |
 | 1752 | [Check if Array Is Sorted and Rotated](../Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Easy | Solved | 2 | cpp | 2025-09-22 |
+| 1901 | [Find a Peak Element II](../Array/1901-find-a-peak-element-ii/README.md) | Medium | Solved | 3 | cpp | 2026-06-07 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 1 | cpp | 2025-10-12 |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 1 | cpp | 2026-02-01 |
 | 3842 | [Toggle Light Bulbs](../Array/3842-toggle-light-bulbs/README.md) | Easy | Solved | 4 | cpp | 2026-02-15 |

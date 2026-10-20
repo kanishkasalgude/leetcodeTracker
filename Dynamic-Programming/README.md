@@ -21,4 +21,5 @@ Filed under their main topic, but they use this one too.
 | 119 | [Pascal's Triangle II](../Array/0119-pascals-triangle-ii/README.md) | Array | Easy | Attempted |
 | 121 | [Best Time to Buy and Sell Stock](../Array/0121-best-time-to-buy-and-sell-stock/README.md) | Array | Easy | Solved |
 | 152 | [Maximum Product Subarray](../Array/0152-maximum-product-subarray/README.md) | Array | Medium | Solved |
+| 410 | [Split Array Largest Sum](../Array/0410-split-array-largest-sum/README.md) | Array | Hard | Solved |
 | 3844 | [Longest Almost-Palindromic Substring](../Two-Pointers/3844-longest-almost-palindromic-substring/README.md) | Two Pointers | Medium | Attempted |

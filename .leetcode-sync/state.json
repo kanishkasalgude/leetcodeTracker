@@ -1692,6 +1692,287 @@
       "submissions": [
         {"id":1981483804,"status":"Accepted","lang":"java","timestamp":1776492887,"runtime":"0 ms","memory":"46.7 MB"}
       ]
+    },
+    "running-sum-of-1d-array": {
+      "id": "1480",
+      "title": "Running Sum of 1d Array",
+      "slug": "running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/1480-running-sum-of-1d-array",
+      "first_attempt_at": 1776794463,
+      "last_attempt_at": 1776794463,
+      "solved_at": 1776794463,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1984713214,"status":"Accepted","lang":"cpp","timestamp":1776794463,"runtime":"0 ms","memory":"12.5 MB"}
+      },
+      "submissions": [
+        {"id":1984713214,"status":"Accepted","lang":"cpp","timestamp":1776794463,"runtime":"0 ms","memory":"12.5 MB"}
+      ]
+    },
+    "richest-customer-wealth": {
+      "id": "1672",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
+      "difficulty": "Easy",
+      "tags": ["Array","Matrix"],
+      "topic": "Array",
+      "dir": "Array/1672-richest-customer-wealth",
+      "first_attempt_at": 1776794854,
+      "last_attempt_at": 1776795001,
+      "solved_at": 1776795001,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1984722383,"status":"Accepted","lang":"cpp","timestamp":1776795001,"runtime":"0 ms","memory":"11.5 MB"}
+      },
+      "submissions": [
+        {"id":1984719920,"status":"Wrong Answer","lang":"cpp","timestamp":1776794854,"runtime":null,"memory":null},
+        {"id":1984722383,"status":"Accepted","lang":"cpp","timestamp":1776795001,"runtime":"0 ms","memory":"11.5 MB"}
+      ]
+    },
+    "shuffle-the-array": {
+      "id": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/1470-shuffle-the-array",
+      "first_attempt_at": 1776795432,
+      "last_attempt_at": 1776795432,
+      "solved_at": 1776795432,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1984729605,"status":"Accepted","lang":"cpp","timestamp":1776795432,"runtime":"4 ms","memory":"13.3 MB"}
+      },
+      "submissions": [
+        {"id":1984729605,"status":"Accepted","lang":"cpp","timestamp":1776795432,"runtime":"4 ms","memory":"13.3 MB"}
+      ]
+    },
+    "number-of-good-pairs": {
+      "id": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Math","Counting"],
+      "topic": "Array",
+      "dir": "Array/1512-number-of-good-pairs",
+      "first_attempt_at": 1776795569,
+      "last_attempt_at": 1776795770,
+      "solved_at": 1776795569,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1984735227,"status":"Accepted","lang":"cpp","timestamp":1776795770,"runtime":"0 ms","memory":"9.6 MB"}
+      },
+      "submissions": [
+        {"id":1984731913,"status":"Accepted","lang":"cpp","timestamp":1776795569,"runtime":null,"memory":null},
+        {"id":1984735227,"status":"Accepted","lang":"cpp","timestamp":1776795770,"runtime":"0 ms","memory":"9.6 MB"}
+      ]
+    },
+    "insert-into-a-binary-search-tree": {
+      "id": "701",
+      "title": "Insert into a Binary Search Tree",
+      "slug": "insert-into-a-binary-search-tree",
+      "difficulty": "Medium",
+      "tags": ["Tree","Binary Search Tree","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0701-insert-into-a-binary-search-tree",
+      "first_attempt_at": 1777269202,
+      "last_attempt_at": 1777269234,
+      "solved_at": 1777269234,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1989145836,"status":"Accepted","lang":"cpp","timestamp":1777269234,"runtime":"0 ms","memory":"59.2 MB"}
+      },
+      "submissions": [
+        {"id":1989145502,"status":"Wrong Answer","lang":"cpp","timestamp":1777269202,"runtime":null,"memory":null},
+        {"id":1989145836,"status":"Accepted","lang":"cpp","timestamp":1777269234,"runtime":"0 ms","memory":"59.2 MB"}
+      ]
+    },
+    "delete-node-in-a-bst": {
+      "id": "450",
+      "title": "Delete Node in a BST",
+      "slug": "delete-node-in-a-bst",
+      "difficulty": "Medium",
+      "tags": ["Tree","Binary Search Tree","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0450-delete-node-in-a-bst",
+      "first_attempt_at": 1777271995,
+      "last_attempt_at": 1780999872,
+      "solved_at": 1780999872,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2027378861,"status":"Accepted","lang":"cpp","timestamp":1780999872,"runtime":"0 ms","memory":"34.3 MB"}
+      },
+      "submissions": [
+        {"id":1989176863,"status":"Runtime Error","lang":"cpp","timestamp":1777271995,"runtime":null,"memory":null},
+        {"id":1989178209,"status":"Runtime Error","lang":"cpp","timestamp":1777272115,"runtime":null,"memory":null},
+        {"id":1989179305,"status":"Runtime Error","lang":"cpp","timestamp":1777272219,"runtime":null,"memory":null},
+        {"id":1989187520,"status":"Runtime Error","lang":"cpp","timestamp":1777272973,"runtime":null,"memory":null},
+        {"id":1989188227,"status":"Wrong Answer","lang":"cpp","timestamp":1777273041,"runtime":null,"memory":null},
+        {"id":2027378861,"status":"Accepted","lang":"cpp","timestamp":1780999872,"runtime":"0 ms","memory":"34.3 MB"}
+      ]
+    },
+    "split-array-largest-sum": {
+      "id": "410",
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "difficulty": "Hard",
+      "tags": ["Array","Binary Search","Dynamic Programming","Greedy","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/0410-split-array-largest-sum",
+      "first_attempt_at": 1780559859,
+      "last_attempt_at": 1780559859,
+      "solved_at": 1780559859,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2022050592,"status":"Accepted","lang":"cpp","timestamp":1780559859,"runtime":"0 ms","memory":"10.5 MB"}
+      },
+      "submissions": [
+        {"id":2022050592,"status":"Accepted","lang":"cpp","timestamp":1780559859,"runtime":"0 ms","memory":"10.5 MB"}
+      ]
+    },
+    "median-of-two-sorted-arrays": {
+      "id": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "tags": ["Array","Binary Search","Divide and Conquer"],
+      "topic": "Array",
+      "dir": "Array/0004-median-of-two-sorted-arrays",
+      "first_attempt_at": 1780835731,
+      "last_attempt_at": 1780835731,
+      "solved_at": 1780835731,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2025351840,"status":"Accepted","lang":"cpp","timestamp":1780835731,"runtime":"0 ms","memory":"95.3 MB"}
+      },
+      "submissions": [
+        {"id":2025351840,"status":"Accepted","lang":"cpp","timestamp":1780835731,"runtime":"0 ms","memory":"95.3 MB"}
+      ]
+    },
+    "search-a-2d-matrix": {
+      "id": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0074-search-a-2d-matrix",
+      "first_attempt_at": 1780845434,
+      "last_attempt_at": 1780845434,
+      "solved_at": 1780845434,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2025478797,"status":"Accepted","lang":"cpp","timestamp":1780845434,"runtime":"0 ms","memory":"13.4 MB"}
+      },
+      "submissions": [
+        {"id":2025478797,"status":"Accepted","lang":"cpp","timestamp":1780845434,"runtime":"0 ms","memory":"13.4 MB"}
+      ]
+    },
+    "search-a-2d-matrix-ii": {
+      "id": "240",
+      "title": "Search a 2D Matrix II",
+      "slug": "search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search","Divide and Conquer","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0240-search-a-2d-matrix-ii",
+      "first_attempt_at": 1780845694,
+      "last_attempt_at": 1780845694,
+      "solved_at": 1780845694,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2025482305,"status":"Accepted","lang":"cpp","timestamp":1780845694,"runtime":"57 ms","memory":"18.8 MB"}
+      },
+      "submissions": [
+        {"id":2025482305,"status":"Accepted","lang":"cpp","timestamp":1780845694,"runtime":"57 ms","memory":"18.8 MB"}
+      ]
+    },
+    "find-a-peak-element-ii": {
+      "id": "1901",
+      "title": "Find a Peak Element II",
+      "slug": "find-a-peak-element-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search","Matrix"],
+      "topic": "Array",
+      "dir": "Array/1901-find-a-peak-element-ii",
+      "first_attempt_at": 1780851170,
+      "last_attempt_at": 1780851544,
+      "solved_at": 1780851544,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2025566961,"status":"Accepted","lang":"cpp","timestamp":1780851544,"runtime":"0 ms","memory":"50.2 MB"}
+      },
+      "submissions": [
+        {"id":2025560990,"status":"Wrong Answer","lang":"cpp","timestamp":1780851170,"runtime":null,"memory":null},
+        {"id":2025564420,"status":"Wrong Answer","lang":"cpp","timestamp":1780851384,"runtime":null,"memory":null},
+        {"id":2025566961,"status":"Accepted","lang":"cpp","timestamp":1780851544,"runtime":"0 ms","memory":"50.2 MB"}
+      ]
+    },
+    "flatten-binary-tree-to-linked-list": {
+      "id": "114",
+      "title": "Flatten Binary Tree to Linked List",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "difficulty": "Medium",
+      "tags": ["Linked List","Stack","Tree","Depth-First Search","Binary Tree"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0114-flatten-binary-tree-to-linked-list",
+      "first_attempt_at": 1780995916,
+      "last_attempt_at": 1780995916,
+      "solved_at": 1780995916,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2027309529,"status":"Accepted","lang":"cpp","timestamp":1780995916,"runtime":"0 ms","memory":"17.7 MB"}
+      },
+      "submissions": [
+        {"id":2027309529,"status":"Accepted","lang":"cpp","timestamp":1780995916,"runtime":"0 ms","memory":"17.7 MB"}
+      ]
+    },
+    "kth-smallest-element-in-a-bst": {
+      "id": "230",
+      "title": "Kth Smallest Element in a BST",
+      "slug": "kth-smallest-element-in-a-bst",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Binary Search Tree","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0230-kth-smallest-element-in-a-bst",
+      "first_attempt_at": 1781001635,
+      "last_attempt_at": 1781001635,
+      "solved_at": 1781001635,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2027409467,"status":"Accepted","lang":"cpp","timestamp":1781001635,"runtime":"0 ms","memory":"24.5 MB"}
+      },
+      "submissions": [
+        {"id":2027409467,"status":"Accepted","lang":"cpp","timestamp":1781001635,"runtime":"0 ms","memory":"24.5 MB"}
+      ]
+    },
+    "validate-binary-search-tree": {
+      "id": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Binary Search Tree","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0098-validate-binary-search-tree",
+      "first_attempt_at": 1781002913,
+      "last_attempt_at": 1781002942,
+      "solved_at": 1781002942,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2027429493,"status":"Accepted","lang":"cpp","timestamp":1781002942,"runtime":"0 ms","memory":"21.8 MB"}
+      },
+      "submissions": [
+        {"id":2027429087,"status":"Wrong Answer","lang":"cpp","timestamp":1781002913,"runtime":null,"memory":null},
+        {"id":2027429493,"status":"Accepted","lang":"cpp","timestamp":1781002942,"runtime":"0 ms","memory":"21.8 MB"}
+      ]
+    },
+    "lowest-common-ancestor-of-a-binary-search-tree": {
+      "id": "235",
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Binary Search Tree","Binary Tree","Binary Lifting","Lowest Common Ancestor"],
+      "topic": "Tree",
+      "dir": "Tree/0235-lowest-common-ancestor-of-a-binary-search-tree",
+      "first_attempt_at": 1781070625,
+      "last_attempt_at": 1781070625,
+      "solved_at": 1781070625,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2028234283,"status":"Accepted","lang":"cpp","timestamp":1781070625,"runtime":"19 ms","memory":"23.4 MB"}
+      },
+      "submissions": [
+        {"id":2028234283,"status":"Accepted","lang":"cpp","timestamp":1781070625,"runtime":"19 ms","memory":"23.4 MB"}
+      ]
     }
   }
 }

@@ -23,3 +23,4 @@ Filed under their main topic, but they use this one too.
 | 48 | [Rotate Image](../Array/0048-rotate-image/README.md) | Array | Medium | Solved |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Array | Medium | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
+| 1512 | [Number of Good Pairs](../Array/1512-number-of-good-pairs/README.md) | Array | Easy | Solved |
