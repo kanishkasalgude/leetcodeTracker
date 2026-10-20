@@ -833,6 +833,293 @@
       "submissions": [
         {"id":1878493223,"status":"Accepted","lang":"cpp","timestamp":1767860083,"runtime":"26 ms","memory":"17.6 MB"}
       ]
+    },
+    "merge-intervals": {
+      "id": "56",
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "tags": ["Array","Sorting","Quicksort"],
+      "topic": "Array",
+      "dir": "Array/0056-merge-intervals",
+      "first_attempt_at": 1768237252,
+      "last_attempt_at": 1768237252,
+      "solved_at": 1768237252,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1883019154,"status":"Accepted","lang":"cpp","timestamp":1768237252,"runtime":"3 ms","memory":"23.7 MB"}
+      },
+      "submissions": [
+        {"id":1883019154,"status":"Accepted","lang":"cpp","timestamp":1768237252,"runtime":"3 ms","memory":"23.7 MB"}
+      ]
+    },
+    "binary-tree-preorder-traversal": {
+      "id": "144",
+      "title": "Binary Tree Preorder Traversal",
+      "slug": "binary-tree-preorder-traversal",
+      "difficulty": "Easy",
+      "tags": ["Stack","Tree","Depth-First Search","Binary Tree"],
+      "topic": "Stack",
+      "dir": "Stack/0144-binary-tree-preorder-traversal",
+      "first_attempt_at": 1768241331,
+      "last_attempt_at": 1780993925,
+      "solved_at": 1768241331,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2027275773,"status":"Accepted","lang":"cpp","timestamp":1780993925,"runtime":"0 ms","memory":"10.7 MB"}
+      },
+      "submissions": [
+        {"id":1883101181,"status":"Accepted","lang":"cpp","timestamp":1768241331,"runtime":null,"memory":null},
+        {"id":1884063304,"status":"Accepted","lang":"cpp","timestamp":1768324655,"runtime":null,"memory":null},
+        {"id":2027275773,"status":"Accepted","lang":"cpp","timestamp":1780993925,"runtime":"0 ms","memory":"10.7 MB"}
+      ]
+    },
+    "binary-tree-inorder-traversal": {
+      "id": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "tags": ["Stack","Tree","Depth-First Search","Binary Tree"],
+      "topic": "Stack",
+      "dir": "Stack/0094-binary-tree-inorder-traversal",
+      "first_attempt_at": 1768241527,
+      "last_attempt_at": 1780993832,
+      "solved_at": 1768241527,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2027274286,"status":"Accepted","lang":"cpp","timestamp":1780993832,"runtime":"0 ms","memory":"10.9 MB"}
+      },
+      "submissions": [
+        {"id":1883104972,"status":"Accepted","lang":"cpp","timestamp":1768241527,"runtime":null,"memory":null},
+        {"id":1884106885,"status":"Accepted","lang":"cpp","timestamp":1768326771,"runtime":null,"memory":null},
+        {"id":2027274286,"status":"Accepted","lang":"cpp","timestamp":1780993832,"runtime":"0 ms","memory":"10.9 MB"}
+      ]
+    },
+    "binary-tree-postorder-traversal": {
+      "id": "145",
+      "title": "Binary Tree Postorder Traversal",
+      "slug": "binary-tree-postorder-traversal",
+      "difficulty": "Easy",
+      "tags": ["Stack","Tree","Depth-First Search","Binary Tree"],
+      "topic": "Stack",
+      "dir": "Stack/0145-binary-tree-postorder-traversal",
+      "first_attempt_at": 1768241630,
+      "last_attempt_at": 1768330033,
+      "solved_at": 1768241630,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1884167756,"status":"Accepted","lang":"cpp","timestamp":1768330033,"runtime":"0 ms","memory":"11 MB"}
+      },
+      "submissions": [
+        {"id":1883106977,"status":"Accepted","lang":"cpp","timestamp":1768241630,"runtime":null,"memory":null},
+        {"id":1884134084,"status":"Accepted","lang":"cpp","timestamp":1768328140,"runtime":null,"memory":null},
+        {"id":1884167756,"status":"Accepted","lang":"cpp","timestamp":1768330033,"runtime":"0 ms","memory":"11 MB"}
+      ]
+    },
+    "binary-tree-level-order-traversal": {
+      "id": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "tags": ["Tree","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0102-binary-tree-level-order-traversal",
+      "first_attempt_at": 1768323388,
+      "last_attempt_at": 1768323388,
+      "solved_at": 1768323388,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1884037489,"status":"Accepted","lang":"cpp","timestamp":1768323388,"runtime":"0 ms","memory":"17.1 MB"}
+      },
+      "submissions": [
+        {"id":1884037489,"status":"Accepted","lang":"cpp","timestamp":1768323388,"runtime":"0 ms","memory":"17.1 MB"}
+      ]
+    },
+    "merge-sorted-array": {
+      "id": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0088-merge-sorted-array",
+      "first_attempt_at": 1768397120,
+      "last_attempt_at": 1768397120,
+      "solved_at": 1768397120,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1884832385,"status":"Accepted","lang":"cpp","timestamp":1768397120,"runtime":"0 ms","memory":"12.5 MB"}
+      },
+      "submissions": [
+        {"id":1884832385,"status":"Accepted","lang":"cpp","timestamp":1768397120,"runtime":"0 ms","memory":"12.5 MB"}
+      ]
+    },
+    "maximum-depth-of-binary-tree": {
+      "id": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0104-maximum-depth-of-binary-tree",
+      "first_attempt_at": 1768412219,
+      "last_attempt_at": 1768412219,
+      "solved_at": 1768412219,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1885077740,"status":"Accepted","lang":"cpp","timestamp":1768412219,"runtime":"0 ms","memory":"19.1 MB"}
+      },
+      "submissions": [
+        {"id":1885077740,"status":"Accepted","lang":"cpp","timestamp":1768412219,"runtime":"0 ms","memory":"19.1 MB"}
+      ]
+    },
+    "valid-parentheses": {
+      "id": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "tags": ["String","Stack","Bracket Sequences"],
+      "topic": "String",
+      "dir": "String/0020-valid-parentheses",
+      "first_attempt_at": 1768499521,
+      "last_attempt_at": 1768499947,
+      "solved_at": 1768499947,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1886103806,"status":"Accepted","lang":"cpp","timestamp":1768499947,"runtime":"0 ms","memory":"8.8 MB"}
+      },
+      "submissions": [
+        {"id":1886095612,"status":"Runtime Error","lang":"cpp","timestamp":1768499521,"runtime":null,"memory":null},
+        {"id":1886096807,"status":"Wrong Answer","lang":"cpp","timestamp":1768499578,"runtime":null,"memory":null},
+        {"id":1886097865,"status":"Wrong Answer","lang":"cpp","timestamp":1768499635,"runtime":null,"memory":null},
+        {"id":1886099105,"status":"Wrong Answer","lang":"cpp","timestamp":1768499698,"runtime":null,"memory":null},
+        {"id":1886100700,"status":"Wrong Answer","lang":"cpp","timestamp":1768499782,"runtime":null,"memory":null},
+        {"id":1886101164,"status":"Wrong Answer","lang":"cpp","timestamp":1768499807,"runtime":null,"memory":null},
+        {"id":1886103806,"status":"Accepted","lang":"cpp","timestamp":1768499947,"runtime":"0 ms","memory":"8.8 MB"}
+      ]
+    },
+    "search-insert-position": {
+      "id": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "difficulty": "Easy",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0035-search-insert-position",
+      "first_attempt_at": 1768841697,
+      "last_attempt_at": 1770568328,
+      "solved_at": 1768842020,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1912627644,"status":"Accepted","lang":"cpp","timestamp":1770568328,"runtime":"0 ms","memory":"13.7 MB"}
+      },
+      "submissions": [
+        {"id":1890112668,"status":"Wrong Answer","lang":"cpp","timestamp":1768841697,"runtime":null,"memory":null},
+        {"id":1890120112,"status":"Accepted","lang":"cpp","timestamp":1768842020,"runtime":null,"memory":null},
+        {"id":1912627644,"status":"Accepted","lang":"cpp","timestamp":1770568328,"runtime":"0 ms","memory":"13.7 MB"}
+      ]
+    },
+    "reverse-pairs": {
+      "id": "493",
+      "title": "Reverse Pairs",
+      "slug": "reverse-pairs",
+      "difficulty": "Hard",
+      "tags": ["Array","Binary Search","Divide and Conquer","Binary Indexed Tree","Segment Tree","Merge Sort","Ordered Set","Treap"],
+      "topic": "Array",
+      "dir": "Array/0493-reverse-pairs",
+      "first_attempt_at": 1769004391,
+      "last_attempt_at": 1769004391,
+      "solved_at": 1769004391,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1892202343,"status":"Accepted","lang":"cpp","timestamp":1769004391,"runtime":"587 ms","memory":"243.4 MB"}
+      },
+      "submissions": [
+        {"id":1892202343,"status":"Accepted","lang":"cpp","timestamp":1769004391,"runtime":"587 ms","memory":"243.4 MB"}
+      ]
+    },
+    "maximum-product-subarray": {
+      "id": "152",
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/0152-maximum-product-subarray",
+      "first_attempt_at": 1769005404,
+      "last_attempt_at": 1769005404,
+      "solved_at": 1769005404,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1892219884,"status":"Accepted","lang":"cpp","timestamp":1769005404,"runtime":"0 ms","memory":"17.7 MB"}
+      },
+      "submissions": [
+        {"id":1892219884,"status":"Accepted","lang":"cpp","timestamp":1769005404,"runtime":"0 ms","memory":"17.7 MB"}
+      ]
+    },
+    "balanced-binary-tree": {
+      "id": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0110-balanced-binary-tree",
+      "first_attempt_at": 1769104843,
+      "last_attempt_at": 1769104843,
+      "solved_at": 1769104843,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1893591555,"status":"Accepted","lang":"cpp","timestamp":1769104843,"runtime":"0 ms","memory":"23 MB"}
+      },
+      "submissions": [
+        {"id":1893591555,"status":"Accepted","lang":"cpp","timestamp":1769104843,"runtime":"0 ms","memory":"23 MB"}
+      ]
+    },
+    "roman-to-integer": {
+      "id": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","Math","String"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0013-roman-to-integer",
+      "first_attempt_at": 1769163357,
+      "last_attempt_at": 1781607780,
+      "solved_at": 1769163357,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2035068185,"status":"Accepted","lang":"cpp","timestamp":1781607780,"runtime":"15 ms","memory":"13.5 MB"}
+      },
+      "submissions": [
+        {"id":1894214915,"status":"Accepted","lang":"cpp","timestamp":1769163357,"runtime":null,"memory":null},
+        {"id":2035068185,"status":"Accepted","lang":"cpp","timestamp":1781607780,"runtime":"15 ms","memory":"13.5 MB"}
+      ]
+    },
+    "diameter-of-binary-tree": {
+      "id": "543",
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Binary Tree","DP on Trees"],
+      "topic": "Tree",
+      "dir": "Tree/0543-diameter-of-binary-tree",
+      "first_attempt_at": 1769164848,
+      "last_attempt_at": 1769164848,
+      "solved_at": 1769164848,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1894233777,"status":"Accepted","lang":"cpp","timestamp":1769164848,"runtime":"0 ms","memory":"23.6 MB"}
+      },
+      "submissions": [
+        {"id":1894233777,"status":"Accepted","lang":"cpp","timestamp":1769164848,"runtime":"0 ms","memory":"23.6 MB"}
+      ]
+    },
+    "binary-tree-maximum-path-sum": {
+      "id": "124",
+      "title": "Binary Tree Maximum Path Sum",
+      "slug": "binary-tree-maximum-path-sum",
+      "difficulty": "Hard",
+      "tags": ["Dynamic Programming","Tree","Depth-First Search","Binary Tree","DP on Trees"],
+      "topic": "Dynamic Programming",
+      "dir": "Dynamic-Programming/0124-binary-tree-maximum-path-sum",
+      "first_attempt_at": 1769165573,
+      "last_attempt_at": 1769166144,
+      "solved_at": 1769166144,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1894249176,"status":"Accepted","lang":"cpp","timestamp":1769166144,"runtime":"4 ms","memory":"27.9 MB"}
+      },
+      "submissions": [
+        {"id":1894242452,"status":"Wrong Answer","lang":"cpp","timestamp":1769165573,"runtime":null,"memory":null},
+        {"id":1894244468,"status":"Wrong Answer","lang":"cpp","timestamp":1769165734,"runtime":null,"memory":null},
+        {"id":1894249176,"status":"Accepted","lang":"cpp","timestamp":1769166144,"runtime":"4 ms","memory":"27.9 MB"}
+      ]
     }
   }
 }

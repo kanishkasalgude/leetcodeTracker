@@ -4,10 +4,11 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 4 | 4 | 0 | 2 | 2 | 0 |
+| 5 | 5 | 0 | 3 | 2 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
+| 13 | [Roman to Integer](../Hash-Table/0013-roman-to-integer/README.md) | Easy | Solved | 2 | cpp | 2026-01-23 |
 | 138 | [Copy List with Random Pointer](../Hash-Table/0138-copy-list-with-random-pointer/README.md) | Medium | Solved | 1 | cpp | 2025-09-20 |
 | 141 | [Linked List Cycle](../Hash-Table/0141-linked-list-cycle/README.md) | Easy | Solved | 1 | cpp | 2025-08-13 |
 | 142 | [Linked List Cycle II](../Hash-Table/0142-linked-list-cycle-ii/README.md) | Medium | Solved | 1 | cpp | 2025-08-13 |

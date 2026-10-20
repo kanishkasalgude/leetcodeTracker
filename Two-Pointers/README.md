@@ -23,6 +23,7 @@ Filed under their main topic, but they use this one too.
 | 31 | [Next Permutation](../Array/0031-next-permutation/README.md) | Array | Medium | Solved |
 | 61 | [Rotate List](../Linked-List/0061-rotate-list/README.md) | Linked List | Medium | Solved |
 | 75 | [Sort Colors](../Array/0075-sort-colors/README.md) | Array | Medium | Solved |
+| 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Array | Easy | Solved |
 | 141 | [Linked List Cycle](../Hash-Table/0141-linked-list-cycle/README.md) | Hash Table | Easy | Solved |
 | 142 | [Linked List Cycle II](../Hash-Table/0142-linked-list-cycle-ii/README.md) | Hash Table | Medium | Solved |
 | 148 | [Sort List](../Linked-List/0148-sort-list/README.md) | Linked List | Medium | Solved |
