@@ -20,3 +20,4 @@ Filed under their main topic, but they use this one too.
 | --- | --- | --- | --- | --- |
 | 20 | [Valid Parentheses](../String/0020-valid-parentheses/README.md) | String | Easy | Solved |
 | 234 | [Palindrome Linked List](../Linked-List/0234-palindrome-linked-list/README.md) | Linked List | Easy | Solved |
+| 1021 | [Remove Outermost Parentheses](../String/1021-remove-outermost-parentheses/README.md) | String | Easy | Solved |

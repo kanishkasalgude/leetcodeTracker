@@ -4,11 +4,13 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 2 | 2 | 0 | 2 | 0 | 0 |
+| 4 | 4 | 0 | 3 | 0 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 20 | [Valid Parentheses](../String/0020-valid-parentheses/README.md) | Easy | Solved | 7 | cpp | 2026-01-15 |
+| 297 | [Serialize and Deserialize Binary Tree](../String/0297-serialize-and-deserialize-binary-tree/README.md) | Hard | Solved | 1 | java | 2026-01-27 |
+| 1021 | [Remove Outermost Parentheses](../String/1021-remove-outermost-parentheses/README.md) | Easy | Solved | 1 | java | 2026-01-29 |
 | 2315 | [Count Asterisks](../String/2315-count-asterisks/README.md) | Easy | Solved | 1 | cpp | 2025-07-03 |
 
 ## Also tagged String

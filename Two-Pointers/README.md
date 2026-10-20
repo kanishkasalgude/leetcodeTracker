@@ -20,6 +20,7 @@ Filed under their main topic, but they use this one too.
 | 18 | [4Sum](../Array/0018-4sum/README.md) | Array | Medium | Solved |
 | 19 | [Remove Nth Node From End of List](../Linked-List/0019-remove-nth-node-from-end-of-list/README.md) | Linked List | Medium | Solved |
 | 26 | [Remove Duplicates from Sorted Array](../Array/0026-remove-duplicates-from-sorted-array/README.md) | Array | Easy | Solved |
+| 27 | [Remove Element](../Array/0027-remove-element/README.md) | Array | Easy | Solved |
 | 31 | [Next Permutation](../Array/0031-next-permutation/README.md) | Array | Medium | Solved |
 | 61 | [Rotate List](../Linked-List/0061-rotate-list/README.md) | Linked List | Medium | Solved |
 | 75 | [Sort Colors](../Array/0075-sort-colors/README.md) | Array | Medium | Solved |
