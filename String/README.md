@@ -32,3 +32,5 @@ Filed under their main topic, but they use this one too.
 | 1781 | [Sum of Beauty of All Substrings](../Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Hash Table | Medium | Solved |
 | 1903 | [Largest Odd Number in String](../Math/1903-largest-odd-number-in-string/README.md) | Math | Easy | Solved |
 | 3844 | [Longest Almost-Palindromic Substring](../Two-Pointers/3844-longest-almost-palindromic-substring/README.md) | Two Pointers | Medium | Attempted |
+| 3992 | [Rearrange String to Avoid Character Pair](../Two-Pointers/3992-rearrange-string-to-avoid-character-pair/README.md) | Two Pointers | Easy | Solved |
+| 3998 | [Transform Binary String Using Subsequence Sort](../Array/3998-transform-binary-string-using-subsequence-sort/README.md) | Array | Medium | Attempted |

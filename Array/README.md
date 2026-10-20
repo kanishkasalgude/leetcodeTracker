@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 58 | 56 | 2 | 23 | 32 | 3 |
+| 63 | 59 | 4 | 24 | 36 | 3 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -26,6 +26,7 @@
 | 73 | [Set Matrix Zeroes](../Array/0073-set-matrix-zeroes/README.md) | Medium | Solved | 1 | cpp | 2025-10-18 |
 | 74 | [Search a 2D Matrix](../Array/0074-search-a-2d-matrix/README.md) | Medium | Solved | 1 | cpp | 2026-06-07 |
 | 75 | [Sort Colors](../Array/0075-sort-colors/README.md) | Medium | Solved | 1 | cpp | 2025-10-06 |
+| 78 | [Subsets](../Array/0078-subsets/README.md) | Medium | Solved | 1 | cpp | 2026-07-16 |
 | 81 | [Search in Rotated Sorted Array II](../Array/0081-search-in-rotated-sorted-array-ii/README.md) | Medium | Solved | 3 | cpp | 2026-02-13 |
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Easy | Solved | 1 | cpp | 2026-01-14 |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](../Array/0105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md) | Medium | Solved | 1 | java | 2026-01-27 |
@@ -40,6 +41,7 @@
 | 162 | [Find Peak Element](../Array/0162-find-peak-element/README.md) | Medium | Solved | 2 | cpp | 2026-02-14 |
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Easy | Solved | 1 | cpp | 2025-10-06 |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Medium | Solved | 2 | cpp | 2025-09-23 |
+| 204 | [Count Primes](../Array/0204-count-primes/README.md) | Medium | Solved | 9 | cpp | 2026-07-16 |
 | 229 | [Majority Element II](../Array/0229-majority-element-ii/README.md) | Medium | Solved | 1 | cpp | 2025-10-30 |
 | 240 | [Search a 2D Matrix II](../Array/0240-search-a-2d-matrix-ii/README.md) | Medium | Solved | 1 | cpp | 2026-06-07 |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 1 | cpp | 2025-09-25 |
@@ -66,3 +68,6 @@
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 1 | cpp | 2026-02-01 |
 | 3842 | [Toggle Light Bulbs](../Array/3842-toggle-light-bulbs/README.md) | Easy | Solved | 4 | cpp | 2026-02-15 |
 | 3843 | [First Element with Unique Frequency](../Array/3843-first-element-with-unique-frequency/README.md) | Medium | Attempted | 7 | cpp | - |
+| 3994 | [Minimum Adjacent Swaps to Partition Array](../Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | Medium | Attempted | 6 | cpp | - |
+| 3996 | [Even Number of Knight Moves](../Array/3996-even-number-of-knight-moves/README.md) | Easy | Solved | 1 | cpp | 2026-07-19 |
+| 3998 | [Transform Binary String Using Subsequence Sort](../Array/3998-transform-binary-string-using-subsequence-sort/README.md) | Medium | Attempted | 1 | cpp | - |

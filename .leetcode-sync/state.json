@@ -2245,6 +2245,301 @@
       "submissions": [
         {"id":2040851947,"status":"Accepted","lang":"cpp","timestamp":1782036544,"runtime":"130 ms","memory":"26.2 MB"}
       ]
+    },
+    "powx-n": {
+      "id": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "difficulty": "Medium",
+      "tags": ["Math","Recursion"],
+      "topic": "Math",
+      "dir": "Math/0050-powx-n",
+      "first_attempt_at": 1782121364,
+      "last_attempt_at": 1782121364,
+      "solved_at": 1782121364,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2041980398,"status":"Accepted","lang":"cpp","timestamp":1782121364,"runtime":"0 ms","memory":"8.7 MB"}
+      },
+      "submissions": [
+        {"id":2041980398,"status":"Accepted","lang":"cpp","timestamp":1782121364,"runtime":"0 ms","memory":"8.7 MB"}
+      ]
+    },
+    "power-of-two": {
+      "id": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "difficulty": "Easy",
+      "tags": ["Math","Bit Manipulation","Recursion"],
+      "topic": "Math",
+      "dir": "Math/0231-power-of-two",
+      "first_attempt_at": 1783415283,
+      "last_attempt_at": 1783415496,
+      "solved_at": 1783415496,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2059066834,"status":"Accepted","lang":"cpp","timestamp":1783415496,"runtime":"0 ms","memory":"7.7 MB"}
+      },
+      "submissions": [
+        {"id":2059062700,"status":"Wrong Answer","lang":"cpp","timestamp":1783415283,"runtime":null,"memory":null},
+        {"id":2059063304,"status":"Runtime Error","lang":"cpp","timestamp":1783415314,"runtime":null,"memory":null},
+        {"id":2059066834,"status":"Accepted","lang":"cpp","timestamp":1783415496,"runtime":"0 ms","memory":"7.7 MB"}
+      ]
+    },
+    "divide-two-integers": {
+      "id": "29",
+      "title": "Divide Two Integers",
+      "slug": "divide-two-integers",
+      "difficulty": "Medium",
+      "tags": ["Math","Bit Manipulation"],
+      "topic": "Math",
+      "dir": "Math/0029-divide-two-integers",
+      "first_attempt_at": 1784024545,
+      "last_attempt_at": 1784024545,
+      "solved_at": 1784024545,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2067231440,"status":"Accepted","lang":"cpp","timestamp":1784024545,"runtime":"0 ms","memory":"8.5 MB"}
+      },
+      "submissions": [
+        {"id":2067231440,"status":"Accepted","lang":"cpp","timestamp":1784024545,"runtime":"0 ms","memory":"8.5 MB"}
+      ]
+    },
+    "minimum-bit-flips-to-convert-number": {
+      "id": "2220",
+      "title": "Minimum Bit Flips to Convert Number",
+      "slug": "minimum-bit-flips-to-convert-number",
+      "difficulty": "Easy",
+      "tags": ["Bit Manipulation"],
+      "topic": "Bit Manipulation",
+      "dir": "Bit-Manipulation/2220-minimum-bit-flips-to-convert-number",
+      "first_attempt_at": 1784025106,
+      "last_attempt_at": 1784025106,
+      "solved_at": 1784025106,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2067240705,"status":"Accepted","lang":"cpp","timestamp":1784025106,"runtime":"0 ms","memory":"7.9 MB"}
+      },
+      "submissions": [
+        {"id":2067240705,"status":"Accepted","lang":"cpp","timestamp":1784025106,"runtime":"0 ms","memory":"7.9 MB"}
+      ]
+    },
+    "subsets": {
+      "id": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "difficulty": "Medium",
+      "tags": ["Array","Backtracking","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/0078-subsets",
+      "first_attempt_at": 1784213619,
+      "last_attempt_at": 1784213619,
+      "solved_at": 1784213619,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2070008550,"status":"Accepted","lang":"cpp","timestamp":1784213619,"runtime":"2 ms","memory":"10 MB"}
+      },
+      "submissions": [
+        {"id":2070008550,"status":"Accepted","lang":"cpp","timestamp":1784213619,"runtime":"2 ms","memory":"10 MB"}
+      ]
+    },
+    "count-primes": {
+      "id": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Enumeration","Number Theory","Primality Test","Sieve Theory","Prime Number Sieve"],
+      "topic": "Array",
+      "dir": "Array/0204-count-primes",
+      "first_attempt_at": 1784219063,
+      "last_attempt_at": 1784219584,
+      "solved_at": 1784219584,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2070139898,"status":"Accepted","lang":"cpp","timestamp":1784219584,"runtime":"152 ms","memory":"132.5 MB"}
+      },
+      "submissions": [
+        {"id":2070127689,"status":"Wrong Answer","lang":"cpp","timestamp":1784219063,"runtime":null,"memory":null},
+        {"id":2070128210,"status":"Wrong Answer","lang":"cpp","timestamp":1784219084,"runtime":null,"memory":null},
+        {"id":2070129731,"status":"Wrong Answer","lang":"cpp","timestamp":1784219149,"runtime":null,"memory":null},
+        {"id":2070130720,"status":"Wrong Answer","lang":"cpp","timestamp":1784219190,"runtime":null,"memory":null},
+        {"id":2070132716,"status":"Wrong Answer","lang":"cpp","timestamp":1784219279,"runtime":null,"memory":null},
+        {"id":2070135035,"status":"Wrong Answer","lang":"cpp","timestamp":1784219380,"runtime":null,"memory":null},
+        {"id":2070137604,"status":"Runtime Error","lang":"cpp","timestamp":1784219486,"runtime":null,"memory":null},
+        {"id":2070138055,"status":"Runtime Error","lang":"cpp","timestamp":1784219505,"runtime":null,"memory":null},
+        {"id":2070139898,"status":"Accepted","lang":"cpp","timestamp":1784219584,"runtime":"152 ms","memory":"132.5 MB"}
+      ]
+    },
+    "implement-stack-using-queues": {
+      "id": "225",
+      "title": "Implement Stack using Queues",
+      "slug": "implement-stack-using-queues",
+      "difficulty": "Easy",
+      "tags": ["Stack","Design","Queue"],
+      "topic": "Stack",
+      "dir": "Stack/0225-implement-stack-using-queues",
+      "first_attempt_at": 1784312681,
+      "last_attempt_at": 1784312681,
+      "solved_at": 1784312681,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2071476236,"status":"Accepted","lang":"cpp","timestamp":1784312681,"runtime":"0 ms","memory":"10 MB"}
+      },
+      "submissions": [
+        {"id":2071476236,"status":"Accepted","lang":"cpp","timestamp":1784312681,"runtime":"0 ms","memory":"10 MB"}
+      ]
+    },
+    "implement-queue-using-stacks": {
+      "id": "232",
+      "title": "Implement Queue using Stacks",
+      "slug": "implement-queue-using-stacks",
+      "difficulty": "Easy",
+      "tags": ["Stack","Design","Queue"],
+      "topic": "Stack",
+      "dir": "Stack/0232-implement-queue-using-stacks",
+      "first_attempt_at": 1784313029,
+      "last_attempt_at": 1784313029,
+      "solved_at": 1784313029,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2071483193,"status":"Accepted","lang":"cpp","timestamp":1784313029,"runtime":"0 ms","memory":"10.1 MB"}
+      },
+      "submissions": [
+        {"id":2071483193,"status":"Accepted","lang":"cpp","timestamp":1784313029,"runtime":"0 ms","memory":"10.1 MB"}
+      ]
+    },
+    "min-stack": {
+      "id": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "difficulty": "Medium",
+      "tags": ["Stack","Design"],
+      "topic": "Stack",
+      "dir": "Stack/0155-min-stack",
+      "first_attempt_at": 1784344163,
+      "last_attempt_at": 1784344395,
+      "solved_at": 1784344395,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2071688237,"status":"Accepted","lang":"cpp","timestamp":1784344395,"runtime":"64 ms","memory":"151 MB"}
+      },
+      "submissions": [
+        {"id":2071686439,"status":"Runtime Error","lang":"cpp","timestamp":1784344163,"runtime":null,"memory":null},
+        {"id":2071686774,"status":"Runtime Error","lang":"cpp","timestamp":1784344209,"runtime":null,"memory":null},
+        {"id":2071686997,"status":"Wrong Answer","lang":"cpp","timestamp":1784344235,"runtime":null,"memory":null},
+        {"id":2071688237,"status":"Accepted","lang":"cpp","timestamp":1784344395,"runtime":"64 ms","memory":"151 MB"}
+      ]
+    },
+    "rearrange-string-to-avoid-character-pair": {
+      "id": "3992",
+      "title": "Rearrange String to Avoid Character Pair",
+      "slug": "rearrange-string-to-avoid-character-pair",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String","Sorting"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/3992-rearrange-string-to-avoid-character-pair",
+      "first_attempt_at": 1784386934,
+      "last_attempt_at": 1784387833,
+      "solved_at": 1784387828,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2072442573,"status":"Accepted","lang":"cpp","timestamp":1784387833,"runtime":"4 ms","memory":"10.1 MB"}
+      },
+      "submissions": [
+        {"id":2072404906,"status":"Wrong Answer","lang":"cpp","timestamp":1784386934,"runtime":null,"memory":null},
+        {"id":2072442392,"status":"Accepted","lang":"cpp","timestamp":1784387828,"runtime":null,"memory":null},
+        {"id":2072442573,"status":"Accepted","lang":"cpp","timestamp":1784387833,"runtime":"4 ms","memory":"10.1 MB"}
+      ]
+    },
+    "maximum-value-of-an-alternating-sequence": {
+      "id": "3993",
+      "title": "Maximum Value of an Alternating Sequence",
+      "slug": "maximum-value-of-an-alternating-sequence",
+      "difficulty": "Medium",
+      "tags": ["Math","Greedy"],
+      "topic": "Math",
+      "dir": "Math/3993-maximum-value-of-an-alternating-sequence",
+      "first_attempt_at": 1784388349,
+      "last_attempt_at": 1784388503,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2072466248,"status":"Wrong Answer","lang":"cpp","timestamp":1784388503,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":2072461098,"status":"Wrong Answer","lang":"cpp","timestamp":1784388349,"runtime":null,"memory":null},
+        {"id":2072466248,"status":"Wrong Answer","lang":"cpp","timestamp":1784388503,"runtime":null,"memory":null}
+      ]
+    },
+    "minimum-adjacent-swaps-to-partition-array": {
+      "id": "3994",
+      "title": "Minimum Adjacent Swaps to Partition Array",
+      "slug": "minimum-adjacent-swaps-to-partition-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Greedy"],
+      "topic": "Array",
+      "dir": "Array/3994-minimum-adjacent-swaps-to-partition-array",
+      "first_attempt_at": 1784389599,
+      "last_attempt_at": 1784390184,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2072516780,"status":"Wrong Answer","lang":"cpp","timestamp":1784390184,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":2072500312,"status":"Wrong Answer","lang":"cpp","timestamp":1784389599,"runtime":null,"memory":null},
+        {"id":2072502038,"status":"Wrong Answer","lang":"cpp","timestamp":1784389660,"runtime":null,"memory":null},
+        {"id":2072506203,"status":"Wrong Answer","lang":"cpp","timestamp":1784389807,"runtime":null,"memory":null},
+        {"id":2072508354,"status":"Wrong Answer","lang":"cpp","timestamp":1784389884,"runtime":null,"memory":null},
+        {"id":2072509658,"status":"Wrong Answer","lang":"cpp","timestamp":1784389929,"runtime":null,"memory":null},
+        {"id":2072516780,"status":"Wrong Answer","lang":"cpp","timestamp":1784390184,"runtime":null,"memory":null}
+      ]
+    },
+    "even-number-of-knight-moves": {
+      "id": "3996",
+      "title": "Even Number of Knight Moves",
+      "slug": "even-number-of-knight-moves",
+      "difficulty": "Easy",
+      "tags": ["Array","Math"],
+      "topic": "Array",
+      "dir": "Array/3996-even-number-of-knight-moves",
+      "first_attempt_at": 1784429021,
+      "last_attempt_at": 1784429021,
+      "solved_at": 1784429021,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2072911344,"status":"Accepted","lang":"cpp","timestamp":1784429021,"runtime":"0 ms","memory":"49.8 MB"}
+      },
+      "submissions": [
+        {"id":2072911344,"status":"Accepted","lang":"cpp","timestamp":1784429021,"runtime":"0 ms","memory":"49.8 MB"}
+      ]
+    },
+    "count-dominant-nodes-in-a-binary-tree": {
+      "id": "3997",
+      "title": "Count Dominant Nodes in a Binary Tree",
+      "slug": "count-dominant-nodes-in-a-binary-tree",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/3997-count-dominant-nodes-in-a-binary-tree",
+      "first_attempt_at": 1784430006,
+      "last_attempt_at": 1784432549,
+      "solved_at": 1784432549,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2073000466,"status":"Accepted","lang":"cpp","timestamp":1784432549,"runtime":"0 ms","memory":"337.1 MB"}
+      },
+      "submissions": [
+        {"id":2072939598,"status":"Runtime Error","lang":"cpp","timestamp":1784430006,"runtime":null,"memory":null},
+        {"id":2072949398,"status":"Wrong Answer","lang":"cpp","timestamp":1784430370,"runtime":null,"memory":null},
+        {"id":2072992412,"status":"Wrong Answer","lang":"cpp","timestamp":1784432172,"runtime":null,"memory":null},
+        {"id":2072998156,"status":"Wrong Answer","lang":"cpp","timestamp":1784432441,"runtime":null,"memory":null},
+        {"id":2073000466,"status":"Accepted","lang":"cpp","timestamp":1784432549,"runtime":"0 ms","memory":"337.1 MB"}
+      ]
+    },
+    "transform-binary-string-using-subsequence-sort": {
+      "id": "3998",
+      "title": "Transform Binary String Using Subsequence Sort",
+      "slug": "transform-binary-string-using-subsequence-sort",
+      "difficulty": "Medium",
+      "tags": ["Array","Two Pointers","String","Greedy"],
+      "topic": "Array",
+      "dir": "Array/3998-transform-binary-string-using-subsequence-sort",
+      "first_attempt_at": 1784431623,
+      "last_attempt_at": 1784431623,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2072980171,"status":"Wrong Answer","lang":"cpp","timestamp":1784431623,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":2072980171,"status":"Wrong Answer","lang":"cpp","timestamp":1784431623,"runtime":null,"memory":null}
+      ]
     }
   }
 }

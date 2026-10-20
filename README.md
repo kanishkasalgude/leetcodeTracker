@@ -4,27 +4,31 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 120 | 116 | 4 | 49 | 59 | 8 | 2026-07-14 |
+| 135 | 128 | 7 | 55 | 65 | 8 | 2026-07-19 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 58 | 56 | 2 | 23 | 32 | 3 |
-| [Tree](Tree/README.md) | 17 | 17 | 0 | 6 | 11 | 0 |
+| [Array](Array/README.md) | 63 | 59 | 4 | 24 | 36 | 3 |
+| [Tree](Tree/README.md) | 18 | 18 | 0 | 6 | 12 | 0 |
 | [Hash Table](Hash-Table/README.md) | 12 | 12 | 0 | 6 | 5 | 1 |
 | [Linked List](Linked-List/README.md) | 12 | 12 | 0 | 3 | 8 | 1 |
+| [Math](Math/README.md) | 8 | 6 | 2 | 4 | 4 | 0 |
+| [Stack](Stack/README.md) | 7 | 7 | 0 | 5 | 2 | 0 |
 | [String](String/README.md) | 7 | 7 | 0 | 5 | 1 | 1 |
-| [Math](Math/README.md) | 4 | 3 | 1 | 3 | 1 | 0 |
-| [Stack](Stack/README.md) | 4 | 4 | 0 | 3 | 1 | 0 |
-| [Two Pointers](Two-Pointers/README.md) | 3 | 2 | 1 | 1 | 2 | 0 |
+| [Two Pointers](Two-Pointers/README.md) | 4 | 3 | 1 | 2 | 2 | 0 |
 | [Dynamic Programming](Dynamic-Programming/README.md) | 2 | 2 | 0 | 0 | 0 | 2 |
 | [Binary Search](Binary-Search/README.md) | 1 | 1 | 0 | 0 | 1 | 0 |
+| [Bit Manipulation](Bit-Manipulation/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 
 ## Not solved yet
 
 | Problem | Topic | Difficulty | Submissions | Last tried |
 | --- | --- | --- | --- | --- |
+| [3998. Transform Binary String Using Subsequence Sort](Array/3998-transform-binary-string-using-subsequence-sort/README.md) | Array | Medium | 1 | 2026-07-19 |
+| [3994. Minimum Adjacent Swaps to Partition Array](Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | Array | Medium | 6 | 2026-07-18 |
+| [3993. Maximum Value of an Alternating Sequence](Math/3993-maximum-value-of-an-alternating-sequence/README.md) | Math | Medium | 2 | 2026-07-18 |
 | [3844. Longest Almost-Palindromic Substring](Two-Pointers/3844-longest-almost-palindromic-substring/README.md) | Two Pointers | Medium | 1 | 2026-02-15 |
 | [3843. First Element with Unique Frequency](Array/3843-first-element-with-unique-frequency/README.md) | Array | Medium | 7 | 2026-02-15 |
 | [7. Reverse Integer](Math/0007-reverse-integer/README.md) | Math | Medium | 5 | 2026-01-31 |
@@ -34,28 +38,28 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
-| 2026-07-14 | [136. Single Number](Array/0136-single-number/README.md) | Accepted | cpp |
-| 2026-06-21 | [1781. Sum of Beauty of All Substrings](Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Accepted | cpp |
-| 2026-06-18 | [8. String to Integer (atoi)](String/0008-string-to-integer-atoi/README.md) | Accepted | cpp |
-| 2026-06-16 | [13. Roman to Integer](Hash-Table/0013-roman-to-integer/README.md) | Accepted | cpp |
-| 2026-06-15 | [1614. Maximum Nesting Depth of the Parentheses](String/1614-maximum-nesting-depth-of-the-parentheses/README.md) | Accepted | cpp |
-| 2026-06-15 | [1614. Maximum Nesting Depth of the Parentheses](String/1614-maximum-nesting-depth-of-the-parentheses/README.md) | Compile Error | cpp |
-| 2026-06-15 | [1614. Maximum Nesting Depth of the Parentheses](String/1614-maximum-nesting-depth-of-the-parentheses/README.md) | Wrong Answer | cpp |
-| 2026-06-15 | [451. Sort Characters By Frequency](Hash-Table/0451-sort-characters-by-frequency/README.md) | Accepted | cpp |
-| 2026-06-15 | [242. Valid Anagram](Hash-Table/0242-valid-anagram/README.md) | Accepted | cpp |
-| 2026-06-15 | [796. Rotate String](String/0796-rotate-string/README.md) | Accepted | cpp |
-| 2026-06-15 | [205. Isomorphic Strings](Hash-Table/0205-isomorphic-strings/README.md) | Accepted | cpp |
-| 2026-06-15 | [14. Longest Common Prefix](Array/0014-longest-common-prefix/README.md) | Accepted | cpp |
-| 2026-06-15 | [1903. Largest Odd Number in String](Math/1903-largest-odd-number-in-string/README.md) | Accepted | cpp |
-| 2026-06-15 | [151. Reverse Words in a String](Two-Pointers/0151-reverse-words-in-a-string/README.md) | Accepted | cpp |
-| 2026-06-13 | [1373. Maximum Sum BST in Binary Tree](Dynamic-Programming/1373-maximum-sum-bst-in-binary-tree/README.md) | Accepted | java |
+| 2026-07-19 | [3997. Count Dominant Nodes in a Binary Tree](Tree/3997-count-dominant-nodes-in-a-binary-tree/README.md) | Accepted | cpp |
+| 2026-07-19 | [3997. Count Dominant Nodes in a Binary Tree](Tree/3997-count-dominant-nodes-in-a-binary-tree/README.md) | Wrong Answer | cpp |
+| 2026-07-19 | [3997. Count Dominant Nodes in a Binary Tree](Tree/3997-count-dominant-nodes-in-a-binary-tree/README.md) | Wrong Answer | cpp |
+| 2026-07-19 | [3998. Transform Binary String Using Subsequence Sort](Array/3998-transform-binary-string-using-subsequence-sort/README.md) | Wrong Answer | cpp |
+| 2026-07-19 | [3997. Count Dominant Nodes in a Binary Tree](Tree/3997-count-dominant-nodes-in-a-binary-tree/README.md) | Wrong Answer | cpp |
+| 2026-07-19 | [3997. Count Dominant Nodes in a Binary Tree](Tree/3997-count-dominant-nodes-in-a-binary-tree/README.md) | Runtime Error | cpp |
+| 2026-07-19 | [3996. Even Number of Knight Moves](Array/3996-even-number-of-knight-moves/README.md) | Accepted | cpp |
+| 2026-07-18 | [3994. Minimum Adjacent Swaps to Partition Array](Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | Wrong Answer | cpp |
+| 2026-07-18 | [3994. Minimum Adjacent Swaps to Partition Array](Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | Wrong Answer | cpp |
+| 2026-07-18 | [3994. Minimum Adjacent Swaps to Partition Array](Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | Wrong Answer | cpp |
+| 2026-07-18 | [3994. Minimum Adjacent Swaps to Partition Array](Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | Wrong Answer | cpp |
+| 2026-07-18 | [3994. Minimum Adjacent Swaps to Partition Array](Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | Wrong Answer | cpp |
+| 2026-07-18 | [3994. Minimum Adjacent Swaps to Partition Array](Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | Wrong Answer | cpp |
+| 2026-07-18 | [3993. Maximum Value of an Alternating Sequence](Math/3993-maximum-value-of-an-alternating-sequence/README.md) | Wrong Answer | cpp |
+| 2026-07-18 | [3993. Maximum Value of an Alternating Sequence](Math/3993-maximum-value-of-an-alternating-sequence/README.md) | Wrong Answer | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-07 | 0 | 1 |
-| 2026-06 | 25 | 33 |
+| 2026-07 | 11 | 40 |
+| 2026-06 | 26 | 34 |
 | 2026-04 | 6 | 14 |
 | 2026-03 | 5 | 9 |
 | 2026-02 | 8 | 35 |
@@ -86,11 +90,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 25 | [Reverse Nodes in k-Group](Linked-List/0025-reverse-nodes-in-k-group/README.md) | [Linked List](Linked-List/README.md) | Hard | Solved | 1 | 2025-09-10 | 2025-09-10 |
 | 26 | [Remove Duplicates from Sorted Array](Array/0026-remove-duplicates-from-sorted-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-09-22 | 2025-09-22 |
 | 27 | [Remove Element](Array/0027-remove-element/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-31 | 2026-01-31 |
+| 29 | [Divide Two Integers](Math/0029-divide-two-integers/README.md) | [Math](Math/README.md) | Medium | Solved | 1 | 2026-07-14 | 2026-07-14 |
 | 31 | [Next Permutation](Array/0031-next-permutation/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2025-10-12 | 2025-10-12 |
 | 33 | [Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-02-13 | 2026-02-13 |
 | 34 | [Find First and Last Position of Element in Sorted Array](Array/0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 10 | 2026-02-08 | 2026-02-13 |
 | 35 | [Search Insert Position](Array/0035-search-insert-position/README.md) | [Array](Array/README.md) | Easy | Solved | 3 | 2026-01-19 | 2026-01-19 |
 | 48 | [Rotate Image](Array/0048-rotate-image/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-19 | 2025-10-19 |
+| 50 | [Pow(x, n)](Math/0050-powx-n/README.md) | [Math](Math/README.md) | Medium | Solved | 1 | 2026-06-22 | 2026-06-22 |
 | 53 | [Maximum Subarray](Array/0053-maximum-subarray/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2025-10-12 | 2025-10-12 |
 | 54 | [Spiral Matrix](Array/0054-spiral-matrix/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-20 | 2025-10-20 |
 | 56 | [Merge Intervals](Array/0056-merge-intervals/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-12 | 2026-01-12 |
@@ -99,6 +105,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 73 | [Set Matrix Zeroes](Array/0073-set-matrix-zeroes/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-18 | 2025-10-18 |
 | 74 | [Search a 2D Matrix](Array/0074-search-a-2d-matrix/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-06-07 | 2026-06-07 |
 | 75 | [Sort Colors](Array/0075-sort-colors/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-06 | 2025-10-06 |
+| 78 | [Subsets](Array/0078-subsets/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-07-16 | 2026-07-16 |
 | 81 | [Search in Rotated Sorted Array II](Array/0081-search-in-rotated-sorted-array-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-02-13 | 2026-02-13 |
 | 88 | [Merge Sorted Array](Array/0088-merge-sorted-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-14 | 2026-01-14 |
 | 94 | [Binary Tree Inorder Traversal](Stack/0094-binary-tree-inorder-traversal/README.md) | [Stack](Stack/README.md) | Easy | Solved | 3 | 2026-01-12 | 2026-01-12 |
@@ -129,17 +136,22 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 151 | [Reverse Words in a String](Two-Pointers/0151-reverse-words-in-a-string/README.md) | [Two Pointers](Two-Pointers/README.md) | Medium | Solved | 1 | 2026-06-15 | 2026-06-15 |
 | 152 | [Maximum Product Subarray](Array/0152-maximum-product-subarray/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-21 | 2026-01-21 |
 | 153 | [Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-02-13 | 2026-02-13 |
+| 155 | [Min Stack](Stack/0155-min-stack/README.md) | [Stack](Stack/README.md) | Medium | Solved | 4 | 2026-07-18 | 2026-07-18 |
 | 160 | [Intersection of Two Linked Lists](Hash-Table/0160-intersection-of-two-linked-lists/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2025-09-08 | 2025-09-08 |
 | 162 | [Find Peak Element](Array/0162-find-peak-element/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-02-14 | 2026-02-14 |
 | 169 | [Majority Element](Array/0169-majority-element/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-10-06 | 2025-10-06 |
 | 173 | [Binary Search Tree Iterator](Stack/0173-binary-search-tree-iterator/README.md) | [Stack](Stack/README.md) | Medium | Solved | 1 | 2026-06-12 | 2026-06-12 |
 | 189 | [Rotate Array](Array/0189-rotate-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2025-09-23 | 2025-09-23 |
 | 199 | [Binary Tree Right Side View](Tree/0199-binary-tree-right-side-view/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-01-24 | 2026-01-24 |
+| 204 | [Count Primes](Array/0204-count-primes/README.md) | [Array](Array/README.md) | Medium | Solved | 9 | 2026-07-16 | 2026-07-16 |
 | 205 | [Isomorphic Strings](Hash-Table/0205-isomorphic-strings/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-06-15 | 2026-06-15 |
 | 206 | [Reverse Linked List](Linked-List/0206-reverse-linked-list/README.md) | [Linked List](Linked-List/README.md) | Easy | Solved | 2 | 2025-08-13 | 2025-08-13 |
 | 222 | [Count Complete Tree Nodes](Binary-Search/0222-count-complete-tree-nodes/README.md) | [Binary Search](Binary-Search/README.md) | Medium | Solved | 1 | 2026-01-25 | 2026-01-25 |
+| 225 | [Implement Stack using Queues](Stack/0225-implement-stack-using-queues/README.md) | [Stack](Stack/README.md) | Easy | Solved | 1 | 2026-07-17 | 2026-07-17 |
 | 229 | [Majority Element II](Array/0229-majority-element-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-30 | 2025-10-30 |
 | 230 | [Kth Smallest Element in a BST](Tree/0230-kth-smallest-element-in-a-bst/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-06-09 | 2026-06-09 |
+| 231 | [Power of Two](Math/0231-power-of-two/README.md) | [Math](Math/README.md) | Easy | Solved | 3 | 2026-07-07 | 2026-07-07 |
+| 232 | [Implement Queue using Stacks](Stack/0232-implement-queue-using-stacks/README.md) | [Stack](Stack/README.md) | Easy | Solved | 1 | 2026-07-18 | 2026-07-18 |
 | 234 | [Palindrome Linked List](Linked-List/0234-palindrome-linked-list/README.md) | [Linked List](Linked-List/README.md) | Easy | Solved | 2 | 2025-08-16 | 2025-08-16 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](Tree/0235-lowest-common-ancestor-of-a-binary-search-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-06-10 | 2026-06-10 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](Tree/0236-lowest-common-ancestor-of-a-binary-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-01-25 | 2026-01-25 |
@@ -186,8 +198,15 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1903 | [Largest Odd Number in String](Math/1903-largest-odd-number-in-string/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-06-15 | 2026-06-15 |
 | 2095 | [Delete the Middle Node of a Linked List](Linked-List/2095-delete-the-middle-node-of-a-linked-list/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 2 | 2025-08-18 | 2025-08-18 |
 | 2149 | [Rearrange Array Elements by Sign](Array/2149-rearrange-array-elements-by-sign/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-12 | 2025-10-12 |
+| 2220 | [Minimum Bit Flips to Convert Number](Bit-Manipulation/2220-minimum-bit-flips-to-convert-number/README.md) | [Bit Manipulation](Bit-Manipulation/README.md) | Easy | Solved | 1 | 2026-07-14 | 2026-07-14 |
 | 2315 | [Count Asterisks](String/2315-count-asterisks/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2025-07-03 | 2025-07-03 |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-01 | 2026-02-01 |
 | 3842 | [Toggle Light Bulbs](Array/3842-toggle-light-bulbs/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-02-15 | 2026-02-15 |
 | 3843 | [First Element with Unique Frequency](Array/3843-first-element-with-unique-frequency/README.md) | [Array](Array/README.md) | Medium | Attempted | 7 | 2026-02-15 | - |
 | 3844 | [Longest Almost-Palindromic Substring](Two-Pointers/3844-longest-almost-palindromic-substring/README.md) | [Two Pointers](Two-Pointers/README.md) | Medium | Attempted | 1 | 2026-02-15 | - |
+| 3992 | [Rearrange String to Avoid Character Pair](Two-Pointers/3992-rearrange-string-to-avoid-character-pair/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 3 | 2026-07-18 | 2026-07-18 |
+| 3993 | [Maximum Value of an Alternating Sequence](Math/3993-maximum-value-of-an-alternating-sequence/README.md) | [Math](Math/README.md) | Medium | Attempted | 2 | 2026-07-18 | - |
+| 3994 | [Minimum Adjacent Swaps to Partition Array](Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | [Array](Array/README.md) | Medium | Attempted | 6 | 2026-07-18 | - |
+| 3996 | [Even Number of Knight Moves](Array/3996-even-number-of-knight-moves/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-07-19 | 2026-07-19 |
+| 3997 | [Count Dominant Nodes in a Binary Tree](Tree/3997-count-dominant-nodes-in-a-binary-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 5 | 2026-07-19 | 2026-07-19 |
+| 3998 | [Transform Binary String Using Subsequence Sort](Array/3998-transform-binary-string-using-subsequence-sort/README.md) | [Array](Array/README.md) | Medium | Attempted | 1 | 2026-07-19 | - |
