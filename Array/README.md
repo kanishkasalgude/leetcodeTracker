@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 105 | 100 | 5 | 33 | 61 | 11 |
+| 107 | 102 | 5 | 33 | 62 | 12 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -61,6 +61,7 @@
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Medium | Solved | 1 | cpp | 2026-02-14 |
 | 542 | [01 Matrix](../Array/0542-01-matrix/README.md) | Medium | Solved | 1 | cpp | 2026-08-22 |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Medium | Solved | 1 | cpp | 2025-10-14 |
+| 630 | [Course Schedule III](../Array/0630-course-schedule-iii/README.md) | Hard | Solved | 1 | cpp | 2026-10-19 |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 3 | cpp | 2025-12-06 |
 | 733 | [Flood Fill](../Array/0733-flood-fill/README.md) | Easy | Solved | 1 | cpp | 2026-08-18 |
 | 735 | [Asteroid Collision](../Array/0735-asteroid-collision/README.md) | Medium | Solved | 1 | cpp | 2026-07-25 |
@@ -85,6 +86,7 @@
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](../Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | Hard | Solved | 1 | python | 2026-10-18 |
 | 1584 | [Min Cost to Connect All Points](../Array/1584-min-cost-to-connect-all-points/README.md) | Medium | Solved | 1 | python | 2026-10-17 |
 | 1631 | [Path With Minimum Effort](../Array/1631-path-with-minimum-effort/README.md) | Medium | Solved | 2 | cpp, python | 2026-09-08 |
+| 1642 | [Furthest Building You Can Reach](../Array/1642-furthest-building-you-can-reach/README.md) | Medium | Solved | 1 | cpp | 2026-10-19 |
 | 1672 | [Richest Customer Wealth](../Array/1672-richest-customer-wealth/README.md) | Easy | Solved | 2 | cpp | 2026-04-21 |
 | 1752 | [Check if Array Is Sorted and Rotated](../Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Easy | Solved | 2 | cpp | 2025-09-22 |
 | 1848 | [Minimum Distance to the Target Element](../Array/1848-minimum-distance-to-the-target-element/README.md) | Easy | Solved | 2 | cpp | 2026-09-08 |

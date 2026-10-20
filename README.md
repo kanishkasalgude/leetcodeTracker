@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 210 | 202 | 8 | 70 | 110 | 22 | 2026-10-19 |
+| 212 | 204 | 8 | 70 | 111 | 23 | 2026-10-19 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 105 | 100 | 5 | 33 | 61 | 11 |
+| [Array](Array/README.md) | 107 | 102 | 5 | 33 | 62 | 12 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
 | [String](String/README.md) | 15 | 15 | 0 | 5 | 6 | 4 |
@@ -41,6 +41,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-19 | [1642. Furthest Building You Can Reach](Array/1642-furthest-building-you-can-reach/README.md) | Accepted | cpp |
+| 2026-10-19 | [630. Course Schedule III](Array/0630-course-schedule-iii/README.md) | Accepted | cpp |
 | 2026-10-19 | [2089. Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | Accepted | cpp |
 | 2026-10-18 | [1569. Number of Ways to Reorder Array to Get Same BST](Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | Accepted | python |
 | 2026-10-17 | [2812. Find the Safest Path in a Grid](Array/2812-find-the-safest-path-in-a-grid/README.md) | Accepted | python |
@@ -54,14 +56,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-17 | [1091. Shortest Path in Binary Matrix](Array/1091-shortest-path-in-binary-matrix/README.md) | Accepted | python |
 | 2026-10-16 | [2916. Subarrays Distinct Element Sum of Squares II](Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | Wrong Answer | cpp |
 | 2026-10-16 | [2916. Subarrays Distinct Element Sum of Squares II](Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | Wrong Answer | cpp |
-| 2026-10-16 | [2916. Subarrays Distinct Element Sum of Squares II](Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | Runtime Error | cpp |
-| 2026-10-13 | [3727. Maximum Alternating Sum of Squares](Array/3727-maximum-alternating-sum-of-squares/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 11 | 23 |
+| 2026-10 | 13 | 25 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
 | 2026-07 | 21 | 55 |
@@ -201,6 +201,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 543 | [Diameter of Binary Tree](Tree/0543-diameter-of-binary-tree/README.md) | [Tree](Tree/README.md) | Easy | Solved | 1 | 2026-01-23 | 2026-01-23 |
 | 547 | [Number of Provinces](Depth-First-Search/0547-number-of-provinces/README.md) | [Depth-First Search](Depth-First-Search/README.md) | Medium | Solved | 2 | 2026-08-11 | 2026-08-11 |
 | 560 | [Subarray Sum Equals K](Array/0560-subarray-sum-equals-k/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-14 | 2025-10-14 |
+| 630 | [Course Schedule III](Array/0630-course-schedule-iii/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-10-19 | 2026-10-19 |
 | 653 | [Two Sum IV - Input is a BST](Hash-Table/0653-two-sum-iv-input-is-a-bst/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-06-13 | 2026-06-13 |
 | 662 | [Maximum Width of Binary Tree](Tree/0662-maximum-width-of-binary-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 2 | 2026-01-25 | 2026-01-25 |
 | 700 | [Search in a Binary Search Tree](Tree/0700-search-in-a-binary-search-tree/README.md) | [Tree](Tree/README.md) | Easy | Solved | 1 | 2026-04-18 | 2026-04-18 |
@@ -247,6 +248,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1584 | [Min Cost to Connect All Points](Array/1584-min-cost-to-connect-all-points/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-17 | 2026-10-17 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](String/1614-maximum-nesting-depth-of-the-parentheses/README.md) | [String](String/README.md) | Easy | Solved | 3 | 2026-06-15 | 2026-06-15 |
 | 1631 | [Path With Minimum Effort](Array/1631-path-with-minimum-effort/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-09-08 | 2026-09-08 |
+| 1642 | [Furthest Building You Can Reach](Array/1642-furthest-building-you-can-reach/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-19 | 2026-10-19 |
 | 1672 | [Richest Customer Wealth](Array/1672-richest-customer-wealth/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-04-21 | 2026-04-21 |
 | 1752 | [Check if Array Is Sorted and Rotated](Array/1752-check-if-array-is-sorted-and-rotated/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-09-22 | 2025-09-22 |
 | 1781 | [Sum of Beauty of All Substrings](Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-06-21 | 2026-06-21 |

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 0,
+  "synced_through": 2176497154,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -3949,6 +3949,42 @@
       },
       "submissions": [
         {"id":2176208558,"status":"Accepted","lang":"cpp","timestamp":1792413263,"runtime":"0 ms","memory":"15 MB"}
+      ]
+    },
+    "course-schedule-iii": {
+      "id": "630",
+      "title": "Course Schedule III",
+      "slug": "course-schedule-iii",
+      "difficulty": "Hard",
+      "tags": ["Array","Greedy","Sorting","Heap (Priority Queue)"],
+      "topic": "Array",
+      "dir": "Array/0630-course-schedule-iii",
+      "first_attempt_at": 1792414790,
+      "last_attempt_at": 1792414790,
+      "solved_at": 1792414790,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176226319,"status":"Accepted","lang":"cpp","timestamp":1792414790,"runtime":"30 ms","memory":"60.5 MB"}
+      },
+      "submissions": [
+        {"id":2176226319,"status":"Accepted","lang":"cpp","timestamp":1792414790,"runtime":"30 ms","memory":"60.5 MB"}
+      ]
+    },
+    "furthest-building-you-can-reach": {
+      "id": "1642",
+      "title": "Furthest Building You Can Reach",
+      "slug": "furthest-building-you-can-reach",
+      "difficulty": "Medium",
+      "tags": ["Array","Greedy","Heap (Priority Queue)"],
+      "topic": "Array",
+      "dir": "Array/1642-furthest-building-you-can-reach",
+      "first_attempt_at": 1792433822,
+      "last_attempt_at": 1792433822,
+      "solved_at": 1792433822,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176497154,"status":"Accepted","lang":"cpp","timestamp":1792433822,"runtime":"14 ms","memory":"58 MB"}
+      },
+      "submissions": [
+        {"id":2176497154,"status":"Accepted","lang":"cpp","timestamp":1792433822,"runtime":"14 ms","memory":"58 MB"}
       ]
     }
   }
