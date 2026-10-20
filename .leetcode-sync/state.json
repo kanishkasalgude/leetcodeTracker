@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "synced_through": 0,
+  "problems": {
+    "two-sum": {
+      "id": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table"],
+      "topic": "Array",
+      "dir": "Array/0001-two-sum",
+      "first_attempt_at": 1751042321,
+      "last_attempt_at": 1759688402,
+      "solved_at": 1751042321,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1792453236,"status":"Accepted","lang":"cpp","timestamp":1759688402,"runtime":"4 ms","memory":"15 MB"}
+      },
+      "submissions": [
+        {"id":1678491550,"status":"Accepted","lang":"cpp","timestamp":1751042321,"runtime":null,"memory":null},
+        {"id":1792453236,"status":"Accepted","lang":"cpp","timestamp":1759688402,"runtime":"4 ms","memory":"15 MB"}
+      ]
+    },
+    "reverse-integer": {
+      "id": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "difficulty": "Medium",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/0007-reverse-integer",
+      "first_attempt_at": 1751539937,
+      "last_attempt_at": 1769874129,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1903277941,"status":"Wrong Answer","lang":"cpp","timestamp":1769874129,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":1684934220,"status":"Runtime Error","lang":"cpp","timestamp":1751539937,"runtime":null,"memory":null},
+        {"id":1684940266,"status":"Runtime Error","lang":"cpp","timestamp":1751540363,"runtime":null,"memory":null},
+        {"id":1684942462,"status":"Runtime Error","lang":"cpp","timestamp":1751540514,"runtime":null,"memory":null},
+        {"id":1903274738,"status":"Runtime Error","lang":"cpp","timestamp":1769874057,"runtime":null,"memory":null},
+        {"id":1903277941,"status":"Wrong Answer","lang":"cpp","timestamp":1769874129,"runtime":null,"memory":null}
+      ]
+    },
+    "palindrome-number": {
+      "id": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/0009-palindrome-number",
+      "first_attempt_at": 1751540969,
+      "last_attempt_at": 1751541264,
+      "solved_at": 1751541264,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1684953373,"status":"Accepted","lang":"cpp","timestamp":1751541264,"runtime":"4 ms","memory":"10.7 MB"}
+      },
+      "submissions": [
+        {"id":1684949066,"status":"Runtime Error","lang":"cpp","timestamp":1751540969,"runtime":null,"memory":null},
+        {"id":1684953373,"status":"Accepted","lang":"cpp","timestamp":1751541264,"runtime":"4 ms","memory":"10.7 MB"}
+      ]
+    },
+    "valid-palindrome": {
+      "id": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0125-valid-palindrome",
+      "first_attempt_at": 1751541713,
+      "last_attempt_at": 1751541795,
+      "solved_at": 1751541795,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1684961090,"status":"Accepted","lang":"cpp","timestamp":1751541795,"runtime":"0 ms","memory":"10.8 MB"}
+      },
+      "submissions": [
+        {"id":1684959877,"status":"Wrong Answer","lang":"cpp","timestamp":1751541713,"runtime":null,"memory":null},
+        {"id":1684961090,"status":"Accepted","lang":"cpp","timestamp":1751541795,"runtime":"0 ms","memory":"10.8 MB"}
+      ]
+    },
+    "count-asterisks": {
+      "id": "2315",
+      "title": "Count Asterisks",
+      "slug": "count-asterisks",
+      "difficulty": "Easy",
+      "tags": ["String"],
+      "topic": "String",
+      "dir": "String/2315-count-asterisks",
+      "first_attempt_at": 1751542552,
+      "last_attempt_at": 1751542552,
+      "solved_at": 1751542552,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1684971691,"status":"Accepted","lang":"cpp","timestamp":1751542552,"runtime":"0 ms","memory":"8.4 MB"}
+      },
+      "submissions": [
+        {"id":1684971691,"status":"Accepted","lang":"cpp","timestamp":1751542552,"runtime":"0 ms","memory":"8.4 MB"}
+      ]
+    },
+    "sqrtx": {
+      "id": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "difficulty": "Easy",
+      "tags": ["Math","Binary Search","Newton's Method"],
+      "topic": "Math",
+      "dir": "Math/0069-sqrtx",
+      "first_attempt_at": 1751711511,
+      "last_attempt_at": 1751711511,
+      "solved_at": 1751711511,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1687101083,"status":"Accepted","lang":"cpp","timestamp":1751711511,"runtime":"0 ms","memory":"8.4 MB"}
+      },
+      "submissions": [
+        {"id":1687101083,"status":"Accepted","lang":"cpp","timestamp":1751711511,"runtime":"0 ms","memory":"8.4 MB"}
+      ]
+    },
+    "delete-node-in-a-linked-list": {
+      "id": "237",
+      "title": "Delete Node in a Linked List",
+      "slug": "delete-node-in-a-linked-list",
+      "difficulty": "Medium",
+      "tags": ["Linked List"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0237-delete-node-in-a-linked-list",
+      "first_attempt_at": 1754939456,
+      "last_attempt_at": 1754939456,
+      "solved_at": 1754939456,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1731667727,"status":"Accepted","lang":"cpp","timestamp":1754939456,"runtime":"7 ms","memory":"12.1 MB"}
+      },
+      "submissions": [
+        {"id":1731667727,"status":"Accepted","lang":"cpp","timestamp":1754939456,"runtime":"7 ms","memory":"12.1 MB"}
+      ]
+    },
+    "middle-of-the-linked-list": {
+      "id": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "tags": ["Linked List","Two Pointers"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0876-middle-of-the-linked-list",
+      "first_attempt_at": 1755021477,
+      "last_attempt_at": 1755021477,
+      "solved_at": 1755021477,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1732809884,"status":"Accepted","lang":"cpp","timestamp":1755021477,"runtime":"0 ms","memory":"10.1 MB"}
+      },
+      "submissions": [
+        {"id":1732809884,"status":"Accepted","lang":"cpp","timestamp":1755021477,"runtime":"0 ms","memory":"10.1 MB"}
+      ]
+    },
+    "reverse-linked-list": {
+      "id": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "difficulty": "Easy",
+      "tags": ["Linked List","Recursion"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0206-reverse-linked-list",
+      "first_attempt_at": 1755097357,
+      "last_attempt_at": 1755105496,
+      "solved_at": 1755097357,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1734034769,"status":"Accepted","lang":"cpp","timestamp":1755105496,"runtime":"0 ms","memory":"13.7 MB"}
+      },
+      "submissions": [
+        {"id":1733869428,"status":"Accepted","lang":"cpp","timestamp":1755097357,"runtime":null,"memory":null},
+        {"id":1734034769,"status":"Accepted","lang":"cpp","timestamp":1755105496,"runtime":"0 ms","memory":"13.7 MB"}
+      ]
+    },
+    "linked-list-cycle": {
+      "id": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","Linked List","Two Pointers","Floyd's Cycle Finding Algorithm"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0141-linked-list-cycle",
+      "first_attempt_at": 1755106679,
+      "last_attempt_at": 1755106679,
+      "solved_at": 1755106679,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1734061867,"status":"Accepted","lang":"cpp","timestamp":1755106679,"runtime":"8 ms","memory":"11.8 MB"}
+      },
+      "submissions": [
+        {"id":1734061867,"status":"Accepted","lang":"cpp","timestamp":1755106679,"runtime":"8 ms","memory":"11.8 MB"}
+      ]
+    },
+    "linked-list-cycle-ii": {
+      "id": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","Linked List","Two Pointers","Floyd's Cycle Finding Algorithm"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0142-linked-list-cycle-ii",
+      "first_attempt_at": 1755108505,
+      "last_attempt_at": 1755108505,
+      "solved_at": 1755108505,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1734103385,"status":"Accepted","lang":"cpp","timestamp":1755108505,"runtime":"7 ms","memory":"11.4 MB"}
+      },
+      "submissions": [
+        {"id":1734103385,"status":"Accepted","lang":"cpp","timestamp":1755108505,"runtime":"7 ms","memory":"11.4 MB"}
+      ]
+    },
+    "palindrome-linked-list": {
+      "id": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "difficulty": "Easy",
+      "tags": ["Linked List","Two Pointers","Stack","Recursion"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0234-palindrome-linked-list",
+      "first_attempt_at": 1755285187,
+      "last_attempt_at": 1755285212,
+      "solved_at": 1755285212,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1736540259,"status":"Accepted","lang":"cpp","timestamp":1755285212,"runtime":"11 ms","memory":"124.2 MB"}
+      },
+      "submissions": [
+        {"id":1736539886,"status":"Wrong Answer","lang":"cpp","timestamp":1755285187,"runtime":null,"memory":null},
+        {"id":1736540259,"status":"Accepted","lang":"cpp","timestamp":1755285212,"runtime":"11 ms","memory":"124.2 MB"}
+      ]
+    },
+    "odd-even-linked-list": {
+      "id": "328",
+      "title": "Odd Even Linked List",
+      "slug": "odd-even-linked-list",
+      "difficulty": "Medium",
+      "tags": ["Linked List"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0328-odd-even-linked-list",
+      "first_attempt_at": 1755326877,
+      "last_attempt_at": 1755326877,
+      "solved_at": 1755326877,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1736929876,"status":"Accepted","lang":"cpp","timestamp":1755326877,"runtime":"0 ms","memory":"15.4 MB"}
+      },
+      "submissions": [
+        {"id":1736929876,"status":"Accepted","lang":"cpp","timestamp":1755326877,"runtime":"0 ms","memory":"15.4 MB"}
+      ]
+    },
+    "remove-nth-node-from-end-of-list": {
+      "id": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "tags": ["Linked List","Two Pointers"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0019-remove-nth-node-from-end-of-list",
+      "first_attempt_at": 1755516838,
+      "last_attempt_at": 1755516838,
+      "solved_at": 1755516838,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1739543909,"status":"Accepted","lang":"cpp","timestamp":1755516838,"runtime":"0 ms","memory":"15 MB"}
+      },
+      "submissions": [
+        {"id":1739543909,"status":"Accepted","lang":"cpp","timestamp":1755516838,"runtime":"0 ms","memory":"15 MB"}
+      ]
+    },
+    "delete-the-middle-node-of-a-linked-list": {
+      "id": "2095",
+      "title": "Delete the Middle Node of a Linked List",
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "difficulty": "Medium",
+      "tags": ["Linked List","Two Pointers"],
+      "topic": "Linked List",
+      "dir": "Linked-List/2095-delete-the-middle-node-of-a-linked-list",
+      "first_attempt_at": 1755517268,
+      "last_attempt_at": 1755517345,
+      "solved_at": 1755517345,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1739550494,"status":"Accepted","lang":"cpp","timestamp":1755517345,"runtime":"0 ms","memory":"311.8 MB"}
+      },
+      "submissions": [
+        {"id":1739549478,"status":"Runtime Error","lang":"cpp","timestamp":1755517268,"runtime":null,"memory":null},
+        {"id":1739550494,"status":"Accepted","lang":"cpp","timestamp":1755517345,"runtime":"0 ms","memory":"311.8 MB"}
+      ]
+    }
+  }
+}
