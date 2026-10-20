@@ -4,11 +4,15 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 7 | 7 | 0 | 3 | 4 | 0 |
+| 11 | 11 | 0 | 3 | 7 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2 | [Add Two Numbers](../Linked-List/0002-add-two-numbers/README.md) | Medium | Solved | 1 | cpp | 2025-09-09 |
 | 19 | [Remove Nth Node From End of List](../Linked-List/0019-remove-nth-node-from-end-of-list/README.md) | Medium | Solved | 1 | cpp | 2025-08-18 |
+| 25 | [Reverse Nodes in k-Group](../Linked-List/0025-reverse-nodes-in-k-group/README.md) | Hard | Solved | 1 | cpp | 2025-09-10 |
+| 61 | [Rotate List](../Linked-List/0061-rotate-list/README.md) | Medium | Solved | 5 | cpp | 2025-09-11 |
+| 148 | [Sort List](../Linked-List/0148-sort-list/README.md) | Medium | Solved | 1 | cpp | 2025-09-06 |
 | 206 | [Reverse Linked List](../Linked-List/0206-reverse-linked-list/README.md) | Easy | Solved | 2 | cpp | 2025-08-13 |
 | 234 | [Palindrome Linked List](../Linked-List/0234-palindrome-linked-list/README.md) | Easy | Solved | 2 | cpp | 2025-08-16 |
 | 237 | [Delete Node in a Linked List](../Linked-List/0237-delete-node-in-a-linked-list/README.md) | Medium | Solved | 1 | cpp | 2025-08-12 |
@@ -22,5 +26,7 @@ Filed under their main topic, but they use this one too.
 
 | # | Problem | Filed under | Difficulty | Status |
 | --- | --- | --- | --- | --- |
+| 138 | [Copy List with Random Pointer](../Hash-Table/0138-copy-list-with-random-pointer/README.md) | Hash Table | Medium | Solved |
 | 141 | [Linked List Cycle](../Hash-Table/0141-linked-list-cycle/README.md) | Hash Table | Easy | Solved |
 | 142 | [Linked List Cycle II](../Hash-Table/0142-linked-list-cycle-ii/README.md) | Hash Table | Medium | Solved |
+| 160 | [Intersection of Two Linked Lists](../Hash-Table/0160-intersection-of-two-linked-lists/README.md) | Hash Table | Easy | Solved |
