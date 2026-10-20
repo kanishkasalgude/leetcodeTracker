@@ -23,3 +23,4 @@ Filed under their main topic, but they use this one too.
 | 231 | [Power of Two](../Math/0231-power-of-two/README.md) | Math | Easy | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Hash Table | Easy | Solved |
+| 4036 | [Lexicographically Largest String After Pair Transformations](../Array/4036-lexicographically-largest-string-after-pair-transformations/README.md) | Array | Medium | Solved |

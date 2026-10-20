@@ -32,4 +32,8 @@ Filed under their main topic, but they use this one too.
 | 204 | [Count Primes](../Array/0204-count-primes/README.md) | Array | Medium | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 1512 | [Number of Good Pairs](../Array/1512-number-of-good-pairs/README.md) | Array | Easy | Solved |
+| 3875 | [Construct Uniform Parity Array I](../Array/3875-construct-uniform-parity-array-i/README.md) | Array | Easy | Solved |
+| 3876 | [Construct Uniform Parity Array II](../Array/3876-construct-uniform-parity-array-ii/README.md) | Array | Medium | Solved |
 | 3996 | [Even Number of Knight Moves](../Array/3996-even-number-of-knight-moves/README.md) | Array | Easy | Solved |
+| 4034 | [Minimum Bishop Moves to Reach Target](../Array/4034-minimum-bishop-moves-to-reach-target/README.md) | Array | Medium | Solved |
+| 4039 | [Sum of Decoded Numbers](../Array/4039-sum-of-decoded-numbers/README.md) | Array | Medium | Solved |

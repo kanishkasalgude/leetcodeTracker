@@ -4,11 +4,13 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 16 | 16 | 0 | 7 | 6 | 3 |
+| 18 | 18 | 0 | 7 | 7 | 4 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
+| 3 | [Longest Substring Without Repeating Characters](../Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | Medium | Solved | 2 | cpp | 2026-08-30 |
 | 13 | [Roman to Integer](../Hash-Table/0013-roman-to-integer/README.md) | Easy | Solved | 2 | cpp | 2026-01-23 |
+| 76 | [Minimum Window Substring](../Hash-Table/0076-minimum-window-substring/README.md) | Hard | Solved | 1 | cpp | 2026-08-31 |
 | 127 | [Word Ladder](../Hash-Table/0127-word-ladder/README.md) | Hard | Solved | 1 | cpp | 2026-08-23 |
 | 138 | [Copy List with Random Pointer](../Hash-Table/0138-copy-list-with-random-pointer/README.md) | Medium | Solved | 1 | cpp | 2025-09-20 |
 | 141 | [Linked List Cycle](../Hash-Table/0141-linked-list-cycle/README.md) | Easy | Solved | 1 | cpp | 2025-08-13 |
@@ -45,3 +47,4 @@ Filed under their main topic, but they use this one too.
 | 1512 | [Number of Good Pairs](../Array/1512-number-of-good-pairs/README.md) | Array | Easy | Solved |
 | 3842 | [Toggle Light Bulbs](../Array/3842-toggle-light-bulbs/README.md) | Array | Easy | Solved |
 | 3843 | [First Element with Unique Frequency](../Array/3843-first-element-with-unique-frequency/README.md) | Array | Medium | Attempted |
+| 4038 | [Count Integers Appearing in a Single Block](../Array/4038-count-integers-appearing-in-a-single-block/README.md) | Array | Easy | Solved |

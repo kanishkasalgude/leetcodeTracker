@@ -3101,6 +3101,289 @@
         {"id":2122098792,"status":"Wrong Answer","lang":"cpp","timestamp":1787847358,"runtime":null,"memory":null},
         {"id":2122101332,"status":"Accepted","lang":"cpp","timestamp":1787847493,"runtime":"0 ms","memory":"9.1 MB"}
       ]
+    },
+    "find-eventual-safe-states": {
+      "id": "802",
+      "title": "Find Eventual Safe States",
+      "slug": "find-eventual-safe-states",
+      "difficulty": "Medium",
+      "tags": ["Depth-First Search","Breadth-First Search","Graph Theory","Topological Sort","Kosaraju's Algorithm","Tarjan's SCC Algorithm"],
+      "topic": "Depth-First Search",
+      "dir": "Depth-First-Search/0802-find-eventual-safe-states",
+      "first_attempt_at": 1787939480,
+      "last_attempt_at": 1787941970,
+      "solved_at": 1787939480,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2123206978,"status":"Accepted","lang":"cpp","timestamp":1787941970,"runtime":"49 ms","memory":"66.3 MB"}
+      },
+      "submissions": [
+        {"id":2123161624,"status":"Accepted","lang":"cpp","timestamp":1787939480,"runtime":null,"memory":null},
+        {"id":2123206978,"status":"Accepted","lang":"cpp","timestamp":1787941970,"runtime":"49 ms","memory":"66.3 MB"}
+      ]
+    },
+    "minimum-bishop-moves-to-reach-target": {
+      "id": "4034",
+      "title": "Minimum Bishop Moves to Reach Target",
+      "slug": "minimum-bishop-moves-to-reach-target",
+      "difficulty": "Medium",
+      "tags": ["Array","Math"],
+      "topic": "Array",
+      "dir": "Array/4034-minimum-bishop-moves-to-reach-target",
+      "first_attempt_at": 1788015542,
+      "last_attempt_at": 1788016282,
+      "solved_at": 1788016282,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2124000086,"status":"Accepted","lang":"cpp","timestamp":1788016282,"runtime":"0 ms","memory":"50.5 MB"}
+      },
+      "submissions": [
+        {"id":2123974567,"status":"Wrong Answer","lang":"cpp","timestamp":1788015542,"runtime":null,"memory":null},
+        {"id":2124000086,"status":"Accepted","lang":"cpp","timestamp":1788016282,"runtime":"0 ms","memory":"50.5 MB"}
+      ]
+    },
+    "lexicographically-largest-string-after-pair-transformations": {
+      "id": "4036",
+      "title": "Lexicographically Largest String After Pair Transformations",
+      "slug": "lexicographically-largest-string-after-pair-transformations",
+      "difficulty": "Medium",
+      "tags": ["Array","String","Greedy","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/4036-lexicographically-largest-string-after-pair-transformations",
+      "first_attempt_at": 1788018036,
+      "last_attempt_at": 1788018395,
+      "solved_at": 1788018395,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2124062798,"status":"Accepted","lang":"cpp","timestamp":1788018395,"runtime":"331 ms","memory":"216.3 MB"}
+      },
+      "submissions": [
+        {"id":2124052985,"status":"Wrong Answer","lang":"cpp","timestamp":1788018036,"runtime":null,"memory":null},
+        {"id":2124060704,"status":"Wrong Answer","lang":"cpp","timestamp":1788018316,"runtime":null,"memory":null},
+        {"id":2124062798,"status":"Accepted","lang":"cpp","timestamp":1788018395,"runtime":"331 ms","memory":"216.3 MB"}
+      ]
+    },
+    "count-integers-appearing-in-a-single-block": {
+      "id": "4038",
+      "title": "Count Integers Appearing in a Single Block",
+      "slug": "count-integers-appearing-in-a-single-block",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Counting"],
+      "topic": "Array",
+      "dir": "Array/4038-count-integers-appearing-in-a-single-block",
+      "first_attempt_at": 1788057677,
+      "last_attempt_at": 1788058580,
+      "solved_at": 1788058580,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2124493755,"status":"Accepted","lang":"cpp","timestamp":1788058580,"runtime":"0 ms","memory":"20.9 MB"}
+      },
+      "submissions": [
+        {"id":2124462987,"status":"Wrong Answer","lang":"cpp","timestamp":1788057677,"runtime":null,"memory":null},
+        {"id":2124473490,"status":"Wrong Answer","lang":"cpp","timestamp":1788057982,"runtime":null,"memory":null},
+        {"id":2124482800,"status":"Wrong Answer","lang":"cpp","timestamp":1788058253,"runtime":null,"memory":null},
+        {"id":2124493755,"status":"Accepted","lang":"cpp","timestamp":1788058580,"runtime":"0 ms","memory":"20.9 MB"}
+      ]
+    },
+    "sum-of-decoded-numbers": {
+      "id": "4039",
+      "title": "Sum of Decoded Numbers",
+      "slug": "sum-of-decoded-numbers",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Simulation"],
+      "topic": "Array",
+      "dir": "Array/4039-sum-of-decoded-numbers",
+      "first_attempt_at": 1788060123,
+      "last_attempt_at": 1788060161,
+      "solved_at": 1788060161,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2124542074,"status":"Accepted","lang":"cpp","timestamp":1788060161,"runtime":"126 ms","memory":"90.9 MB"}
+      },
+      "submissions": [
+        {"id":2124540989,"status":"Wrong Answer","lang":"cpp","timestamp":1788060123,"runtime":null,"memory":null},
+        {"id":2124542074,"status":"Accepted","lang":"cpp","timestamp":1788060161,"runtime":"126 ms","memory":"90.9 MB"}
+      ]
+    },
+    "longest-substring-without-repeating-characters": {
+      "id": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String","Sliding Window"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0003-longest-substring-without-repeating-characters",
+      "first_attempt_at": 1788080102,
+      "last_attempt_at": 1788080216,
+      "solved_at": 1788080216,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2124840450,"status":"Accepted","lang":"cpp","timestamp":1788080216,"runtime":"8 ms","memory":"19.1 MB"}
+      },
+      "submissions": [
+        {"id":2124839025,"status":"Wrong Answer","lang":"cpp","timestamp":1788080102,"runtime":null,"memory":null},
+        {"id":2124840450,"status":"Accepted","lang":"cpp","timestamp":1788080216,"runtime":"8 ms","memory":"19.1 MB"}
+      ]
+    },
+    "minimum-window-substring": {
+      "id": "76",
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "difficulty": "Hard",
+      "tags": ["Hash Table","String","Sliding Window"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0076-minimum-window-substring",
+      "first_attempt_at": 1788158638,
+      "last_attempt_at": 1788158638,
+      "solved_at": 1788158638,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2125791872,"status":"Accepted","lang":"cpp","timestamp":1788158638,"runtime":"4 ms","memory":"11.5 MB"}
+      },
+      "submissions": [
+        {"id":2125791872,"status":"Accepted","lang":"cpp","timestamp":1788158638,"runtime":"4 ms","memory":"11.5 MB"}
+      ]
+    },
+    "generate-parentheses": {
+      "id": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "difficulty": "Medium",
+      "tags": ["String","Dynamic Programming","Backtracking","Bracket Sequences"],
+      "topic": "String",
+      "dir": "String/0022-generate-parentheses",
+      "first_attempt_at": 1788282967,
+      "last_attempt_at": 1790961808,
+      "solved_at": 1788282967,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2160396744,"status":"Accepted","lang":"cpp","timestamp":1790961808,"runtime":"3 ms","memory":"15.7 MB"}
+      },
+      "submissions": [
+        {"id":2127530807,"status":"Accepted","lang":"cpp","timestamp":1788282967,"runtime":null,"memory":null},
+        {"id":2160396744,"status":"Accepted","lang":"cpp","timestamp":1790961808,"runtime":"3 ms","memory":"15.7 MB"}
+      ]
+    },
+    "construct-uniform-parity-array-i": {
+      "id": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "tags": ["Array","Math"],
+      "topic": "Array",
+      "dir": "Array/3875-construct-uniform-parity-array-i",
+      "first_attempt_at": 1788363210,
+      "last_attempt_at": 1788363210,
+      "solved_at": 1788363210,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2128613419,"status":"Accepted","lang":"cpp","timestamp":1788363210,"runtime":"0 ms","memory":"30.2 MB"}
+      },
+      "submissions": [
+        {"id":2128613419,"status":"Accepted","lang":"cpp","timestamp":1788363210,"runtime":"0 ms","memory":"30.2 MB"}
+      ]
+    },
+    "construct-uniform-parity-array-ii": {
+      "id": "3876",
+      "title": "Construct Uniform Parity Array II",
+      "slug": "construct-uniform-parity-array-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Math"],
+      "topic": "Array",
+      "dir": "Array/3876-construct-uniform-parity-array-ii",
+      "first_attempt_at": 1788457164,
+      "last_attempt_at": 1788457164,
+      "solved_at": 1788457164,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2129922962,"status":"Accepted","lang":"cpp","timestamp":1788457164,"runtime":"1 ms","memory":"165.7 MB"}
+      },
+      "submissions": [
+        {"id":2129922962,"status":"Accepted","lang":"cpp","timestamp":1788457164,"runtime":"1 ms","memory":"165.7 MB"}
+      ]
+    },
+    "smallest-stable-index-i": {
+      "id": "3903",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "difficulty": "Easy",
+      "tags": ["Array","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/3903-smallest-stable-index-i",
+      "first_attempt_at": 1788544417,
+      "last_attempt_at": 1788544417,
+      "solved_at": 1788544417,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2131002187,"status":"Accepted","lang":"cpp","timestamp":1788544417,"runtime":"0 ms","memory":"31.4 MB"}
+      },
+      "submissions": [
+        {"id":2131002187,"status":"Accepted","lang":"cpp","timestamp":1788544417,"runtime":"0 ms","memory":"31.4 MB"}
+      ]
+    },
+    "smallest-stable-index-ii": {
+      "id": "3904",
+      "title": "Smallest Stable Index II",
+      "slug": "smallest-stable-index-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/3904-smallest-stable-index-ii",
+      "first_attempt_at": 1788606889,
+      "last_attempt_at": 1788606889,
+      "solved_at": 1788606889,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2131638949,"status":"Accepted","lang":"cpp","timestamp":1788606889,"runtime":"8 ms","memory":"210.8 MB"}
+      },
+      "submissions": [
+        {"id":2131638949,"status":"Accepted","lang":"cpp","timestamp":1788606889,"runtime":"8 ms","memory":"210.8 MB"}
+      ]
+    },
+    "distinct-subsequences": {
+      "id": "115",
+      "title": "Distinct Subsequences",
+      "slug": "distinct-subsequences",
+      "difficulty": "Hard",
+      "tags": ["String","Dynamic Programming"],
+      "topic": "String",
+      "dir": "String/0115-distinct-subsequences",
+      "first_attempt_at": 1788715855,
+      "last_attempt_at": 1788715855,
+      "solved_at": 1788715855,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2133125155,"status":"Accepted","lang":"cpp","timestamp":1788715855,"runtime":"3 ms","memory":"9 MB"}
+      },
+      "submissions": [
+        {"id":2133125155,"status":"Accepted","lang":"cpp","timestamp":1788715855,"runtime":"3 ms","memory":"9 MB"}
+      ]
+    },
+    "shortest-path-in-binary-matrix": {
+      "id": "1091",
+      "title": "Shortest Path in Binary Matrix",
+      "slug": "shortest-path-in-binary-matrix",
+      "difficulty": "Medium",
+      "tags": ["Array","Breadth-First Search","Matrix"],
+      "topic": "Array",
+      "dir": "Array/1091-shortest-path-in-binary-matrix",
+      "first_attempt_at": 1788798082,
+      "last_attempt_at": 1792225515,
+      "solved_at": 1788798082,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2134943216,"status":"Accepted","lang":"cpp","timestamp":1788860925,"runtime":"21 ms","memory":"26.2 MB"},
+        "python": {"file":"solution_python2.py","id":2174410482,"status":"Accepted","lang":"python","timestamp":1792225515,"runtime":"353 ms","memory":"12.3 MB"}
+      },
+      "submissions": [
+        {"id":2134118783,"status":"Accepted","lang":"cpp","timestamp":1788798082,"runtime":null,"memory":null},
+        {"id":2134943216,"status":"Accepted","lang":"cpp","timestamp":1788860925,"runtime":"21 ms","memory":"26.2 MB"},
+        {"id":2174410482,"status":"Accepted","lang":"python","timestamp":1792225515,"runtime":"353 ms","memory":"12.3 MB"}
+      ]
+    },
+    "distinct-subsequences-ii": {
+      "id": "940",
+      "title": "Distinct Subsequences II",
+      "slug": "distinct-subsequences-ii",
+      "difficulty": "Hard",
+      "tags": ["String","Dynamic Programming"],
+      "topic": "String",
+      "dir": "String/0940-distinct-subsequences-ii",
+      "first_attempt_at": 1788798707,
+      "last_attempt_at": 1788798707,
+      "solved_at": 1788798707,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2134132777,"status":"Accepted","lang":"cpp","timestamp":1788798707,"runtime":"2 ms","memory":"8.9 MB"}
+      },
+      "submissions": [
+        {"id":2134132777,"status":"Accepted","lang":"cpp","timestamp":1788798707,"runtime":"2 ms","memory":"8.9 MB"}
+      ]
     }
   }
 }

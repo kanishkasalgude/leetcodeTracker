@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 80 | 76 | 4 | 27 | 46 | 7 |
+| 89 | 85 | 4 | 30 | 52 | 7 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -70,6 +70,7 @@
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](../Array/1008-construct-binary-search-tree-from-preorder-traversal/README.md) | Medium | Solved | 1 | cpp | 2026-06-12 |
 | 1011 | [Capacity To Ship Packages Within D Days](../Array/1011-capacity-to-ship-packages-within-d-days/README.md) | Medium | Solved | 1 | cpp | 2026-03-22 |
 | 1020 | [Number of Enclaves](../Array/1020-number-of-enclaves/README.md) | Medium | Solved | 1 | cpp | 2026-08-23 |
+| 1091 | [Shortest Path in Binary Matrix](../Array/1091-shortest-path-in-binary-matrix/README.md) | Medium | Solved | 3 | cpp, python | 2026-09-07 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](../Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | Medium | Solved | 1 | cpp | 2026-03-21 |
 | 1470 | [Shuffle the Array](../Array/1470-shuffle-the-array/README.md) | Easy | Solved | 1 | cpp | 2026-04-21 |
 | 1480 | [Running Sum of 1d Array](../Array/1480-running-sum-of-1d-array/README.md) | Easy | Solved | 1 | cpp | 2026-04-21 |
@@ -84,7 +85,15 @@
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 1 | cpp | 2026-02-01 |
 | 3842 | [Toggle Light Bulbs](../Array/3842-toggle-light-bulbs/README.md) | Easy | Solved | 4 | cpp | 2026-02-15 |
 | 3843 | [First Element with Unique Frequency](../Array/3843-first-element-with-unique-frequency/README.md) | Medium | Attempted | 7 | cpp | - |
+| 3875 | [Construct Uniform Parity Array I](../Array/3875-construct-uniform-parity-array-i/README.md) | Easy | Solved | 1 | cpp | 2026-09-02 |
+| 3876 | [Construct Uniform Parity Array II](../Array/3876-construct-uniform-parity-array-ii/README.md) | Medium | Solved | 1 | cpp | 2026-09-03 |
+| 3903 | [Smallest Stable Index I](../Array/3903-smallest-stable-index-i/README.md) | Easy | Solved | 1 | cpp | 2026-09-04 |
+| 3904 | [Smallest Stable Index II](../Array/3904-smallest-stable-index-ii/README.md) | Medium | Solved | 1 | cpp | 2026-09-05 |
 | 3994 | [Minimum Adjacent Swaps to Partition Array](../Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | Medium | Attempted | 6 | cpp | - |
 | 3996 | [Even Number of Knight Moves](../Array/3996-even-number-of-knight-moves/README.md) | Easy | Solved | 1 | cpp | 2026-07-19 |
 | 3998 | [Transform Binary String Using Subsequence Sort](../Array/3998-transform-binary-string-using-subsequence-sort/README.md) | Medium | Attempted | 1 | cpp | - |
 | 4014 | [Minimum Total Price After Applying Discounts](../Array/4014-minimum-total-price-after-applying-discounts/README.md) | Medium | Solved | 1 | cpp | 2026-08-09 |
+| 4034 | [Minimum Bishop Moves to Reach Target](../Array/4034-minimum-bishop-moves-to-reach-target/README.md) | Medium | Solved | 2 | cpp | 2026-08-29 |
+| 4036 | [Lexicographically Largest String After Pair Transformations](../Array/4036-lexicographically-largest-string-after-pair-transformations/README.md) | Medium | Solved | 3 | cpp | 2026-08-29 |
+| 4038 | [Count Integers Appearing in a Single Block](../Array/4038-count-integers-appearing-in-a-single-block/README.md) | Easy | Solved | 4 | cpp | 2026-08-30 |
+| 4039 | [Sum of Decoded Numbers](../Array/4039-sum-of-decoded-numbers/README.md) | Medium | Solved | 2 | cpp | 2026-08-30 |
