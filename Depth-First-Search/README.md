@@ -4,13 +4,14 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 5 | 5 | 0 | 0 | 5 | 0 |
+| 6 | 6 | 0 | 0 | 6 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 207 | [Course Schedule](../Depth-First-Search/0207-course-schedule/README.md) | Medium | Solved | 5 | cpp | 2026-08-20 |
 | 210 | [Course Schedule II](../Depth-First-Search/0210-course-schedule-ii/README.md) | Medium | Solved | 3 | cpp | 2026-08-25 |
 | 547 | [Number of Provinces](../Depth-First-Search/0547-number-of-provinces/README.md) | Medium | Solved | 2 | cpp, python | 2026-08-11 |
+| 743 | [Network Delay Time](../Depth-First-Search/0743-network-delay-time/README.md) | Medium | Solved | 1 | python | 2026-10-17 |
 | 785 | [Is Graph Bipartite?](../Depth-First-Search/0785-is-graph-bipartite/README.md) | Medium | Solved | 1 | cpp | 2026-08-25 |
 | 802 | [Find Eventual Safe States](../Depth-First-Search/0802-find-eventual-safe-states/README.md) | Medium | Solved | 2 | cpp | 2026-08-28 |
 

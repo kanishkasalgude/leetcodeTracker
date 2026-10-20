@@ -3661,6 +3661,295 @@
       "submissions": [
         {"id":2141554127,"status":"Accepted","lang":"cpp","timestamp":1789389717,"runtime":"0 ms","memory":"9.8 MB"}
       ]
+    },
+    "maximum-number-of-non-overlapping-palindrome-substrings": {
+      "id": "2472",
+      "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+      "slug": "maximum-number-of-non-overlapping-palindrome-substrings",
+      "difficulty": "Hard",
+      "tags": ["Two Pointers","String","Dynamic Programming","Greedy"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/2472-maximum-number-of-non-overlapping-palindrome-substrings",
+      "first_attempt_at": 1789446685,
+      "last_attempt_at": 1789446685,
+      "solved_at": 1789446685,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2142179057,"status":"Accepted","lang":"cpp","timestamp":1789446685,"runtime":"0 ms","memory":"9 MB"}
+      },
+      "submissions": [
+        {"id":2142179057,"status":"Accepted","lang":"cpp","timestamp":1789446685,"runtime":"0 ms","memory":"9 MB"}
+      ]
+    },
+    "check-if-there-is-a-valid-parentheses-string-path": {
+      "id": "2267",
+      "title": " Check if There Is a Valid Parentheses String Path",
+      "slug": "check-if-there-is-a-valid-parentheses-string-path",
+      "difficulty": "Hard",
+      "tags": ["Array","Dynamic Programming","Matrix","Bracket Sequences"],
+      "topic": "Array",
+      "dir": "Array/2267-check-if-there-is-a-valid-parentheses-string-path",
+      "first_attempt_at": 1790696898,
+      "last_attempt_at": 1790696898,
+      "solved_at": 1790696898,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2157268420,"status":"Accepted","lang":"cpp","timestamp":1790696898,"runtime":"0 ms","memory":"18.2 MB"}
+      },
+      "submissions": [
+        {"id":2157268420,"status":"Accepted","lang":"cpp","timestamp":1790696898,"runtime":"0 ms","memory":"18.2 MB"}
+      ]
+    },
+    "maximum-nesting-depth-of-two-valid-parentheses-strings": {
+      "id": "1111",
+      "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+      "slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "difficulty": "Medium",
+      "tags": ["String","Stack","Bracket Sequences"],
+      "topic": "String",
+      "dir": "String/1111-maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "first_attempt_at": 1790738730,
+      "last_attempt_at": 1790738730,
+      "solved_at": 1790738730,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2157712041,"status":"Accepted","lang":"cpp","timestamp":1790738730,"runtime":"0 ms","memory":"10.6 MB"}
+      },
+      "submissions": [
+        {"id":2157712041,"status":"Accepted","lang":"cpp","timestamp":1790738730,"runtime":"0 ms","memory":"10.6 MB"}
+      ]
+    },
+    "score-of-parentheses": {
+      "id": "856",
+      "title": "Score of Parentheses",
+      "slug": "score-of-parentheses",
+      "difficulty": "Medium",
+      "tags": ["String","Stack","Bracket Sequences"],
+      "topic": "String",
+      "dir": "String/0856-score-of-parentheses",
+      "first_attempt_at": 1791197896,
+      "last_attempt_at": 1791198618,
+      "solved_at": 1791198618,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2163048880,"status":"Accepted","lang":"cpp","timestamp":1791198618,"runtime":"0 ms","memory":"7.9 MB"}
+      },
+      "submissions": [
+        {"id":2163040013,"status":"Wrong Answer","lang":"cpp","timestamp":1791197896,"runtime":null,"memory":null},
+        {"id":2163046966,"status":"Wrong Answer","lang":"cpp","timestamp":1791198457,"runtime":null,"memory":null},
+        {"id":2163048880,"status":"Accepted","lang":"cpp","timestamp":1791198618,"runtime":"0 ms","memory":"7.9 MB"}
+      ]
+    },
+    "minimum-add-to-make-parentheses-valid": {
+      "id": "921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "difficulty": "Medium",
+      "tags": ["String","Stack","Greedy","Bracket Sequences"],
+      "topic": "String",
+      "dir": "String/0921-minimum-add-to-make-parentheses-valid",
+      "first_attempt_at": 1791257896,
+      "last_attempt_at": 1791257896,
+      "solved_at": 1791257896,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2163748396,"status":"Accepted","lang":"cpp","timestamp":1791257896,"runtime":"0 ms","memory":"8.4 MB"}
+      },
+      "submissions": [
+        {"id":2163748396,"status":"Accepted","lang":"cpp","timestamp":1791257896,"runtime":"0 ms","memory":"8.4 MB"}
+      ]
+    },
+    "remove-invalid-parentheses": {
+      "id": "301",
+      "title": "Remove Invalid Parentheses",
+      "slug": "remove-invalid-parentheses",
+      "difficulty": "Hard",
+      "tags": ["String","Backtracking","Breadth-First Search"],
+      "topic": "String",
+      "dir": "String/0301-remove-invalid-parentheses",
+      "first_attempt_at": 1791380493,
+      "last_attempt_at": 1791380493,
+      "solved_at": 1791380493,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2165330773,"status":"Accepted","lang":"cpp","timestamp":1791380493,"runtime":"59 ms","memory":"20 MB"}
+      },
+      "submissions": [
+        {"id":2165330773,"status":"Accepted","lang":"cpp","timestamp":1791380493,"runtime":"59 ms","memory":"20 MB"}
+      ]
+    },
+    "apply-operations-on-array-to-maximize-sum-of-squares": {
+      "id": "2897",
+      "title": "Apply Operations on Array to Maximize Sum of Squares",
+      "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+      "difficulty": "Hard",
+      "tags": ["Array","Hash Table","Greedy","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/2897-apply-operations-on-array-to-maximize-sum-of-squares",
+      "first_attempt_at": 1791786313,
+      "last_attempt_at": 1791825900,
+      "solved_at": 1791825900,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2170441985,"status":"Accepted","lang":"cpp","timestamp":1791825900,"runtime":"51 ms","memory":"90.7 MB"}
+      },
+      "submissions": [
+        {"id":2169911825,"status":"Wrong Answer","lang":"cpp","timestamp":1791786313,"runtime":null,"memory":null},
+        {"id":2170441985,"status":"Accepted","lang":"cpp","timestamp":1791825900,"runtime":"51 ms","memory":"90.7 MB"}
+      ]
+    },
+    "maximum-alternating-sum-of-squares": {
+      "id": "3727",
+      "title": "Maximum Alternating Sum of Squares",
+      "slug": "maximum-alternating-sum-of-squares",
+      "difficulty": "Medium",
+      "tags": ["Array","Greedy","Sorting"],
+      "topic": "Array",
+      "dir": "Array/3727-maximum-alternating-sum-of-squares",
+      "first_attempt_at": 1791896194,
+      "last_attempt_at": 1791896194,
+      "solved_at": 1791896194,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2171178705,"status":"Accepted","lang":"cpp","timestamp":1791896194,"runtime":"55 ms","memory":"191.6 MB"}
+      },
+      "submissions": [
+        {"id":2171178705,"status":"Accepted","lang":"cpp","timestamp":1791896194,"runtime":"55 ms","memory":"191.6 MB"}
+      ]
+    },
+    "subarrays-distinct-element-sum-of-squares-ii": {
+      "id": "2916",
+      "title": "Subarrays Distinct Element Sum of Squares II",
+      "slug": "subarrays-distinct-element-sum-of-squares-ii",
+      "difficulty": "Hard",
+      "tags": ["Array","Hash Table","Binary Indexed Tree","Segment Tree"],
+      "topic": "Array",
+      "dir": "Array/2916-subarrays-distinct-element-sum-of-squares-ii",
+      "first_attempt_at": 1792171122,
+      "last_attempt_at": 1792171507,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174033083,"status":"Wrong Answer","lang":"cpp","timestamp":1792171507,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":2174027448,"status":"Runtime Error","lang":"cpp","timestamp":1792171122,"runtime":null,"memory":null},
+        {"id":2174028137,"status":"Wrong Answer","lang":"cpp","timestamp":1792171168,"runtime":null,"memory":null},
+        {"id":2174033083,"status":"Wrong Answer","lang":"cpp","timestamp":1792171507,"runtime":null,"memory":null}
+      ]
+    },
+    "network-delay-time": {
+      "id": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "difficulty": "Medium",
+      "tags": ["Depth-First Search","Breadth-First Search","Graph Theory","Heap (Priority Queue)","Shortest Path","Dijkstra's Algorithm"],
+      "topic": "Depth-First Search",
+      "dir": "Depth-First-Search/0743-network-delay-time",
+      "first_attempt_at": 1792228027,
+      "last_attempt_at": 1792228027,
+      "solved_at": 1792228027,
+      "languages": {
+        "python": {"file":"solution_python2.py","id":2174432895,"status":"Accepted","lang":"python","timestamp":1792228027,"runtime":"391 ms","memory":"14.7 MB"}
+      },
+      "submissions": [
+        {"id":2174432895,"status":"Accepted","lang":"python","timestamp":1792228027,"runtime":"391 ms","memory":"14.7 MB"}
+      ]
+    },
+    "min-cost-to-connect-all-points": {
+      "id": "1584",
+      "title": "Min Cost to Connect All Points",
+      "slug": "min-cost-to-connect-all-points",
+      "difficulty": "Medium",
+      "tags": ["Array","Union-Find","Graph Theory","Minimum Spanning Tree","Prim's Algorithm","Kruskal's Algorithm","Borůvka's Algorithm"],
+      "topic": "Array",
+      "dir": "Array/1584-min-cost-to-connect-all-points",
+      "first_attempt_at": 1792229185,
+      "last_attempt_at": 1792229185,
+      "solved_at": 1792229185,
+      "languages": {
+        "python": {"file":"solution_python2.py","id":2174443670,"status":"Accepted","lang":"python","timestamp":1792229185,"runtime":"963 ms","memory":"75.5 MB"}
+      },
+      "submissions": [
+        {"id":2174443670,"status":"Accepted","lang":"python","timestamp":1792229185,"runtime":"963 ms","memory":"75.5 MB"}
+      ]
+    },
+    "minimum-number-of-vertices-to-reach-all-nodes": {
+      "id": "1557",
+      "title": "Minimum Number of Vertices to Reach All Nodes",
+      "slug": "minimum-number-of-vertices-to-reach-all-nodes",
+      "difficulty": "Medium",
+      "tags": ["Graph Theory","Directed Acyclic Graph"],
+      "topic": "Graph Theory",
+      "dir": "Graph-Theory/1557-minimum-number-of-vertices-to-reach-all-nodes",
+      "first_attempt_at": 1792229748,
+      "last_attempt_at": 1792229748,
+      "solved_at": 1792229748,
+      "languages": {
+        "python": {"file":"solution_python2.py","id":2174448837,"status":"Accepted","lang":"python","timestamp":1792229748,"runtime":"35 ms","memory":"38.7 MB"}
+      },
+      "submissions": [
+        {"id":2174448837,"status":"Accepted","lang":"python","timestamp":1792229748,"runtime":"35 ms","memory":"38.7 MB"}
+      ]
+    },
+    "find-the-safest-path-in-a-grid": {
+      "id": "2812",
+      "title": "Find the Safest Path in a Grid",
+      "slug": "find-the-safest-path-in-a-grid",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search","Breadth-First Search","Union-Find","Heap (Priority Queue)","Matrix"],
+      "topic": "Array",
+      "dir": "Array/2812-find-the-safest-path-in-a-grid",
+      "first_attempt_at": 1792236094,
+      "last_attempt_at": 1792236811,
+      "solved_at": 1792236094,
+      "languages": {
+        "python": {"file":"solution_python2.py","id":2174517343,"status":"Accepted","lang":"python","timestamp":1792236811,"runtime":"3354 ms","memory":"21.2 MB"}
+      },
+      "submissions": [
+        {"id":2174510564,"status":"Accepted","lang":"python","timestamp":1792236094,"runtime":null,"memory":null},
+        {"id":2174510827,"status":"Accepted","lang":"python","timestamp":1792236121,"runtime":null,"memory":null},
+        {"id":2174517343,"status":"Accepted","lang":"python","timestamp":1792236811,"runtime":"3354 ms","memory":"21.2 MB"}
+      ]
+    },
+    "number-of-ways-to-reorder-array-to-get-same-bst": {
+      "id": "1569",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "difficulty": "Hard",
+      "tags": [
+        "Array",
+        "Math",
+        "Divide and Conquer",
+        "Dynamic Programming",
+        "Tree",
+        "Union-Find",
+        "Binary Search Tree",
+        "Memoization",
+        "Combinatorics",
+        "Binary Tree",
+        "Fermat's Little Theorem"
+      ],
+      "topic": "Array",
+      "dir": "Array/1569-number-of-ways-to-reorder-array-to-get-same-bst",
+      "first_attempt_at": 1792312634,
+      "last_attempt_at": 1792312634,
+      "solved_at": 1792312634,
+      "languages": {
+        "python": {"file":"solution_python2.py","id":2175240495,"status":"Accepted","lang":"python","timestamp":1792312634,"runtime":"1773 ms","memory":"169 MB"}
+      },
+      "submissions": [
+        {"id":2175240495,"status":"Accepted","lang":"python","timestamp":1792312634,"runtime":"1773 ms","memory":"169 MB"}
+      ]
+    },
+    "find-target-indices-after-sorting-array": {
+      "id": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Binary Search","Sorting"],
+      "topic": "Array",
+      "dir": "Array/2089-find-target-indices-after-sorting-array",
+      "first_attempt_at": 1792413263,
+      "last_attempt_at": 1792413263,
+      "solved_at": 1792413263,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176208558,"status":"Accepted","lang":"cpp","timestamp":1792413263,"runtime":"0 ms","memory":"15 MB"}
+      },
+      "submissions": [
+        {"id":2176208558,"status":"Accepted","lang":"cpp","timestamp":1792413263,"runtime":"0 ms","memory":"15 MB"}
+      ]
     }
   }
 }

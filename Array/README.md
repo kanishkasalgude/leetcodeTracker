@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 97 | 93 | 4 | 32 | 58 | 7 |
+| 105 | 100 | 5 | 33 | 61 | 11 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -82,15 +82,23 @@
 | 1482 | [Minimum Number of Days to Make m Bouquets](../Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | Medium | Solved | 2 | cpp | 2026-03-21 |
 | 1512 | [Number of Good Pairs](../Array/1512-number-of-good-pairs/README.md) | Easy | Solved | 2 | cpp | 2026-04-21 |
 | 1539 | [Kth Missing Positive Number](../Array/1539-kth-missing-positive-number/README.md) | Easy | Solved | 1 | cpp | 2026-03-22 |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](../Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | Hard | Solved | 1 | python | 2026-10-18 |
+| 1584 | [Min Cost to Connect All Points](../Array/1584-min-cost-to-connect-all-points/README.md) | Medium | Solved | 1 | python | 2026-10-17 |
 | 1631 | [Path With Minimum Effort](../Array/1631-path-with-minimum-effort/README.md) | Medium | Solved | 2 | cpp, python | 2026-09-08 |
 | 1672 | [Richest Customer Wealth](../Array/1672-richest-customer-wealth/README.md) | Easy | Solved | 2 | cpp | 2026-04-21 |
 | 1752 | [Check if Array Is Sorted and Rotated](../Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Easy | Solved | 2 | cpp | 2025-09-22 |
 | 1848 | [Minimum Distance to the Target Element](../Array/1848-minimum-distance-to-the-target-element/README.md) | Easy | Solved | 2 | cpp | 2026-09-08 |
 | 1901 | [Find a Peak Element II](../Array/1901-find-a-peak-element-ii/README.md) | Medium | Solved | 3 | cpp | 2026-06-07 |
+| 2089 | [Find Target Indices After Sorting Array](../Array/2089-find-target-indices-after-sorting-array/README.md) | Easy | Solved | 1 | cpp | 2026-10-19 |
 | 2104 | [Sum of Subarray Ranges](../Array/2104-sum-of-subarray-ranges/README.md) | Medium | Solved | 1 | cpp | 2026-07-27 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 1 | cpp | 2025-10-12 |
+| 2267 | [ Check if There Is a Valid Parentheses String Path](../Array/2267-check-if-there-is-a-valid-parentheses-string-path/README.md) | Hard | Solved | 1 | cpp | 2026-09-29 |
+| 2812 | [Find the Safest Path in a Grid](../Array/2812-find-the-safest-path-in-a-grid/README.md) | Medium | Solved | 3 | python | 2026-10-17 |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](../Array/2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md) | Hard | Solved | 2 | cpp | 2026-10-12 |
+| 2916 | [Subarrays Distinct Element Sum of Squares II](../Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | Hard | Attempted | 3 | cpp | - |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 1 | cpp | 2026-02-01 |
 | 3483 | [Unique 3-Digit Even Numbers](../Array/3483-unique-3-digit-even-numbers/README.md) | Easy | Solved | 2 | cpp | 2026-09-11 |
+| 3727 | [Maximum Alternating Sum of Squares](../Array/3727-maximum-alternating-sum-of-squares/README.md) | Medium | Solved | 1 | cpp | 2026-10-13 |
 | 3842 | [Toggle Light Bulbs](../Array/3842-toggle-light-bulbs/README.md) | Easy | Solved | 4 | cpp | 2026-02-15 |
 | 3843 | [First Element with Unique Frequency](../Array/3843-first-element-with-unique-frequency/README.md) | Medium | Attempted | 7 | cpp | - |
 | 3875 | [Construct Uniform Parity Array I](../Array/3875-construct-uniform-parity-array-i/README.md) | Easy | Solved | 1 | cpp | 2026-09-02 |

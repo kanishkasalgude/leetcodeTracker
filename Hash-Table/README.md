@@ -50,6 +50,8 @@ Filed under their main topic, but they use this one too.
 | 930 | [Binary Subarrays With Sum](../Array/0930-binary-subarrays-with-sum/README.md) | Array | Medium | Solved |
 | 1248 | [Count Number of Nice Subarrays](../Array/1248-count-number-of-nice-subarrays/README.md) | Array | Medium | Solved |
 | 1512 | [Number of Good Pairs](../Array/1512-number-of-good-pairs/README.md) | Array | Easy | Solved |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](../Array/2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md) | Array | Hard | Solved |
+| 2916 | [Subarrays Distinct Element Sum of Squares II](../Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | Array | Hard | Attempted |
 | 3483 | [Unique 3-Digit Even Numbers](../Array/3483-unique-3-digit-even-numbers/README.md) | Array | Easy | Solved |
 | 3842 | [Toggle Light Bulbs](../Array/3842-toggle-light-bulbs/README.md) | Array | Easy | Solved |
 | 3843 | [First Element with Unique Frequency](../Array/3843-first-element-with-unique-frequency/README.md) | Array | Medium | Attempted |

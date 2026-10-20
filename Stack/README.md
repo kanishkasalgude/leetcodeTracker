@@ -33,8 +33,11 @@ Filed under their main topic, but they use this one too.
 | 496 | [Next Greater Element I](../Array/0496-next-greater-element-i/README.md) | Array | Easy | Solved |
 | 503 | [Next Greater Element II](../Array/0503-next-greater-element-ii/README.md) | Array | Medium | Solved |
 | 735 | [Asteroid Collision](../Array/0735-asteroid-collision/README.md) | Array | Medium | Solved |
+| 856 | [Score of Parentheses](../String/0856-score-of-parentheses/README.md) | String | Medium | Solved |
 | 907 | [Sum of Subarray Minimums](../Array/0907-sum-of-subarray-minimums/README.md) | Array | Medium | Solved |
+| 921 | [Minimum Add to Make Parentheses Valid](../String/0921-minimum-add-to-make-parentheses-valid/README.md) | String | Medium | Solved |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](../Array/1008-construct-binary-search-tree-from-preorder-traversal/README.md) | Array | Medium | Solved |
 | 1021 | [Remove Outermost Parentheses](../String/1021-remove-outermost-parentheses/README.md) | String | Easy | Solved |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](../String/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md) | String | Medium | Solved |
 | 1614 | [Maximum Nesting Depth of the Parentheses](../String/1614-maximum-nesting-depth-of-the-parentheses/README.md) | String | Easy | Solved |
 | 2104 | [Sum of Subarray Ranges](../Array/2104-sum-of-subarray-ranges/README.md) | Array | Medium | Solved |

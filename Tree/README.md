@@ -49,3 +49,4 @@ Filed under their main topic, but they use this one too.
 | 987 | [Vertical Order Traversal of a Binary Tree](../Hash-Table/0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hash Table | Hard | Solved |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](../Array/1008-construct-binary-search-tree-from-preorder-traversal/README.md) | Array | Medium | Solved |
 | 1373 | [Maximum Sum BST in Binary Tree](../Dynamic-Programming/1373-maximum-sum-bst-in-binary-tree/README.md) | Dynamic Programming | Hard | Solved |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](../Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | Array | Hard | Solved |

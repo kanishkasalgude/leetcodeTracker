@@ -4,13 +4,14 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 5 | 4 | 1 | 3 | 2 | 0 |
+| 6 | 5 | 1 | 3 | 2 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 28 | [Find the Index of the First Occurrence in a String](../Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md) | Easy | Solved | 3 | cpp | 2026-08-27 |
 | 125 | [Valid Palindrome](../Two-Pointers/0125-valid-palindrome/README.md) | Easy | Solved | 2 | cpp | 2025-07-03 |
 | 151 | [Reverse Words in a String](../Two-Pointers/0151-reverse-words-in-a-string/README.md) | Medium | Solved | 1 | cpp | 2026-06-15 |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](../Two-Pointers/2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md) | Hard | Solved | 1 | cpp | 2026-09-15 |
 | 3844 | [Longest Almost-Palindromic Substring](../Two-Pointers/3844-longest-almost-palindromic-substring/README.md) | Medium | Attempted | 1 | cpp | - |
 | 3992 | [Rearrange String to Avoid Character Pair](../Two-Pointers/3992-rearrange-string-to-avoid-character-pair/README.md) | Easy | Solved | 3 | cpp | 2026-07-18 |
 

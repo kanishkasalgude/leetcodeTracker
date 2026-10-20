@@ -37,6 +37,7 @@ Filed under their main topic, but they use this one too.
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 1248 | [Count Number of Nice Subarrays](../Array/1248-count-number-of-nice-subarrays/README.md) | Array | Medium | Solved |
 | 1512 | [Number of Good Pairs](../Array/1512-number-of-good-pairs/README.md) | Array | Easy | Solved |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](../Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | Array | Hard | Solved |
 | 3875 | [Construct Uniform Parity Array I](../Array/3875-construct-uniform-parity-array-i/README.md) | Array | Easy | Solved |
 | 3876 | [Construct Uniform Parity Array II](../Array/3876-construct-uniform-parity-array-ii/README.md) | Array | Medium | Solved |
 | 3996 | [Even Number of Knight Moves](../Array/3996-even-number-of-knight-moves/README.md) | Array | Easy | Solved |

@@ -39,3 +39,5 @@ Filed under their main topic, but they use this one too.
 | 1539 | [Kth Missing Positive Number](../Array/1539-kth-missing-positive-number/README.md) | Array | Easy | Solved |
 | 1631 | [Path With Minimum Effort](../Array/1631-path-with-minimum-effort/README.md) | Array | Medium | Solved |
 | 1901 | [Find a Peak Element II](../Array/1901-find-a-peak-element-ii/README.md) | Array | Medium | Solved |
+| 2089 | [Find Target Indices After Sorting Array](../Array/2089-find-target-indices-after-sorting-array/README.md) | Array | Easy | Solved |
+| 2812 | [Find the Safest Path in a Grid](../Array/2812-find-the-safest-path-in-a-grid/README.md) | Array | Medium | Solved |
