@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 107 | 102 | 5 | 33 | 62 | 12 |
+| 108 | 102 | 6 | 33 | 62 | 13 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -52,7 +52,7 @@
 | 239 | [Sliding Window Maximum](../Array/0239-sliding-window-maximum/README.md) | Hard | Solved | 1 | cpp | 2026-08-05 |
 | 240 | [Search a 2D Matrix II](../Array/0240-search-a-2d-matrix-ii/README.md) | Medium | Solved | 1 | cpp | 2026-06-07 |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 1 | cpp | 2025-09-25 |
-| 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 1 | cpp | 2025-09-23 |
+| 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 2 | cpp, python | 2025-09-23 |
 | 410 | [Split Array Largest Sum](../Array/0410-split-array-largest-sum/README.md) | Hard | Solved | 1 | cpp | 2026-06-04 |
 | 485 | [Max Consecutive Ones](../Array/0485-max-consecutive-ones/README.md) | Easy | Solved | 1 | cpp | 2025-09-25 |
 | 493 | [Reverse Pairs](../Array/0493-reverse-pairs/README.md) | Hard | Solved | 1 | cpp | 2026-01-21 |
@@ -105,6 +105,7 @@
 | 3843 | [First Element with Unique Frequency](../Array/3843-first-element-with-unique-frequency/README.md) | Medium | Attempted | 7 | cpp | - |
 | 3875 | [Construct Uniform Parity Array I](../Array/3875-construct-uniform-parity-array-i/README.md) | Easy | Solved | 1 | cpp | 2026-09-02 |
 | 3876 | [Construct Uniform Parity Array II](../Array/3876-construct-uniform-parity-array-ii/README.md) | Medium | Solved | 1 | cpp | 2026-09-03 |
+| 3886 | [Sum of Sortable Integers](../Array/3886-sum-of-sortable-integers/README.md) | Hard | Attempted | 1 | python | - |
 | 3903 | [Smallest Stable Index I](../Array/3903-smallest-stable-index-i/README.md) | Easy | Solved | 1 | cpp | 2026-09-04 |
 | 3904 | [Smallest Stable Index II](../Array/3904-smallest-stable-index-ii/README.md) | Medium | Solved | 1 | cpp | 2026-09-05 |
 | 3994 | [Minimum Adjacent Swaps to Partition Array](../Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | Medium | Attempted | 6 | cpp | - |

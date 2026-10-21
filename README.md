@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 212 | 204 | 8 | 70 | 111 | 23 | 2026-10-19 |
+| 213 | 204 | 9 | 70 | 111 | 23 | 2026-10-20 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 107 | 102 | 5 | 33 | 62 | 12 |
+| [Array](Array/README.md) | 108 | 102 | 6 | 33 | 62 | 13 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
 | [String](String/README.md) | 15 | 15 | 0 | 5 | 6 | 4 |
@@ -28,6 +28,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problem | Topic | Difficulty | Submissions | Last tried |
 | --- | --- | --- | --- | --- |
+| [3886. Sum of Sortable Integers](Array/3886-sum-of-sortable-integers/README.md) | Array | Hard | 1 | 2026-10-20 |
 | [2916. Subarrays Distinct Element Sum of Squares II](Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | Array | Hard | 3 | 2026-10-16 |
 | [3998. Transform Binary String Using Subsequence Sort](Array/3998-transform-binary-string-using-subsequence-sort/README.md) | Array | Medium | 1 | 2026-07-19 |
 | [3994. Minimum Adjacent Swaps to Partition Array](Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | Array | Medium | 6 | 2026-07-18 |
@@ -41,6 +42,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-20 | [3886. Sum of Sortable Integers](Array/3886-sum-of-sortable-integers/README.md) | Time Limit Exceeded | python |
+| 2026-10-20 | [283. Move Zeroes](Array/0283-move-zeroes/README.md) | Accepted | python |
 | 2026-10-19 | [1642. Furthest Building You Can Reach](Array/1642-furthest-building-you-can-reach/README.md) | Accepted | cpp |
 | 2026-10-19 | [630. Course Schedule III](Array/0630-course-schedule-iii/README.md) | Accepted | cpp |
 | 2026-10-19 | [2089. Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | Accepted | cpp |
@@ -54,14 +57,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-17 | [1584. Min Cost to Connect All Points](Array/1584-min-cost-to-connect-all-points/README.md) | Accepted | python |
 | 2026-10-17 | [743. Network Delay Time](Depth-First-Search/0743-network-delay-time/README.md) | Accepted | python |
 | 2026-10-17 | [1091. Shortest Path in Binary Matrix](Array/1091-shortest-path-in-binary-matrix/README.md) | Accepted | python |
-| 2026-10-16 | [2916. Subarrays Distinct Element Sum of Squares II](Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | Wrong Answer | cpp |
-| 2026-10-16 | [2916. Subarrays Distinct Element Sum of Squares II](Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | Wrong Answer | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 13 | 25 |
+| 2026-10 | 13 | 27 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
 | 2026-07 | 21 | 55 |
@@ -181,7 +182,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 240 | [Search a 2D Matrix II](Array/0240-search-a-2d-matrix-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-06-07 | 2026-06-07 |
 | 242 | [Valid Anagram](Hash-Table/0242-valid-anagram/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-06-15 | 2026-06-15 |
 | 268 | [Missing Number](Array/0268-missing-number/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-09-25 | 2025-09-25 |
-| 283 | [Move Zeroes](Array/0283-move-zeroes/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-09-23 | 2025-09-23 |
+| 283 | [Move Zeroes](Array/0283-move-zeroes/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-09-23 | 2025-09-23 |
 | 297 | [Serialize and Deserialize Binary Tree](String/0297-serialize-and-deserialize-binary-tree/README.md) | [String](String/README.md) | Hard | Solved | 1 | 2026-01-27 | 2026-01-27 |
 | 301 | [Remove Invalid Parentheses](String/0301-remove-invalid-parentheses/README.md) | [String](String/README.md) | Hard | Solved | 1 | 2026-10-07 | 2026-10-07 |
 | 328 | [Odd Even Linked List](Linked-List/0328-odd-even-linked-list/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 1 | 2025-08-16 | 2025-08-16 |
@@ -280,6 +281,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 3871 | [Count Commas in Range II](Math/3871-count-commas-in-range-ii/README.md) | [Math](Math/README.md) | Medium | Solved | 2 | 2026-09-09 | 2026-09-09 |
 | 3875 | [Construct Uniform Parity Array I](Array/3875-construct-uniform-parity-array-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-09-02 | 2026-09-02 |
 | 3876 | [Construct Uniform Parity Array II](Array/3876-construct-uniform-parity-array-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-09-03 | 2026-09-03 |
+| 3886 | [Sum of Sortable Integers](Array/3886-sum-of-sortable-integers/README.md) | [Array](Array/README.md) | Hard | Attempted | 1 | 2026-10-20 | - |
 | 3903 | [Smallest Stable Index I](Array/3903-smallest-stable-index-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-09-04 | 2026-09-04 |
 | 3904 | [Smallest Stable Index II](Array/3904-smallest-stable-index-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-09-05 | 2026-09-05 |
 | 3992 | [Rearrange String to Avoid Character Pair](Two-Pointers/3992-rearrange-string-to-avoid-character-pair/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 3 | 2026-07-18 | 2026-07-18 |

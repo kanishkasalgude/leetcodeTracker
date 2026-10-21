@@ -40,6 +40,7 @@ Filed under their main topic, but they use this one too.
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](../Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | Array | Hard | Solved |
 | 3875 | [Construct Uniform Parity Array I](../Array/3875-construct-uniform-parity-array-i/README.md) | Array | Easy | Solved |
 | 3876 | [Construct Uniform Parity Array II](../Array/3876-construct-uniform-parity-array-ii/README.md) | Array | Medium | Solved |
+| 3886 | [Sum of Sortable Integers](../Array/3886-sum-of-sortable-integers/README.md) | Array | Hard | Attempted |
 | 3996 | [Even Number of Knight Moves](../Array/3996-even-number-of-knight-moves/README.md) | Array | Easy | Solved |
 | 4034 | [Minimum Bishop Moves to Reach Target](../Array/4034-minimum-bishop-moves-to-reach-target/README.md) | Array | Medium | Solved |
 | 4039 | [Sum of Decoded Numbers](../Array/4039-sum-of-decoded-numbers/README.md) | Array | Medium | Solved |

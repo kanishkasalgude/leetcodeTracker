@@ -4,7 +4,7 @@
 
 | Difficulty | Status | Submissions | First tried | Solved on |
 | --- | --- | --- | --- | --- |
-| Easy | Solved | 1 | 2025-09-23 | 2025-09-23 |
+| Easy | Solved | 2 | 2025-09-23 | 2025-09-23 |
 
 **Topics:** Array, Two Pointers
 
@@ -13,11 +13,13 @@
 | Language | Result | Runtime | Memory | Date |
 | --- | --- | --- | --- | --- |
 | [cpp](solution.cpp) | Accepted | 0 ms | 23.8 MB | 2025-09-23 |
+| [python](solution_python2.py) | Accepted | 4 ms | 13.6 MB | 2026-10-20 |
 
 ## Submission history
 
 | Date | Result | Language | Runtime | Memory |
 | --- | --- | --- | --- | --- |
+| 2026-10-20 | Accepted | python | 4 ms | 13.6 MB |
 | 2025-09-23 | Accepted | cpp | 0 ms | 23.8 MB |
 
 ## Problem
