@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2177230738,
+  "synced_through": 2177787002,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -4005,6 +4005,27 @@
       },
       "submissions": [
         {"id":2177230738,"status":"Time Limit Exceeded","lang":"python","timestamp":1792512957,"runtime":null,"memory":null}
+      ]
+    },
+    "brick-wall": {
+      "id": "554",
+      "title": "Brick Wall",
+      "slug": "brick-wall",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table"],
+      "topic": "Array",
+      "dir": "Array/0554-brick-wall",
+      "first_attempt_at": 1792572941,
+      "last_attempt_at": 1792573509,
+      "solved_at": 1792573117,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2177787002,"status":"Accepted","lang":"cpp","timestamp":1792573509,"runtime":"21 ms","memory":"30.6 MB"}
+      },
+      "submissions": [
+        {"id":2177780229,"status":"Runtime Error","lang":"cpp","timestamp":1792572941,"runtime":null,"memory":null},
+        {"id":2177781494,"status":"Wrong Answer","lang":"cpp","timestamp":1792573050,"runtime":null,"memory":null},
+        {"id":2177782336,"status":"Accepted","lang":"cpp","timestamp":1792573117,"runtime":null,"memory":null},
+        {"id":2177787002,"status":"Accepted","lang":"cpp","timestamp":1792573509,"runtime":"21 ms","memory":"30.6 MB"}
       ]
     }
   }

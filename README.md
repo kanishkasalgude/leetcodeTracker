@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 213 | 204 | 9 | 70 | 111 | 23 | 2026-10-20 |
+| 214 | 205 | 9 | 70 | 112 | 23 | 2026-10-21 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 108 | 102 | 6 | 33 | 62 | 13 |
+| [Array](Array/README.md) | 109 | 103 | 6 | 33 | 63 | 13 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
 | [String](String/README.md) | 15 | 15 | 0 | 5 | 6 | 4 |
@@ -42,6 +42,10 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-21 | [554. Brick Wall](Array/0554-brick-wall/README.md) | Accepted | cpp |
+| 2026-10-21 | [554. Brick Wall](Array/0554-brick-wall/README.md) | Accepted | cpp |
+| 2026-10-21 | [554. Brick Wall](Array/0554-brick-wall/README.md) | Wrong Answer | cpp |
+| 2026-10-21 | [554. Brick Wall](Array/0554-brick-wall/README.md) | Runtime Error | cpp |
 | 2026-10-20 | [3886. Sum of Sortable Integers](Array/3886-sum-of-sortable-integers/README.md) | Time Limit Exceeded | python |
 | 2026-10-20 | [283. Move Zeroes](Array/0283-move-zeroes/README.md) | Accepted | python |
 | 2026-10-19 | [1642. Furthest Building You Can Reach](Array/1642-furthest-building-you-can-reach/README.md) | Accepted | cpp |
@@ -53,16 +57,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-17 | [2812. Find the Safest Path in a Grid](Array/2812-find-the-safest-path-in-a-grid/README.md) | Accepted | python |
 | 2026-10-17 | [547. Number of Provinces](Depth-First-Search/0547-number-of-provinces/README.md) | Accepted | python |
 | 2026-10-17 | [1631. Path With Minimum Effort](Array/1631-path-with-minimum-effort/README.md) | Accepted | python |
-| 2026-10-17 | [1557. Minimum Number of Vertices to Reach All Nodes](Graph-Theory/1557-minimum-number-of-vertices-to-reach-all-nodes/README.md) | Accepted | python |
-| 2026-10-17 | [1584. Min Cost to Connect All Points](Array/1584-min-cost-to-connect-all-points/README.md) | Accepted | python |
-| 2026-10-17 | [743. Network Delay Time](Depth-First-Search/0743-network-delay-time/README.md) | Accepted | python |
-| 2026-10-17 | [1091. Shortest Path in Binary Matrix](Array/1091-shortest-path-in-binary-matrix/README.md) | Accepted | python |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 13 | 27 |
+| 2026-10 | 14 | 31 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
 | 2026-07 | 21 | 55 |
@@ -201,6 +201,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 542 | [01 Matrix](Array/0542-01-matrix/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-08-22 | 2026-08-22 |
 | 543 | [Diameter of Binary Tree](Tree/0543-diameter-of-binary-tree/README.md) | [Tree](Tree/README.md) | Easy | Solved | 1 | 2026-01-23 | 2026-01-23 |
 | 547 | [Number of Provinces](Depth-First-Search/0547-number-of-provinces/README.md) | [Depth-First Search](Depth-First-Search/README.md) | Medium | Solved | 2 | 2026-08-11 | 2026-08-11 |
+| 554 | [Brick Wall](Array/0554-brick-wall/README.md) | [Array](Array/README.md) | Medium | Solved | 4 | 2026-10-21 | 2026-10-21 |
 | 560 | [Subarray Sum Equals K](Array/0560-subarray-sum-equals-k/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-14 | 2025-10-14 |
 | 630 | [Course Schedule III](Array/0630-course-schedule-iii/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-10-19 | 2026-10-19 |
 | 653 | [Two Sum IV - Input is a BST](Hash-Table/0653-two-sum-iv-input-is-a-bst/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-06-13 | 2026-06-13 |

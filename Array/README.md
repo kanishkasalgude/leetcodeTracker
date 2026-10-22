@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 108 | 102 | 6 | 33 | 62 | 13 |
+| 109 | 103 | 6 | 33 | 63 | 13 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -60,6 +60,7 @@
 | 503 | [Next Greater Element II](../Array/0503-next-greater-element-ii/README.md) | Medium | Solved | 1 | cpp | 2026-07-20 |
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Medium | Solved | 1 | cpp | 2026-02-14 |
 | 542 | [01 Matrix](../Array/0542-01-matrix/README.md) | Medium | Solved | 1 | cpp | 2026-08-22 |
+| 554 | [Brick Wall](../Array/0554-brick-wall/README.md) | Medium | Solved | 4 | cpp | 2026-10-21 |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Medium | Solved | 1 | cpp | 2025-10-14 |
 | 630 | [Course Schedule III](../Array/0630-course-schedule-iii/README.md) | Hard | Solved | 1 | cpp | 2026-10-19 |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 3 | cpp | 2025-12-06 |

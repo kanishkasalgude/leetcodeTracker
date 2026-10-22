@@ -45,6 +45,7 @@ Filed under their main topic, but they use this one too.
 | 229 | [Majority Element II](../Array/0229-majority-element-ii/README.md) | Array | Medium | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 496 | [Next Greater Element I](../Array/0496-next-greater-element-i/README.md) | Array | Easy | Solved |
+| 554 | [Brick Wall](../Array/0554-brick-wall/README.md) | Array | Medium | Solved |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Array | Medium | Solved |
 | 904 | [Fruit Into Baskets](../Array/0904-fruit-into-baskets/README.md) | Array | Medium | Solved |
 | 930 | [Binary Subarrays With Sum](../Array/0930-binary-subarrays-with-sum/README.md) | Array | Medium | Solved |
