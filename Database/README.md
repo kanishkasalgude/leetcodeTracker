@@ -1,0 +1,23 @@
+# Database
+
+[All topics](../README.md)
+
+| Problems | Solved | Attempted | Easy | Medium | Hard |
+| --- | --- | --- | --- | --- | --- |
+| 13 | 13 | 0 | 12 | 1 | 0 |
+
+| # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
+| --- | --- | --- | --- | --- | --- | --- |
+| 197 | [Rising Temperature](../Database/0197-rising-temperature/README.md) | Easy | Solved | 1 | mysql | 2026-10-24 |
+| 570 | [Managers with at Least 5 Direct Reports](../Database/0570-managers-with-at-least-5-direct-reports/README.md) | Medium | Solved | 1 | mysql | 2026-10-24 |
+| 577 | [Employee Bonus](../Database/0577-employee-bonus/README.md) | Easy | Solved | 1 | mysql | 2026-10-24 |
+| 584 | [Find Customer Referee](../Database/0584-find-customer-referee/README.md) | Easy | Solved | 1 | mysql | 2026-10-22 |
+| 595 | [Big Countries](../Database/0595-big-countries/README.md) | Easy | Solved | 3 | mysql | 2026-10-22 |
+| 620 | [Not Boring Movies](../Database/0620-not-boring-movies/README.md) | Easy | Solved | 3 | mysql | 2026-10-24 |
+| 1068 | [Product Sales Analysis I](../Database/1068-product-sales-analysis-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-23 |
+| 1148 | [Article Views I](../Database/1148-article-views-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-22 |
+| 1280 | [Students and Examinations](../Database/1280-students-and-examinations/README.md) | Easy | Solved | 1 | mysql | 2026-10-24 |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](../Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | Easy | Solved | 1 | mysql | 2026-10-23 |
+| 1661 | [Average Time of Process per Machine](../Database/1661-average-time-of-process-per-machine/README.md) | Easy | Solved | 1 | mysql | 2026-10-24 |
+| 1683 | [Invalid Tweets](../Database/1683-invalid-tweets/README.md) | Easy | Solved | 1 | mysql | 2026-10-22 |
+| 1757 | [Recyclable and Low Fat Products](../Database/1757-recyclable-and-low-fat-products/README.md) | Easy | Solved | 1 | mysql | 2026-10-22 |

@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 214 | 205 | 9 | 70 | 112 | 23 | 2026-10-21 |
+| 227 | 218 | 9 | 82 | 113 | 23 | 2026-10-24 |
 
 ## Topics
 
@@ -15,6 +15,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
 | [String](String/README.md) | 15 | 15 | 0 | 5 | 6 | 4 |
 | [Math](Math/README.md) | 14 | 12 | 2 | 8 | 6 | 0 |
+| [Database](Database/README.md) | 13 | 13 | 0 | 12 | 1 | 0 |
 | [Linked List](Linked-List/README.md) | 12 | 12 | 0 | 3 | 8 | 1 |
 | [Stack](Stack/README.md) | 8 | 8 | 0 | 5 | 3 | 0 |
 | [Depth-First Search](Depth-First-Search/README.md) | 6 | 6 | 0 | 0 | 6 | 0 |
@@ -42,27 +43,27 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
-| 2026-10-21 | [554. Brick Wall](Array/0554-brick-wall/README.md) | Accepted | cpp |
-| 2026-10-21 | [554. Brick Wall](Array/0554-brick-wall/README.md) | Accepted | cpp |
-| 2026-10-21 | [554. Brick Wall](Array/0554-brick-wall/README.md) | Wrong Answer | cpp |
-| 2026-10-21 | [554. Brick Wall](Array/0554-brick-wall/README.md) | Runtime Error | cpp |
-| 2026-10-20 | [3886. Sum of Sortable Integers](Array/3886-sum-of-sortable-integers/README.md) | Time Limit Exceeded | python |
-| 2026-10-20 | [283. Move Zeroes](Array/0283-move-zeroes/README.md) | Accepted | python |
-| 2026-10-19 | [1642. Furthest Building You Can Reach](Array/1642-furthest-building-you-can-reach/README.md) | Accepted | cpp |
-| 2026-10-19 | [630. Course Schedule III](Array/0630-course-schedule-iii/README.md) | Accepted | cpp |
-| 2026-10-19 | [2089. Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | Accepted | cpp |
-| 2026-10-18 | [1569. Number of Ways to Reorder Array to Get Same BST](Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | Accepted | python |
-| 2026-10-17 | [2812. Find the Safest Path in a Grid](Array/2812-find-the-safest-path-in-a-grid/README.md) | Accepted | python |
-| 2026-10-17 | [2812. Find the Safest Path in a Grid](Array/2812-find-the-safest-path-in-a-grid/README.md) | Accepted | python |
-| 2026-10-17 | [2812. Find the Safest Path in a Grid](Array/2812-find-the-safest-path-in-a-grid/README.md) | Accepted | python |
-| 2026-10-17 | [547. Number of Provinces](Depth-First-Search/0547-number-of-provinces/README.md) | Accepted | python |
-| 2026-10-17 | [1631. Path With Minimum Effort](Array/1631-path-with-minimum-effort/README.md) | Accepted | python |
+| 2026-10-24 | [620. Not Boring Movies](Database/0620-not-boring-movies/README.md) | Accepted | mysql |
+| 2026-10-24 | [620. Not Boring Movies](Database/0620-not-boring-movies/README.md) | Runtime Error | mysql |
+| 2026-10-24 | [620. Not Boring Movies](Database/0620-not-boring-movies/README.md) | Accepted | mysql |
+| 2026-10-24 | [570. Managers with at Least 5 Direct Reports](Database/0570-managers-with-at-least-5-direct-reports/README.md) | Accepted | mysql |
+| 2026-10-24 | [1280. Students and Examinations](Database/1280-students-and-examinations/README.md) | Accepted | mysql |
+| 2026-10-24 | [577. Employee Bonus](Database/0577-employee-bonus/README.md) | Accepted | mysql |
+| 2026-10-24 | [1661. Average Time of Process per Machine](Database/1661-average-time-of-process-per-machine/README.md) | Accepted | mysql |
+| 2026-10-24 | [197. Rising Temperature](Database/0197-rising-temperature/README.md) | Accepted | mysql |
+| 2026-10-23 | [1581. Customer Who Visited but Did Not Make Any Transactions](Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | Accepted | mysql |
+| 2026-10-23 | [1068. Product Sales Analysis I](Database/1068-product-sales-analysis-i/README.md) | Accepted | mysql |
+| 2026-10-22 | [1683. Invalid Tweets](Database/1683-invalid-tweets/README.md) | Accepted | mysql |
+| 2026-10-22 | [1148. Article Views I](Database/1148-article-views-i/README.md) | Accepted | mysql |
+| 2026-10-22 | [595. Big Countries](Database/0595-big-countries/README.md) | Accepted | mysql |
+| 2026-10-22 | [595. Big Countries](Database/0595-big-countries/README.md) | Wrong Answer | mysql |
+| 2026-10-22 | [595. Big Countries](Database/0595-big-countries/README.md) | Wrong Answer | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 14 | 31 |
+| 2026-10 | 27 | 48 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
 | 2026-07 | 21 | 55 |
@@ -160,6 +161,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 169 | [Majority Element](Array/0169-majority-element/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-10-06 | 2025-10-06 |
 | 173 | [Binary Search Tree Iterator](Stack/0173-binary-search-tree-iterator/README.md) | [Stack](Stack/README.md) | Medium | Solved | 1 | 2026-06-12 | 2026-06-12 |
 | 189 | [Rotate Array](Array/0189-rotate-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2025-09-23 | 2025-09-23 |
+| 197 | [Rising Temperature](Database/0197-rising-temperature/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
 | 199 | [Binary Tree Right Side View](Tree/0199-binary-tree-right-side-view/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-01-24 | 2026-01-24 |
 | 200 | [Number of Islands](Array/0200-number-of-islands/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-08-24 | 2026-08-24 |
 | 204 | [Count Primes](Array/0204-count-primes/README.md) | [Array](Array/README.md) | Medium | Solved | 9 | 2026-07-16 | 2026-07-16 |
@@ -203,6 +205,11 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 547 | [Number of Provinces](Depth-First-Search/0547-number-of-provinces/README.md) | [Depth-First Search](Depth-First-Search/README.md) | Medium | Solved | 2 | 2026-08-11 | 2026-08-11 |
 | 554 | [Brick Wall](Array/0554-brick-wall/README.md) | [Array](Array/README.md) | Medium | Solved | 4 | 2026-10-21 | 2026-10-21 |
 | 560 | [Subarray Sum Equals K](Array/0560-subarray-sum-equals-k/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-14 | 2025-10-14 |
+| 570 | [Managers with at Least 5 Direct Reports](Database/0570-managers-with-at-least-5-direct-reports/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-10-24 | 2026-10-24 |
+| 577 | [Employee Bonus](Database/0577-employee-bonus/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
+| 584 | [Find Customer Referee](Database/0584-find-customer-referee/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
+| 595 | [Big Countries](Database/0595-big-countries/README.md) | [Database](Database/README.md) | Easy | Solved | 3 | 2026-10-22 | 2026-10-22 |
+| 620 | [Not Boring Movies](Database/0620-not-boring-movies/README.md) | [Database](Database/README.md) | Easy | Solved | 3 | 2026-10-24 | 2026-10-24 |
 | 630 | [Course Schedule III](Array/0630-course-schedule-iii/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-10-19 | 2026-10-19 |
 | 653 | [Two Sum IV - Input is a BST](Hash-Table/0653-two-sum-iv-input-is-a-bst/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-06-13 | 2026-06-13 |
 | 662 | [Maximum Width of Binary Tree](Tree/0662-maximum-width-of-binary-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 2 | 2026-01-25 | 2026-01-25 |
@@ -233,9 +240,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1011 | [Capacity To Ship Packages Within D Days](Array/1011-capacity-to-ship-packages-within-d-days/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-03-22 | 2026-03-22 |
 | 1020 | [Number of Enclaves](Array/1020-number-of-enclaves/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-08-23 | 2026-08-23 |
 | 1021 | [Remove Outermost Parentheses](String/1021-remove-outermost-parentheses/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2026-01-29 | 2026-01-29 |
+| 1068 | [Product Sales Analysis I](Database/1068-product-sales-analysis-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-23 | 2026-10-23 |
 | 1091 | [Shortest Path in Binary Matrix](Array/1091-shortest-path-in-binary-matrix/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-09-07 | 2026-09-07 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](String/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md) | [String](String/README.md) | Medium | Solved | 1 | 2026-09-30 | 2026-09-30 |
+| 1148 | [Article Views I](Database/1148-article-views-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
 | 1248 | [Count Number of Nice Subarrays](Array/1248-count-number-of-nice-subarrays/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-09-13 | 2026-09-13 |
+| 1280 | [Students and Examinations](Database/1280-students-and-examinations/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-03-21 | 2026-03-21 |
 | 1358 | [Number of Substrings Containing All Three Characters](Hash-Table/1358-number-of-substrings-containing-all-three-characters/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-09-13 | 2026-09-13 |
 | 1373 | [Maximum Sum BST in Binary Tree](Dynamic-Programming/1373-maximum-sum-bst-in-binary-tree/README.md) | [Dynamic Programming](Dynamic-Programming/README.md) | Hard | Solved | 1 | 2026-06-13 | 2026-06-13 |
@@ -247,12 +257,16 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1539 | [Kth Missing Positive Number](Array/1539-kth-missing-positive-number/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-03-22 | 2026-03-22 |
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](Graph-Theory/1557-minimum-number-of-vertices-to-reach-all-nodes/README.md) | [Graph Theory](Graph-Theory/README.md) | Medium | Solved | 1 | 2026-10-17 | 2026-10-17 |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-10-18 | 2026-10-18 |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-23 | 2026-10-23 |
 | 1584 | [Min Cost to Connect All Points](Array/1584-min-cost-to-connect-all-points/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-17 | 2026-10-17 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](String/1614-maximum-nesting-depth-of-the-parentheses/README.md) | [String](String/README.md) | Easy | Solved | 3 | 2026-06-15 | 2026-06-15 |
 | 1631 | [Path With Minimum Effort](Array/1631-path-with-minimum-effort/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-09-08 | 2026-09-08 |
 | 1642 | [Furthest Building You Can Reach](Array/1642-furthest-building-you-can-reach/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-19 | 2026-10-19 |
+| 1661 | [Average Time of Process per Machine](Database/1661-average-time-of-process-per-machine/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
 | 1672 | [Richest Customer Wealth](Array/1672-richest-customer-wealth/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-04-21 | 2026-04-21 |
+| 1683 | [Invalid Tweets](Database/1683-invalid-tweets/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
 | 1752 | [Check if Array Is Sorted and Rotated](Array/1752-check-if-array-is-sorted-and-rotated/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-09-22 | 2025-09-22 |
+| 1757 | [Recyclable and Low Fat Products](Database/1757-recyclable-and-low-fat-products/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
 | 1781 | [Sum of Beauty of All Substrings](Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-06-21 | 2026-06-21 |
 | 1848 | [Minimum Distance to the Target Element](Array/1848-minimum-distance-to-the-target-element/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-09-08 | 2026-09-08 |
 | 1901 | [Find a Peak Element II](Array/1901-find-a-peak-element-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-06-07 | 2026-06-07 |

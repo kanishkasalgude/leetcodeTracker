@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2177787002,
+  "synced_through": 2180762854,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -4026,6 +4026,244 @@
         {"id":2177781494,"status":"Wrong Answer","lang":"cpp","timestamp":1792573050,"runtime":null,"memory":null},
         {"id":2177782336,"status":"Accepted","lang":"cpp","timestamp":1792573117,"runtime":null,"memory":null},
         {"id":2177787002,"status":"Accepted","lang":"cpp","timestamp":1792573509,"runtime":"21 ms","memory":"30.6 MB"}
+      ]
+    },
+    "recyclable-and-low-fat-products": {
+      "id": "1757",
+      "title": "Recyclable and Low Fat Products",
+      "slug": "recyclable-and-low-fat-products",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1757-recyclable-and-low-fat-products",
+      "first_attempt_at": 1792688007,
+      "last_attempt_at": 1792688007,
+      "solved_at": 1792688007,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2179009171,"status":"Accepted","lang":"mysql","timestamp":1792688007,"runtime":"845 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2179009171,"status":"Accepted","lang":"mysql","timestamp":1792688007,"runtime":"845 ms","memory":"0B"}
+      ]
+    },
+    "find-customer-referee": {
+      "id": "584",
+      "title": "Find Customer Referee",
+      "slug": "find-customer-referee",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0584-find-customer-referee",
+      "first_attempt_at": 1792688300,
+      "last_attempt_at": 1792688300,
+      "solved_at": 1792688300,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2179013956,"status":"Accepted","lang":"mysql","timestamp":1792688300,"runtime":"584 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2179013956,"status":"Accepted","lang":"mysql","timestamp":1792688300,"runtime":"584 ms","memory":"0B"}
+      ]
+    },
+    "big-countries": {
+      "id": "595",
+      "title": "Big Countries",
+      "slug": "big-countries",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0595-big-countries",
+      "first_attempt_at": 1792688574,
+      "last_attempt_at": 1792689019,
+      "solved_at": 1792689019,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2179025920,"status":"Accepted","lang":"mysql","timestamp":1792689019,"runtime":"344 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2179018504,"status":"Wrong Answer","lang":"mysql","timestamp":1792688574,"runtime":null,"memory":null},
+        {"id":2179025392,"status":"Wrong Answer","lang":"mysql","timestamp":1792688987,"runtime":null,"memory":null},
+        {"id":2179025920,"status":"Accepted","lang":"mysql","timestamp":1792689019,"runtime":"344 ms","memory":"0B"}
+      ]
+    },
+    "article-views-i": {
+      "id": "1148",
+      "title": "Article Views I",
+      "slug": "article-views-i",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1148-article-views-i",
+      "first_attempt_at": 1792689201,
+      "last_attempt_at": 1792689201,
+      "solved_at": 1792689201,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2179029127,"status":"Accepted","lang":"mysql","timestamp":1792689201,"runtime":"626 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2179029127,"status":"Accepted","lang":"mysql","timestamp":1792689201,"runtime":"626 ms","memory":"0B"}
+      ]
+    },
+    "invalid-tweets": {
+      "id": "1683",
+      "title": "Invalid Tweets",
+      "slug": "invalid-tweets",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1683-invalid-tweets",
+      "first_attempt_at": 1792689307,
+      "last_attempt_at": 1792689307,
+      "solved_at": 1792689307,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2179031018,"status":"Accepted","lang":"mysql","timestamp":1792689307,"runtime":"733 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2179031018,"status":"Accepted","lang":"mysql","timestamp":1792689307,"runtime":"733 ms","memory":"0B"}
+      ]
+    },
+    "product-sales-analysis-i": {
+      "id": "1068",
+      "title": "Product Sales Analysis I",
+      "slug": "product-sales-analysis-i",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1068-product-sales-analysis-i",
+      "first_attempt_at": 1792753956,
+      "last_attempt_at": 1792753956,
+      "solved_at": 1792753956,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2179597524,"status":"Accepted","lang":"mysql","timestamp":1792753956,"runtime":"1363 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2179597524,"status":"Accepted","lang":"mysql","timestamp":1792753956,"runtime":"1363 ms","memory":"0B"}
+      ]
+    },
+    "customer-who-visited-but-did-not-make-any-transactions": {
+      "id": "1581",
+      "title": "Customer Who Visited but Did Not Make Any Transactions",
+      "slug": "customer-who-visited-but-did-not-make-any-transactions",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1581-customer-who-visited-but-did-not-make-any-transactions",
+      "first_attempt_at": 1792754319,
+      "last_attempt_at": 1792754319,
+      "solved_at": 1792754319,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2179600993,"status":"Accepted","lang":"mysql","timestamp":1792754319,"runtime":"1505 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2179600993,"status":"Accepted","lang":"mysql","timestamp":1792754319,"runtime":"1505 ms","memory":"0B"}
+      ]
+    },
+    "rising-temperature": {
+      "id": "197",
+      "title": "Rising Temperature",
+      "slug": "rising-temperature",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0197-rising-temperature",
+      "first_attempt_at": 1792861152,
+      "last_attempt_at": 1792861152,
+      "solved_at": 1792861152,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2180700862,"status":"Accepted","lang":"mysql","timestamp":1792861152,"runtime":"639 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2180700862,"status":"Accepted","lang":"mysql","timestamp":1792861152,"runtime":"639 ms","memory":"0B"}
+      ]
+    },
+    "average-time-of-process-per-machine": {
+      "id": "1661",
+      "title": "Average Time of Process per Machine",
+      "slug": "average-time-of-process-per-machine",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1661-average-time-of-process-per-machine",
+      "first_attempt_at": 1792861760,
+      "last_attempt_at": 1792861760,
+      "solved_at": 1792861760,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2180709640,"status":"Accepted","lang":"mysql","timestamp":1792861760,"runtime":"295 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2180709640,"status":"Accepted","lang":"mysql","timestamp":1792861760,"runtime":"295 ms","memory":"0B"}
+      ]
+    },
+    "employee-bonus": {
+      "id": "577",
+      "title": "Employee Bonus",
+      "slug": "employee-bonus",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0577-employee-bonus",
+      "first_attempt_at": 1792861996,
+      "last_attempt_at": 1792861996,
+      "solved_at": 1792861996,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2180713092,"status":"Accepted","lang":"mysql","timestamp":1792861996,"runtime":"1291 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2180713092,"status":"Accepted","lang":"mysql","timestamp":1792861996,"runtime":"1291 ms","memory":"0B"}
+      ]
+    },
+    "students-and-examinations": {
+      "id": "1280",
+      "title": "Students and Examinations",
+      "slug": "students-and-examinations",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1280-students-and-examinations",
+      "first_attempt_at": 1792862779,
+      "last_attempt_at": 1792862779,
+      "solved_at": 1792862779,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2180724576,"status":"Accepted","lang":"mysql","timestamp":1792862779,"runtime":"1617 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2180724576,"status":"Accepted","lang":"mysql","timestamp":1792862779,"runtime":"1617 ms","memory":"0B"}
+      ]
+    },
+    "managers-with-at-least-5-direct-reports": {
+      "id": "570",
+      "title": "Managers with at Least 5 Direct Reports",
+      "slug": "managers-with-at-least-5-direct-reports",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0570-managers-with-at-least-5-direct-reports",
+      "first_attempt_at": 1792864341,
+      "last_attempt_at": 1792864341,
+      "solved_at": 1792864341,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2180747938,"status":"Accepted","lang":"mysql","timestamp":1792864341,"runtime":"394 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2180747938,"status":"Accepted","lang":"mysql","timestamp":1792864341,"runtime":"394 ms","memory":"0B"}
+      ]
+    },
+    "not-boring-movies": {
+      "id": "620",
+      "title": "Not Boring Movies",
+      "slug": "not-boring-movies",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0620-not-boring-movies",
+      "first_attempt_at": 1792865243,
+      "last_attempt_at": 1792865332,
+      "solved_at": 1792865243,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2180762854,"status":"Accepted","lang":"mysql","timestamp":1792865332,"runtime":"341 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2180761447,"status":"Accepted","lang":"mysql","timestamp":1792865243,"runtime":null,"memory":null},
+        {"id":2180762558,"status":"Runtime Error","lang":"mysql","timestamp":1792865314,"runtime":null,"memory":null},
+        {"id":2180762854,"status":"Accepted","lang":"mysql","timestamp":1792865332,"runtime":"341 ms","memory":"0B"}
       ]
     }
   }
