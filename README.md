@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 227 | 218 | 9 | 82 | 113 | 23 | 2026-10-24 |
+| 231 | 222 | 9 | 85 | 114 | 23 | 2026-10-25 |
 
 ## Topics
 
@@ -13,9 +13,9 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | [Array](Array/README.md) | 109 | 103 | 6 | 33 | 63 | 13 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
+| [Database](Database/README.md) | 17 | 17 | 0 | 15 | 2 | 0 |
 | [String](String/README.md) | 15 | 15 | 0 | 5 | 6 | 4 |
 | [Math](Math/README.md) | 14 | 12 | 2 | 8 | 6 | 0 |
-| [Database](Database/README.md) | 13 | 13 | 0 | 12 | 1 | 0 |
 | [Linked List](Linked-List/README.md) | 12 | 12 | 0 | 3 | 8 | 1 |
 | [Stack](Stack/README.md) | 8 | 8 | 0 | 5 | 3 | 0 |
 | [Depth-First Search](Depth-First-Search/README.md) | 6 | 6 | 0 | 0 | 6 | 0 |
@@ -43,6 +43,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-25 | [1633. Percentage of Users Attended a Contest](Database/1633-percentage-of-users-attended-a-contest/README.md) | Accepted | mysql |
+| 2026-10-25 | [1075. Project Employees I](Database/1075-project-employees-i/README.md) | Accepted | mysql |
+| 2026-10-25 | [1251. Average Selling Price](Database/1251-average-selling-price/README.md) | Accepted | mysql |
+| 2026-10-25 | [1251. Average Selling Price](Database/1251-average-selling-price/README.md) | Wrong Answer | mysql |
+| 2026-10-25 | [1934. Confirmation Rate](Database/1934-confirmation-rate/README.md) | Accepted | mysql |
+| 2026-10-25 | [1934. Confirmation Rate](Database/1934-confirmation-rate/README.md) | Accepted | mysql |
 | 2026-10-24 | [620. Not Boring Movies](Database/0620-not-boring-movies/README.md) | Accepted | mysql |
 | 2026-10-24 | [620. Not Boring Movies](Database/0620-not-boring-movies/README.md) | Runtime Error | mysql |
 | 2026-10-24 | [620. Not Boring Movies](Database/0620-not-boring-movies/README.md) | Accepted | mysql |
@@ -52,18 +58,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-24 | [1661. Average Time of Process per Machine](Database/1661-average-time-of-process-per-machine/README.md) | Accepted | mysql |
 | 2026-10-24 | [197. Rising Temperature](Database/0197-rising-temperature/README.md) | Accepted | mysql |
 | 2026-10-23 | [1581. Customer Who Visited but Did Not Make Any Transactions](Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | Accepted | mysql |
-| 2026-10-23 | [1068. Product Sales Analysis I](Database/1068-product-sales-analysis-i/README.md) | Accepted | mysql |
-| 2026-10-22 | [1683. Invalid Tweets](Database/1683-invalid-tweets/README.md) | Accepted | mysql |
-| 2026-10-22 | [1148. Article Views I](Database/1148-article-views-i/README.md) | Accepted | mysql |
-| 2026-10-22 | [595. Big Countries](Database/0595-big-countries/README.md) | Accepted | mysql |
-| 2026-10-22 | [595. Big Countries](Database/0595-big-countries/README.md) | Wrong Answer | mysql |
-| 2026-10-22 | [595. Big Countries](Database/0595-big-countries/README.md) | Wrong Answer | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 27 | 48 |
+| 2026-10 | 31 | 54 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
 | 2026-07 | 21 | 55 |
@@ -241,10 +241,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1020 | [Number of Enclaves](Array/1020-number-of-enclaves/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-08-23 | 2026-08-23 |
 | 1021 | [Remove Outermost Parentheses](String/1021-remove-outermost-parentheses/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2026-01-29 | 2026-01-29 |
 | 1068 | [Product Sales Analysis I](Database/1068-product-sales-analysis-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-23 | 2026-10-23 |
+| 1075 | [Project Employees I](Database/1075-project-employees-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-25 | 2026-10-25 |
 | 1091 | [Shortest Path in Binary Matrix](Array/1091-shortest-path-in-binary-matrix/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-09-07 | 2026-09-07 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](String/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md) | [String](String/README.md) | Medium | Solved | 1 | 2026-09-30 | 2026-09-30 |
 | 1148 | [Article Views I](Database/1148-article-views-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
 | 1248 | [Count Number of Nice Subarrays](Array/1248-count-number-of-nice-subarrays/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-09-13 | 2026-09-13 |
+| 1251 | [Average Selling Price](Database/1251-average-selling-price/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-25 | 2026-10-25 |
 | 1280 | [Students and Examinations](Database/1280-students-and-examinations/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-03-21 | 2026-03-21 |
 | 1358 | [Number of Substrings Containing All Three Characters](Hash-Table/1358-number-of-substrings-containing-all-three-characters/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-09-13 | 2026-09-13 |
@@ -261,6 +263,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1584 | [Min Cost to Connect All Points](Array/1584-min-cost-to-connect-all-points/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-17 | 2026-10-17 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](String/1614-maximum-nesting-depth-of-the-parentheses/README.md) | [String](String/README.md) | Easy | Solved | 3 | 2026-06-15 | 2026-06-15 |
 | 1631 | [Path With Minimum Effort](Array/1631-path-with-minimum-effort/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-09-08 | 2026-09-08 |
+| 1633 | [Percentage of Users Attended a Contest](Database/1633-percentage-of-users-attended-a-contest/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-25 | 2026-10-25 |
 | 1642 | [Furthest Building You Can Reach](Array/1642-furthest-building-you-can-reach/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-19 | 2026-10-19 |
 | 1661 | [Average Time of Process per Machine](Database/1661-average-time-of-process-per-machine/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
 | 1672 | [Richest Customer Wealth](Array/1672-richest-customer-wealth/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-04-21 | 2026-04-21 |
@@ -272,6 +275,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1901 | [Find a Peak Element II](Array/1901-find-a-peak-element-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-06-07 | 2026-06-07 |
 | 1903 | [Largest Odd Number in String](Math/1903-largest-odd-number-in-string/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-06-15 | 2026-06-15 |
 | 1922 | [Count Good Numbers](Math/1922-count-good-numbers/README.md) | [Math](Math/README.md) | Medium | Solved | 3 | 2026-08-19 | 2026-08-19 |
+| 1934 | [Confirmation Rate](Database/1934-confirmation-rate/README.md) | [Database](Database/README.md) | Medium | Solved | 2 | 2026-10-25 | 2026-10-25 |
 | 2089 | [Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-10-19 | 2026-10-19 |
 | 2095 | [Delete the Middle Node of a Linked List](Linked-List/2095-delete-the-middle-node-of-a-linked-list/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 2 | 2025-08-18 | 2025-08-18 |
 | 2104 | [Sum of Subarray Ranges](Array/2104-sum-of-subarray-ranges/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-07-27 | 2026-07-27 |

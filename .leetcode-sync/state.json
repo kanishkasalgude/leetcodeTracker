@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2180762854,
+  "synced_through": 2181298406,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -4264,6 +4264,80 @@
         {"id":2180761447,"status":"Accepted","lang":"mysql","timestamp":1792865243,"runtime":null,"memory":null},
         {"id":2180762558,"status":"Runtime Error","lang":"mysql","timestamp":1792865314,"runtime":null,"memory":null},
         {"id":2180762854,"status":"Accepted","lang":"mysql","timestamp":1792865332,"runtime":"341 ms","memory":"0B"}
+      ]
+    },
+    "confirmation-rate": {
+      "id": "1934",
+      "title": "Confirmation Rate",
+      "slug": "confirmation-rate",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1934-confirmation-rate",
+      "first_attempt_at": 1792921015,
+      "last_attempt_at": 1792921063,
+      "solved_at": 1792921015,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2181265968,"status":"Accepted","lang":"mysql","timestamp":1792921063,"runtime":"1137 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2181265546,"status":"Accepted","lang":"mysql","timestamp":1792921015,"runtime":null,"memory":null},
+        {"id":2181265968,"status":"Accepted","lang":"mysql","timestamp":1792921063,"runtime":"1137 ms","memory":"0B"}
+      ]
+    },
+    "average-selling-price": {
+      "id": "1251",
+      "title": "Average Selling Price",
+      "slug": "average-selling-price",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1251-average-selling-price",
+      "first_attempt_at": 1792922508,
+      "last_attempt_at": 1792922577,
+      "solved_at": 1792922577,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2181281336,"status":"Accepted","lang":"mysql","timestamp":1792922577,"runtime":"1584 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2181280623,"status":"Wrong Answer","lang":"mysql","timestamp":1792922508,"runtime":null,"memory":null},
+        {"id":2181281336,"status":"Accepted","lang":"mysql","timestamp":1792922577,"runtime":"1584 ms","memory":"0B"}
+      ]
+    },
+    "project-employees-i": {
+      "id": "1075",
+      "title": "Project Employees I",
+      "slug": "project-employees-i",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1075-project-employees-i",
+      "first_attempt_at": 1792922952,
+      "last_attempt_at": 1792922952,
+      "solved_at": 1792922952,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2181285355,"status":"Accepted","lang":"mysql","timestamp":1792922952,"runtime":"745 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2181285355,"status":"Accepted","lang":"mysql","timestamp":1792922952,"runtime":"745 ms","memory":"0B"}
+      ]
+    },
+    "percentage-of-users-attended-a-contest": {
+      "id": "1633",
+      "title": "Percentage of Users Attended a Contest",
+      "slug": "percentage-of-users-attended-a-contest",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1633-percentage-of-users-attended-a-contest",
+      "first_attempt_at": 1792924195,
+      "last_attempt_at": 1792924195,
+      "solved_at": 1792924195,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2181298406,"status":"Accepted","lang":"mysql","timestamp":1792924195,"runtime":"1332 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2181298406,"status":"Accepted","lang":"mysql","timestamp":1792924195,"runtime":"1332 ms","memory":"0B"}
       ]
     }
   }
