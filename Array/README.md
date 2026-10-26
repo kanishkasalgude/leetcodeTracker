@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 109 | 103 | 6 | 33 | 63 | 13 |
+| 110 | 104 | 6 | 33 | 64 | 13 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -101,6 +101,7 @@
 | 2916 | [Subarrays Distinct Element Sum of Squares II](../Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | Hard | Attempted | 3 | cpp | - |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 1 | cpp | 2026-02-01 |
 | 3483 | [Unique 3-Digit Even Numbers](../Array/3483-unique-3-digit-even-numbers/README.md) | Easy | Solved | 2 | cpp | 2026-09-11 |
+| 3619 | [Count Islands With Total Value Divisible by K](../Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | Medium | Solved | 2 | python3 | 2026-10-26 |
 | 3727 | [Maximum Alternating Sum of Squares](../Array/3727-maximum-alternating-sum-of-squares/README.md) | Medium | Solved | 1 | cpp | 2026-10-13 |
 | 3842 | [Toggle Light Bulbs](../Array/3842-toggle-light-bulbs/README.md) | Easy | Solved | 4 | cpp | 2026-02-15 |
 | 3843 | [First Element with Unique Frequency](../Array/3843-first-element-with-unique-frequency/README.md) | Medium | Attempted | 7 | cpp | - |

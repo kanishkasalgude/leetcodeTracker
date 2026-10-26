@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 231 | 222 | 9 | 85 | 114 | 23 | 2026-10-25 |
+| 232 | 223 | 9 | 85 | 115 | 23 | 2026-10-26 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 109 | 103 | 6 | 33 | 63 | 13 |
+| [Array](Array/README.md) | 110 | 104 | 6 | 33 | 64 | 13 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
 | [Database](Database/README.md) | 17 | 17 | 0 | 15 | 2 | 0 |
@@ -43,6 +43,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-26 | [3619. Count Islands With Total Value Divisible by K](Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | Accepted | python3 |
+| 2026-10-26 | [3619. Count Islands With Total Value Divisible by K](Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | Wrong Answer | python3 |
 | 2026-10-25 | [1633. Percentage of Users Attended a Contest](Database/1633-percentage-of-users-attended-a-contest/README.md) | Accepted | mysql |
 | 2026-10-25 | [1075. Project Employees I](Database/1075-project-employees-i/README.md) | Accepted | mysql |
 | 2026-10-25 | [1251. Average Selling Price](Database/1251-average-selling-price/README.md) | Accepted | mysql |
@@ -56,14 +58,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-24 | [1280. Students and Examinations](Database/1280-students-and-examinations/README.md) | Accepted | mysql |
 | 2026-10-24 | [577. Employee Bonus](Database/0577-employee-bonus/README.md) | Accepted | mysql |
 | 2026-10-24 | [1661. Average Time of Process per Machine](Database/1661-average-time-of-process-per-machine/README.md) | Accepted | mysql |
-| 2026-10-24 | [197. Rising Temperature](Database/0197-rising-temperature/README.md) | Accepted | mysql |
-| 2026-10-23 | [1581. Customer Who Visited but Did Not Make Any Transactions](Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 31 | 54 |
+| 2026-10 | 32 | 56 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
 | 2026-07 | 21 | 55 |
@@ -291,6 +291,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-01 | 2026-02-01 |
 | 3483 | [Unique 3-Digit Even Numbers](Array/3483-unique-3-digit-even-numbers/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-09-11 | 2026-09-11 |
 | 3536 | [Maximum Product of Two Digits](Math/3536-maximum-product-of-two-digits/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-25 | 2026-07-25 |
+| 3619 | [Count Islands With Total Value Divisible by K](Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-10-26 | 2026-10-26 |
 | 3727 | [Maximum Alternating Sum of Squares](Array/3727-maximum-alternating-sum-of-squares/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-13 | 2026-10-13 |
 | 3783 | [Mirror Distance of an Integer](Math/3783-mirror-distance-of-an-integer/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-09-12 | 2026-09-12 |
 | 3842 | [Toggle Light Bulbs](Array/3842-toggle-light-bulbs/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-02-15 | 2026-02-15 |
