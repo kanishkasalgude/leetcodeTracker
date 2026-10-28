@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2182465480,
+  "synced_through": 2183072425,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -4357,6 +4357,60 @@
       "submissions": [
         {"id":2182463955,"status":"Wrong Answer","lang":"python3","timestamp":1793035971,"runtime":null,"memory":null},
         {"id":2182465480,"status":"Accepted","lang":"python3","timestamp":1793036059,"runtime":"270 ms","memory":"30.3 MB"}
+      ]
+    },
+    "queries-quality-and-percentage": {
+      "id": "1211",
+      "title": "Queries Quality and Percentage",
+      "slug": "queries-quality-and-percentage",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1211-queries-quality-and-percentage",
+      "first_attempt_at": 1793037324,
+      "last_attempt_at": 1793037324,
+      "solved_at": 1793037324,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2182487256,"status":"Accepted","lang":"mysql","timestamp":1793037324,"runtime":"541 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2182487256,"status":"Accepted","lang":"mysql","timestamp":1793037324,"runtime":"541 ms","memory":"0B"}
+      ]
+    },
+    "create-grid-with-exactly-one-path": {
+      "id": "3963",
+      "title": "Create Grid With Exactly One Path",
+      "slug": "create-grid-with-exactly-one-path",
+      "difficulty": "Easy",
+      "tags": [],
+      "topic": "Other",
+      "dir": "Other/3963-create-grid-with-exactly-one-path",
+      "first_attempt_at": 1793104310,
+      "last_attempt_at": 1793104310,
+      "solved_at": 1793104310,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2183063823,"status":"Accepted","lang":"cpp","timestamp":1793104310,"runtime":"2 ms","memory":"12 MB"}
+      },
+      "submissions": [
+        {"id":2183063823,"status":"Accepted","lang":"cpp","timestamp":1793104310,"runtime":"2 ms","memory":"12 MB"}
+      ]
+    },
+    "replace-employee-id-with-the-unique-identifier": {
+      "id": "1378",
+      "title": "Replace Employee ID With The Unique Identifier",
+      "slug": "replace-employee-id-with-the-unique-identifier",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1378-replace-employee-id-with-the-unique-identifier",
+      "first_attempt_at": 1793105145,
+      "last_attempt_at": 1793105145,
+      "solved_at": 1793105145,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2183072425,"status":"Accepted","lang":"mysql","timestamp":1793105145,"runtime":"1498 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2183072425,"status":"Accepted","lang":"mysql","timestamp":1793105145,"runtime":"1498 ms","memory":"0B"}
       ]
     }
   }

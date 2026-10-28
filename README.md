@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 232 | 223 | 9 | 85 | 115 | 23 | 2026-10-26 |
+| 235 | 226 | 9 | 88 | 115 | 23 | 2026-10-27 |
 
 ## Topics
 
@@ -12,8 +12,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 110 | 104 | 6 | 33 | 64 | 13 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
+| [Database](Database/README.md) | 19 | 19 | 0 | 17 | 2 | 0 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
-| [Database](Database/README.md) | 17 | 17 | 0 | 15 | 2 | 0 |
 | [String](String/README.md) | 15 | 15 | 0 | 5 | 6 | 4 |
 | [Math](Math/README.md) | 14 | 12 | 2 | 8 | 6 | 0 |
 | [Linked List](Linked-List/README.md) | 12 | 12 | 0 | 3 | 8 | 1 |
@@ -24,6 +24,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | [Binary Search](Binary-Search/README.md) | 1 | 1 | 0 | 0 | 1 | 0 |
 | [Bit Manipulation](Bit-Manipulation/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 | [Graph Theory](Graph-Theory/README.md) | 1 | 1 | 0 | 0 | 1 | 0 |
+| [Other](Other/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 
 ## Not solved yet
 
@@ -43,6 +44,9 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-27 | [1378. Replace Employee ID With The Unique Identifier](Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Accepted | mysql |
+| 2026-10-27 | [3963. Create Grid With Exactly One Path](Other/3963-create-grid-with-exactly-one-path/README.md) | Accepted | cpp |
+| 2026-10-26 | [1211. Queries Quality and Percentage](Database/1211-queries-quality-and-percentage/README.md) | Accepted | mysql |
 | 2026-10-26 | [3619. Count Islands With Total Value Divisible by K](Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | Accepted | python3 |
 | 2026-10-26 | [3619. Count Islands With Total Value Divisible by K](Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | Wrong Answer | python3 |
 | 2026-10-25 | [1633. Percentage of Users Attended a Contest](Database/1633-percentage-of-users-attended-a-contest/README.md) | Accepted | mysql |
@@ -55,15 +59,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-24 | [620. Not Boring Movies](Database/0620-not-boring-movies/README.md) | Runtime Error | mysql |
 | 2026-10-24 | [620. Not Boring Movies](Database/0620-not-boring-movies/README.md) | Accepted | mysql |
 | 2026-10-24 | [570. Managers with at Least 5 Direct Reports](Database/0570-managers-with-at-least-5-direct-reports/README.md) | Accepted | mysql |
-| 2026-10-24 | [1280. Students and Examinations](Database/1280-students-and-examinations/README.md) | Accepted | mysql |
-| 2026-10-24 | [577. Employee Bonus](Database/0577-employee-bonus/README.md) | Accepted | mysql |
-| 2026-10-24 | [1661. Average Time of Process per Machine](Database/1661-average-time-of-process-per-machine/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 32 | 56 |
+| 2026-10 | 35 | 59 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
 | 2026-07 | 21 | 55 |
@@ -245,12 +246,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1091 | [Shortest Path in Binary Matrix](Array/1091-shortest-path-in-binary-matrix/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-09-07 | 2026-09-07 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](String/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md) | [String](String/README.md) | Medium | Solved | 1 | 2026-09-30 | 2026-09-30 |
 | 1148 | [Article Views I](Database/1148-article-views-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
+| 1211 | [Queries Quality and Percentage](Database/1211-queries-quality-and-percentage/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-26 | 2026-10-26 |
 | 1248 | [Count Number of Nice Subarrays](Array/1248-count-number-of-nice-subarrays/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-09-13 | 2026-09-13 |
 | 1251 | [Average Selling Price](Database/1251-average-selling-price/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-25 | 2026-10-25 |
 | 1280 | [Students and Examinations](Database/1280-students-and-examinations/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-03-21 | 2026-03-21 |
 | 1358 | [Number of Substrings Containing All Three Characters](Hash-Table/1358-number-of-substrings-containing-all-three-characters/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-09-13 | 2026-09-13 |
 | 1373 | [Maximum Sum BST in Binary Tree](Dynamic-Programming/1373-maximum-sum-bst-in-binary-tree/README.md) | [Dynamic Programming](Dynamic-Programming/README.md) | Hard | Solved | 1 | 2026-06-13 | 2026-06-13 |
+| 1378 | [Replace Employee ID With The Unique Identifier](Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-27 | 2026-10-27 |
 | 1423 | [Maximum Points You Can Obtain from Cards](Array/1423-maximum-points-you-can-obtain-from-cards/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-09-13 | 2026-09-13 |
 | 1470 | [Shuffle the Array](Array/1470-shuffle-the-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-04-21 | 2026-04-21 |
 | 1480 | [Running Sum of 1d Array](Array/1480-running-sum-of-1d-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-04-21 | 2026-04-21 |
@@ -304,6 +307,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 3886 | [Sum of Sortable Integers](Array/3886-sum-of-sortable-integers/README.md) | [Array](Array/README.md) | Hard | Attempted | 1 | 2026-10-20 | - |
 | 3903 | [Smallest Stable Index I](Array/3903-smallest-stable-index-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-09-04 | 2026-09-04 |
 | 3904 | [Smallest Stable Index II](Array/3904-smallest-stable-index-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-09-05 | 2026-09-05 |
+| 3963 | [Create Grid With Exactly One Path](Other/3963-create-grid-with-exactly-one-path/README.md) | [Other](Other/README.md) | Easy | Solved | 1 | 2026-10-27 | 2026-10-27 |
 | 3992 | [Rearrange String to Avoid Character Pair](Two-Pointers/3992-rearrange-string-to-avoid-character-pair/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 3 | 2026-07-18 | 2026-07-18 |
 | 3993 | [Maximum Value of an Alternating Sequence](Math/3993-maximum-value-of-an-alternating-sequence/README.md) | [Math](Math/README.md) | Medium | Attempted | 2 | 2026-07-18 | - |
 | 3994 | [Minimum Adjacent Swaps to Partition Array](Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | [Array](Array/README.md) | Medium | Attempted | 6 | 2026-07-18 | - |
