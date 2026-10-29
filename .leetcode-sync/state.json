@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2183972582,
+  "synced_through": 2184920178,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -4502,6 +4502,24 @@
       "submissions": [
         {"id":2183970667,"status":"Wrong Answer","lang":"mysql","timestamp":1793197081,"runtime":null,"memory":null},
         {"id":2183972582,"status":"Accepted","lang":"mysql","timestamp":1793197233,"runtime":"633 ms","memory":"0B"}
+      ]
+    },
+    "maximum-ice-cream-bars": {
+      "id": "1833",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "difficulty": "Medium",
+      "tags": ["Array","Greedy","Sorting","Counting Sort"],
+      "topic": "Array",
+      "dir": "Array/1833-maximum-ice-cream-bars",
+      "first_attempt_at": 1793294127,
+      "last_attempt_at": 1793294127,
+      "solved_at": 1793294127,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2184920178,"status":"Accepted","lang":"cpp","timestamp":1793294127,"runtime":"12 ms","memory":"90.2 MB"}
+      },
+      "submissions": [
+        {"id":2184920178,"status":"Accepted","lang":"cpp","timestamp":1793294127,"runtime":"12 ms","memory":"90.2 MB"}
       ]
     }
   }

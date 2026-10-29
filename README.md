@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 240 | 231 | 9 | 90 | 118 | 23 | 2026-10-28 |
+| 241 | 232 | 9 | 90 | 119 | 23 | 2026-10-29 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 110 | 104 | 6 | 33 | 64 | 13 |
+| [Array](Array/README.md) | 111 | 105 | 6 | 33 | 65 | 13 |
 | [Database](Database/README.md) | 24 | 24 | 0 | 19 | 5 | 0 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -44,6 +44,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-29 | [1833. Maximum Ice Cream Bars](Array/1833-maximum-ice-cream-bars/README.md) | Accepted | cpp |
 | 2026-10-28 | [1141. User Activity for the Past 30 Days I](Database/1141-user-activity-for-the-past-30-days-i/README.md) | Accepted | mysql |
 | 2026-10-28 | [1141. User Activity for the Past 30 Days I](Database/1141-user-activity-for-the-past-30-days-i/README.md) | Wrong Answer | mysql |
 | 2026-10-28 | [2356. Number of Unique Subjects Taught by Each Teacher](Database/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Accepted | mysql |
@@ -58,13 +59,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-25 | [1633. Percentage of Users Attended a Contest](Database/1633-percentage-of-users-attended-a-contest/README.md) | Accepted | mysql |
 | 2026-10-25 | [1075. Project Employees I](Database/1075-project-employees-i/README.md) | Accepted | mysql |
 | 2026-10-25 | [1251. Average Selling Price](Database/1251-average-selling-price/README.md) | Accepted | mysql |
-| 2026-10-25 | [1251. Average Selling Price](Database/1251-average-selling-price/README.md) | Wrong Answer | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 40 | 65 |
+| 2026-10 | 41 | 66 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
 | 2026-07 | 21 | 55 |
@@ -278,6 +278,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1752 | [Check if Array Is Sorted and Rotated](Array/1752-check-if-array-is-sorted-and-rotated/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-09-22 | 2025-09-22 |
 | 1757 | [Recyclable and Low Fat Products](Database/1757-recyclable-and-low-fat-products/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
 | 1781 | [Sum of Beauty of All Substrings](Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-06-21 | 2026-06-21 |
+| 1833 | [Maximum Ice Cream Bars](Array/1833-maximum-ice-cream-bars/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-29 | 2026-10-29 |
 | 1848 | [Minimum Distance to the Target Element](Array/1848-minimum-distance-to-the-target-element/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-09-08 | 2026-09-08 |
 | 1901 | [Find a Peak Element II](Array/1901-find-a-peak-element-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-06-07 | 2026-06-07 |
 | 1903 | [Largest Odd Number in String](Math/1903-largest-odd-number-in-string/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-06-15 | 2026-06-15 |
