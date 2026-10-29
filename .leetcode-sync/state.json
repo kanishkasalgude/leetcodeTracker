@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2183072425,
+  "synced_through": 2183972582,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -4411,6 +4411,97 @@
       },
       "submissions": [
         {"id":2183072425,"status":"Accepted","lang":"mysql","timestamp":1793105145,"runtime":"1498 ms","memory":"0B"}
+      ]
+    },
+    "monthly-transactions-i": {
+      "id": "1193",
+      "title": "Monthly Transactions I",
+      "slug": "monthly-transactions-i",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1193-monthly-transactions-i",
+      "first_attempt_at": 1793193689,
+      "last_attempt_at": 1793193689,
+      "solved_at": 1793193689,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2183926676,"status":"Accepted","lang":"mysql","timestamp":1793193689,"runtime":"910 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2183926676,"status":"Accepted","lang":"mysql","timestamp":1793193689,"runtime":"910 ms","memory":"0B"}
+      ]
+    },
+    "immediate-food-delivery-ii": {
+      "id": "1174",
+      "title": "Immediate Food Delivery II",
+      "slug": "immediate-food-delivery-ii",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1174-immediate-food-delivery-ii",
+      "first_attempt_at": 1793194508,
+      "last_attempt_at": 1793194508,
+      "solved_at": 1793194508,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2183936806,"status":"Accepted","lang":"mysql","timestamp":1793194508,"runtime":"1024 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2183936806,"status":"Accepted","lang":"mysql","timestamp":1793194508,"runtime":"1024 ms","memory":"0B"}
+      ]
+    },
+    "game-play-analysis-iv": {
+      "id": "550",
+      "title": "Game Play Analysis IV",
+      "slug": "game-play-analysis-iv",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0550-game-play-analysis-iv",
+      "first_attempt_at": 1793196138,
+      "last_attempt_at": 1793196138,
+      "solved_at": 1793196138,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2183958561,"status":"Accepted","lang":"mysql","timestamp":1793196138,"runtime":"931 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2183958561,"status":"Accepted","lang":"mysql","timestamp":1793196138,"runtime":"931 ms","memory":"0B"}
+      ]
+    },
+    "number-of-unique-subjects-taught-by-each-teacher": {
+      "id": "2356",
+      "title": "Number of Unique Subjects Taught by Each Teacher",
+      "slug": "number-of-unique-subjects-taught-by-each-teacher",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/2356-number-of-unique-subjects-taught-by-each-teacher",
+      "first_attempt_at": 1793196437,
+      "last_attempt_at": 1793196437,
+      "solved_at": 1793196437,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2183962580,"status":"Accepted","lang":"mysql","timestamp":1793196437,"runtime":"613 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2183962580,"status":"Accepted","lang":"mysql","timestamp":1793196437,"runtime":"613 ms","memory":"0B"}
+      ]
+    },
+    "user-activity-for-the-past-30-days-i": {
+      "id": "1141",
+      "title": "User Activity for the Past 30 Days I",
+      "slug": "user-activity-for-the-past-30-days-i",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1141-user-activity-for-the-past-30-days-i",
+      "first_attempt_at": 1793197081,
+      "last_attempt_at": 1793197233,
+      "solved_at": 1793197233,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2183972582,"status":"Accepted","lang":"mysql","timestamp":1793197233,"runtime":"633 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2183970667,"status":"Wrong Answer","lang":"mysql","timestamp":1793197081,"runtime":null,"memory":null},
+        {"id":2183972582,"status":"Accepted","lang":"mysql","timestamp":1793197233,"runtime":"633 ms","memory":"0B"}
       ]
     }
   }

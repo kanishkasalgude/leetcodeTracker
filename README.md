@@ -4,15 +4,15 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 235 | 226 | 9 | 88 | 115 | 23 | 2026-10-27 |
+| 240 | 231 | 9 | 90 | 118 | 23 | 2026-10-28 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 110 | 104 | 6 | 33 | 64 | 13 |
+| [Database](Database/README.md) | 24 | 24 | 0 | 19 | 5 | 0 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
-| [Database](Database/README.md) | 19 | 19 | 0 | 17 | 2 | 0 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
 | [String](String/README.md) | 15 | 15 | 0 | 5 | 6 | 4 |
 | [Math](Math/README.md) | 14 | 12 | 2 | 8 | 6 | 0 |
@@ -44,6 +44,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-28 | [1141. User Activity for the Past 30 Days I](Database/1141-user-activity-for-the-past-30-days-i/README.md) | Accepted | mysql |
+| 2026-10-28 | [1141. User Activity for the Past 30 Days I](Database/1141-user-activity-for-the-past-30-days-i/README.md) | Wrong Answer | mysql |
+| 2026-10-28 | [2356. Number of Unique Subjects Taught by Each Teacher](Database/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Accepted | mysql |
+| 2026-10-28 | [550. Game Play Analysis IV](Database/0550-game-play-analysis-iv/README.md) | Accepted | mysql |
+| 2026-10-28 | [1174. Immediate Food Delivery II](Database/1174-immediate-food-delivery-ii/README.md) | Accepted | mysql |
+| 2026-10-28 | [1193. Monthly Transactions I](Database/1193-monthly-transactions-i/README.md) | Accepted | mysql |
 | 2026-10-27 | [1378. Replace Employee ID With The Unique Identifier](Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Accepted | mysql |
 | 2026-10-27 | [3963. Create Grid With Exactly One Path](Other/3963-create-grid-with-exactly-one-path/README.md) | Accepted | cpp |
 | 2026-10-26 | [1211. Queries Quality and Percentage](Database/1211-queries-quality-and-percentage/README.md) | Accepted | mysql |
@@ -53,18 +59,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-25 | [1075. Project Employees I](Database/1075-project-employees-i/README.md) | Accepted | mysql |
 | 2026-10-25 | [1251. Average Selling Price](Database/1251-average-selling-price/README.md) | Accepted | mysql |
 | 2026-10-25 | [1251. Average Selling Price](Database/1251-average-selling-price/README.md) | Wrong Answer | mysql |
-| 2026-10-25 | [1934. Confirmation Rate](Database/1934-confirmation-rate/README.md) | Accepted | mysql |
-| 2026-10-25 | [1934. Confirmation Rate](Database/1934-confirmation-rate/README.md) | Accepted | mysql |
-| 2026-10-24 | [620. Not Boring Movies](Database/0620-not-boring-movies/README.md) | Accepted | mysql |
-| 2026-10-24 | [620. Not Boring Movies](Database/0620-not-boring-movies/README.md) | Runtime Error | mysql |
-| 2026-10-24 | [620. Not Boring Movies](Database/0620-not-boring-movies/README.md) | Accepted | mysql |
-| 2026-10-24 | [570. Managers with at Least 5 Direct Reports](Database/0570-managers-with-at-least-5-direct-reports/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 35 | 59 |
+| 2026-10 | 40 | 65 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
 | 2026-07 | 21 | 55 |
@@ -204,6 +204,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 542 | [01 Matrix](Array/0542-01-matrix/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-08-22 | 2026-08-22 |
 | 543 | [Diameter of Binary Tree](Tree/0543-diameter-of-binary-tree/README.md) | [Tree](Tree/README.md) | Easy | Solved | 1 | 2026-01-23 | 2026-01-23 |
 | 547 | [Number of Provinces](Depth-First-Search/0547-number-of-provinces/README.md) | [Depth-First Search](Depth-First-Search/README.md) | Medium | Solved | 2 | 2026-08-11 | 2026-08-11 |
+| 550 | [Game Play Analysis IV](Database/0550-game-play-analysis-iv/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-10-28 | 2026-10-28 |
 | 554 | [Brick Wall](Array/0554-brick-wall/README.md) | [Array](Array/README.md) | Medium | Solved | 4 | 2026-10-21 | 2026-10-21 |
 | 560 | [Subarray Sum Equals K](Array/0560-subarray-sum-equals-k/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-14 | 2025-10-14 |
 | 570 | [Managers with at Least 5 Direct Reports](Database/0570-managers-with-at-least-5-direct-reports/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-10-24 | 2026-10-24 |
@@ -245,7 +246,10 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1075 | [Project Employees I](Database/1075-project-employees-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-25 | 2026-10-25 |
 | 1091 | [Shortest Path in Binary Matrix](Array/1091-shortest-path-in-binary-matrix/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-09-07 | 2026-09-07 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](String/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md) | [String](String/README.md) | Medium | Solved | 1 | 2026-09-30 | 2026-09-30 |
+| 1141 | [User Activity for the Past 30 Days I](Database/1141-user-activity-for-the-past-30-days-i/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-28 | 2026-10-28 |
 | 1148 | [Article Views I](Database/1148-article-views-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
+| 1174 | [Immediate Food Delivery II](Database/1174-immediate-food-delivery-ii/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-10-28 | 2026-10-28 |
+| 1193 | [Monthly Transactions I](Database/1193-monthly-transactions-i/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-10-28 | 2026-10-28 |
 | 1211 | [Queries Quality and Percentage](Database/1211-queries-quality-and-percentage/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-26 | 2026-10-26 |
 | 1248 | [Count Number of Nice Subarrays](Array/1248-count-number-of-nice-subarrays/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-09-13 | 2026-09-13 |
 | 1251 | [Average Selling Price](Database/1251-average-selling-price/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-25 | 2026-10-25 |
@@ -287,6 +291,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2265 | [Count Nodes Equal to Average of Subtree](Tree/2265-count-nodes-equal-to-average-of-subtree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-09-10 | 2026-09-10 |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](Array/2267-check-if-there-is-a-valid-parentheses-string-path/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-09-29 | 2026-09-29 |
 | 2315 | [Count Asterisks](String/2315-count-asterisks/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2025-07-03 | 2025-07-03 |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](Database/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-28 | 2026-10-28 |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](Two-Pointers/2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md) | [Two Pointers](Two-Pointers/README.md) | Hard | Solved | 1 | 2026-09-15 | 2026-09-15 |
 | 2812 | [Find the Safest Path in a Grid](Array/2812-find-the-safest-path-in-a-grid/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-10-17 | 2026-10-17 |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](Array/2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md) | [Array](Array/README.md) | Hard | Solved | 2 | 2026-10-12 | 2026-10-12 |
