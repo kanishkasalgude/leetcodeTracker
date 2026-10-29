@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2184920178,
+  "synced_through": 2184976554,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -4520,6 +4520,96 @@
       },
       "submissions": [
         {"id":2184920178,"status":"Accepted","lang":"cpp","timestamp":1793294127,"runtime":"12 ms","memory":"90.2 MB"}
+      ]
+    },
+    "product-sales-analysis-iii": {
+      "id": "1070",
+      "title": "Product Sales Analysis III",
+      "slug": "product-sales-analysis-iii",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1070-product-sales-analysis-iii",
+      "first_attempt_at": 1793295771,
+      "last_attempt_at": 1793295771,
+      "solved_at": 1793295771,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2184946517,"status":"Accepted","lang":"mysql","timestamp":1793295771,"runtime":"774 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2184946517,"status":"Accepted","lang":"mysql","timestamp":1793295771,"runtime":"774 ms","memory":"0B"}
+      ]
+    },
+    "classes-with-at-least-5-students": {
+      "id": "596",
+      "title": "Classes With at Least 5 Students",
+      "slug": "classes-with-at-least-5-students",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0596-classes-with-at-least-5-students",
+      "first_attempt_at": 1793296135,
+      "last_attempt_at": 1793296135,
+      "solved_at": 1793296135,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2184952478,"status":"Accepted","lang":"mysql","timestamp":1793296135,"runtime":"404 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2184952478,"status":"Accepted","lang":"mysql","timestamp":1793296135,"runtime":"404 ms","memory":"0B"}
+      ]
+    },
+    "find-followers-count": {
+      "id": "1729",
+      "title": "Find Followers Count",
+      "slug": "find-followers-count",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1729-find-followers-count",
+      "first_attempt_at": 1793296414,
+      "last_attempt_at": 1793296414,
+      "solved_at": 1793296414,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2184957104,"status":"Accepted","lang":"mysql","timestamp":1793296414,"runtime":"747 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2184957104,"status":"Accepted","lang":"mysql","timestamp":1793296414,"runtime":"747 ms","memory":"0B"}
+      ]
+    },
+    "biggest-single-number": {
+      "id": "619",
+      "title": "Biggest Single Number",
+      "slug": "biggest-single-number",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0619-biggest-single-number",
+      "first_attempt_at": 1793297190,
+      "last_attempt_at": 1793297190,
+      "solved_at": 1793297190,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2184969742,"status":"Accepted","lang":"mysql","timestamp":1793297190,"runtime":"517 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2184969742,"status":"Accepted","lang":"mysql","timestamp":1793297190,"runtime":"517 ms","memory":"0B"}
+      ]
+    },
+    "customers-who-bought-all-products": {
+      "id": "1045",
+      "title": "Customers Who Bought All Products",
+      "slug": "customers-who-bought-all-products",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1045-customers-who-bought-all-products",
+      "first_attempt_at": 1793297589,
+      "last_attempt_at": 1793297589,
+      "solved_at": 1793297589,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2184976554,"status":"Accepted","lang":"mysql","timestamp":1793297589,"runtime":"655 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2184976554,"status":"Accepted","lang":"mysql","timestamp":1793297589,"runtime":"655 ms","memory":"0B"}
       ]
     }
   }
