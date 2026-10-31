@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 29 | 29 | 0 | 22 | 7 | 0 |
+| 32 | 32 | 0 | 25 | 7 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -15,6 +15,7 @@
 | 584 | [Find Customer Referee](../Database/0584-find-customer-referee/README.md) | Easy | Solved | 1 | mysql | 2026-10-22 |
 | 595 | [Big Countries](../Database/0595-big-countries/README.md) | Easy | Solved | 3 | mysql | 2026-10-22 |
 | 596 | [Classes With at Least 5 Students](../Database/0596-classes-with-at-least-5-students/README.md) | Easy | Solved | 1 | mysql | 2026-10-29 |
+| 610 | [Triangle Judgement](../Database/0610-triangle-judgement/README.md) | Easy | Solved | 2 | mysql | 2026-10-31 |
 | 619 | [Biggest Single Number](../Database/0619-biggest-single-number/README.md) | Easy | Solved | 1 | mysql | 2026-10-29 |
 | 620 | [Not Boring Movies](../Database/0620-not-boring-movies/README.md) | Easy | Solved | 3 | mysql | 2026-10-24 |
 | 1045 | [Customers Who Bought All Products](../Database/1045-customers-who-bought-all-products/README.md) | Medium | Solved | 1 | mysql | 2026-10-29 |
@@ -34,6 +35,8 @@
 | 1661 | [Average Time of Process per Machine](../Database/1661-average-time-of-process-per-machine/README.md) | Easy | Solved | 1 | mysql | 2026-10-24 |
 | 1683 | [Invalid Tweets](../Database/1683-invalid-tweets/README.md) | Easy | Solved | 1 | mysql | 2026-10-22 |
 | 1729 | [Find Followers Count](../Database/1729-find-followers-count/README.md) | Easy | Solved | 1 | mysql | 2026-10-29 |
+| 1731 | [The Number of Employees Which Report to Each Employee](../Database/1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | Solved | 1 | mysql | 2026-10-30 |
 | 1757 | [Recyclable and Low Fat Products](../Database/1757-recyclable-and-low-fat-products/README.md) | Easy | Solved | 1 | mysql | 2026-10-22 |
+| 1789 | [Primary Department for Each Employee](../Database/1789-primary-department-for-each-employee/README.md) | Easy | Solved | 1 | mysql | 2026-10-31 |
 | 1934 | [Confirmation Rate](../Database/1934-confirmation-rate/README.md) | Medium | Solved | 2 | mysql | 2026-10-25 |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](../Database/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | Solved | 1 | mysql | 2026-10-28 |

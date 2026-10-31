@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2184976554,
+  "synced_through": 2186354177,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -4610,6 +4610,61 @@
       },
       "submissions": [
         {"id":2184976554,"status":"Accepted","lang":"mysql","timestamp":1793297589,"runtime":"655 ms","memory":"0B"}
+      ]
+    },
+    "the-number-of-employees-which-report-to-each-employee": {
+      "id": "1731",
+      "title": "The Number of Employees Which Report to Each Employee",
+      "slug": "the-number-of-employees-which-report-to-each-employee",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1731-the-number-of-employees-which-report-to-each-employee",
+      "first_attempt_at": 1793380657,
+      "last_attempt_at": 1793380657,
+      "solved_at": 1793380657,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2185681071,"status":"Accepted","lang":"mysql","timestamp":1793380657,"runtime":"952 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2185681071,"status":"Accepted","lang":"mysql","timestamp":1793380657,"runtime":"952 ms","memory":"0B"}
+      ]
+    },
+    "primary-department-for-each-employee": {
+      "id": "1789",
+      "title": "Primary Department for Each Employee",
+      "slug": "primary-department-for-each-employee",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1789-primary-department-for-each-employee",
+      "first_attempt_at": 1793464210,
+      "last_attempt_at": 1793464210,
+      "solved_at": 1793464210,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2186332605,"status":"Accepted","lang":"mysql","timestamp":1793464210,"runtime":"684 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2186332605,"status":"Accepted","lang":"mysql","timestamp":1793464210,"runtime":"684 ms","memory":"0B"}
+      ]
+    },
+    "triangle-judgement": {
+      "id": "610",
+      "title": "Triangle Judgement",
+      "slug": "triangle-judgement",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0610-triangle-judgement",
+      "first_attempt_at": 1793465813,
+      "last_attempt_at": 1793465863,
+      "solved_at": 1793465863,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2186354177,"status":"Accepted","lang":"mysql","timestamp":1793465863,"runtime":"393 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2186353506,"status":"Wrong Answer","lang":"mysql","timestamp":1793465813,"runtime":null,"memory":null},
+        {"id":2186354177,"status":"Accepted","lang":"mysql","timestamp":1793465863,"runtime":"393 ms","memory":"0B"}
       ]
     }
   }

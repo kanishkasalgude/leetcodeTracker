@@ -4,14 +4,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 246 | 237 | 9 | 93 | 121 | 23 | 2026-10-29 |
+| 249 | 240 | 9 | 96 | 121 | 23 | 2026-10-31 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 111 | 105 | 6 | 33 | 65 | 13 |
-| [Database](Database/README.md) | 29 | 29 | 0 | 22 | 7 | 0 |
+| [Database](Database/README.md) | 32 | 32 | 0 | 25 | 7 | 0 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
 | [String](String/README.md) | 15 | 15 | 0 | 5 | 6 | 4 |
@@ -44,6 +44,10 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-31 | [610. Triangle Judgement](Database/0610-triangle-judgement/README.md) | Accepted | mysql |
+| 2026-10-31 | [610. Triangle Judgement](Database/0610-triangle-judgement/README.md) | Wrong Answer | mysql |
+| 2026-10-31 | [1789. Primary Department for Each Employee](Database/1789-primary-department-for-each-employee/README.md) | Accepted | mysql |
+| 2026-10-30 | [1731. The Number of Employees Which Report to Each Employee](Database/1731-the-number-of-employees-which-report-to-each-employee/README.md) | Accepted | mysql |
 | 2026-10-29 | [1045. Customers Who Bought All Products](Database/1045-customers-who-bought-all-products/README.md) | Accepted | mysql |
 | 2026-10-29 | [619. Biggest Single Number](Database/0619-biggest-single-number/README.md) | Accepted | mysql |
 | 2026-10-29 | [1729. Find Followers Count](Database/1729-find-followers-count/README.md) | Accepted | mysql |
@@ -55,16 +59,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-28 | [2356. Number of Unique Subjects Taught by Each Teacher](Database/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Accepted | mysql |
 | 2026-10-28 | [550. Game Play Analysis IV](Database/0550-game-play-analysis-iv/README.md) | Accepted | mysql |
 | 2026-10-28 | [1174. Immediate Food Delivery II](Database/1174-immediate-food-delivery-ii/README.md) | Accepted | mysql |
-| 2026-10-28 | [1193. Monthly Transactions I](Database/1193-monthly-transactions-i/README.md) | Accepted | mysql |
-| 2026-10-27 | [1378. Replace Employee ID With The Unique Identifier](Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Accepted | mysql |
-| 2026-10-27 | [3963. Create Grid With Exactly One Path](Other/3963-create-grid-with-exactly-one-path/README.md) | Accepted | cpp |
-| 2026-10-26 | [1211. Queries Quality and Percentage](Database/1211-queries-quality-and-percentage/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 46 | 71 |
+| 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
 | 2026-07 | 21 | 55 |
@@ -212,6 +212,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 584 | [Find Customer Referee](Database/0584-find-customer-referee/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
 | 595 | [Big Countries](Database/0595-big-countries/README.md) | [Database](Database/README.md) | Easy | Solved | 3 | 2026-10-22 | 2026-10-22 |
 | 596 | [Classes With at Least 5 Students](Database/0596-classes-with-at-least-5-students/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-29 | 2026-10-29 |
+| 610 | [Triangle Judgement](Database/0610-triangle-judgement/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-31 | 2026-10-31 |
 | 619 | [Biggest Single Number](Database/0619-biggest-single-number/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-29 | 2026-10-29 |
 | 620 | [Not Boring Movies](Database/0620-not-boring-movies/README.md) | [Database](Database/README.md) | Easy | Solved | 3 | 2026-10-24 | 2026-10-24 |
 | 630 | [Course Schedule III](Array/0630-course-schedule-iii/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-10-19 | 2026-10-19 |
@@ -280,9 +281,11 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1672 | [Richest Customer Wealth](Array/1672-richest-customer-wealth/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-04-21 | 2026-04-21 |
 | 1683 | [Invalid Tweets](Database/1683-invalid-tweets/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
 | 1729 | [Find Followers Count](Database/1729-find-followers-count/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-29 | 2026-10-29 |
+| 1731 | [The Number of Employees Which Report to Each Employee](Database/1731-the-number-of-employees-which-report-to-each-employee/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-30 | 2026-10-30 |
 | 1752 | [Check if Array Is Sorted and Rotated](Array/1752-check-if-array-is-sorted-and-rotated/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-09-22 | 2025-09-22 |
 | 1757 | [Recyclable and Low Fat Products](Database/1757-recyclable-and-low-fat-products/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
 | 1781 | [Sum of Beauty of All Substrings](Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-06-21 | 2026-06-21 |
+| 1789 | [Primary Department for Each Employee](Database/1789-primary-department-for-each-employee/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-31 | 2026-10-31 |
 | 1833 | [Maximum Ice Cream Bars](Array/1833-maximum-ice-cream-bars/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-29 | 2026-10-29 |
 | 1848 | [Minimum Distance to the Target Element](Array/1848-minimum-distance-to-the-target-element/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-09-08 | 2026-09-08 |
 | 1901 | [Find a Peak Element II](Array/1901-find-a-peak-element-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-06-07 | 2026-06-07 |
