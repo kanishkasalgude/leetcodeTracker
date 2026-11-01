@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2186354177,
+  "synced_through": 2187064043,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -4665,6 +4665,24 @@
       "submissions": [
         {"id":2186353506,"status":"Wrong Answer","lang":"mysql","timestamp":1793465813,"runtime":null,"memory":null},
         {"id":2186354177,"status":"Accepted","lang":"mysql","timestamp":1793465863,"runtime":"393 ms","memory":"0B"}
+      ]
+    },
+    "minimum-moves-to-equal-array-elements": {
+      "id": "453",
+      "title": "Minimum Moves to Equal Array Elements",
+      "slug": "minimum-moves-to-equal-array-elements",
+      "difficulty": "Medium",
+      "tags": ["Array","Math"],
+      "topic": "Array",
+      "dir": "Array/0453-minimum-moves-to-equal-array-elements",
+      "first_attempt_at": 1793544820,
+      "last_attempt_at": 1793544820,
+      "solved_at": 1793544820,
+      "languages": {
+        "python3": {"file":"solution.py","id":2187064043,"status":"Accepted","lang":"python3","timestamp":1793544820,"runtime":"2 ms","memory":"20.2 MB"}
+      },
+      "submissions": [
+        {"id":2187064043,"status":"Accepted","lang":"python3","timestamp":1793544820,"runtime":"2 ms","memory":"20.2 MB"}
       ]
     }
   }

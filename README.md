@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 249 | 240 | 9 | 96 | 121 | 23 | 2026-10-31 |
+| 250 | 241 | 9 | 96 | 122 | 23 | 2026-11-01 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 111 | 105 | 6 | 33 | 65 | 13 |
+| [Array](Array/README.md) | 112 | 106 | 6 | 33 | 66 | 13 |
 | [Database](Database/README.md) | 32 | 32 | 0 | 25 | 7 | 0 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -44,6 +44,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-01 | [453. Minimum Moves to Equal Array Elements](Array/0453-minimum-moves-to-equal-array-elements/README.md) | Accepted | python3 |
 | 2026-10-31 | [610. Triangle Judgement](Database/0610-triangle-judgement/README.md) | Accepted | mysql |
 | 2026-10-31 | [610. Triangle Judgement](Database/0610-triangle-judgement/README.md) | Wrong Answer | mysql |
 | 2026-10-31 | [1789. Primary Department for Each Employee](Database/1789-primary-department-for-each-employee/README.md) | Accepted | mysql |
@@ -58,12 +59,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-28 | [1141. User Activity for the Past 30 Days I](Database/1141-user-activity-for-the-past-30-days-i/README.md) | Wrong Answer | mysql |
 | 2026-10-28 | [2356. Number of Unique Subjects Taught by Each Teacher](Database/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Accepted | mysql |
 | 2026-10-28 | [550. Game Play Analysis IV](Database/0550-game-play-analysis-iv/README.md) | Accepted | mysql |
-| 2026-10-28 | [1174. Immediate Food Delivery II](Database/1174-immediate-food-delivery-ii/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
+| 2026-11 | 1 | 1 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -195,6 +196,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 424 | [Longest Repeating Character Replacement](Hash-Table/0424-longest-repeating-character-replacement/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-09-10 | 2026-09-10 |
 | 450 | [Delete Node in a BST](Tree/0450-delete-node-in-a-bst/README.md) | [Tree](Tree/README.md) | Medium | Solved | 6 | 2026-04-27 | 2026-06-09 |
 | 451 | [Sort Characters By Frequency](Hash-Table/0451-sort-characters-by-frequency/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-06-15 | 2026-06-15 |
+| 453 | [Minimum Moves to Equal Array Elements](Array/0453-minimum-moves-to-equal-array-elements/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-01 | 2026-11-01 |
 | 460 | [LFU Cache](Hash-Table/0460-lfu-cache/README.md) | [Hash Table](Hash-Table/README.md) | Hard | Solved | 4 | 2026-08-07 | 2026-08-07 |
 | 485 | [Max Consecutive Ones](Array/0485-max-consecutive-ones/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-09-25 | 2025-09-25 |
 | 493 | [Reverse Pairs](Array/0493-reverse-pairs/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-01-21 | 2026-01-21 |

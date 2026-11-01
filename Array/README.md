@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 111 | 105 | 6 | 33 | 65 | 13 |
+| 112 | 106 | 6 | 33 | 66 | 13 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -54,6 +54,7 @@
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 1 | cpp | 2025-09-25 |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 2 | cpp, python | 2025-09-23 |
 | 410 | [Split Array Largest Sum](../Array/0410-split-array-largest-sum/README.md) | Hard | Solved | 1 | cpp | 2026-06-04 |
+| 453 | [Minimum Moves to Equal Array Elements](../Array/0453-minimum-moves-to-equal-array-elements/README.md) | Medium | Solved | 1 | python3 | 2026-11-01 |
 | 485 | [Max Consecutive Ones](../Array/0485-max-consecutive-ones/README.md) | Easy | Solved | 1 | cpp | 2025-09-25 |
 | 493 | [Reverse Pairs](../Array/0493-reverse-pairs/README.md) | Hard | Solved | 1 | cpp | 2026-01-21 |
 | 496 | [Next Greater Element I](../Array/0496-next-greater-element-i/README.md) | Easy | Solved | 1 | cpp | 2026-07-20 |
