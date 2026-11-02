@@ -4,10 +4,11 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 32 | 32 | 0 | 25 | 7 | 0 |
+| 37 | 37 | 0 | 26 | 11 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
+| 180 | [Consecutive Numbers](../Database/0180-consecutive-numbers/README.md) | Medium | Solved | 3 | mysql | 2026-11-01 |
 | 197 | [Rising Temperature](../Database/0197-rising-temperature/README.md) | Easy | Solved | 1 | mysql | 2026-10-24 |
 | 550 | [Game Play Analysis IV](../Database/0550-game-play-analysis-iv/README.md) | Medium | Solved | 1 | mysql | 2026-10-28 |
 | 570 | [Managers with at Least 5 Direct Reports](../Database/0570-managers-with-at-least-5-direct-reports/README.md) | Medium | Solved | 1 | mysql | 2026-10-24 |
@@ -24,8 +25,10 @@
 | 1075 | [Project Employees I](../Database/1075-project-employees-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-25 |
 | 1141 | [User Activity for the Past 30 Days I](../Database/1141-user-activity-for-the-past-30-days-i/README.md) | Easy | Solved | 2 | mysql | 2026-10-28 |
 | 1148 | [Article Views I](../Database/1148-article-views-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-22 |
+| 1164 | [Product Price at a Given Date](../Database/1164-product-price-at-a-given-date/README.md) | Medium | Solved | 1 | mysql | 2026-11-02 |
 | 1174 | [Immediate Food Delivery II](../Database/1174-immediate-food-delivery-ii/README.md) | Medium | Solved | 1 | mysql | 2026-10-28 |
 | 1193 | [Monthly Transactions I](../Database/1193-monthly-transactions-i/README.md) | Medium | Solved | 1 | mysql | 2026-10-28 |
+| 1204 | [Last Person to Fit in the Bus](../Database/1204-last-person-to-fit-in-the-bus/README.md) | Medium | Solved | 2 | mysql | 2026-11-02 |
 | 1211 | [Queries Quality and Percentage](../Database/1211-queries-quality-and-percentage/README.md) | Easy | Solved | 1 | mysql | 2026-10-26 |
 | 1251 | [Average Selling Price](../Database/1251-average-selling-price/README.md) | Easy | Solved | 2 | mysql | 2026-10-25 |
 | 1280 | [Students and Examinations](../Database/1280-students-and-examinations/README.md) | Easy | Solved | 1 | mysql | 2026-10-24 |
@@ -38,5 +41,7 @@
 | 1731 | [The Number of Employees Which Report to Each Employee](../Database/1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | Solved | 1 | mysql | 2026-10-30 |
 | 1757 | [Recyclable and Low Fat Products](../Database/1757-recyclable-and-low-fat-products/README.md) | Easy | Solved | 1 | mysql | 2026-10-22 |
 | 1789 | [Primary Department for Each Employee](../Database/1789-primary-department-for-each-employee/README.md) | Easy | Solved | 1 | mysql | 2026-10-31 |
+| 1907 | [Count Salary Categories](../Database/1907-count-salary-categories/README.md) | Medium | Solved | 1 | mysql | 2026-11-02 |
 | 1934 | [Confirmation Rate](../Database/1934-confirmation-rate/README.md) | Medium | Solved | 2 | mysql | 2026-10-25 |
+| 1978 | [Employees Whose Manager Left the Company](../Database/1978-employees-whose-manager-left-the-company/README.md) | Easy | Solved | 1 | mysql | 2026-11-02 |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](../Database/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | Solved | 1 | mysql | 2026-10-28 |

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2187064043,
+  "synced_through": 2187722882,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -4683,6 +4683,117 @@
       },
       "submissions": [
         {"id":2187064043,"status":"Accepted","lang":"python3","timestamp":1793544820,"runtime":"2 ms","memory":"20.2 MB"}
+      ]
+    },
+    "consecutive-numbers": {
+      "id": "180",
+      "title": "Consecutive Numbers",
+      "slug": "consecutive-numbers",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0180-consecutive-numbers",
+      "first_attempt_at": 1793547934,
+      "last_attempt_at": 1793548089,
+      "solved_at": 1793548089,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2187101305,"status":"Accepted","lang":"mysql","timestamp":1793548089,"runtime":"788 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2187099435,"status":"Wrong Answer","lang":"mysql","timestamp":1793547934,"runtime":null,"memory":null},
+        {"id":2187099966,"status":"Time Limit Exceeded","lang":"mysql","timestamp":1793547978,"runtime":null,"memory":null},
+        {"id":2187101305,"status":"Accepted","lang":"mysql","timestamp":1793548089,"runtime":"788 ms","memory":"0B"}
+      ]
+    },
+    "minimum-moves-to-equal-array-elements-ii": {
+      "id": "462",
+      "title": "Minimum Moves to Equal Array Elements II",
+      "slug": "minimum-moves-to-equal-array-elements-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0462-minimum-moves-to-equal-array-elements-ii",
+      "first_attempt_at": 1793616682,
+      "last_attempt_at": 1793616682,
+      "solved_at": 1793616682,
+      "languages": {
+        "python3": {"file":"solution.py","id":2187682808,"status":"Accepted","lang":"python3","timestamp":1793616682,"runtime":"4 ms","memory":"20.2 MB"}
+      },
+      "submissions": [
+        {"id":2187682808,"status":"Accepted","lang":"python3","timestamp":1793616682,"runtime":"4 ms","memory":"20.2 MB"}
+      ]
+    },
+    "product-price-at-a-given-date": {
+      "id": "1164",
+      "title": "Product Price at a Given Date",
+      "slug": "product-price-at-a-given-date",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1164-product-price-at-a-given-date",
+      "first_attempt_at": 1793618868,
+      "last_attempt_at": 1793618868,
+      "solved_at": 1793618868,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2187703031,"status":"Accepted","lang":"mysql","timestamp":1793618868,"runtime":"1480 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2187703031,"status":"Accepted","lang":"mysql","timestamp":1793618868,"runtime":"1480 ms","memory":"0B"}
+      ]
+    },
+    "last-person-to-fit-in-the-bus": {
+      "id": "1204",
+      "title": "Last Person to Fit in the Bus",
+      "slug": "last-person-to-fit-in-the-bus",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1204-last-person-to-fit-in-the-bus",
+      "first_attempt_at": 1793620231,
+      "last_attempt_at": 1793620255,
+      "solved_at": 1793620255,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2187715240,"status":"Accepted","lang":"mysql","timestamp":1793620255,"runtime":"2247 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2187715056,"status":"Wrong Answer","lang":"mysql","timestamp":1793620231,"runtime":null,"memory":null},
+        {"id":2187715240,"status":"Accepted","lang":"mysql","timestamp":1793620255,"runtime":"2247 ms","memory":"0B"}
+      ]
+    },
+    "count-salary-categories": {
+      "id": "1907",
+      "title": "Count Salary Categories",
+      "slug": "count-salary-categories",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1907-count-salary-categories",
+      "first_attempt_at": 1793620946,
+      "last_attempt_at": 1793620946,
+      "solved_at": 1793620946,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2187721466,"status":"Accepted","lang":"mysql","timestamp":1793620946,"runtime":"1962 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2187721466,"status":"Accepted","lang":"mysql","timestamp":1793620946,"runtime":"1962 ms","memory":"0B"}
+      ]
+    },
+    "employees-whose-manager-left-the-company": {
+      "id": "1978",
+      "title": "Employees Whose Manager Left the Company",
+      "slug": "employees-whose-manager-left-the-company",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1978-employees-whose-manager-left-the-company",
+      "first_attempt_at": 1793621103,
+      "last_attempt_at": 1793621103,
+      "solved_at": 1793621103,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2187722882,"status":"Accepted","lang":"mysql","timestamp":1793621103,"runtime":"452 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2187722882,"status":"Accepted","lang":"mysql","timestamp":1793621103,"runtime":"452 ms","memory":"0B"}
       ]
     }
   }
