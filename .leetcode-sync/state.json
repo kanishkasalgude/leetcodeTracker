@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2187722882,
+  "synced_through": 2188404532,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -4794,6 +4794,62 @@
       },
       "submissions": [
         {"id":2187722882,"status":"Accepted","lang":"mysql","timestamp":1793621103,"runtime":"452 ms","memory":"0B"}
+      ]
+    },
+    "exchange-seats": {
+      "id": "626",
+      "title": "Exchange Seats",
+      "slug": "exchange-seats",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0626-exchange-seats",
+      "first_attempt_at": 1793630756,
+      "last_attempt_at": 1793630756,
+      "solved_at": 1793630756,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2187832231,"status":"Accepted","lang":"mysql","timestamp":1793630756,"runtime":"387 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2187832231,"status":"Accepted","lang":"mysql","timestamp":1793630756,"runtime":"387 ms","memory":"0B"}
+      ]
+    },
+    "minimum-moves-to-equal-array-elements-iii": {
+      "id": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "tags": ["Array","Math"],
+      "topic": "Array",
+      "dir": "Array/3736-minimum-moves-to-equal-array-elements-iii",
+      "first_attempt_at": 1793690566,
+      "last_attempt_at": 1793690915,
+      "solved_at": 1793690566,
+      "languages": {
+        "python3": {"file":"solution.py","id":2188388004,"status":"Accepted","lang":"python3","timestamp":1793690566,"runtime":"0 ms","memory":"19.3 MB"},
+        "cpp": {"file":"solution.cpp","id":2188391638,"status":"Accepted","lang":"cpp","timestamp":1793690915,"runtime":"0 ms","memory":"31.3 MB"}
+      },
+      "submissions": [
+        {"id":2188388004,"status":"Accepted","lang":"python3","timestamp":1793690566,"runtime":"0 ms","memory":"19.3 MB"},
+        {"id":2188391638,"status":"Accepted","lang":"cpp","timestamp":1793690915,"runtime":"0 ms","memory":"31.3 MB"}
+      ]
+    },
+    "movie-rating": {
+      "id": "1341",
+      "title": "Movie Rating",
+      "slug": "movie-rating",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1341-movie-rating",
+      "first_attempt_at": 1793692223,
+      "last_attempt_at": 1793692223,
+      "solved_at": 1793692223,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2188404532,"status":"Accepted","lang":"mysql","timestamp":1793692223,"runtime":"1533 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2188404532,"status":"Accepted","lang":"mysql","timestamp":1793692223,"runtime":"1533 ms","memory":"0B"}
       ]
     }
   }

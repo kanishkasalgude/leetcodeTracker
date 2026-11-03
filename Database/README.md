@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 37 | 37 | 0 | 26 | 11 | 0 |
+| 39 | 39 | 0 | 26 | 13 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -19,6 +19,7 @@
 | 610 | [Triangle Judgement](../Database/0610-triangle-judgement/README.md) | Easy | Solved | 2 | mysql | 2026-10-31 |
 | 619 | [Biggest Single Number](../Database/0619-biggest-single-number/README.md) | Easy | Solved | 1 | mysql | 2026-10-29 |
 | 620 | [Not Boring Movies](../Database/0620-not-boring-movies/README.md) | Easy | Solved | 3 | mysql | 2026-10-24 |
+| 626 | [Exchange Seats](../Database/0626-exchange-seats/README.md) | Medium | Solved | 1 | mysql | 2026-11-02 |
 | 1045 | [Customers Who Bought All Products](../Database/1045-customers-who-bought-all-products/README.md) | Medium | Solved | 1 | mysql | 2026-10-29 |
 | 1068 | [Product Sales Analysis I](../Database/1068-product-sales-analysis-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-23 |
 | 1070 | [Product Sales Analysis III](../Database/1070-product-sales-analysis-iii/README.md) | Medium | Solved | 1 | mysql | 2026-10-29 |
@@ -32,6 +33,7 @@
 | 1211 | [Queries Quality and Percentage](../Database/1211-queries-quality-and-percentage/README.md) | Easy | Solved | 1 | mysql | 2026-10-26 |
 | 1251 | [Average Selling Price](../Database/1251-average-selling-price/README.md) | Easy | Solved | 2 | mysql | 2026-10-25 |
 | 1280 | [Students and Examinations](../Database/1280-students-and-examinations/README.md) | Easy | Solved | 1 | mysql | 2026-10-24 |
+| 1341 | [Movie Rating](../Database/1341-movie-rating/README.md) | Medium | Solved | 1 | mysql | 2026-11-03 |
 | 1378 | [Replace Employee ID With The Unique Identifier](../Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Easy | Solved | 1 | mysql | 2026-10-27 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](../Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | Easy | Solved | 1 | mysql | 2026-10-23 |
 | 1633 | [Percentage of Users Attended a Contest](../Database/1633-percentage-of-users-attended-a-contest/README.md) | Easy | Solved | 1 | mysql | 2026-10-25 |

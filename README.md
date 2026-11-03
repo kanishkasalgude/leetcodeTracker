@@ -4,14 +4,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 256 | 247 | 9 | 97 | 127 | 23 | 2026-11-02 |
+| 259 | 250 | 9 | 98 | 129 | 23 | 2026-11-03 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 113 | 107 | 6 | 33 | 67 | 13 |
-| [Database](Database/README.md) | 37 | 37 | 0 | 26 | 11 | 0 |
+| [Array](Array/README.md) | 114 | 108 | 6 | 34 | 67 | 13 |
+| [Database](Database/README.md) | 39 | 39 | 0 | 26 | 13 | 0 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
 | [String](String/README.md) | 15 | 15 | 0 | 5 | 6 | 4 |
@@ -44,6 +44,10 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-03 | [1341. Movie Rating](Database/1341-movie-rating/README.md) | Accepted | mysql |
+| 2026-11-03 | [3736. Minimum Moves to Equal Array Elements III](Array/3736-minimum-moves-to-equal-array-elements-iii/README.md) | Accepted | cpp |
+| 2026-11-03 | [3736. Minimum Moves to Equal Array Elements III](Array/3736-minimum-moves-to-equal-array-elements-iii/README.md) | Accepted | python3 |
+| 2026-11-02 | [626. Exchange Seats](Database/0626-exchange-seats/README.md) | Accepted | mysql |
 | 2026-11-02 | [1978. Employees Whose Manager Left the Company](Database/1978-employees-whose-manager-left-the-company/README.md) | Accepted | mysql |
 | 2026-11-02 | [1907. Count Salary Categories](Database/1907-count-salary-categories/README.md) | Accepted | mysql |
 | 2026-11-02 | [1204. Last Person to Fit in the Bus](Database/1204-last-person-to-fit-in-the-bus/README.md) | Accepted | mysql |
@@ -55,16 +59,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-01 | [180. Consecutive Numbers](Database/0180-consecutive-numbers/README.md) | Wrong Answer | mysql |
 | 2026-11-01 | [453. Minimum Moves to Equal Array Elements](Array/0453-minimum-moves-to-equal-array-elements/README.md) | Accepted | python3 |
 | 2026-10-31 | [610. Triangle Judgement](Database/0610-triangle-judgement/README.md) | Accepted | mysql |
-| 2026-10-31 | [610. Triangle Judgement](Database/0610-triangle-judgement/README.md) | Wrong Answer | mysql |
-| 2026-10-31 | [1789. Primary Department for Each Employee](Database/1789-primary-department-for-each-employee/README.md) | Accepted | mysql |
-| 2026-10-30 | [1731. The Number of Employees Which Report to Each Employee](Database/1731-the-number-of-employees-which-report-to-each-employee/README.md) | Accepted | mysql |
-| 2026-10-29 | [1045. Customers Who Bought All Products](Database/1045-customers-who-bought-all-products/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 7 | 10 |
+| 2026-11 | 10 | 14 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -219,6 +219,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 610 | [Triangle Judgement](Database/0610-triangle-judgement/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-31 | 2026-10-31 |
 | 619 | [Biggest Single Number](Database/0619-biggest-single-number/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-29 | 2026-10-29 |
 | 620 | [Not Boring Movies](Database/0620-not-boring-movies/README.md) | [Database](Database/README.md) | Easy | Solved | 3 | 2026-10-24 | 2026-10-24 |
+| 626 | [Exchange Seats](Database/0626-exchange-seats/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-02 | 2026-11-02 |
 | 630 | [Course Schedule III](Array/0630-course-schedule-iii/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-10-19 | 2026-10-19 |
 | 653 | [Two Sum IV - Input is a BST](Hash-Table/0653-two-sum-iv-input-is-a-bst/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-06-13 | 2026-06-13 |
 | 662 | [Maximum Width of Binary Tree](Tree/0662-maximum-width-of-binary-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 2 | 2026-01-25 | 2026-01-25 |
@@ -266,6 +267,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1251 | [Average Selling Price](Database/1251-average-selling-price/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-25 | 2026-10-25 |
 | 1280 | [Students and Examinations](Database/1280-students-and-examinations/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-03-21 | 2026-03-21 |
+| 1341 | [Movie Rating](Database/1341-movie-rating/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-03 | 2026-11-03 |
 | 1358 | [Number of Substrings Containing All Three Characters](Hash-Table/1358-number-of-substrings-containing-all-three-characters/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-09-13 | 2026-09-13 |
 | 1373 | [Maximum Sum BST in Binary Tree](Dynamic-Programming/1373-maximum-sum-bst-in-binary-tree/README.md) | [Dynamic Programming](Dynamic-Programming/README.md) | Hard | Solved | 1 | 2026-06-13 | 2026-06-13 |
 | 1378 | [Replace Employee ID With The Unique Identifier](Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-27 | 2026-10-27 |
@@ -318,6 +320,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 3536 | [Maximum Product of Two Digits](Math/3536-maximum-product-of-two-digits/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-25 | 2026-07-25 |
 | 3619 | [Count Islands With Total Value Divisible by K](Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-10-26 | 2026-10-26 |
 | 3727 | [Maximum Alternating Sum of Squares](Array/3727-maximum-alternating-sum-of-squares/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-13 | 2026-10-13 |
+| 3736 | [Minimum Moves to Equal Array Elements III](Array/3736-minimum-moves-to-equal-array-elements-iii/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-11-03 | 2026-11-03 |
 | 3783 | [Mirror Distance of an Integer](Math/3783-mirror-distance-of-an-integer/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-09-12 | 2026-09-12 |
 | 3842 | [Toggle Light Bulbs](Array/3842-toggle-light-bulbs/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-02-15 | 2026-02-15 |
 | 3843 | [First Element with Unique Frequency](Array/3843-first-element-with-unique-frequency/README.md) | [Array](Array/README.md) | Medium | Attempted | 7 | 2026-02-15 | - |
