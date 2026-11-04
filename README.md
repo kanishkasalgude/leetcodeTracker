@@ -4,14 +4,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 259 | 250 | 9 | 98 | 129 | 23 | 2026-11-03 |
+| 261 | 252 | 9 | 98 | 131 | 23 | 2026-11-04 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 114 | 108 | 6 | 34 | 67 | 13 |
-| [Database](Database/README.md) | 39 | 39 | 0 | 26 | 13 | 0 |
+| [Database](Database/README.md) | 41 | 41 | 0 | 26 | 15 | 0 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
 | [String](String/README.md) | 15 | 15 | 0 | 5 | 6 | 4 |
@@ -44,6 +44,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-04 | [602. Friend Requests II: Who Has the Most Friends](Database/0602-friend-requests-ii-who-has-the-most-friends/README.md) | Accepted | mysql |
+| 2026-11-04 | [1321. Restaurant Growth](Database/1321-restaurant-growth/README.md) | Accepted | mysql |
 | 2026-11-03 | [1341. Movie Rating](Database/1341-movie-rating/README.md) | Accepted | mysql |
 | 2026-11-03 | [3736. Minimum Moves to Equal Array Elements III](Array/3736-minimum-moves-to-equal-array-elements-iii/README.md) | Accepted | cpp |
 | 2026-11-03 | [3736. Minimum Moves to Equal Array Elements III](Array/3736-minimum-moves-to-equal-array-elements-iii/README.md) | Accepted | python3 |
@@ -57,14 +59,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-01 | [180. Consecutive Numbers](Database/0180-consecutive-numbers/README.md) | Accepted | mysql |
 | 2026-11-01 | [180. Consecutive Numbers](Database/0180-consecutive-numbers/README.md) | Time Limit Exceeded | mysql |
 | 2026-11-01 | [180. Consecutive Numbers](Database/0180-consecutive-numbers/README.md) | Wrong Answer | mysql |
-| 2026-11-01 | [453. Minimum Moves to Equal Array Elements](Array/0453-minimum-moves-to-equal-array-elements/README.md) | Accepted | python3 |
-| 2026-10-31 | [610. Triangle Judgement](Database/0610-triangle-judgement/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 10 | 14 |
+| 2026-11 | 12 | 16 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -216,6 +216,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 584 | [Find Customer Referee](Database/0584-find-customer-referee/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
 | 595 | [Big Countries](Database/0595-big-countries/README.md) | [Database](Database/README.md) | Easy | Solved | 3 | 2026-10-22 | 2026-10-22 |
 | 596 | [Classes With at Least 5 Students](Database/0596-classes-with-at-least-5-students/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-29 | 2026-10-29 |
+| 602 | [Friend Requests II: Who Has the Most Friends](Database/0602-friend-requests-ii-who-has-the-most-friends/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-04 | 2026-11-04 |
 | 610 | [Triangle Judgement](Database/0610-triangle-judgement/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-31 | 2026-10-31 |
 | 619 | [Biggest Single Number](Database/0619-biggest-single-number/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-29 | 2026-10-29 |
 | 620 | [Not Boring Movies](Database/0620-not-boring-movies/README.md) | [Database](Database/README.md) | Easy | Solved | 3 | 2026-10-24 | 2026-10-24 |
@@ -267,6 +268,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1251 | [Average Selling Price](Database/1251-average-selling-price/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-25 | 2026-10-25 |
 | 1280 | [Students and Examinations](Database/1280-students-and-examinations/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-03-21 | 2026-03-21 |
+| 1321 | [Restaurant Growth](Database/1321-restaurant-growth/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-04 | 2026-11-04 |
 | 1341 | [Movie Rating](Database/1341-movie-rating/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-03 | 2026-11-03 |
 | 1358 | [Number of Substrings Containing All Three Characters](Hash-Table/1358-number-of-substrings-containing-all-three-characters/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-09-13 | 2026-09-13 |
 | 1373 | [Maximum Sum BST in Binary Tree](Dynamic-Programming/1373-maximum-sum-bst-in-binary-tree/README.md) | [Dynamic Programming](Dynamic-Programming/README.md) | Hard | Solved | 1 | 2026-06-13 | 2026-06-13 |

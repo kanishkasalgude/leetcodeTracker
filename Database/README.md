@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 39 | 39 | 0 | 26 | 13 | 0 |
+| 41 | 41 | 0 | 26 | 15 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@
 | 584 | [Find Customer Referee](../Database/0584-find-customer-referee/README.md) | Easy | Solved | 1 | mysql | 2026-10-22 |
 | 595 | [Big Countries](../Database/0595-big-countries/README.md) | Easy | Solved | 3 | mysql | 2026-10-22 |
 | 596 | [Classes With at Least 5 Students](../Database/0596-classes-with-at-least-5-students/README.md) | Easy | Solved | 1 | mysql | 2026-10-29 |
+| 602 | [Friend Requests II: Who Has the Most Friends](../Database/0602-friend-requests-ii-who-has-the-most-friends/README.md) | Medium | Solved | 1 | mysql | 2026-11-04 |
 | 610 | [Triangle Judgement](../Database/0610-triangle-judgement/README.md) | Easy | Solved | 2 | mysql | 2026-10-31 |
 | 619 | [Biggest Single Number](../Database/0619-biggest-single-number/README.md) | Easy | Solved | 1 | mysql | 2026-10-29 |
 | 620 | [Not Boring Movies](../Database/0620-not-boring-movies/README.md) | Easy | Solved | 3 | mysql | 2026-10-24 |
@@ -33,6 +34,7 @@
 | 1211 | [Queries Quality and Percentage](../Database/1211-queries-quality-and-percentage/README.md) | Easy | Solved | 1 | mysql | 2026-10-26 |
 | 1251 | [Average Selling Price](../Database/1251-average-selling-price/README.md) | Easy | Solved | 2 | mysql | 2026-10-25 |
 | 1280 | [Students and Examinations](../Database/1280-students-and-examinations/README.md) | Easy | Solved | 1 | mysql | 2026-10-24 |
+| 1321 | [Restaurant Growth](../Database/1321-restaurant-growth/README.md) | Medium | Solved | 1 | mysql | 2026-11-04 |
 | 1341 | [Movie Rating](../Database/1341-movie-rating/README.md) | Medium | Solved | 1 | mysql | 2026-11-03 |
 | 1378 | [Replace Employee ID With The Unique Identifier](../Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Easy | Solved | 1 | mysql | 2026-10-27 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](../Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | Easy | Solved | 1 | mysql | 2026-10-23 |
