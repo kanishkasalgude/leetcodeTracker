@@ -4,14 +4,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 262 | 253 | 9 | 99 | 131 | 23 | 2026-11-05 |
+| 268 | 259 | 9 | 102 | 133 | 24 | 2026-11-05 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 115 | 109 | 6 | 35 | 67 | 13 |
-| [Database](Database/README.md) | 41 | 41 | 0 | 26 | 15 | 0 |
+| [Database](Database/README.md) | 47 | 47 | 0 | 29 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
 | [String](String/README.md) | 15 | 15 | 0 | 5 | 6 | 4 |
@@ -44,27 +44,27 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-05 | [176. Second Highest Salary](Database/0176-second-highest-salary/README.md) | Accepted | mysql |
+| 2026-11-05 | [176. Second Highest Salary](Database/0176-second-highest-salary/README.md) | Accepted | mysql |
+| 2026-11-05 | [196. Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | Accepted | mysql |
+| 2026-11-05 | [196. Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | Accepted | mysql |
+| 2026-11-05 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Accepted | mysql |
+| 2026-11-05 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Accepted | mysql |
+| 2026-11-05 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Wrong Answer | mysql |
+| 2026-11-05 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Wrong Answer | mysql |
+| 2026-11-05 | [1667. Fix Names in a Table](Database/1667-fix-names-in-a-table/README.md) | Accepted | mysql |
+| 2026-11-05 | [185. Department Top Three Salaries](Database/0185-department-top-three-salaries/README.md) | Accepted | mysql |
+| 2026-11-05 | [585. Investments in 2016](Database/0585-investments-in-2016/README.md) | Accepted | mysql |
 | 2026-11-05 | [1385. Find the Distance Value Between Two Arrays](Array/1385-find-the-distance-value-between-two-arrays/README.md) | Accepted | cpp |
 | 2026-11-04 | [602. Friend Requests II: Who Has the Most Friends](Database/0602-friend-requests-ii-who-has-the-most-friends/README.md) | Accepted | mysql |
 | 2026-11-04 | [1321. Restaurant Growth](Database/1321-restaurant-growth/README.md) | Accepted | mysql |
 | 2026-11-03 | [1341. Movie Rating](Database/1341-movie-rating/README.md) | Accepted | mysql |
-| 2026-11-03 | [3736. Minimum Moves to Equal Array Elements III](Array/3736-minimum-moves-to-equal-array-elements-iii/README.md) | Accepted | cpp |
-| 2026-11-03 | [3736. Minimum Moves to Equal Array Elements III](Array/3736-minimum-moves-to-equal-array-elements-iii/README.md) | Accepted | python3 |
-| 2026-11-02 | [626. Exchange Seats](Database/0626-exchange-seats/README.md) | Accepted | mysql |
-| 2026-11-02 | [1978. Employees Whose Manager Left the Company](Database/1978-employees-whose-manager-left-the-company/README.md) | Accepted | mysql |
-| 2026-11-02 | [1907. Count Salary Categories](Database/1907-count-salary-categories/README.md) | Accepted | mysql |
-| 2026-11-02 | [1204. Last Person to Fit in the Bus](Database/1204-last-person-to-fit-in-the-bus/README.md) | Accepted | mysql |
-| 2026-11-02 | [1204. Last Person to Fit in the Bus](Database/1204-last-person-to-fit-in-the-bus/README.md) | Wrong Answer | mysql |
-| 2026-11-02 | [1164. Product Price at a Given Date](Database/1164-product-price-at-a-given-date/README.md) | Accepted | mysql |
-| 2026-11-02 | [462. Minimum Moves to Equal Array Elements II](Array/0462-minimum-moves-to-equal-array-elements-ii/README.md) | Accepted | python3 |
-| 2026-11-01 | [180. Consecutive Numbers](Database/0180-consecutive-numbers/README.md) | Accepted | mysql |
-| 2026-11-01 | [180. Consecutive Numbers](Database/0180-consecutive-numbers/README.md) | Time Limit Exceeded | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 13 | 17 |
+| 2026-11 | 19 | 28 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -162,8 +162,11 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 162 | [Find Peak Element](Array/0162-find-peak-element/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-02-14 | 2026-02-14 |
 | 169 | [Majority Element](Array/0169-majority-element/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-10-06 | 2025-10-06 |
 | 173 | [Binary Search Tree Iterator](Stack/0173-binary-search-tree-iterator/README.md) | [Stack](Stack/README.md) | Medium | Solved | 1 | 2026-06-12 | 2026-06-12 |
+| 176 | [Second Highest Salary](Database/0176-second-highest-salary/README.md) | [Database](Database/README.md) | Medium | Solved | 2 | 2026-11-05 | 2026-11-05 |
 | 180 | [Consecutive Numbers](Database/0180-consecutive-numbers/README.md) | [Database](Database/README.md) | Medium | Solved | 3 | 2026-11-01 | 2026-11-01 |
+| 185 | [Department Top Three Salaries](Database/0185-department-top-three-salaries/README.md) | [Database](Database/README.md) | Hard | Solved | 1 | 2026-11-05 | 2026-11-05 |
 | 189 | [Rotate Array](Array/0189-rotate-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2025-09-23 | 2025-09-23 |
+| 196 | [Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-11-05 | 2026-11-05 |
 | 197 | [Rising Temperature](Database/0197-rising-temperature/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
 | 199 | [Binary Tree Right Side View](Tree/0199-binary-tree-right-side-view/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-01-24 | 2026-01-24 |
 | 200 | [Number of Islands](Array/0200-number-of-islands/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-08-24 | 2026-08-24 |
@@ -214,6 +217,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 570 | [Managers with at Least 5 Direct Reports](Database/0570-managers-with-at-least-5-direct-reports/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-10-24 | 2026-10-24 |
 | 577 | [Employee Bonus](Database/0577-employee-bonus/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
 | 584 | [Find Customer Referee](Database/0584-find-customer-referee/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
+| 585 | [Investments in 2016](Database/0585-investments-in-2016/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-05 | 2026-11-05 |
 | 595 | [Big Countries](Database/0595-big-countries/README.md) | [Database](Database/README.md) | Easy | Solved | 3 | 2026-10-22 | 2026-10-22 |
 | 596 | [Classes With at Least 5 Students](Database/0596-classes-with-at-least-5-students/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-29 | 2026-10-29 |
 | 602 | [Friend Requests II: Who Has the Most Friends](Database/0602-friend-requests-ii-who-has-the-most-friends/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-04 | 2026-11-04 |
@@ -279,6 +283,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1480 | [Running Sum of 1d Array](Array/1480-running-sum-of-1d-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-04-21 | 2026-04-21 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-03-21 | 2026-03-21 |
 | 1512 | [Number of Good Pairs](Array/1512-number-of-good-pairs/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-04-21 | 2026-04-21 |
+| 1527 | [Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | [Database](Database/README.md) | Easy | Solved | 4 | 2026-11-05 | 2026-11-05 |
 | 1539 | [Kth Missing Positive Number](Array/1539-kth-missing-positive-number/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-03-22 | 2026-03-22 |
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](Graph-Theory/1557-minimum-number-of-vertices-to-reach-all-nodes/README.md) | [Graph Theory](Graph-Theory/README.md) | Medium | Solved | 1 | 2026-10-17 | 2026-10-17 |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-10-18 | 2026-10-18 |
@@ -289,6 +294,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1633 | [Percentage of Users Attended a Contest](Database/1633-percentage-of-users-attended-a-contest/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-25 | 2026-10-25 |
 | 1642 | [Furthest Building You Can Reach](Array/1642-furthest-building-you-can-reach/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-19 | 2026-10-19 |
 | 1661 | [Average Time of Process per Machine](Database/1661-average-time-of-process-per-machine/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
+| 1667 | [Fix Names in a Table](Database/1667-fix-names-in-a-table/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-11-05 | 2026-11-05 |
 | 1672 | [Richest Customer Wealth](Array/1672-richest-customer-wealth/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-04-21 | 2026-04-21 |
 | 1683 | [Invalid Tweets](Database/1683-invalid-tweets/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
 | 1729 | [Find Followers Count](Database/1729-find-followers-count/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-29 | 2026-10-29 |

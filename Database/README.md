@@ -4,16 +4,20 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 41 | 41 | 0 | 26 | 15 | 0 |
+| 47 | 47 | 0 | 29 | 17 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
+| 176 | [Second Highest Salary](../Database/0176-second-highest-salary/README.md) | Medium | Solved | 2 | mysql | 2026-11-05 |
 | 180 | [Consecutive Numbers](../Database/0180-consecutive-numbers/README.md) | Medium | Solved | 3 | mysql | 2026-11-01 |
+| 185 | [Department Top Three Salaries](../Database/0185-department-top-three-salaries/README.md) | Hard | Solved | 1 | mysql | 2026-11-05 |
+| 196 | [Delete Duplicate Emails](../Database/0196-delete-duplicate-emails/README.md) | Easy | Solved | 2 | mysql | 2026-11-05 |
 | 197 | [Rising Temperature](../Database/0197-rising-temperature/README.md) | Easy | Solved | 1 | mysql | 2026-10-24 |
 | 550 | [Game Play Analysis IV](../Database/0550-game-play-analysis-iv/README.md) | Medium | Solved | 1 | mysql | 2026-10-28 |
 | 570 | [Managers with at Least 5 Direct Reports](../Database/0570-managers-with-at-least-5-direct-reports/README.md) | Medium | Solved | 1 | mysql | 2026-10-24 |
 | 577 | [Employee Bonus](../Database/0577-employee-bonus/README.md) | Easy | Solved | 1 | mysql | 2026-10-24 |
 | 584 | [Find Customer Referee](../Database/0584-find-customer-referee/README.md) | Easy | Solved | 1 | mysql | 2026-10-22 |
+| 585 | [Investments in 2016](../Database/0585-investments-in-2016/README.md) | Medium | Solved | 1 | mysql | 2026-11-05 |
 | 595 | [Big Countries](../Database/0595-big-countries/README.md) | Easy | Solved | 3 | mysql | 2026-10-22 |
 | 596 | [Classes With at Least 5 Students](../Database/0596-classes-with-at-least-5-students/README.md) | Easy | Solved | 1 | mysql | 2026-10-29 |
 | 602 | [Friend Requests II: Who Has the Most Friends](../Database/0602-friend-requests-ii-who-has-the-most-friends/README.md) | Medium | Solved | 1 | mysql | 2026-11-04 |
@@ -37,9 +41,11 @@
 | 1321 | [Restaurant Growth](../Database/1321-restaurant-growth/README.md) | Medium | Solved | 1 | mysql | 2026-11-04 |
 | 1341 | [Movie Rating](../Database/1341-movie-rating/README.md) | Medium | Solved | 1 | mysql | 2026-11-03 |
 | 1378 | [Replace Employee ID With The Unique Identifier](../Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Easy | Solved | 1 | mysql | 2026-10-27 |
+| 1527 | [Patients With a Condition](../Database/1527-patients-with-a-condition/README.md) | Easy | Solved | 4 | mysql | 2026-11-05 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](../Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | Easy | Solved | 1 | mysql | 2026-10-23 |
 | 1633 | [Percentage of Users Attended a Contest](../Database/1633-percentage-of-users-attended-a-contest/README.md) | Easy | Solved | 1 | mysql | 2026-10-25 |
 | 1661 | [Average Time of Process per Machine](../Database/1661-average-time-of-process-per-machine/README.md) | Easy | Solved | 1 | mysql | 2026-10-24 |
+| 1667 | [Fix Names in a Table](../Database/1667-fix-names-in-a-table/README.md) | Easy | Solved | 1 | mysql | 2026-11-05 |
 | 1683 | [Invalid Tweets](../Database/1683-invalid-tweets/README.md) | Easy | Solved | 1 | mysql | 2026-10-22 |
 | 1729 | [Find Followers Count](../Database/1729-find-followers-count/README.md) | Easy | Solved | 1 | mysql | 2026-10-29 |
 | 1731 | [The Number of Employees Which Report to Each Employee](../Database/1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | Solved | 1 | mysql | 2026-10-30 |
