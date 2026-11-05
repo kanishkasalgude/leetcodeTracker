@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 261 | 252 | 9 | 98 | 131 | 23 | 2026-11-04 |
+| 262 | 253 | 9 | 99 | 131 | 23 | 2026-11-05 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 114 | 108 | 6 | 34 | 67 | 13 |
+| [Array](Array/README.md) | 115 | 109 | 6 | 35 | 67 | 13 |
 | [Database](Database/README.md) | 41 | 41 | 0 | 26 | 15 | 0 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -44,6 +44,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-05 | [1385. Find the Distance Value Between Two Arrays](Array/1385-find-the-distance-value-between-two-arrays/README.md) | Accepted | cpp |
 | 2026-11-04 | [602. Friend Requests II: Who Has the Most Friends](Database/0602-friend-requests-ii-who-has-the-most-friends/README.md) | Accepted | mysql |
 | 2026-11-04 | [1321. Restaurant Growth](Database/1321-restaurant-growth/README.md) | Accepted | mysql |
 | 2026-11-03 | [1341. Movie Rating](Database/1341-movie-rating/README.md) | Accepted | mysql |
@@ -58,13 +59,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-02 | [462. Minimum Moves to Equal Array Elements II](Array/0462-minimum-moves-to-equal-array-elements-ii/README.md) | Accepted | python3 |
 | 2026-11-01 | [180. Consecutive Numbers](Database/0180-consecutive-numbers/README.md) | Accepted | mysql |
 | 2026-11-01 | [180. Consecutive Numbers](Database/0180-consecutive-numbers/README.md) | Time Limit Exceeded | mysql |
-| 2026-11-01 | [180. Consecutive Numbers](Database/0180-consecutive-numbers/README.md) | Wrong Answer | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 12 | 16 |
+| 2026-11 | 13 | 17 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -273,6 +273,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1358 | [Number of Substrings Containing All Three Characters](Hash-Table/1358-number-of-substrings-containing-all-three-characters/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-09-13 | 2026-09-13 |
 | 1373 | [Maximum Sum BST in Binary Tree](Dynamic-Programming/1373-maximum-sum-bst-in-binary-tree/README.md) | [Dynamic Programming](Dynamic-Programming/README.md) | Hard | Solved | 1 | 2026-06-13 | 2026-06-13 |
 | 1378 | [Replace Employee ID With The Unique Identifier](Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-27 | 2026-10-27 |
+| 1385 | [Find the Distance Value Between Two Arrays](Array/1385-find-the-distance-value-between-two-arrays/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-11-05 | 2026-11-05 |
 | 1423 | [Maximum Points You Can Obtain from Cards](Array/1423-maximum-points-you-can-obtain-from-cards/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-09-13 | 2026-09-13 |
 | 1470 | [Shuffle the Array](Array/1470-shuffle-the-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-04-21 | 2026-04-21 |
 | 1480 | [Running Sum of 1d Array](Array/1480-running-sum-of-1d-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-04-21 | 2026-04-21 |

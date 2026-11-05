@@ -40,6 +40,7 @@ Filed under their main topic, but they use this one too.
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Array | Easy | Solved |
 | 653 | [Two Sum IV - Input is a BST](../Hash-Table/0653-two-sum-iv-input-is-a-bst/README.md) | Hash Table | Easy | Solved |
 | 876 | [Middle of the Linked List](../Linked-List/0876-middle-of-the-linked-list/README.md) | Linked List | Easy | Solved |
+| 1385 | [Find the Distance Value Between Two Arrays](../Array/1385-find-the-distance-value-between-two-arrays/README.md) | Array | Easy | Solved |
 | 2095 | [Delete the Middle Node of a Linked List](../Linked-List/2095-delete-the-middle-node-of-a-linked-list/README.md) | Linked List | Medium | Solved |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Array | Medium | Solved |
 | 3998 | [Transform Binary String Using Subsequence Sort](../Array/3998-transform-binary-string-using-subsequence-sort/README.md) | Array | Medium | Attempted |

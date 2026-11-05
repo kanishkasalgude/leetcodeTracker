@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2189245871,
+  "synced_through": 2189919873,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -4886,6 +4886,24 @@
       },
       "submissions": [
         {"id":2189245871,"status":"Accepted","lang":"mysql","timestamp":1793785023,"runtime":"372 ms","memory":"0B"}
+      ]
+    },
+    "find-the-distance-value-between-two-arrays": {
+      "id": "1385",
+      "title": "Find the Distance Value Between Two Arrays",
+      "slug": "find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers","Binary Search","Sorting"],
+      "topic": "Array",
+      "dir": "Array/1385-find-the-distance-value-between-two-arrays",
+      "first_attempt_at": 1793866182,
+      "last_attempt_at": 1793866182,
+      "solved_at": 1793866182,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2189919873,"status":"Accepted","lang":"cpp","timestamp":1793866182,"runtime":"2 ms","memory":"16.6 MB"}
+      },
+      "submissions": [
+        {"id":2189919873,"status":"Accepted","lang":"cpp","timestamp":1793866182,"runtime":"2 ms","memory":"16.6 MB"}
       ]
     }
   }
