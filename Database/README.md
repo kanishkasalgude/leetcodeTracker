@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 47 | 47 | 0 | 29 | 17 | 1 |
+| 50 | 50 | 0 | 32 | 17 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -39,8 +39,11 @@
 | 1251 | [Average Selling Price](../Database/1251-average-selling-price/README.md) | Easy | Solved | 2 | mysql | 2026-10-25 |
 | 1280 | [Students and Examinations](../Database/1280-students-and-examinations/README.md) | Easy | Solved | 1 | mysql | 2026-10-24 |
 | 1321 | [Restaurant Growth](../Database/1321-restaurant-growth/README.md) | Medium | Solved | 1 | mysql | 2026-11-04 |
+| 1327 | [List the Products Ordered in a Period](../Database/1327-list-the-products-ordered-in-a-period/README.md) | Easy | Solved | 1 | mysql | 2026-11-05 |
 | 1341 | [Movie Rating](../Database/1341-movie-rating/README.md) | Medium | Solved | 1 | mysql | 2026-11-03 |
 | 1378 | [Replace Employee ID With The Unique Identifier](../Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Easy | Solved | 1 | mysql | 2026-10-27 |
+| 1484 | [Group Sold Products By The Date](../Database/1484-group-sold-products-by-the-date/README.md) | Easy | Solved | 1 | mysql | 2026-11-05 |
+| 1517 | [Find Users With Valid E-Mails](../Database/1517-find-users-with-valid-e-mails/README.md) | Easy | Solved | 2 | mysql | 2026-11-05 |
 | 1527 | [Patients With a Condition](../Database/1527-patients-with-a-condition/README.md) | Easy | Solved | 4 | mysql | 2026-11-05 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](../Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | Easy | Solved | 1 | mysql | 2026-10-23 |
 | 1633 | [Percentage of Users Attended a Contest](../Database/1633-percentage-of-users-attended-a-contest/README.md) | Easy | Solved | 1 | mysql | 2026-10-25 |

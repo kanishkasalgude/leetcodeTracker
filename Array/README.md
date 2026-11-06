@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 115 | 109 | 6 | 35 | 67 | 13 |
+| 116 | 110 | 6 | 35 | 68 | 13 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -100,6 +100,7 @@
 | 2104 | [Sum of Subarray Ranges](../Array/2104-sum-of-subarray-ranges/README.md) | Medium | Solved | 1 | cpp | 2026-07-27 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 1 | cpp | 2025-10-12 |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](../Array/2267-check-if-there-is-a-valid-parentheses-string-path/README.md) | Hard | Solved | 1 | cpp | 2026-09-29 |
+| 2747 | [Count Zero Request Servers](../Array/2747-count-zero-request-servers/README.md) | Medium | Solved | 1 | cpp | 2026-11-06 |
 | 2812 | [Find the Safest Path in a Grid](../Array/2812-find-the-safest-path-in-a-grid/README.md) | Medium | Solved | 3 | python | 2026-10-17 |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](../Array/2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md) | Hard | Solved | 2 | cpp | 2026-10-12 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](../Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | Hard | Attempted | 3 | cpp | - |

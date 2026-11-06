@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2189951682,
+  "synced_through": 2190558422,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5017,6 +5017,79 @@
       "submissions": [
         {"id":2189950764,"status":"Accepted","lang":"mysql","timestamp":1793869811,"runtime":null,"memory":null},
         {"id":2189951682,"status":"Accepted","lang":"mysql","timestamp":1793869909,"runtime":"345 ms","memory":"0B"}
+      ]
+    },
+    "group-sold-products-by-the-date": {
+      "id": "1484",
+      "title": "Group Sold Products By The Date",
+      "slug": "group-sold-products-by-the-date",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1484-group-sold-products-by-the-date",
+      "first_attempt_at": 1793870460,
+      "last_attempt_at": 1793870460,
+      "solved_at": 1793870460,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2189956635,"status":"Accepted","lang":"mysql","timestamp":1793870460,"runtime":"659 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2189956635,"status":"Accepted","lang":"mysql","timestamp":1793870460,"runtime":"659 ms","memory":"0B"}
+      ]
+    },
+    "list-the-products-ordered-in-a-period": {
+      "id": "1327",
+      "title": "List the Products Ordered in a Period",
+      "slug": "list-the-products-ordered-in-a-period",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1327-list-the-products-ordered-in-a-period",
+      "first_attempt_at": 1793870767,
+      "last_attempt_at": 1793870767,
+      "solved_at": 1793870767,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2189959487,"status":"Accepted","lang":"mysql","timestamp":1793870767,"runtime":"1187 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2189959487,"status":"Accepted","lang":"mysql","timestamp":1793870767,"runtime":"1187 ms","memory":"0B"}
+      ]
+    },
+    "find-users-with-valid-e-mails": {
+      "id": "1517",
+      "title": "Find Users With Valid E-Mails",
+      "slug": "find-users-with-valid-e-mails",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1517-find-users-with-valid-e-mails",
+      "first_attempt_at": 1793870976,
+      "last_attempt_at": 1793871090,
+      "solved_at": 1793871090,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2189962343,"status":"Accepted","lang":"mysql","timestamp":1793871090,"runtime":"1296 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2189961362,"status":"Wrong Answer","lang":"mysql","timestamp":1793870976,"runtime":null,"memory":null},
+        {"id":2189962343,"status":"Accepted","lang":"mysql","timestamp":1793871090,"runtime":"1296 ms","memory":"0B"}
+      ]
+    },
+    "count-zero-request-servers": {
+      "id": "2747",
+      "title": "Count Zero Request Servers",
+      "slug": "count-zero-request-servers",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Sliding Window","Sorting"],
+      "topic": "Array",
+      "dir": "Array/2747-count-zero-request-servers",
+      "first_attempt_at": 1793949848,
+      "last_attempt_at": 1793949848,
+      "solved_at": 1793949848,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2190558422,"status":"Accepted","lang":"cpp","timestamp":1793949848,"runtime":"50 ms","memory":"199.1 MB"}
+      },
+      "submissions": [
+        {"id":2190558422,"status":"Accepted","lang":"cpp","timestamp":1793949848,"runtime":"50 ms","memory":"199.1 MB"}
       ]
     }
   }

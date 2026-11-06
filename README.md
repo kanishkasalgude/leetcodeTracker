@@ -4,14 +4,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 268 | 259 | 9 | 102 | 133 | 24 | 2026-11-05 |
+| 272 | 263 | 9 | 105 | 134 | 24 | 2026-11-06 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 115 | 109 | 6 | 35 | 67 | 13 |
-| [Database](Database/README.md) | 47 | 47 | 0 | 29 | 17 | 1 |
+| [Array](Array/README.md) | 116 | 110 | 6 | 35 | 68 | 13 |
+| [Database](Database/README.md) | 50 | 50 | 0 | 32 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
 | [String](String/README.md) | 15 | 15 | 0 | 5 | 6 | 4 |
@@ -44,6 +44,11 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-06 | [2747. Count Zero Request Servers](Array/2747-count-zero-request-servers/README.md) | Accepted | cpp |
+| 2026-11-05 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Accepted | mysql |
+| 2026-11-05 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Wrong Answer | mysql |
+| 2026-11-05 | [1327. List the Products Ordered in a Period](Database/1327-list-the-products-ordered-in-a-period/README.md) | Accepted | mysql |
+| 2026-11-05 | [1484. Group Sold Products By The Date](Database/1484-group-sold-products-by-the-date/README.md) | Accepted | mysql |
 | 2026-11-05 | [176. Second Highest Salary](Database/0176-second-highest-salary/README.md) | Accepted | mysql |
 | 2026-11-05 | [176. Second Highest Salary](Database/0176-second-highest-salary/README.md) | Accepted | mysql |
 | 2026-11-05 | [196. Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | Accepted | mysql |
@@ -54,17 +59,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-05 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Wrong Answer | mysql |
 | 2026-11-05 | [1667. Fix Names in a Table](Database/1667-fix-names-in-a-table/README.md) | Accepted | mysql |
 | 2026-11-05 | [185. Department Top Three Salaries](Database/0185-department-top-three-salaries/README.md) | Accepted | mysql |
-| 2026-11-05 | [585. Investments in 2016](Database/0585-investments-in-2016/README.md) | Accepted | mysql |
-| 2026-11-05 | [1385. Find the Distance Value Between Two Arrays](Array/1385-find-the-distance-value-between-two-arrays/README.md) | Accepted | cpp |
-| 2026-11-04 | [602. Friend Requests II: Who Has the Most Friends](Database/0602-friend-requests-ii-who-has-the-most-friends/README.md) | Accepted | mysql |
-| 2026-11-04 | [1321. Restaurant Growth](Database/1321-restaurant-growth/README.md) | Accepted | mysql |
-| 2026-11-03 | [1341. Movie Rating](Database/1341-movie-rating/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 19 | 28 |
+| 2026-11 | 23 | 33 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -273,6 +273,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1280 | [Students and Examinations](Database/1280-students-and-examinations/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-03-21 | 2026-03-21 |
 | 1321 | [Restaurant Growth](Database/1321-restaurant-growth/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-04 | 2026-11-04 |
+| 1327 | [List the Products Ordered in a Period](Database/1327-list-the-products-ordered-in-a-period/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-11-05 | 2026-11-05 |
 | 1341 | [Movie Rating](Database/1341-movie-rating/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-03 | 2026-11-03 |
 | 1358 | [Number of Substrings Containing All Three Characters](Hash-Table/1358-number-of-substrings-containing-all-three-characters/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-09-13 | 2026-09-13 |
 | 1373 | [Maximum Sum BST in Binary Tree](Dynamic-Programming/1373-maximum-sum-bst-in-binary-tree/README.md) | [Dynamic Programming](Dynamic-Programming/README.md) | Hard | Solved | 1 | 2026-06-13 | 2026-06-13 |
@@ -282,7 +283,9 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1470 | [Shuffle the Array](Array/1470-shuffle-the-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-04-21 | 2026-04-21 |
 | 1480 | [Running Sum of 1d Array](Array/1480-running-sum-of-1d-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-04-21 | 2026-04-21 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-03-21 | 2026-03-21 |
+| 1484 | [Group Sold Products By The Date](Database/1484-group-sold-products-by-the-date/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-11-05 | 2026-11-05 |
 | 1512 | [Number of Good Pairs](Array/1512-number-of-good-pairs/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-04-21 | 2026-04-21 |
+| 1517 | [Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-11-05 | 2026-11-05 |
 | 1527 | [Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | [Database](Database/README.md) | Easy | Solved | 4 | 2026-11-05 | 2026-11-05 |
 | 1539 | [Kth Missing Positive Number](Array/1539-kth-missing-positive-number/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-03-22 | 2026-03-22 |
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](Graph-Theory/1557-minimum-number-of-vertices-to-reach-all-nodes/README.md) | [Graph Theory](Graph-Theory/README.md) | Medium | Solved | 1 | 2026-10-17 | 2026-10-17 |
@@ -321,6 +324,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2315 | [Count Asterisks](String/2315-count-asterisks/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2025-07-03 | 2025-07-03 |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](Database/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-28 | 2026-10-28 |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](Two-Pointers/2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md) | [Two Pointers](Two-Pointers/README.md) | Hard | Solved | 1 | 2026-09-15 | 2026-09-15 |
+| 2747 | [Count Zero Request Servers](Array/2747-count-zero-request-servers/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-06 | 2026-11-06 |
 | 2812 | [Find the Safest Path in a Grid](Array/2812-find-the-safest-path-in-a-grid/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-10-17 | 2026-10-17 |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](Array/2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md) | [Array](Array/README.md) | Hard | Solved | 2 | 2026-10-12 | 2026-10-12 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | [Array](Array/README.md) | Hard | Attempted | 3 | 2026-10-16 | - |
