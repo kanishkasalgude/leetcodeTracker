@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 272 | 263 | 9 | 105 | 134 | 24 | 2026-11-06 |
+| 277 | 268 | 9 | 107 | 137 | 24 | 2026-11-07 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 116 | 110 | 6 | 35 | 68 | 13 |
+| [Array](Array/README.md) | 117 | 111 | 6 | 35 | 69 | 13 |
 | [Database](Database/README.md) | 50 | 50 | 0 | 32 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -20,6 +20,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | [Stack](Stack/README.md) | 8 | 8 | 0 | 5 | 3 | 0 |
 | [Depth-First Search](Depth-First-Search/README.md) | 6 | 6 | 0 | 0 | 6 | 0 |
 | [Two Pointers](Two-Pointers/README.md) | 6 | 5 | 1 | 3 | 2 | 1 |
+| [Shell](Shell/README.md) | 4 | 4 | 0 | 2 | 2 | 0 |
 | [Dynamic Programming](Dynamic-Programming/README.md) | 2 | 2 | 0 | 0 | 0 | 2 |
 | [Binary Search](Binary-Search/README.md) | 1 | 1 | 0 | 0 | 1 | 0 |
 | [Bit Manipulation](Bit-Manipulation/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
@@ -44,27 +45,27 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-07 | [1882. Process Tasks Using Servers](Array/1882-process-tasks-using-servers/README.md) | Accepted | cpp |
+| 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Accepted | bash |
+| 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Runtime Error | bash |
+| 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Runtime Error | bash |
+| 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Runtime Error | bash |
+| 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Runtime Error | bash |
+| 2026-11-06 | [192. Word Frequency](Shell/0192-word-frequency/README.md) | Accepted | bash |
+| 2026-11-06 | [192. Word Frequency](Shell/0192-word-frequency/README.md) | Wrong Answer | bash |
+| 2026-11-06 | [193. Valid Phone Numbers](Shell/0193-valid-phone-numbers/README.md) | Accepted | bash |
+| 2026-11-06 | [195. Tenth Line](Shell/0195-tenth-line/README.md) | Accepted | bash |
 | 2026-11-06 | [2747. Count Zero Request Servers](Array/2747-count-zero-request-servers/README.md) | Accepted | cpp |
 | 2026-11-05 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Accepted | mysql |
 | 2026-11-05 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Wrong Answer | mysql |
 | 2026-11-05 | [1327. List the Products Ordered in a Period](Database/1327-list-the-products-ordered-in-a-period/README.md) | Accepted | mysql |
 | 2026-11-05 | [1484. Group Sold Products By The Date](Database/1484-group-sold-products-by-the-date/README.md) | Accepted | mysql |
-| 2026-11-05 | [176. Second Highest Salary](Database/0176-second-highest-salary/README.md) | Accepted | mysql |
-| 2026-11-05 | [176. Second Highest Salary](Database/0176-second-highest-salary/README.md) | Accepted | mysql |
-| 2026-11-05 | [196. Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | Accepted | mysql |
-| 2026-11-05 | [196. Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | Accepted | mysql |
-| 2026-11-05 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Accepted | mysql |
-| 2026-11-05 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Accepted | mysql |
-| 2026-11-05 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Wrong Answer | mysql |
-| 2026-11-05 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Wrong Answer | mysql |
-| 2026-11-05 | [1667. Fix Names in a Table](Database/1667-fix-names-in-a-table/README.md) | Accepted | mysql |
-| 2026-11-05 | [185. Department Top Three Salaries](Database/0185-department-top-three-salaries/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 23 | 33 |
+| 2026-11 | 28 | 43 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -166,6 +167,10 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 180 | [Consecutive Numbers](Database/0180-consecutive-numbers/README.md) | [Database](Database/README.md) | Medium | Solved | 3 | 2026-11-01 | 2026-11-01 |
 | 185 | [Department Top Three Salaries](Database/0185-department-top-three-salaries/README.md) | [Database](Database/README.md) | Hard | Solved | 1 | 2026-11-05 | 2026-11-05 |
 | 189 | [Rotate Array](Array/0189-rotate-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2025-09-23 | 2025-09-23 |
+| 192 | [Word Frequency](Shell/0192-word-frequency/README.md) | [Shell](Shell/README.md) | Medium | Solved | 2 | 2026-11-06 | 2026-11-06 |
+| 193 | [Valid Phone Numbers](Shell/0193-valid-phone-numbers/README.md) | [Shell](Shell/README.md) | Easy | Solved | 1 | 2026-11-06 | 2026-11-06 |
+| 194 | [Transpose File](Shell/0194-transpose-file/README.md) | [Shell](Shell/README.md) | Medium | Solved | 5 | 2026-11-06 | 2026-11-06 |
+| 195 | [Tenth Line](Shell/0195-tenth-line/README.md) | [Shell](Shell/README.md) | Easy | Solved | 1 | 2026-11-06 | 2026-11-06 |
 | 196 | [Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-11-05 | 2026-11-05 |
 | 197 | [Rising Temperature](Database/0197-rising-temperature/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
 | 199 | [Binary Tree Right Side View](Tree/0199-binary-tree-right-side-view/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-01-24 | 2026-01-24 |
@@ -308,6 +313,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1789 | [Primary Department for Each Employee](Database/1789-primary-department-for-each-employee/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-31 | 2026-10-31 |
 | 1833 | [Maximum Ice Cream Bars](Array/1833-maximum-ice-cream-bars/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-29 | 2026-10-29 |
 | 1848 | [Minimum Distance to the Target Element](Array/1848-minimum-distance-to-the-target-element/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-09-08 | 2026-09-08 |
+| 1882 | [Process Tasks Using Servers](Array/1882-process-tasks-using-servers/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-07 | 2026-11-07 |
 | 1901 | [Find a Peak Element II](Array/1901-find-a-peak-element-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-06-07 | 2026-06-07 |
 | 1903 | [Largest Odd Number in String](Math/1903-largest-odd-number-in-string/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-06-15 | 2026-06-15 |
 | 1907 | [Count Salary Categories](Database/1907-count-salary-categories/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-02 | 2026-11-02 |

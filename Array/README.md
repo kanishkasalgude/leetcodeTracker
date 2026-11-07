@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 116 | 110 | 6 | 35 | 68 | 13 |
+| 117 | 111 | 6 | 35 | 69 | 13 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -95,6 +95,7 @@
 | 1752 | [Check if Array Is Sorted and Rotated](../Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Easy | Solved | 2 | cpp | 2025-09-22 |
 | 1833 | [Maximum Ice Cream Bars](../Array/1833-maximum-ice-cream-bars/README.md) | Medium | Solved | 1 | cpp | 2026-10-29 |
 | 1848 | [Minimum Distance to the Target Element](../Array/1848-minimum-distance-to-the-target-element/README.md) | Easy | Solved | 2 | cpp | 2026-09-08 |
+| 1882 | [Process Tasks Using Servers](../Array/1882-process-tasks-using-servers/README.md) | Medium | Solved | 1 | cpp | 2026-11-07 |
 | 1901 | [Find a Peak Element II](../Array/1901-find-a-peak-element-ii/README.md) | Medium | Solved | 3 | cpp | 2026-06-07 |
 | 2089 | [Find Target Indices After Sorting Array](../Array/2089-find-target-indices-after-sorting-array/README.md) | Easy | Solved | 1 | cpp | 2026-10-19 |
 | 2104 | [Sum of Subarray Ranges](../Array/2104-sum-of-subarray-ranges/README.md) | Medium | Solved | 1 | cpp | 2026-07-27 |

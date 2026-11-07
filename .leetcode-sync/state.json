@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2190558422,
+  "synced_through": 2191147059,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5090,6 +5090,101 @@
       },
       "submissions": [
         {"id":2190558422,"status":"Accepted","lang":"cpp","timestamp":1793949848,"runtime":"50 ms","memory":"199.1 MB"}
+      ]
+    },
+    "tenth-line": {
+      "id": "195",
+      "title": "Tenth Line",
+      "slug": "tenth-line",
+      "difficulty": "Easy",
+      "tags": ["Shell"],
+      "topic": "Shell",
+      "dir": "Shell/0195-tenth-line",
+      "first_attempt_at": 1793950565,
+      "last_attempt_at": 1793950565,
+      "solved_at": 1793950565,
+      "languages": {
+        "bash": {"file":"solution.sh","id":2190563947,"status":"Accepted","lang":"bash","timestamp":1793950565,"runtime":"17 ms","memory":"3.8 MB"}
+      },
+      "submissions": [
+        {"id":2190563947,"status":"Accepted","lang":"bash","timestamp":1793950565,"runtime":"17 ms","memory":"3.8 MB"}
+      ]
+    },
+    "valid-phone-numbers": {
+      "id": "193",
+      "title": "Valid Phone Numbers",
+      "slug": "valid-phone-numbers",
+      "difficulty": "Easy",
+      "tags": ["Shell"],
+      "topic": "Shell",
+      "dir": "Shell/0193-valid-phone-numbers",
+      "first_attempt_at": 1793950864,
+      "last_attempt_at": 1793950864,
+      "solved_at": 1793950864,
+      "languages": {
+        "bash": {"file":"solution.sh","id":2190566213,"status":"Accepted","lang":"bash","timestamp":1793950864,"runtime":"44 ms","memory":"3.3 MB"}
+      },
+      "submissions": [
+        {"id":2190566213,"status":"Accepted","lang":"bash","timestamp":1793950864,"runtime":"44 ms","memory":"3.3 MB"}
+      ]
+    },
+    "word-frequency": {
+      "id": "192",
+      "title": "Word Frequency",
+      "slug": "word-frequency",
+      "difficulty": "Medium",
+      "tags": ["Shell"],
+      "topic": "Shell",
+      "dir": "Shell/0192-word-frequency",
+      "first_attempt_at": 1793951174,
+      "last_attempt_at": 1793951197,
+      "solved_at": 1793951197,
+      "languages": {
+        "bash": {"file":"solution.sh","id":2190568617,"status":"Accepted","lang":"bash","timestamp":1793951197,"runtime":"45 ms","memory":"3.6 MB"}
+      },
+      "submissions": [
+        {"id":2190568467,"status":"Wrong Answer","lang":"bash","timestamp":1793951174,"runtime":null,"memory":null},
+        {"id":2190568617,"status":"Accepted","lang":"bash","timestamp":1793951197,"runtime":"45 ms","memory":"3.6 MB"}
+      ]
+    },
+    "transpose-file": {
+      "id": "194",
+      "title": "Transpose File",
+      "slug": "transpose-file",
+      "difficulty": "Medium",
+      "tags": ["Shell"],
+      "topic": "Shell",
+      "dir": "Shell/0194-transpose-file",
+      "first_attempt_at": 1793951758,
+      "last_attempt_at": 1793951981,
+      "solved_at": 1793951981,
+      "languages": {
+        "bash": {"file":"solution.sh","id":2190574254,"status":"Accepted","lang":"bash","timestamp":1793951981,"runtime":"41 ms","memory":"3.9 MB"}
+      },
+      "submissions": [
+        {"id":2190572707,"status":"Runtime Error","lang":"bash","timestamp":1793951758,"runtime":null,"memory":null},
+        {"id":2190572879,"status":"Runtime Error","lang":"bash","timestamp":1793951782,"runtime":null,"memory":null},
+        {"id":2190573412,"status":"Runtime Error","lang":"bash","timestamp":1793951860,"runtime":null,"memory":null},
+        {"id":2190574160,"status":"Runtime Error","lang":"bash","timestamp":1793951969,"runtime":null,"memory":null},
+        {"id":2190574254,"status":"Accepted","lang":"bash","timestamp":1793951981,"runtime":"41 ms","memory":"3.9 MB"}
+      ]
+    },
+    "process-tasks-using-servers": {
+      "id": "1882",
+      "title": "Process Tasks Using Servers",
+      "slug": "process-tasks-using-servers",
+      "difficulty": "Medium",
+      "tags": ["Array","Heap (Priority Queue)"],
+      "topic": "Array",
+      "dir": "Array/1882-process-tasks-using-servers",
+      "first_attempt_at": 1794037734,
+      "last_attempt_at": 1794037734,
+      "solved_at": 1794037734,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2191147059,"status":"Accepted","lang":"cpp","timestamp":1794037734,"runtime":"170 ms","memory":"141.4 MB"}
+      },
+      "submissions": [
+        {"id":2191147059,"status":"Accepted","lang":"cpp","timestamp":1794037734,"runtime":"170 ms","memory":"141.4 MB"}
       ]
     }
   }
