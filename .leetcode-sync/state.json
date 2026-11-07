@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2191147059,
+  "synced_through": 2191531146,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5185,6 +5185,43 @@
       },
       "submissions": [
         {"id":2191147059,"status":"Accepted","lang":"cpp","timestamp":1794037734,"runtime":"170 ms","memory":"141.4 MB"}
+      ]
+    },
+    "combination-sum": {
+      "id": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "difficulty": "Medium",
+      "tags": ["Array","Backtracking"],
+      "topic": "Array",
+      "dir": "Array/0039-combination-sum",
+      "first_attempt_at": 1794075836,
+      "last_attempt_at": 1794076073,
+      "solved_at": 1794076073,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2191515226,"status":"Accepted","lang":"cpp","timestamp":1794076073,"runtime":"0 ms","memory":"14 MB"}
+      },
+      "submissions": [
+        {"id":2191512563,"status":"Compile Error","lang":"cpp","timestamp":1794075836,"runtime":null,"memory":null},
+        {"id":2191515226,"status":"Accepted","lang":"cpp","timestamp":1794076073,"runtime":"0 ms","memory":"14 MB"}
+      ]
+    },
+    "combination-sum-ii": {
+      "id": "40",
+      "title": "Combination Sum II",
+      "slug": "combination-sum-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Backtracking"],
+      "topic": "Array",
+      "dir": "Array/0040-combination-sum-ii",
+      "first_attempt_at": 1794077888,
+      "last_attempt_at": 1794077888,
+      "solved_at": 1794077888,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2191531146,"status":"Accepted","lang":"cpp","timestamp":1794077888,"runtime":"0 ms","memory":"14 MB"}
+      },
+      "submissions": [
+        {"id":2191531146,"status":"Accepted","lang":"cpp","timestamp":1794077888,"runtime":"0 ms","memory":"14 MB"}
       ]
     }
   }

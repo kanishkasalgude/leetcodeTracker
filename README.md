@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 277 | 268 | 9 | 107 | 137 | 24 | 2026-11-07 |
+| 279 | 270 | 9 | 107 | 139 | 24 | 2026-11-08 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 117 | 111 | 6 | 35 | 69 | 13 |
+| [Array](Array/README.md) | 119 | 113 | 6 | 35 | 71 | 13 |
 | [Database](Database/README.md) | 50 | 50 | 0 | 32 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -45,6 +45,9 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-08 | [40. Combination Sum II](Array/0040-combination-sum-ii/README.md) | Accepted | cpp |
+| 2026-11-07 | [39. Combination Sum](Array/0039-combination-sum/README.md) | Accepted | cpp |
+| 2026-11-07 | [39. Combination Sum](Array/0039-combination-sum/README.md) | Compile Error | cpp |
 | 2026-11-07 | [1882. Process Tasks Using Servers](Array/1882-process-tasks-using-servers/README.md) | Accepted | cpp |
 | 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Accepted | bash |
 | 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Runtime Error | bash |
@@ -57,15 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-06 | [195. Tenth Line](Shell/0195-tenth-line/README.md) | Accepted | bash |
 | 2026-11-06 | [2747. Count Zero Request Servers](Array/2747-count-zero-request-servers/README.md) | Accepted | cpp |
 | 2026-11-05 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Accepted | mysql |
-| 2026-11-05 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Wrong Answer | mysql |
-| 2026-11-05 | [1327. List the Products Ordered in a Period](Database/1327-list-the-products-ordered-in-a-period/README.md) | Accepted | mysql |
-| 2026-11-05 | [1484. Group Sold Products By The Date](Database/1484-group-sold-products-by-the-date/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 28 | 43 |
+| 2026-11 | 30 | 46 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -109,6 +109,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 33 | [Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-02-13 | 2026-02-13 |
 | 34 | [Find First and Last Position of Element in Sorted Array](Array/0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 10 | 2026-02-08 | 2026-02-13 |
 | 35 | [Search Insert Position](Array/0035-search-insert-position/README.md) | [Array](Array/README.md) | Easy | Solved | 3 | 2026-01-19 | 2026-01-19 |
+| 39 | [Combination Sum](Array/0039-combination-sum/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-11-07 | 2026-11-07 |
+| 40 | [Combination Sum II](Array/0040-combination-sum-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-08 | 2026-11-08 |
 | 42 | [Trapping Rain Water](Array/0042-trapping-rain-water/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-07-21 | 2026-07-21 |
 | 48 | [Rotate Image](Array/0048-rotate-image/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-19 | 2025-10-19 |
 | 50 | [Pow(x, n)](Math/0050-powx-n/README.md) | [Math](Math/README.md) | Medium | Solved | 1 | 2026-06-22 | 2026-06-22 |

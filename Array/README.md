@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 117 | 111 | 6 | 35 | 69 | 13 |
+| 119 | 113 | 6 | 35 | 71 | 13 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -19,6 +19,8 @@
 | 33 | [Search in Rotated Sorted Array](../Array/0033-search-in-rotated-sorted-array/README.md) | Medium | Solved | 3 | cpp | 2026-02-13 |
 | 34 | [Find First and Last Position of Element in Sorted Array](../Array/0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | Solved | 10 | cpp | 2026-02-13 |
 | 35 | [Search Insert Position](../Array/0035-search-insert-position/README.md) | Easy | Solved | 3 | cpp | 2026-01-19 |
+| 39 | [Combination Sum](../Array/0039-combination-sum/README.md) | Medium | Solved | 2 | cpp | 2026-11-07 |
+| 40 | [Combination Sum II](../Array/0040-combination-sum-ii/README.md) | Medium | Solved | 1 | cpp | 2026-11-08 |
 | 42 | [Trapping Rain Water](../Array/0042-trapping-rain-water/README.md) | Hard | Solved | 1 | cpp | 2026-07-21 |
 | 48 | [Rotate Image](../Array/0048-rotate-image/README.md) | Medium | Solved | 1 | cpp | 2025-10-19 |
 | 53 | [Maximum Subarray](../Array/0053-maximum-subarray/README.md) | Medium | Solved | 2 | cpp | 2025-10-12 |
