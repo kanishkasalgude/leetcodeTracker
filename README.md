@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 279 | 270 | 9 | 107 | 139 | 24 | 2026-11-08 |
+| 280 | 271 | 9 | 107 | 140 | 24 | 2026-11-08 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 119 | 113 | 6 | 35 | 71 | 13 |
+| [Array](Array/README.md) | 120 | 114 | 6 | 35 | 72 | 13 |
 | [Database](Database/README.md) | 50 | 50 | 0 | 32 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -45,6 +45,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-08 | [1267. Count Servers that Communicate](Array/1267-count-servers-that-communicate/README.md) | Accepted | cpp |
 | 2026-11-08 | [40. Combination Sum II](Array/0040-combination-sum-ii/README.md) | Accepted | cpp |
 | 2026-11-07 | [39. Combination Sum](Array/0039-combination-sum/README.md) | Accepted | cpp |
 | 2026-11-07 | [39. Combination Sum](Array/0039-combination-sum/README.md) | Compile Error | cpp |
@@ -59,13 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-06 | [193. Valid Phone Numbers](Shell/0193-valid-phone-numbers/README.md) | Accepted | bash |
 | 2026-11-06 | [195. Tenth Line](Shell/0195-tenth-line/README.md) | Accepted | bash |
 | 2026-11-06 | [2747. Count Zero Request Servers](Array/2747-count-zero-request-servers/README.md) | Accepted | cpp |
-| 2026-11-05 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 30 | 46 |
+| 2026-11 | 31 | 47 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -277,6 +277,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1211 | [Queries Quality and Percentage](Database/1211-queries-quality-and-percentage/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-26 | 2026-10-26 |
 | 1248 | [Count Number of Nice Subarrays](Array/1248-count-number-of-nice-subarrays/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-09-13 | 2026-09-13 |
 | 1251 | [Average Selling Price](Database/1251-average-selling-price/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-25 | 2026-10-25 |
+| 1267 | [Count Servers that Communicate](Array/1267-count-servers-that-communicate/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-08 | 2026-11-08 |
 | 1280 | [Students and Examinations](Database/1280-students-and-examinations/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-24 | 2026-10-24 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-03-21 | 2026-03-21 |
 | 1321 | [Restaurant Growth](Database/1321-restaurant-growth/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-04 | 2026-11-04 |

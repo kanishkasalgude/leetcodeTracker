@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2191531146,
+  "synced_through": 2191840587,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5222,6 +5222,24 @@
       },
       "submissions": [
         {"id":2191531146,"status":"Accepted","lang":"cpp","timestamp":1794077888,"runtime":"0 ms","memory":"14 MB"}
+      ]
+    },
+    "count-servers-that-communicate": {
+      "id": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "difficulty": "Medium",
+      "tags": ["Array","Depth-First Search","Breadth-First Search","Union-Find","Matrix","Counting"],
+      "topic": "Array",
+      "dir": "Array/1267-count-servers-that-communicate",
+      "first_attempt_at": 1794129359,
+      "last_attempt_at": 1794129359,
+      "solved_at": 1794129359,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2191840587,"status":"Accepted","lang":"cpp","timestamp":1794129359,"runtime":"0 ms","memory":"26.8 MB"}
+      },
+      "submissions": [
+        {"id":2191840587,"status":"Accepted","lang":"cpp","timestamp":1794129359,"runtime":"0 ms","memory":"26.8 MB"}
       ]
     }
   }
