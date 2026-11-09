@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2191840587,
+  "synced_through": 2191917848,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5240,6 +5240,24 @@
       },
       "submissions": [
         {"id":2191840587,"status":"Accepted","lang":"cpp","timestamp":1794129359,"runtime":"0 ms","memory":"26.8 MB"}
+      ]
+    },
+    "subsets-ii": {
+      "id": "90",
+      "title": "Subsets II",
+      "slug": "subsets-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Backtracking","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/0090-subsets-ii",
+      "first_attempt_at": 1794141372,
+      "last_attempt_at": 1794141372,
+      "solved_at": 1794141372,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2191917848,"status":"Accepted","lang":"cpp","timestamp":1794141372,"runtime":"0 ms","memory":"10.4 MB"}
+      },
+      "submissions": [
+        {"id":2191917848,"status":"Accepted","lang":"cpp","timestamp":1794141372,"runtime":"0 ms","memory":"10.4 MB"}
       ]
     }
   }

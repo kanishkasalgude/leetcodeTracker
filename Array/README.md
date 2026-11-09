@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 120 | 114 | 6 | 35 | 72 | 13 |
+| 121 | 115 | 6 | 35 | 73 | 13 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -34,6 +34,7 @@
 | 84 | [Largest Rectangle in Histogram](../Array/0084-largest-rectangle-in-histogram/README.md) | Hard | Solved | 1 | cpp | 2026-07-27 |
 | 85 | [Maximal Rectangle](../Array/0085-maximal-rectangle/README.md) | Hard | Solved | 1 | cpp | 2026-07-31 |
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Easy | Solved | 1 | cpp | 2026-01-14 |
+| 90 | [Subsets II](../Array/0090-subsets-ii/README.md) | Medium | Solved | 1 | cpp | 2026-11-08 |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](../Array/0105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md) | Medium | Solved | 1 | java | 2026-01-27 |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](../Array/0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md) | Medium | Solved | 1 | java | 2026-01-27 |
 | 118 | [Pascal's Triangle](../Array/0118-pascals-triangle/README.md) | Easy | Solved | 1 | cpp | 2025-10-28 |

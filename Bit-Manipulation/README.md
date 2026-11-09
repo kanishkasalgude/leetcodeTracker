@@ -18,6 +18,7 @@ Filed under their main topic, but they use this one too.
 | --- | --- | --- | --- | --- |
 | 29 | [Divide Two Integers](../Math/0029-divide-two-integers/README.md) | Math | Medium | Solved |
 | 78 | [Subsets](../Array/0078-subsets/README.md) | Array | Medium | Solved |
+| 90 | [Subsets II](../Array/0090-subsets-ii/README.md) | Array | Medium | Solved |
 | 136 | [Single Number](../Array/0136-single-number/README.md) | Array | Easy | Solved |
 | 222 | [Count Complete Tree Nodes](../Binary-Search/0222-count-complete-tree-nodes/README.md) | Binary Search | Medium | Solved |
 | 231 | [Power of Two](../Math/0231-power-of-two/README.md) | Math | Easy | Solved |

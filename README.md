@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 280 | 271 | 9 | 107 | 140 | 24 | 2026-11-08 |
+| 281 | 272 | 9 | 107 | 141 | 24 | 2026-11-08 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 120 | 114 | 6 | 35 | 72 | 13 |
+| [Array](Array/README.md) | 121 | 115 | 6 | 35 | 73 | 13 |
 | [Database](Database/README.md) | 50 | 50 | 0 | 32 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -45,6 +45,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-08 | [90. Subsets II](Array/0090-subsets-ii/README.md) | Accepted | cpp |
 | 2026-11-08 | [1267. Count Servers that Communicate](Array/1267-count-servers-that-communicate/README.md) | Accepted | cpp |
 | 2026-11-08 | [40. Combination Sum II](Array/0040-combination-sum-ii/README.md) | Accepted | cpp |
 | 2026-11-07 | [39. Combination Sum](Array/0039-combination-sum/README.md) | Accepted | cpp |
@@ -59,13 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-06 | [192. Word Frequency](Shell/0192-word-frequency/README.md) | Wrong Answer | bash |
 | 2026-11-06 | [193. Valid Phone Numbers](Shell/0193-valid-phone-numbers/README.md) | Accepted | bash |
 | 2026-11-06 | [195. Tenth Line](Shell/0195-tenth-line/README.md) | Accepted | bash |
-| 2026-11-06 | [2747. Count Zero Request Servers](Array/2747-count-zero-request-servers/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 31 | 47 |
+| 2026-11 | 32 | 48 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -128,6 +128,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 84 | [Largest Rectangle in Histogram](Array/0084-largest-rectangle-in-histogram/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-07-27 | 2026-07-27 |
 | 85 | [Maximal Rectangle](Array/0085-maximal-rectangle/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-07-31 | 2026-07-31 |
 | 88 | [Merge Sorted Array](Array/0088-merge-sorted-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-14 | 2026-01-14 |
+| 90 | [Subsets II](Array/0090-subsets-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-08 | 2026-11-08 |
 | 94 | [Binary Tree Inorder Traversal](Stack/0094-binary-tree-inorder-traversal/README.md) | [Stack](Stack/README.md) | Easy | Solved | 3 | 2026-01-12 | 2026-01-12 |
 | 98 | [Validate Binary Search Tree](Tree/0098-validate-binary-search-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 2 | 2026-06-09 | 2026-06-09 |
 | 99 | [Recover Binary Search Tree](Tree/0099-recover-binary-search-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-06-13 | 2026-06-13 |
