@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 121 | 115 | 6 | 35 | 73 | 13 |
+| 122 | 116 | 6 | 35 | 73 | 14 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@
 | 73 | [Set Matrix Zeroes](../Array/0073-set-matrix-zeroes/README.md) | Medium | Solved | 1 | cpp | 2025-10-18 |
 | 74 | [Search a 2D Matrix](../Array/0074-search-a-2d-matrix/README.md) | Medium | Solved | 1 | cpp | 2026-06-07 |
 | 75 | [Sort Colors](../Array/0075-sort-colors/README.md) | Medium | Solved | 1 | cpp | 2025-10-06 |
-| 78 | [Subsets](../Array/0078-subsets/README.md) | Medium | Solved | 1 | cpp | 2026-07-16 |
+| 78 | [Subsets](../Array/0078-subsets/README.md) | Medium | Solved | 2 | cpp | 2026-07-16 |
 | 81 | [Search in Rotated Sorted Array II](../Array/0081-search-in-rotated-sorted-array-ii/README.md) | Medium | Solved | 3 | cpp | 2026-02-13 |
 | 84 | [Largest Rectangle in Histogram](../Array/0084-largest-rectangle-in-histogram/README.md) | Hard | Solved | 1 | cpp | 2026-07-27 |
 | 85 | [Maximal Rectangle](../Array/0085-maximal-rectangle/README.md) | Hard | Solved | 1 | cpp | 2026-07-31 |
@@ -93,6 +93,7 @@
 | 1539 | [Kth Missing Positive Number](../Array/1539-kth-missing-positive-number/README.md) | Easy | Solved | 1 | cpp | 2026-03-22 |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](../Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | Hard | Solved | 1 | python | 2026-10-18 |
 | 1584 | [Min Cost to Connect All Points](../Array/1584-min-cost-to-connect-all-points/README.md) | Medium | Solved | 1 | python | 2026-10-17 |
+| 1606 | [Find Servers That Handled Most Number of Requests](../Array/1606-find-servers-that-handled-most-number-of-requests/README.md) | Hard | Solved | 1 | cpp | 2026-11-09 |
 | 1631 | [Path With Minimum Effort](../Array/1631-path-with-minimum-effort/README.md) | Medium | Solved | 2 | cpp, python | 2026-09-08 |
 | 1642 | [Furthest Building You Can Reach](../Array/1642-furthest-building-you-can-reach/README.md) | Medium | Solved | 1 | cpp | 2026-10-19 |
 | 1672 | [Richest Customer Wealth](../Array/1672-richest-customer-wealth/README.md) | Easy | Solved | 2 | cpp | 2026-04-21 |

@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 281 | 272 | 9 | 107 | 141 | 24 | 2026-11-08 |
+| 282 | 273 | 9 | 107 | 141 | 25 | 2026-11-09 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 121 | 115 | 6 | 35 | 73 | 13 |
+| [Array](Array/README.md) | 122 | 116 | 6 | 35 | 73 | 14 |
 | [Database](Database/README.md) | 50 | 50 | 0 | 32 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -45,6 +45,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-09 | [78. Subsets](Array/0078-subsets/README.md) | Accepted | cpp |
+| 2026-11-09 | [1606. Find Servers That Handled Most Number of Requests](Array/1606-find-servers-that-handled-most-number-of-requests/README.md) | Accepted | cpp |
 | 2026-11-08 | [90. Subsets II](Array/0090-subsets-ii/README.md) | Accepted | cpp |
 | 2026-11-08 | [1267. Count Servers that Communicate](Array/1267-count-servers-that-communicate/README.md) | Accepted | cpp |
 | 2026-11-08 | [40. Combination Sum II](Array/0040-combination-sum-ii/README.md) | Accepted | cpp |
@@ -58,14 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Runtime Error | bash |
 | 2026-11-06 | [192. Word Frequency](Shell/0192-word-frequency/README.md) | Accepted | bash |
 | 2026-11-06 | [192. Word Frequency](Shell/0192-word-frequency/README.md) | Wrong Answer | bash |
-| 2026-11-06 | [193. Valid Phone Numbers](Shell/0193-valid-phone-numbers/README.md) | Accepted | bash |
-| 2026-11-06 | [195. Tenth Line](Shell/0195-tenth-line/README.md) | Accepted | bash |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 32 | 48 |
+| 2026-11 | 33 | 50 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -123,7 +123,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 74 | [Search a 2D Matrix](Array/0074-search-a-2d-matrix/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-06-07 | 2026-06-07 |
 | 75 | [Sort Colors](Array/0075-sort-colors/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-06 | 2025-10-06 |
 | 76 | [Minimum Window Substring](Hash-Table/0076-minimum-window-substring/README.md) | [Hash Table](Hash-Table/README.md) | Hard | Solved | 1 | 2026-08-31 | 2026-08-31 |
-| 78 | [Subsets](Array/0078-subsets/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-07-16 | 2026-07-16 |
+| 78 | [Subsets](Array/0078-subsets/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-07-16 | 2026-07-16 |
 | 81 | [Search in Rotated Sorted Array II](Array/0081-search-in-rotated-sorted-array-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-02-13 | 2026-02-13 |
 | 84 | [Largest Rectangle in Histogram](Array/0084-largest-rectangle-in-histogram/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-07-27 | 2026-07-27 |
 | 85 | [Maximal Rectangle](Array/0085-maximal-rectangle/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-07-31 | 2026-07-31 |
@@ -301,6 +301,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-10-18 | 2026-10-18 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-23 | 2026-10-23 |
 | 1584 | [Min Cost to Connect All Points](Array/1584-min-cost-to-connect-all-points/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-17 | 2026-10-17 |
+| 1606 | [Find Servers That Handled Most Number of Requests](Array/1606-find-servers-that-handled-most-number-of-requests/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-11-09 | 2026-11-09 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](String/1614-maximum-nesting-depth-of-the-parentheses/README.md) | [String](String/README.md) | Easy | Solved | 3 | 2026-06-15 | 2026-06-15 |
 | 1631 | [Path With Minimum Effort](Array/1631-path-with-minimum-effort/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-09-08 | 2026-09-08 |
 | 1633 | [Percentage of Users Attended a Contest](Database/1633-percentage-of-users-attended-a-contest/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-25 | 2026-10-25 |

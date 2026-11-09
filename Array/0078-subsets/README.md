@@ -4,7 +4,7 @@
 
 | Difficulty | Status | Submissions | First tried | Solved on |
 | --- | --- | --- | --- | --- |
-| Medium | Solved | 1 | 2026-07-16 | 2026-07-16 |
+| Medium | Solved | 2 | 2026-07-16 | 2026-07-16 |
 
 **Topics:** Array, Backtracking, Bit Manipulation
 
@@ -12,12 +12,13 @@
 
 | Language | Result | Runtime | Memory | Date |
 | --- | --- | --- | --- | --- |
-| [cpp](solution.cpp) | Accepted | 2 ms | 10 MB | 2026-07-16 |
+| [cpp](solution.cpp) | Accepted | 0 ms | 9.9 MB | 2026-11-09 |
 
 ## Submission history
 
 | Date | Result | Language | Runtime | Memory |
 | --- | --- | --- | --- | --- |
+| 2026-11-09 | Accepted | cpp | 0 ms | 9.9 MB |
 | 2026-07-16 | Accepted | cpp | 2 ms | 10 MB |
 
 ## Problem
