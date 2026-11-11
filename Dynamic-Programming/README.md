@@ -33,4 +33,5 @@ Filed under their main topic, but they use this one too.
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](../Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | Array | Hard | Solved |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](../Array/2267-check-if-there-is-a-valid-parentheses-string-path/README.md) | Array | Hard | Solved |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](../Two-Pointers/2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md) | Two Pointers | Hard | Solved |
+| 3693 | [Climbing Stairs II](../Array/3693-climbing-stairs-ii/README.md) | Array | Medium | Solved |
 | 3844 | [Longest Almost-Palindromic Substring](../Two-Pointers/3844-longest-almost-palindromic-substring/README.md) | Two Pointers | Medium | Attempted |

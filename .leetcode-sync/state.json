@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2192343410,
+  "synced_through": 2193089551,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5277,6 +5277,24 @@
       },
       "submissions": [
         {"id":2192334166,"status":"Accepted","lang":"cpp","timestamp":1794209853,"runtime":"163 ms","memory":"125.6 MB"}
+      ]
+    },
+    "climbing-stairs-ii": {
+      "id": "3693",
+      "title": "Climbing Stairs II",
+      "slug": "climbing-stairs-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/3693-climbing-stairs-ii",
+      "first_attempt_at": 1794305918,
+      "last_attempt_at": 1794305918,
+      "solved_at": 1794305918,
+      "languages": {
+        "python": {"file":"solution_python2.py","id":2193089551,"status":"Accepted","lang":"python","timestamp":1794305918,"runtime":"571 ms","memory":"21.1 MB"}
+      },
+      "submissions": [
+        {"id":2193089551,"status":"Accepted","lang":"python","timestamp":1794305918,"runtime":"571 ms","memory":"21.1 MB"}
       ]
     }
   }

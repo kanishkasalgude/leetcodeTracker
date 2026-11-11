@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 282 | 273 | 9 | 107 | 141 | 25 | 2026-11-09 |
+| 283 | 274 | 9 | 107 | 142 | 25 | 2026-11-10 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 122 | 116 | 6 | 35 | 73 | 14 |
+| [Array](Array/README.md) | 123 | 117 | 6 | 35 | 74 | 14 |
 | [Database](Database/README.md) | 50 | 50 | 0 | 32 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -45,6 +45,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-10 | [3693. Climbing Stairs II](Array/3693-climbing-stairs-ii/README.md) | Accepted | python |
 | 2026-11-09 | [78. Subsets](Array/0078-subsets/README.md) | Accepted | cpp |
 | 2026-11-09 | [1606. Find Servers That Handled Most Number of Requests](Array/1606-find-servers-that-handled-most-number-of-requests/README.md) | Accepted | cpp |
 | 2026-11-08 | [90. Subsets II](Array/0090-subsets-ii/README.md) | Accepted | cpp |
@@ -59,13 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Runtime Error | bash |
 | 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Runtime Error | bash |
 | 2026-11-06 | [192. Word Frequency](Shell/0192-word-frequency/README.md) | Accepted | bash |
-| 2026-11-06 | [192. Word Frequency](Shell/0192-word-frequency/README.md) | Wrong Answer | bash |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 33 | 50 |
+| 2026-11 | 34 | 51 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -343,6 +343,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 3483 | [Unique 3-Digit Even Numbers](Array/3483-unique-3-digit-even-numbers/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-09-11 | 2026-09-11 |
 | 3536 | [Maximum Product of Two Digits](Math/3536-maximum-product-of-two-digits/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-25 | 2026-07-25 |
 | 3619 | [Count Islands With Total Value Divisible by K](Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-10-26 | 2026-10-26 |
+| 3693 | [Climbing Stairs II](Array/3693-climbing-stairs-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-10 | 2026-11-10 |
 | 3727 | [Maximum Alternating Sum of Squares](Array/3727-maximum-alternating-sum-of-squares/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-13 | 2026-10-13 |
 | 3736 | [Minimum Moves to Equal Array Elements III](Array/3736-minimum-moves-to-equal-array-elements-iii/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-11-03 | 2026-11-03 |
 | 3783 | [Mirror Distance of an Integer](Math/3783-mirror-distance-of-an-integer/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-09-12 | 2026-09-12 |
