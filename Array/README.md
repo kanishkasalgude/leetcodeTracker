@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 123 | 117 | 6 | 35 | 74 | 14 |
+| 124 | 118 | 6 | 36 | 74 | 14 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -111,6 +111,7 @@
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](../Array/2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md) | Hard | Solved | 2 | cpp | 2026-10-12 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](../Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | Hard | Attempted | 3 | cpp | - |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 1 | cpp | 2026-02-01 |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](../Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | Solved | 4 | cpp | 2026-11-12 |
 | 3483 | [Unique 3-Digit Even Numbers](../Array/3483-unique-3-digit-even-numbers/README.md) | Easy | Solved | 2 | cpp | 2026-09-11 |
 | 3619 | [Count Islands With Total Value Divisible by K](../Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | Medium | Solved | 2 | python3 | 2026-10-26 |
 | 3693 | [Climbing Stairs II](../Array/3693-climbing-stairs-ii/README.md) | Medium | Solved | 1 | python | 2026-11-10 |

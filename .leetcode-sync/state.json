@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2193089551,
+  "synced_through": 2194396849,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5295,6 +5295,45 @@
       },
       "submissions": [
         {"id":2193089551,"status":"Accepted","lang":"python","timestamp":1794305918,"runtime":"571 ms","memory":"21.1 MB"}
+      ]
+    },
+    "minimum-cost-to-acquire-required-items": {
+      "id": "3789",
+      "title": "Minimum Cost to Acquire Required Items",
+      "slug": "minimum-cost-to-acquire-required-items",
+      "difficulty": "Medium",
+      "tags": ["Math","Greedy"],
+      "topic": "Math",
+      "dir": "Math/3789-minimum-cost-to-acquire-required-items",
+      "first_attempt_at": 1794377115,
+      "last_attempt_at": 1794377115,
+      "solved_at": 1794377115,
+      "languages": {
+        "python": {"file":"solution_python2.py","id":2193653150,"status":"Accepted","lang":"python","timestamp":1794377115,"runtime":"4 ms","memory":"11.9 MB"}
+      },
+      "submissions": [
+        {"id":2193653150,"status":"Accepted","lang":"python","timestamp":1794377115,"runtime":"4 ms","memory":"11.9 MB"}
+      ]
+    },
+    "longest-strictly-increasing-or-strictly-decreasing-subarray": {
+      "id": "3105",
+      "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+      "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "first_attempt_at": 1794464737,
+      "last_attempt_at": 1794465067,
+      "solved_at": 1794464914,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2194396849,"status":"Accepted","lang":"cpp","timestamp":1794465067,"runtime":"0 ms","memory":"27.6 MB"}
+      },
+      "submissions": [
+        {"id":2194393148,"status":"Wrong Answer","lang":"cpp","timestamp":1794464737,"runtime":null,"memory":null},
+        {"id":2194394864,"status":"Wrong Answer","lang":"cpp","timestamp":1794464890,"runtime":null,"memory":null},
+        {"id":2194395158,"status":"Accepted","lang":"cpp","timestamp":1794464914,"runtime":null,"memory":null},
+        {"id":2194396849,"status":"Accepted","lang":"cpp","timestamp":1794465067,"runtime":"0 ms","memory":"27.6 MB"}
       ]
     }
   }

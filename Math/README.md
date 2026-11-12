@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 14 | 12 | 2 | 8 | 6 | 0 |
+| 15 | 13 | 2 | 8 | 7 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -19,6 +19,7 @@
 | 1922 | [Count Good Numbers](../Math/1922-count-good-numbers/README.md) | Medium | Solved | 3 | cpp | 2026-08-19 |
 | 3536 | [Maximum Product of Two Digits](../Math/3536-maximum-product-of-two-digits/README.md) | Easy | Solved | 1 | cpp | 2026-07-25 |
 | 3783 | [Mirror Distance of an Integer](../Math/3783-mirror-distance-of-an-integer/README.md) | Easy | Solved | 1 | cpp | 2026-09-12 |
+| 3789 | [Minimum Cost to Acquire Required Items](../Math/3789-minimum-cost-to-acquire-required-items/README.md) | Medium | Solved | 1 | python | 2026-11-11 |
 | 3870 | [Count Commas in Range](../Math/3870-count-commas-in-range/README.md) | Easy | Solved | 2 | cpp | 2026-09-08 |
 | 3871 | [Count Commas in Range II](../Math/3871-count-commas-in-range-ii/README.md) | Medium | Solved | 2 | cpp | 2026-09-09 |
 | 3993 | [Maximum Value of an Alternating Sequence](../Math/3993-maximum-value-of-an-alternating-sequence/README.md) | Medium | Attempted | 2 | cpp | - |

@@ -4,18 +4,18 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 283 | 274 | 9 | 107 | 142 | 25 | 2026-11-10 |
+| 285 | 276 | 9 | 108 | 143 | 25 | 2026-11-12 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 123 | 117 | 6 | 35 | 74 | 14 |
+| [Array](Array/README.md) | 124 | 118 | 6 | 36 | 74 | 14 |
 | [Database](Database/README.md) | 50 | 50 | 0 | 32 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
+| [Math](Math/README.md) | 15 | 13 | 2 | 8 | 7 | 0 |
 | [String](String/README.md) | 15 | 15 | 0 | 5 | 6 | 4 |
-| [Math](Math/README.md) | 14 | 12 | 2 | 8 | 6 | 0 |
 | [Linked List](Linked-List/README.md) | 12 | 12 | 0 | 3 | 8 | 1 |
 | [Stack](Stack/README.md) | 8 | 8 | 0 | 5 | 3 | 0 |
 | [Depth-First Search](Depth-First-Search/README.md) | 6 | 6 | 0 | 0 | 6 | 0 |
@@ -45,6 +45,11 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Accepted | cpp |
+| 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Accepted | cpp |
+| 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Wrong Answer | cpp |
+| 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Wrong Answer | cpp |
+| 2026-11-11 | [3789. Minimum Cost to Acquire Required Items](Math/3789-minimum-cost-to-acquire-required-items/README.md) | Accepted | python |
 | 2026-11-10 | [3693. Climbing Stairs II](Array/3693-climbing-stairs-ii/README.md) | Accepted | python |
 | 2026-11-09 | [78. Subsets](Array/0078-subsets/README.md) | Accepted | cpp |
 | 2026-11-09 | [1606. Find Servers That Handled Most Number of Requests](Array/1606-find-servers-that-handled-most-number-of-requests/README.md) | Accepted | cpp |
@@ -55,17 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-07 | [39. Combination Sum](Array/0039-combination-sum/README.md) | Compile Error | cpp |
 | 2026-11-07 | [1882. Process Tasks Using Servers](Array/1882-process-tasks-using-servers/README.md) | Accepted | cpp |
 | 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Accepted | bash |
-| 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Runtime Error | bash |
-| 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Runtime Error | bash |
-| 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Runtime Error | bash |
-| 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Runtime Error | bash |
-| 2026-11-06 | [192. Word Frequency](Shell/0192-word-frequency/README.md) | Accepted | bash |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 34 | 51 |
+| 2026-11 | 36 | 56 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -340,6 +340,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](Array/2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md) | [Array](Array/README.md) | Hard | Solved | 2 | 2026-10-12 | 2026-10-12 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | [Array](Array/README.md) | Hard | Attempted | 3 | 2026-10-16 | - |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-01 | 2026-02-01 |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-11-12 | 2026-11-12 |
 | 3483 | [Unique 3-Digit Even Numbers](Array/3483-unique-3-digit-even-numbers/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-09-11 | 2026-09-11 |
 | 3536 | [Maximum Product of Two Digits](Math/3536-maximum-product-of-two-digits/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-25 | 2026-07-25 |
 | 3619 | [Count Islands With Total Value Divisible by K](Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-10-26 | 2026-10-26 |
@@ -347,6 +348,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 3727 | [Maximum Alternating Sum of Squares](Array/3727-maximum-alternating-sum-of-squares/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-13 | 2026-10-13 |
 | 3736 | [Minimum Moves to Equal Array Elements III](Array/3736-minimum-moves-to-equal-array-elements-iii/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-11-03 | 2026-11-03 |
 | 3783 | [Mirror Distance of an Integer](Math/3783-mirror-distance-of-an-integer/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-09-12 | 2026-09-12 |
+| 3789 | [Minimum Cost to Acquire Required Items](Math/3789-minimum-cost-to-acquire-required-items/README.md) | [Math](Math/README.md) | Medium | Solved | 1 | 2026-11-11 | 2026-11-11 |
 | 3842 | [Toggle Light Bulbs](Array/3842-toggle-light-bulbs/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-02-15 | 2026-02-15 |
 | 3843 | [First Element with Unique Frequency](Array/3843-first-element-with-unique-frequency/README.md) | [Array](Array/README.md) | Medium | Attempted | 7 | 2026-02-15 | - |
 | 3844 | [Longest Almost-Palindromic Substring](Two-Pointers/3844-longest-almost-palindromic-substring/README.md) | [Two Pointers](Two-Pointers/README.md) | Medium | Attempted | 1 | 2026-02-15 | - |
