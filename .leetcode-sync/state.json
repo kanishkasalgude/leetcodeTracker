@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2194396849,
+  "synced_through": 2194412006,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5334,6 +5334,25 @@
         {"id":2194394864,"status":"Wrong Answer","lang":"cpp","timestamp":1794464890,"runtime":null,"memory":null},
         {"id":2194395158,"status":"Accepted","lang":"cpp","timestamp":1794464914,"runtime":null,"memory":null},
         {"id":2194396849,"status":"Accepted","lang":"cpp","timestamp":1794465067,"runtime":"0 ms","memory":"27.6 MB"}
+      ]
+    },
+    "permutations": {
+      "id": "46",
+      "title": "Permutations",
+      "slug": "permutations",
+      "difficulty": "Medium",
+      "tags": ["Array","Backtracking"],
+      "topic": "Array",
+      "dir": "Array/0046-permutations",
+      "first_attempt_at": 1794466342,
+      "last_attempt_at": 1794466488,
+      "solved_at": 1794466342,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2194412006,"status":"Accepted","lang":"cpp","timestamp":1794466488,"runtime":"1 ms","memory":"10.4 MB"}
+      },
+      "submissions": [
+        {"id":2194410446,"status":"Accepted","lang":"cpp","timestamp":1794466342,"runtime":null,"memory":null},
+        {"id":2194412006,"status":"Accepted","lang":"cpp","timestamp":1794466488,"runtime":"1 ms","memory":"10.4 MB"}
       ]
     }
   }

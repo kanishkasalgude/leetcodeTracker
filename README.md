@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 285 | 276 | 9 | 108 | 143 | 25 | 2026-11-12 |
+| 286 | 277 | 9 | 108 | 144 | 25 | 2026-11-12 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 124 | 118 | 6 | 36 | 74 | 14 |
+| [Array](Array/README.md) | 125 | 119 | 6 | 36 | 75 | 14 |
 | [Database](Database/README.md) | 50 | 50 | 0 | 32 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -45,6 +45,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-12 | [46. Permutations](Array/0046-permutations/README.md) | Accepted | cpp |
+| 2026-11-12 | [46. Permutations](Array/0046-permutations/README.md) | Accepted | cpp |
 | 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Accepted | cpp |
 | 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Accepted | cpp |
 | 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Wrong Answer | cpp |
@@ -58,14 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-08 | [40. Combination Sum II](Array/0040-combination-sum-ii/README.md) | Accepted | cpp |
 | 2026-11-07 | [39. Combination Sum](Array/0039-combination-sum/README.md) | Accepted | cpp |
 | 2026-11-07 | [39. Combination Sum](Array/0039-combination-sum/README.md) | Compile Error | cpp |
-| 2026-11-07 | [1882. Process Tasks Using Servers](Array/1882-process-tasks-using-servers/README.md) | Accepted | cpp |
-| 2026-11-06 | [194. Transpose File](Shell/0194-transpose-file/README.md) | Accepted | bash |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 36 | 56 |
+| 2026-11 | 37 | 58 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -112,6 +112,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 39 | [Combination Sum](Array/0039-combination-sum/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-11-07 | 2026-11-07 |
 | 40 | [Combination Sum II](Array/0040-combination-sum-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-08 | 2026-11-08 |
 | 42 | [Trapping Rain Water](Array/0042-trapping-rain-water/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-07-21 | 2026-07-21 |
+| 46 | [Permutations](Array/0046-permutations/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-11-12 | 2026-11-12 |
 | 48 | [Rotate Image](Array/0048-rotate-image/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-19 | 2025-10-19 |
 | 50 | [Pow(x, n)](Math/0050-powx-n/README.md) | [Math](Math/README.md) | Medium | Solved | 1 | 2026-06-22 | 2026-06-22 |
 | 53 | [Maximum Subarray](Array/0053-maximum-subarray/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2025-10-12 | 2025-10-12 |

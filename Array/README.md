@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 124 | 118 | 6 | 36 | 74 | 14 |
+| 125 | 119 | 6 | 36 | 75 | 14 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -22,6 +22,7 @@
 | 39 | [Combination Sum](../Array/0039-combination-sum/README.md) | Medium | Solved | 2 | cpp | 2026-11-07 |
 | 40 | [Combination Sum II](../Array/0040-combination-sum-ii/README.md) | Medium | Solved | 1 | cpp | 2026-11-08 |
 | 42 | [Trapping Rain Water](../Array/0042-trapping-rain-water/README.md) | Hard | Solved | 1 | cpp | 2026-07-21 |
+| 46 | [Permutations](../Array/0046-permutations/README.md) | Medium | Solved | 2 | cpp | 2026-11-12 |
 | 48 | [Rotate Image](../Array/0048-rotate-image/README.md) | Medium | Solved | 1 | cpp | 2025-10-19 |
 | 53 | [Maximum Subarray](../Array/0053-maximum-subarray/README.md) | Medium | Solved | 2 | cpp | 2025-10-12 |
 | 54 | [Spiral Matrix](../Array/0054-spiral-matrix/README.md) | Medium | Solved | 1 | cpp | 2025-10-20 |
