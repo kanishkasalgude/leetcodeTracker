@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 125 | 119 | 6 | 36 | 75 | 14 |
+| 131 | 125 | 6 | 39 | 77 | 15 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -24,6 +24,7 @@
 | 42 | [Trapping Rain Water](../Array/0042-trapping-rain-water/README.md) | Hard | Solved | 1 | cpp | 2026-07-21 |
 | 46 | [Permutations](../Array/0046-permutations/README.md) | Medium | Solved | 2 | cpp | 2026-11-12 |
 | 48 | [Rotate Image](../Array/0048-rotate-image/README.md) | Medium | Solved | 1 | cpp | 2025-10-19 |
+| 51 | [N-Queens](../Array/0051-n-queens/README.md) | Hard | Solved | 1 | cpp | 2026-11-13 |
 | 53 | [Maximum Subarray](../Array/0053-maximum-subarray/README.md) | Medium | Solved | 2 | cpp | 2025-10-12 |
 | 54 | [Spiral Matrix](../Array/0054-spiral-matrix/README.md) | Medium | Solved | 1 | cpp | 2025-10-20 |
 | 56 | [Merge Intervals](../Array/0056-merge-intervals/README.md) | Medium | Solved | 1 | cpp | 2026-01-12 |
@@ -51,6 +52,7 @@
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Medium | Solved | 2 | cpp | 2025-09-23 |
 | 200 | [Number of Islands](../Array/0200-number-of-islands/README.md) | Medium | Solved | 1 | cpp | 2026-08-24 |
 | 204 | [Count Primes](../Array/0204-count-primes/README.md) | Medium | Solved | 9 | cpp | 2026-07-16 |
+| 215 | [Kth Largest Element in an Array](../Array/0215-kth-largest-element-in-an-array/README.md) | Medium | Solved | 1 | cpp | 2026-11-14 |
 | 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Easy | Solved | 1 | cpp | 2026-08-06 |
 | 229 | [Majority Element II](../Array/0229-majority-element-ii/README.md) | Medium | Solved | 1 | cpp | 2025-10-30 |
 | 239 | [Sliding Window Maximum](../Array/0239-sliding-window-maximum/README.md) | Hard | Solved | 1 | cpp | 2026-08-05 |
@@ -59,6 +61,7 @@
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 2 | cpp, python | 2025-09-23 |
 | 410 | [Split Array Largest Sum](../Array/0410-split-array-largest-sum/README.md) | Hard | Solved | 1 | cpp | 2026-06-04 |
 | 453 | [Minimum Moves to Equal Array Elements](../Array/0453-minimum-moves-to-equal-array-elements/README.md) | Medium | Solved | 1 | python3 | 2026-11-01 |
+| 455 | [Assign Cookies](../Array/0455-assign-cookies/README.md) | Easy | Solved | 1 | cpp | 2026-11-13 |
 | 462 | [Minimum Moves to Equal Array Elements II](../Array/0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | Solved | 1 | python3 | 2026-11-02 |
 | 485 | [Max Consecutive Ones](../Array/0485-max-consecutive-ones/README.md) | Easy | Solved | 1 | cpp | 2025-09-25 |
 | 493 | [Reverse Pairs](../Array/0493-reverse-pairs/README.md) | Hard | Solved | 1 | cpp | 2026-01-21 |
@@ -72,6 +75,7 @@
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 3 | cpp | 2025-12-06 |
 | 733 | [Flood Fill](../Array/0733-flood-fill/README.md) | Easy | Solved | 1 | cpp | 2026-08-18 |
 | 735 | [Asteroid Collision](../Array/0735-asteroid-collision/README.md) | Medium | Solved | 1 | cpp | 2026-07-25 |
+| 860 | [Lemonade Change](../Array/0860-lemonade-change/README.md) | Easy | Solved | 1 | cpp | 2026-11-14 |
 | 875 | [Koko Eating Bananas](../Array/0875-koko-eating-bananas/README.md) | Medium | Solved | 4 | cpp | 2026-03-15 |
 | 904 | [Fruit Into Baskets](../Array/0904-fruit-into-baskets/README.md) | Medium | Solved | 1 | cpp | 2026-09-10 |
 | 907 | [Sum of Subarray Minimums](../Array/0907-sum-of-subarray-minimums/README.md) | Medium | Solved | 2 | cpp | 2026-07-24 |
@@ -91,6 +95,7 @@
 | 1480 | [Running Sum of 1d Array](../Array/1480-running-sum-of-1d-array/README.md) | Easy | Solved | 1 | cpp | 2026-04-21 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](../Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | Medium | Solved | 2 | cpp | 2026-03-21 |
 | 1512 | [Number of Good Pairs](../Array/1512-number-of-good-pairs/README.md) | Easy | Solved | 2 | cpp | 2026-04-21 |
+| 1524 | [Number of Sub-arrays With Odd Sum](../Array/1524-number-of-sub-arrays-with-odd-sum/README.md) | Medium | Solved | 1 | cpp | 2026-11-15 |
 | 1539 | [Kth Missing Positive Number](../Array/1539-kth-missing-positive-number/README.md) | Easy | Solved | 1 | cpp | 2026-03-22 |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](../Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | Hard | Solved | 1 | python | 2026-10-18 |
 | 1584 | [Min Cost to Connect All Points](../Array/1584-min-cost-to-connect-all-points/README.md) | Medium | Solved | 1 | python | 2026-10-17 |
@@ -113,6 +118,7 @@
 | 2916 | [Subarrays Distinct Element Sum of Squares II](../Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | Hard | Attempted | 3 | cpp | - |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 1 | cpp | 2026-02-01 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](../Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | Solved | 4 | cpp | 2026-11-12 |
+| 3364 | [Minimum Positive Sum Subarray ](../Array/3364-minimum-positive-sum-subarray/README.md) | Easy | Solved | 1 | cpp | 2026-11-14 |
 | 3483 | [Unique 3-Digit Even Numbers](../Array/3483-unique-3-digit-even-numbers/README.md) | Easy | Solved | 2 | cpp | 2026-09-11 |
 | 3619 | [Count Islands With Total Value Divisible by K](../Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | Medium | Solved | 2 | python3 | 2026-10-26 |
 | 3693 | [Climbing Stairs II](../Array/3693-climbing-stairs-ii/README.md) | Medium | Solved | 1 | python | 2026-11-10 |

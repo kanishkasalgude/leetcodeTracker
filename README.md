@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 286 | 277 | 9 | 108 | 144 | 25 | 2026-11-12 |
+| 292 | 283 | 9 | 111 | 146 | 26 | 2026-11-15 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 125 | 119 | 6 | 36 | 75 | 14 |
+| [Array](Array/README.md) | 131 | 125 | 6 | 39 | 77 | 15 |
 | [Database](Database/README.md) | 50 | 50 | 0 | 32 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -45,6 +45,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-15 | [1524. Number of Sub-arrays With Odd Sum](Array/1524-number-of-sub-arrays-with-odd-sum/README.md) | Accepted | cpp |
+| 2026-11-14 | [3364. Minimum Positive Sum Subarray ](Array/3364-minimum-positive-sum-subarray/README.md) | Accepted | cpp |
+| 2026-11-14 | [215. Kth Largest Element in an Array](Array/0215-kth-largest-element-in-an-array/README.md) | Accepted | cpp |
+| 2026-11-14 | [860. Lemonade Change](Array/0860-lemonade-change/README.md) | Accepted | cpp |
+| 2026-11-13 | [455. Assign Cookies](Array/0455-assign-cookies/README.md) | Accepted | cpp |
+| 2026-11-13 | [51. N-Queens](Array/0051-n-queens/README.md) | Accepted | cpp |
 | 2026-11-12 | [46. Permutations](Array/0046-permutations/README.md) | Accepted | cpp |
 | 2026-11-12 | [46. Permutations](Array/0046-permutations/README.md) | Accepted | cpp |
 | 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Accepted | cpp |
@@ -54,18 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-11 | [3789. Minimum Cost to Acquire Required Items](Math/3789-minimum-cost-to-acquire-required-items/README.md) | Accepted | python |
 | 2026-11-10 | [3693. Climbing Stairs II](Array/3693-climbing-stairs-ii/README.md) | Accepted | python |
 | 2026-11-09 | [78. Subsets](Array/0078-subsets/README.md) | Accepted | cpp |
-| 2026-11-09 | [1606. Find Servers That Handled Most Number of Requests](Array/1606-find-servers-that-handled-most-number-of-requests/README.md) | Accepted | cpp |
-| 2026-11-08 | [90. Subsets II](Array/0090-subsets-ii/README.md) | Accepted | cpp |
-| 2026-11-08 | [1267. Count Servers that Communicate](Array/1267-count-servers-that-communicate/README.md) | Accepted | cpp |
-| 2026-11-08 | [40. Combination Sum II](Array/0040-combination-sum-ii/README.md) | Accepted | cpp |
-| 2026-11-07 | [39. Combination Sum](Array/0039-combination-sum/README.md) | Accepted | cpp |
-| 2026-11-07 | [39. Combination Sum](Array/0039-combination-sum/README.md) | Compile Error | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 37 | 58 |
+| 2026-11 | 43 | 64 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -115,6 +115,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 46 | [Permutations](Array/0046-permutations/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-11-12 | 2026-11-12 |
 | 48 | [Rotate Image](Array/0048-rotate-image/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-19 | 2025-10-19 |
 | 50 | [Pow(x, n)](Math/0050-powx-n/README.md) | [Math](Math/README.md) | Medium | Solved | 1 | 2026-06-22 | 2026-06-22 |
+| 51 | [N-Queens](Array/0051-n-queens/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-11-13 | 2026-11-13 |
 | 53 | [Maximum Subarray](Array/0053-maximum-subarray/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2025-10-12 | 2025-10-12 |
 | 54 | [Spiral Matrix](Array/0054-spiral-matrix/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-20 | 2025-10-20 |
 | 56 | [Merge Intervals](Array/0056-merge-intervals/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-12 | 2026-01-12 |
@@ -184,6 +185,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 206 | [Reverse Linked List](Linked-List/0206-reverse-linked-list/README.md) | [Linked List](Linked-List/README.md) | Easy | Solved | 2 | 2025-08-13 | 2025-08-13 |
 | 207 | [Course Schedule](Depth-First-Search/0207-course-schedule/README.md) | [Depth-First Search](Depth-First-Search/README.md) | Medium | Solved | 5 | 2026-08-19 | 2026-08-20 |
 | 210 | [Course Schedule II](Depth-First-Search/0210-course-schedule-ii/README.md) | [Depth-First Search](Depth-First-Search/README.md) | Medium | Solved | 3 | 2026-08-25 | 2026-08-25 |
+| 215 | [Kth Largest Element in an Array](Array/0215-kth-largest-element-in-an-array/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-14 | 2026-11-14 |
 | 217 | [Contains Duplicate](Array/0217-contains-duplicate/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-08-06 | 2026-08-06 |
 | 222 | [Count Complete Tree Nodes](Binary-Search/0222-count-complete-tree-nodes/README.md) | [Binary Search](Binary-Search/README.md) | Medium | Solved | 1 | 2026-01-25 | 2026-01-25 |
 | 225 | [Implement Stack using Queues](Stack/0225-implement-stack-using-queues/README.md) | [Stack](Stack/README.md) | Easy | Solved | 1 | 2026-07-17 | 2026-07-17 |
@@ -210,6 +212,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 450 | [Delete Node in a BST](Tree/0450-delete-node-in-a-bst/README.md) | [Tree](Tree/README.md) | Medium | Solved | 6 | 2026-04-27 | 2026-06-09 |
 | 451 | [Sort Characters By Frequency](Hash-Table/0451-sort-characters-by-frequency/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-06-15 | 2026-06-15 |
 | 453 | [Minimum Moves to Equal Array Elements](Array/0453-minimum-moves-to-equal-array-elements/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-01 | 2026-11-01 |
+| 455 | [Assign Cookies](Array/0455-assign-cookies/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-11-13 | 2026-11-13 |
 | 460 | [LFU Cache](Hash-Table/0460-lfu-cache/README.md) | [Hash Table](Hash-Table/README.md) | Hard | Solved | 4 | 2026-08-07 | 2026-08-07 |
 | 462 | [Minimum Moves to Equal Array Elements II](Array/0462-minimum-moves-to-equal-array-elements-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-02 | 2026-11-02 |
 | 485 | [Max Consecutive Ones](Array/0485-max-consecutive-ones/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-09-25 | 2025-09-25 |
@@ -248,6 +251,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 802 | [Find Eventual Safe States](Depth-First-Search/0802-find-eventual-safe-states/README.md) | [Depth-First Search](Depth-First-Search/README.md) | Medium | Solved | 2 | 2026-08-28 | 2026-08-28 |
 | 836 | [Rectangle Overlap](Math/0836-rectangle-overlap/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-09-14 | 2026-09-14 |
 | 856 | [Score of Parentheses](String/0856-score-of-parentheses/README.md) | [String](String/README.md) | Medium | Solved | 3 | 2026-10-05 | 2026-10-05 |
+| 860 | [Lemonade Change](Array/0860-lemonade-change/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-11-14 | 2026-11-14 |
 | 863 | [All Nodes Distance K in Binary Tree](Hash-Table/0863-all-nodes-distance-k-in-binary-tree/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 4 | 2026-01-26 | 2026-01-26 |
 | 875 | [Koko Eating Bananas](Array/0875-koko-eating-bananas/README.md) | [Array](Array/README.md) | Medium | Solved | 4 | 2026-03-15 | 2026-03-15 |
 | 876 | [Middle of the Linked List](Linked-List/0876-middle-of-the-linked-list/README.md) | [Linked List](Linked-List/README.md) | Easy | Solved | 1 | 2025-08-12 | 2025-08-12 |
@@ -296,6 +300,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1484 | [Group Sold Products By The Date](Database/1484-group-sold-products-by-the-date/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-11-05 | 2026-11-05 |
 | 1512 | [Number of Good Pairs](Array/1512-number-of-good-pairs/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-04-21 | 2026-04-21 |
 | 1517 | [Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-11-05 | 2026-11-05 |
+| 1524 | [Number of Sub-arrays With Odd Sum](Array/1524-number-of-sub-arrays-with-odd-sum/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-15 | 2026-11-15 |
 | 1527 | [Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | [Database](Database/README.md) | Easy | Solved | 4 | 2026-11-05 | 2026-11-05 |
 | 1539 | [Kth Missing Positive Number](Array/1539-kth-missing-positive-number/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-03-22 | 2026-03-22 |
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](Graph-Theory/1557-minimum-number-of-vertices-to-reach-all-nodes/README.md) | [Graph Theory](Graph-Theory/README.md) | Medium | Solved | 1 | 2026-10-17 | 2026-10-17 |
@@ -342,6 +347,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2916 | [Subarrays Distinct Element Sum of Squares II](Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | [Array](Array/README.md) | Hard | Attempted | 3 | 2026-10-16 | - |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-01 | 2026-02-01 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-11-12 | 2026-11-12 |
+| 3364 | [Minimum Positive Sum Subarray ](Array/3364-minimum-positive-sum-subarray/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-11-14 | 2026-11-14 |
 | 3483 | [Unique 3-Digit Even Numbers](Array/3483-unique-3-digit-even-numbers/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-09-11 | 2026-09-11 |
 | 3536 | [Maximum Product of Two Digits](Math/3536-maximum-product-of-two-digits/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-25 | 2026-07-25 |
 | 3619 | [Count Islands With Total Value Divisible by K](Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-10-26 | 2026-10-26 |

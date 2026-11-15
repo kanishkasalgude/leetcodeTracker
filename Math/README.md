@@ -40,6 +40,7 @@ Filed under their main topic, but they use this one too.
 | 462 | [Minimum Moves to Equal Array Elements II](../Array/0462-minimum-moves-to-equal-array-elements-ii/README.md) | Array | Medium | Solved |
 | 1248 | [Count Number of Nice Subarrays](../Array/1248-count-number-of-nice-subarrays/README.md) | Array | Medium | Solved |
 | 1512 | [Number of Good Pairs](../Array/1512-number-of-good-pairs/README.md) | Array | Easy | Solved |
+| 1524 | [Number of Sub-arrays With Odd Sum](../Array/1524-number-of-sub-arrays-with-odd-sum/README.md) | Array | Medium | Solved |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](../Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | Array | Hard | Solved |
 | 3736 | [Minimum Moves to Equal Array Elements III](../Array/3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array | Easy | Solved |
 | 3875 | [Construct Uniform Parity Array I](../Array/3875-construct-uniform-parity-array-i/README.md) | Array | Easy | Solved |

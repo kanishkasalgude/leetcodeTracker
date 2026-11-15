@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2194412006,
+  "synced_through": 2196510204,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5353,6 +5353,114 @@
       "submissions": [
         {"id":2194410446,"status":"Accepted","lang":"cpp","timestamp":1794466342,"runtime":null,"memory":null},
         {"id":2194412006,"status":"Accepted","lang":"cpp","timestamp":1794466488,"runtime":"1 ms","memory":"10.4 MB"}
+      ]
+    },
+    "n-queens": {
+      "id": "51",
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "difficulty": "Hard",
+      "tags": ["Array","Backtracking","Algorithm X"],
+      "topic": "Array",
+      "dir": "Array/0051-n-queens",
+      "first_attempt_at": 1794548122,
+      "last_attempt_at": 1794548122,
+      "solved_at": 1794548122,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2195067298,"status":"Accepted","lang":"cpp","timestamp":1794548122,"runtime":"4 ms","memory":"10 MB"}
+      },
+      "submissions": [
+        {"id":2195067298,"status":"Accepted","lang":"cpp","timestamp":1794548122,"runtime":"4 ms","memory":"10 MB"}
+      ]
+    },
+    "assign-cookies": {
+      "id": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers","Greedy","Sorting","Quicksort"],
+      "topic": "Array",
+      "dir": "Array/0455-assign-cookies",
+      "first_attempt_at": 1794548162,
+      "last_attempt_at": 1794548162,
+      "solved_at": 1794548162,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2195067626,"status":"Accepted","lang":"cpp","timestamp":1794548162,"runtime":"10 ms","memory":"44.9 MB"}
+      },
+      "submissions": [
+        {"id":2195067626,"status":"Accepted","lang":"cpp","timestamp":1794548162,"runtime":"10 ms","memory":"44.9 MB"}
+      ]
+    },
+    "lemonade-change": {
+      "id": "860",
+      "title": "Lemonade Change",
+      "slug": "lemonade-change",
+      "difficulty": "Easy",
+      "tags": ["Array","Greedy"],
+      "topic": "Array",
+      "dir": "Array/0860-lemonade-change",
+      "first_attempt_at": 1794619234,
+      "last_attempt_at": 1794619234,
+      "solved_at": 1794619234,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2195617456,"status":"Accepted","lang":"cpp","timestamp":1794619234,"runtime":"1 ms","memory":"87.2 MB"}
+      },
+      "submissions": [
+        {"id":2195617456,"status":"Accepted","lang":"cpp","timestamp":1794619234,"runtime":"1 ms","memory":"87.2 MB"}
+      ]
+    },
+    "kth-largest-element-in-an-array": {
+      "id": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Divide and Conquer","Sorting","Heap (Priority Queue)","Quickselect"],
+      "topic": "Array",
+      "dir": "Array/0215-kth-largest-element-in-an-array",
+      "first_attempt_at": 1794619254,
+      "last_attempt_at": 1794619254,
+      "solved_at": 1794619254,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2195617536,"status":"Accepted","lang":"cpp","timestamp":1794619254,"runtime":"39 ms","memory":"72.4 MB"}
+      },
+      "submissions": [
+        {"id":2195617536,"status":"Accepted","lang":"cpp","timestamp":1794619254,"runtime":"39 ms","memory":"72.4 MB"}
+      ]
+    },
+    "minimum-positive-sum-subarray": {
+      "id": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "tags": ["Array","Sliding Window","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/3364-minimum-positive-sum-subarray",
+      "first_attempt_at": 1794619595,
+      "last_attempt_at": 1794619595,
+      "solved_at": 1794619595,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2195618768,"status":"Accepted","lang":"cpp","timestamp":1794619595,"runtime":"1 ms","memory":"29.3 MB"}
+      },
+      "submissions": [
+        {"id":2195618768,"status":"Accepted","lang":"cpp","timestamp":1794619595,"runtime":"1 ms","memory":"29.3 MB"}
+      ]
+    },
+    "number-of-sub-arrays-with-odd-sum": {
+      "id": "1524",
+      "title": "Number of Sub-arrays With Odd Sum",
+      "slug": "number-of-sub-arrays-with-odd-sum",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Dynamic Programming","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/1524-number-of-sub-arrays-with-odd-sum",
+      "first_attempt_at": 1794732194,
+      "last_attempt_at": 1794732194,
+      "solved_at": 1794732194,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2196510204,"status":"Accepted","lang":"cpp","timestamp":1794732194,"runtime":"5 ms","memory":"112.1 MB"}
+      },
+      "submissions": [
+        {"id":2196510204,"status":"Accepted","lang":"cpp","timestamp":1794732194,"runtime":"5 ms","memory":"112.1 MB"}
       ]
     }
   }
