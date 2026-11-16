@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 131 | 125 | 6 | 39 | 77 | 15 |
+| 132 | 126 | 6 | 39 | 78 | 15 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -27,6 +27,7 @@
 | 51 | [N-Queens](../Array/0051-n-queens/README.md) | Hard | Solved | 1 | cpp | 2026-11-13 |
 | 53 | [Maximum Subarray](../Array/0053-maximum-subarray/README.md) | Medium | Solved | 2 | cpp | 2025-10-12 |
 | 54 | [Spiral Matrix](../Array/0054-spiral-matrix/README.md) | Medium | Solved | 1 | cpp | 2025-10-20 |
+| 55 | [Jump Game](../Array/0055-jump-game/README.md) | Medium | Solved | 3 | cpp | 2026-11-15 |
 | 56 | [Merge Intervals](../Array/0056-merge-intervals/README.md) | Medium | Solved | 1 | cpp | 2026-01-12 |
 | 73 | [Set Matrix Zeroes](../Array/0073-set-matrix-zeroes/README.md) | Medium | Solved | 1 | cpp | 2025-10-18 |
 | 74 | [Search a 2D Matrix](../Array/0074-search-a-2d-matrix/README.md) | Medium | Solved | 1 | cpp | 2026-06-07 |

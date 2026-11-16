@@ -20,6 +20,7 @@ Filed under their main topic, but they use this one too.
 | 22 | [Generate Parentheses](../String/0022-generate-parentheses/README.md) | String | Medium | Solved |
 | 42 | [Trapping Rain Water](../Array/0042-trapping-rain-water/README.md) | Array | Hard | Solved |
 | 53 | [Maximum Subarray](../Array/0053-maximum-subarray/README.md) | Array | Medium | Solved |
+| 55 | [Jump Game](../Array/0055-jump-game/README.md) | Array | Medium | Solved |
 | 85 | [Maximal Rectangle](../Array/0085-maximal-rectangle/README.md) | Array | Hard | Solved |
 | 115 | [Distinct Subsequences](../String/0115-distinct-subsequences/README.md) | String | Hard | Solved |
 | 118 | [Pascal's Triangle](../Array/0118-pascals-triangle/README.md) | Array | Easy | Solved |

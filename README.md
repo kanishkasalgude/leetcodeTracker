@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 292 | 283 | 9 | 111 | 146 | 26 | 2026-11-15 |
+| 293 | 284 | 9 | 111 | 147 | 26 | 2026-11-15 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 131 | 125 | 6 | 39 | 77 | 15 |
+| [Array](Array/README.md) | 132 | 126 | 6 | 39 | 78 | 15 |
 | [Database](Database/README.md) | 50 | 50 | 0 | 32 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -45,6 +45,9 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Accepted | cpp |
+| 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Wrong Answer | cpp |
+| 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Wrong Answer | cpp |
 | 2026-11-15 | [1524. Number of Sub-arrays With Odd Sum](Array/1524-number-of-sub-arrays-with-odd-sum/README.md) | Accepted | cpp |
 | 2026-11-14 | [3364. Minimum Positive Sum Subarray ](Array/3364-minimum-positive-sum-subarray/README.md) | Accepted | cpp |
 | 2026-11-14 | [215. Kth Largest Element in an Array](Array/0215-kth-largest-element-in-an-array/README.md) | Accepted | cpp |
@@ -57,15 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Accepted | cpp |
 | 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Wrong Answer | cpp |
 | 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Wrong Answer | cpp |
-| 2026-11-11 | [3789. Minimum Cost to Acquire Required Items](Math/3789-minimum-cost-to-acquire-required-items/README.md) | Accepted | python |
-| 2026-11-10 | [3693. Climbing Stairs II](Array/3693-climbing-stairs-ii/README.md) | Accepted | python |
-| 2026-11-09 | [78. Subsets](Array/0078-subsets/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 43 | 64 |
+| 2026-11 | 44 | 67 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -118,6 +118,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 51 | [N-Queens](Array/0051-n-queens/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-11-13 | 2026-11-13 |
 | 53 | [Maximum Subarray](Array/0053-maximum-subarray/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2025-10-12 | 2025-10-12 |
 | 54 | [Spiral Matrix](Array/0054-spiral-matrix/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-20 | 2025-10-20 |
+| 55 | [Jump Game](Array/0055-jump-game/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-11-15 | 2026-11-15 |
 | 56 | [Merge Intervals](Array/0056-merge-intervals/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-12 | 2026-01-12 |
 | 61 | [Rotate List](Linked-List/0061-rotate-list/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 5 | 2025-09-11 | 2025-09-11 |
 | 69 | [Sqrt(x)](Math/0069-sqrtx/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2025-07-05 | 2025-07-05 |

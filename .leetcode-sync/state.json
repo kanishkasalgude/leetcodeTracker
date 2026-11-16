@@ -5462,6 +5462,26 @@
       "submissions": [
         {"id":2196510204,"status":"Accepted","lang":"cpp","timestamp":1794732194,"runtime":"5 ms","memory":"112.1 MB"}
       ]
+    },
+    "jump-game": {
+      "id": "55",
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Greedy"],
+      "topic": "Array",
+      "dir": "Array/0055-jump-game",
+      "first_attempt_at": 1794733607,
+      "last_attempt_at": 1794734165,
+      "solved_at": 1794734165,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2196524647,"status":"Accepted","lang":"cpp","timestamp":1794734165,"runtime":"0 ms","memory":"52.4 MB"}
+      },
+      "submissions": [
+        {"id":2196520583,"status":"Wrong Answer","lang":"cpp","timestamp":1794733607,"runtime":null,"memory":null},
+        {"id":2196522914,"status":"Wrong Answer","lang":"cpp","timestamp":1794733926,"runtime":null,"memory":null},
+        {"id":2196524647,"status":"Accepted","lang":"cpp","timestamp":1794734165,"runtime":"0 ms","memory":"52.4 MB"}
+      ]
     }
   }
 }
