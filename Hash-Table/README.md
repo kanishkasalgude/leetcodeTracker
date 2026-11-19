@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 20 | 20 | 0 | 7 | 9 | 4 |
+| 21 | 21 | 0 | 8 | 9 | 4 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -26,6 +26,7 @@
 | 653 | [Two Sum IV - Input is a BST](../Hash-Table/0653-two-sum-iv-input-is-a-bst/README.md) | Easy | Solved | 1 | cpp | 2026-06-13 |
 | 863 | [All Nodes Distance K in Binary Tree](../Hash-Table/0863-all-nodes-distance-k-in-binary-tree/README.md) | Medium | Solved | 4 | cpp | 2026-01-26 |
 | 987 | [Vertical Order Traversal of a Binary Tree](../Hash-Table/0987-vertical-order-traversal-of-a-binary-tree/README.md) | Hard | Solved | 1 | cpp | 2026-01-24 |
+| 1189 | [Maximum Number of Balloons](../Hash-Table/1189-maximum-number-of-balloons/README.md) | Easy | Solved | 1 | python | 2026-11-17 |
 | 1358 | [Number of Substrings Containing All Three Characters](../Hash-Table/1358-number-of-substrings-containing-all-three-characters/README.md) | Medium | Solved | 1 | cpp | 2026-09-13 |
 | 1781 | [Sum of Beauty of All Substrings](../Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Medium | Solved | 1 | cpp | 2026-06-21 |
 

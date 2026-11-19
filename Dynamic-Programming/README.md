@@ -29,6 +29,7 @@ Filed under their main topic, but they use this one too.
 | 152 | [Maximum Product Subarray](../Array/0152-maximum-product-subarray/README.md) | Array | Medium | Solved |
 | 410 | [Split Array Largest Sum](../Array/0410-split-array-largest-sum/README.md) | Array | Hard | Solved |
 | 542 | [01 Matrix](../Array/0542-01-matrix/README.md) | Array | Medium | Solved |
+| 773 | [Sliding Puzzle](../Array/0773-sliding-puzzle/README.md) | Array | Hard | Solved |
 | 907 | [Sum of Subarray Minimums](../Array/0907-sum-of-subarray-minimums/README.md) | Array | Medium | Solved |
 | 940 | [Distinct Subsequences II](../String/0940-distinct-subsequences-ii/README.md) | String | Hard | Solved |
 | 1524 | [Number of Sub-arrays With Odd Sum](../Array/1524-number-of-sub-arrays-with-odd-sum/README.md) | Array | Medium | Solved |

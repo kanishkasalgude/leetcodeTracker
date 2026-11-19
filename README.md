@@ -4,18 +4,18 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 293 | 284 | 9 | 111 | 147 | 26 | 2026-11-15 |
+| 298 | 289 | 9 | 114 | 148 | 27 | 2026-11-18 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 132 | 126 | 6 | 39 | 78 | 15 |
-| [Database](Database/README.md) | 50 | 50 | 0 | 32 | 17 | 1 |
-| [Hash Table](Hash-Table/README.md) | 20 | 20 | 0 | 7 | 9 | 4 |
+| [Array](Array/README.md) | 133 | 127 | 6 | 39 | 78 | 16 |
+| [Database](Database/README.md) | 51 | 51 | 0 | 33 | 17 | 1 |
+| [Hash Table](Hash-Table/README.md) | 21 | 21 | 0 | 8 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
+| [String](String/README.md) | 17 | 17 | 0 | 6 | 7 | 4 |
 | [Math](Math/README.md) | 15 | 13 | 2 | 8 | 7 | 0 |
-| [String](String/README.md) | 15 | 15 | 0 | 5 | 6 | 4 |
 | [Linked List](Linked-List/README.md) | 12 | 12 | 0 | 3 | 8 | 1 |
 | [Stack](Stack/README.md) | 8 | 8 | 0 | 5 | 3 | 0 |
 | [Depth-First Search](Depth-First-Search/README.md) | 6 | 6 | 0 | 0 | 6 | 0 |
@@ -45,8 +45,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-18 | [773. Sliding Puzzle](Array/0773-sliding-puzzle/README.md) | Accepted | python |
+| 2026-11-18 | [2914. Minimum Number of Changes to Make Binary String Beautiful](String/2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Accepted | cpp |
+| 2026-11-18 | [2914. Minimum Number of Changes to Make Binary String Beautiful](String/2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Wrong Answer | cpp |
+| 2026-11-17 | [1189. Maximum Number of Balloons](Hash-Table/1189-maximum-number-of-balloons/README.md) | Accepted | python |
+| 2026-11-16 | [2243. Calculate Digit Sum of a String](String/2243-calculate-digit-sum-of-a-string/README.md) | Accepted | cpp |
 | 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Accepted | cpp |
 | 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Wrong Answer | cpp |
+| 2026-11-15 | [175. Combine Two Tables](Database/0175-combine-two-tables/README.md) | Accepted | mysql |
 | 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Wrong Answer | cpp |
 | 2026-11-15 | [1524. Number of Sub-arrays With Odd Sum](Array/1524-number-of-sub-arrays-with-odd-sum/README.md) | Accepted | cpp |
 | 2026-11-14 | [3364. Minimum Positive Sum Subarray ](Array/3364-minimum-positive-sum-subarray/README.md) | Accepted | cpp |
@@ -54,18 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-14 | [860. Lemonade Change](Array/0860-lemonade-change/README.md) | Accepted | cpp |
 | 2026-11-13 | [455. Assign Cookies](Array/0455-assign-cookies/README.md) | Accepted | cpp |
 | 2026-11-13 | [51. N-Queens](Array/0051-n-queens/README.md) | Accepted | cpp |
-| 2026-11-12 | [46. Permutations](Array/0046-permutations/README.md) | Accepted | cpp |
-| 2026-11-12 | [46. Permutations](Array/0046-permutations/README.md) | Accepted | cpp |
-| 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Accepted | cpp |
-| 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Accepted | cpp |
-| 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Wrong Answer | cpp |
-| 2026-11-12 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Wrong Answer | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 44 | 67 |
+| 2026-11 | 49 | 73 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -169,6 +169,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 162 | [Find Peak Element](Array/0162-find-peak-element/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-02-14 | 2026-02-14 |
 | 169 | [Majority Element](Array/0169-majority-element/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-10-06 | 2025-10-06 |
 | 173 | [Binary Search Tree Iterator](Stack/0173-binary-search-tree-iterator/README.md) | [Stack](Stack/README.md) | Medium | Solved | 1 | 2026-06-12 | 2026-06-12 |
+| 175 | [Combine Two Tables](Database/0175-combine-two-tables/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-11-15 | 2026-11-15 |
 | 176 | [Second Highest Salary](Database/0176-second-highest-salary/README.md) | [Database](Database/README.md) | Medium | Solved | 2 | 2026-11-05 | 2026-11-05 |
 | 180 | [Consecutive Numbers](Database/0180-consecutive-numbers/README.md) | [Database](Database/README.md) | Medium | Solved | 3 | 2026-11-01 | 2026-11-01 |
 | 185 | [Department Top Three Salaries](Database/0185-department-top-three-salaries/README.md) | [Database](Database/README.md) | Hard | Solved | 1 | 2026-11-05 | 2026-11-05 |
@@ -247,6 +248,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 733 | [Flood Fill](Array/0733-flood-fill/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-08-18 | 2026-08-18 |
 | 735 | [Asteroid Collision](Array/0735-asteroid-collision/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-07-25 | 2026-07-25 |
 | 743 | [Network Delay Time](Depth-First-Search/0743-network-delay-time/README.md) | [Depth-First Search](Depth-First-Search/README.md) | Medium | Solved | 1 | 2026-10-17 | 2026-10-17 |
+| 773 | [Sliding Puzzle](Array/0773-sliding-puzzle/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-11-18 | 2026-11-18 |
 | 785 | [Is Graph Bipartite?](Depth-First-Search/0785-is-graph-bipartite/README.md) | [Depth-First Search](Depth-First-Search/README.md) | Medium | Solved | 1 | 2026-08-25 | 2026-08-25 |
 | 796 | [Rotate String](String/0796-rotate-string/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2026-06-15 | 2026-06-15 |
 | 802 | [Find Eventual Safe States](Depth-First-Search/0802-find-eventual-safe-states/README.md) | [Depth-First Search](Depth-First-Search/README.md) | Medium | Solved | 2 | 2026-08-28 | 2026-08-28 |
@@ -279,6 +281,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1148 | [Article Views I](Database/1148-article-views-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
 | 1164 | [Product Price at a Given Date](Database/1164-product-price-at-a-given-date/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-02 | 2026-11-02 |
 | 1174 | [Immediate Food Delivery II](Database/1174-immediate-food-delivery-ii/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-10-28 | 2026-10-28 |
+| 1189 | [Maximum Number of Balloons](Hash-Table/1189-maximum-number-of-balloons/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-11-17 | 2026-11-17 |
 | 1193 | [Monthly Transactions I](Database/1193-monthly-transactions-i/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-10-28 | 2026-10-28 |
 | 1204 | [Last Person to Fit in the Bus](Database/1204-last-person-to-fit-in-the-bus/README.md) | [Database](Database/README.md) | Medium | Solved | 2 | 2026-11-02 | 2026-11-02 |
 | 1211 | [Queries Quality and Percentage](Database/1211-queries-quality-and-percentage/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-26 | 2026-10-26 |
@@ -337,6 +340,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2104 | [Sum of Subarray Ranges](Array/2104-sum-of-subarray-ranges/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-07-27 | 2026-07-27 |
 | 2149 | [Rearrange Array Elements by Sign](Array/2149-rearrange-array-elements-by-sign/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-12 | 2025-10-12 |
 | 2220 | [Minimum Bit Flips to Convert Number](Bit-Manipulation/2220-minimum-bit-flips-to-convert-number/README.md) | [Bit Manipulation](Bit-Manipulation/README.md) | Easy | Solved | 1 | 2026-07-14 | 2026-07-14 |
+| 2243 | [Calculate Digit Sum of a String](String/2243-calculate-digit-sum-of-a-string/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2026-11-16 | 2026-11-16 |
 | 2265 | [Count Nodes Equal to Average of Subtree](Tree/2265-count-nodes-equal-to-average-of-subtree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-09-10 | 2026-09-10 |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](Array/2267-check-if-there-is-a-valid-parentheses-string-path/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-09-29 | 2026-09-29 |
 | 2315 | [Count Asterisks](String/2315-count-asterisks/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2025-07-03 | 2025-07-03 |
@@ -345,6 +349,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2747 | [Count Zero Request Servers](Array/2747-count-zero-request-servers/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-06 | 2026-11-06 |
 | 2812 | [Find the Safest Path in a Grid](Array/2812-find-the-safest-path-in-a-grid/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-10-17 | 2026-10-17 |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](Array/2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md) | [Array](Array/README.md) | Hard | Solved | 2 | 2026-10-12 | 2026-10-12 |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](String/2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | [String](String/README.md) | Medium | Solved | 2 | 2026-11-18 | 2026-11-18 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | [Array](Array/README.md) | Hard | Attempted | 3 | 2026-10-16 | - |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-01 | 2026-02-01 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-11-12 | 2026-11-12 |

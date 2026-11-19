@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 132 | 126 | 6 | 39 | 78 | 15 |
+| 133 | 127 | 6 | 39 | 78 | 16 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -76,6 +76,7 @@
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 3 | cpp | 2025-12-06 |
 | 733 | [Flood Fill](../Array/0733-flood-fill/README.md) | Easy | Solved | 1 | cpp | 2026-08-18 |
 | 735 | [Asteroid Collision](../Array/0735-asteroid-collision/README.md) | Medium | Solved | 1 | cpp | 2026-07-25 |
+| 773 | [Sliding Puzzle](../Array/0773-sliding-puzzle/README.md) | Hard | Solved | 1 | python | 2026-11-18 |
 | 860 | [Lemonade Change](../Array/0860-lemonade-change/README.md) | Easy | Solved | 1 | cpp | 2026-11-14 |
 | 875 | [Koko Eating Bananas](../Array/0875-koko-eating-bananas/README.md) | Medium | Solved | 4 | cpp | 2026-03-15 |
 | 904 | [Fruit Into Baskets](../Array/0904-fruit-into-baskets/README.md) | Medium | Solved | 1 | cpp | 2026-09-10 |

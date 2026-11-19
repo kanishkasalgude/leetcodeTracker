@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 15 | 15 | 0 | 5 | 6 | 4 |
+| 17 | 17 | 0 | 6 | 7 | 4 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,9 @@
 | 1021 | [Remove Outermost Parentheses](../String/1021-remove-outermost-parentheses/README.md) | Easy | Solved | 1 | java | 2026-01-29 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](../String/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md) | Medium | Solved | 1 | cpp | 2026-09-30 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](../String/1614-maximum-nesting-depth-of-the-parentheses/README.md) | Easy | Solved | 3 | cpp | 2026-06-15 |
+| 2243 | [Calculate Digit Sum of a String](../String/2243-calculate-digit-sum-of-a-string/README.md) | Easy | Solved | 1 | cpp | 2026-11-16 |
 | 2315 | [Count Asterisks](../String/2315-count-asterisks/README.md) | Easy | Solved | 1 | cpp | 2025-07-03 |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](../String/2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Medium | Solved | 2 | cpp | 2026-11-18 |
 
 ## Also tagged String
 
@@ -43,6 +45,7 @@ Filed under their main topic, but they use this one too.
 | 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Hash Table | Easy | Solved |
 | 424 | [Longest Repeating Character Replacement](../Hash-Table/0424-longest-repeating-character-replacement/README.md) | Hash Table | Medium | Solved |
 | 451 | [Sort Characters By Frequency](../Hash-Table/0451-sort-characters-by-frequency/README.md) | Hash Table | Medium | Solved |
+| 1189 | [Maximum Number of Balloons](../Hash-Table/1189-maximum-number-of-balloons/README.md) | Hash Table | Easy | Solved |
 | 1358 | [Number of Substrings Containing All Three Characters](../Hash-Table/1358-number-of-substrings-containing-all-three-characters/README.md) | Hash Table | Medium | Solved |
 | 1781 | [Sum of Beauty of All Substrings](../Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Hash Table | Medium | Solved |
 | 1903 | [Largest Odd Number in String](../Math/1903-largest-odd-number-in-string/README.md) | Math | Easy | Solved |

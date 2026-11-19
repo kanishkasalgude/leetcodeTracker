@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2196510204,
+  "synced_through": 2198745394,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5481,6 +5481,97 @@
         {"id":2196520583,"status":"Wrong Answer","lang":"cpp","timestamp":1794733607,"runtime":null,"memory":null},
         {"id":2196522914,"status":"Wrong Answer","lang":"cpp","timestamp":1794733926,"runtime":null,"memory":null},
         {"id":2196524647,"status":"Accepted","lang":"cpp","timestamp":1794734165,"runtime":"0 ms","memory":"52.4 MB"}
+      ]
+    },
+    "combine-two-tables": {
+      "id": "175",
+      "title": "Combine Two Tables",
+      "slug": "combine-two-tables",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0175-combine-two-tables",
+      "first_attempt_at": 1794733853,
+      "last_attempt_at": 1794733853,
+      "solved_at": 1794733853,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2196522365,"status":"Accepted","lang":"mysql","timestamp":1794733853,"runtime":"357 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2196522365,"status":"Accepted","lang":"mysql","timestamp":1794733853,"runtime":"357 ms","memory":"0B"}
+      ]
+    },
+    "calculate-digit-sum-of-a-string": {
+      "id": "2243",
+      "title": "Calculate Digit Sum of a String",
+      "slug": "calculate-digit-sum-of-a-string",
+      "difficulty": "Easy",
+      "tags": ["String","Simulation"],
+      "topic": "String",
+      "dir": "String/2243-calculate-digit-sum-of-a-string",
+      "first_attempt_at": 1794828517,
+      "last_attempt_at": 1794828517,
+      "solved_at": 1794828517,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2197259921,"status":"Accepted","lang":"cpp","timestamp":1794828517,"runtime":"1 ms","memory":"9.2 MB"}
+      },
+      "submissions": [
+        {"id":2197259921,"status":"Accepted","lang":"cpp","timestamp":1794828517,"runtime":"1 ms","memory":"9.2 MB"}
+      ]
+    },
+    "maximum-number-of-balloons": {
+      "id": "1189",
+      "title": "Maximum Number of Balloons",
+      "slug": "maximum-number-of-balloons",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String","Counting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/1189-maximum-number-of-balloons",
+      "first_attempt_at": 1794932620,
+      "last_attempt_at": 1794932620,
+      "solved_at": 1794932620,
+      "languages": {
+        "python": {"file":"solution_python2.py","id":2198130170,"status":"Accepted","lang":"python","timestamp":1794932620,"runtime":"8 ms","memory":"12.1 MB"}
+      },
+      "submissions": [
+        {"id":2198130170,"status":"Accepted","lang":"python","timestamp":1794932620,"runtime":"8 ms","memory":"12.1 MB"}
+      ]
+    },
+    "minimum-number-of-changes-to-make-binary-string-beautiful": {
+      "id": "2914",
+      "title": "Minimum Number of Changes to Make Binary String Beautiful",
+      "slug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+      "difficulty": "Medium",
+      "tags": ["String"],
+      "topic": "String",
+      "dir": "String/2914-minimum-number-of-changes-to-make-binary-string-beautiful",
+      "first_attempt_at": 1795008863,
+      "last_attempt_at": 1795008893,
+      "solved_at": 1795008893,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2198709896,"status":"Accepted","lang":"cpp","timestamp":1795008893,"runtime":"3 ms","memory":"13.7 MB"}
+      },
+      "submissions": [
+        {"id":2198709650,"status":"Wrong Answer","lang":"cpp","timestamp":1795008863,"runtime":null,"memory":null},
+        {"id":2198709896,"status":"Accepted","lang":"cpp","timestamp":1795008893,"runtime":"3 ms","memory":"13.7 MB"}
+      ]
+    },
+    "sliding-puzzle": {
+      "id": "773",
+      "title": "Sliding Puzzle",
+      "slug": "sliding-puzzle",
+      "difficulty": "Hard",
+      "tags": ["Array","Dynamic Programming","Backtracking","Breadth-First Search","Memoization","Matrix","Heuristic Search","Bidirectional Search","A* Search"],
+      "topic": "Array",
+      "dir": "Array/0773-sliding-puzzle",
+      "first_attempt_at": 1795012722,
+      "last_attempt_at": 1795012722,
+      "solved_at": 1795012722,
+      "languages": {
+        "python": {"file":"solution_python2.py","id":2198745394,"status":"Accepted","lang":"python","timestamp":1795012722,"runtime":"10 ms","memory":"12.4 MB"}
+      },
+      "submissions": [
+        {"id":2198745394,"status":"Accepted","lang":"python","timestamp":1795012722,"runtime":"10 ms","memory":"12.4 MB"}
       ]
     }
   }

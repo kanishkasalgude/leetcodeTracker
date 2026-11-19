@@ -4,10 +4,11 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 50 | 50 | 0 | 32 | 17 | 1 |
+| 51 | 51 | 0 | 33 | 17 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
+| 175 | [Combine Two Tables](../Database/0175-combine-two-tables/README.md) | Easy | Solved | 1 | mysql | 2026-11-15 |
 | 176 | [Second Highest Salary](../Database/0176-second-highest-salary/README.md) | Medium | Solved | 2 | mysql | 2026-11-05 |
 | 180 | [Consecutive Numbers](../Database/0180-consecutive-numbers/README.md) | Medium | Solved | 3 | mysql | 2026-11-01 |
 | 185 | [Department Top Three Salaries](../Database/0185-department-top-three-salaries/README.md) | Hard | Solved | 1 | mysql | 2026-11-05 |
