@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 298 | 289 | 9 | 114 | 148 | 27 | 2026-11-18 |
+| 300 | 291 | 9 | 114 | 149 | 28 | 2026-11-20 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 133 | 127 | 6 | 39 | 78 | 16 |
+| [Array](Array/README.md) | 135 | 129 | 6 | 39 | 79 | 17 |
 | [Database](Database/README.md) | 51 | 51 | 0 | 33 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 21 | 21 | 0 | 8 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -45,6 +45,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-20 | [3041. Maximize Consecutive Elements in an Array After Modification](Array/3041-maximize-consecutive-elements-in-an-array-after-modification/README.md) | Accepted | python |
+| 2026-11-19 | [2567. Minimum Score by Changing Two Elements](Array/2567-minimum-score-by-changing-two-elements/README.md) | Accepted | python |
 | 2026-11-18 | [773. Sliding Puzzle](Array/0773-sliding-puzzle/README.md) | Accepted | python |
 | 2026-11-18 | [2914. Minimum Number of Changes to Make Binary String Beautiful](String/2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Accepted | cpp |
 | 2026-11-18 | [2914. Minimum Number of Changes to Make Binary String Beautiful](String/2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Wrong Answer | cpp |
@@ -58,14 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-14 | [3364. Minimum Positive Sum Subarray ](Array/3364-minimum-positive-sum-subarray/README.md) | Accepted | cpp |
 | 2026-11-14 | [215. Kth Largest Element in an Array](Array/0215-kth-largest-element-in-an-array/README.md) | Accepted | cpp |
 | 2026-11-14 | [860. Lemonade Change](Array/0860-lemonade-change/README.md) | Accepted | cpp |
-| 2026-11-13 | [455. Assign Cookies](Array/0455-assign-cookies/README.md) | Accepted | cpp |
-| 2026-11-13 | [51. N-Queens](Array/0051-n-queens/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 49 | 73 |
+| 2026-11 | 51 | 75 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -346,12 +346,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2315 | [Count Asterisks](String/2315-count-asterisks/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2025-07-03 | 2025-07-03 |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](Database/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-28 | 2026-10-28 |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](Two-Pointers/2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md) | [Two Pointers](Two-Pointers/README.md) | Hard | Solved | 1 | 2026-09-15 | 2026-09-15 |
+| 2567 | [Minimum Score by Changing Two Elements](Array/2567-minimum-score-by-changing-two-elements/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-19 | 2026-11-19 |
 | 2747 | [Count Zero Request Servers](Array/2747-count-zero-request-servers/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-06 | 2026-11-06 |
 | 2812 | [Find the Safest Path in a Grid](Array/2812-find-the-safest-path-in-a-grid/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-10-17 | 2026-10-17 |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](Array/2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md) | [Array](Array/README.md) | Hard | Solved | 2 | 2026-10-12 | 2026-10-12 |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](String/2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | [String](String/README.md) | Medium | Solved | 2 | 2026-11-18 | 2026-11-18 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](Array/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | [Array](Array/README.md) | Hard | Attempted | 3 | 2026-10-16 | - |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-01 | 2026-02-01 |
+| 3041 | [Maximize Consecutive Elements in an Array After Modification](Array/3041-maximize-consecutive-elements-in-an-array-after-modification/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-11-20 | 2026-11-20 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-11-12 | 2026-11-12 |
 | 3364 | [Minimum Positive Sum Subarray ](Array/3364-minimum-positive-sum-subarray/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-11-14 | 2026-11-14 |
 | 3483 | [Unique 3-Digit Even Numbers](Array/3483-unique-3-digit-even-numbers/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-09-11 | 2026-09-11 |

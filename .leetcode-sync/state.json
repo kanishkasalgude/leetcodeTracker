@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2198745394,
+  "synced_through": 2200115008,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5572,6 +5572,42 @@
       },
       "submissions": [
         {"id":2198745394,"status":"Accepted","lang":"python","timestamp":1795012722,"runtime":"10 ms","memory":"12.4 MB"}
+      ]
+    },
+    "minimum-score-by-changing-two-elements": {
+      "id": "2567",
+      "title": "Minimum Score by Changing Two Elements",
+      "slug": "minimum-score-by-changing-two-elements",
+      "difficulty": "Medium",
+      "tags": ["Array","Greedy","Sorting"],
+      "topic": "Array",
+      "dir": "Array/2567-minimum-score-by-changing-two-elements",
+      "first_attempt_at": 1795070572,
+      "last_attempt_at": 1795070572,
+      "solved_at": 1795070572,
+      "languages": {
+        "python": {"file":"solution_python2.py","id":2199161939,"status":"Accepted","lang":"python","timestamp":1795070572,"runtime":"48 ms","memory":"19.7 MB"}
+      },
+      "submissions": [
+        {"id":2199161939,"status":"Accepted","lang":"python","timestamp":1795070572,"runtime":"48 ms","memory":"19.7 MB"}
+      ]
+    },
+    "maximize-consecutive-elements-in-an-array-after-modification": {
+      "id": "3041",
+      "title": "Maximize Consecutive Elements in an Array After Modification",
+      "slug": "maximize-consecutive-elements-in-an-array-after-modification",
+      "difficulty": "Hard",
+      "tags": ["Array","Dynamic Programming","Sorting"],
+      "topic": "Array",
+      "dir": "Array/3041-maximize-consecutive-elements-in-an-array-after-modification",
+      "first_attempt_at": 1795194074,
+      "last_attempt_at": 1795194074,
+      "solved_at": 1795194074,
+      "languages": {
+        "python": {"file":"solution_python2.py","id":2200115008,"status":"Accepted","lang":"python","timestamp":1795194074,"runtime":"356 ms","memory":"44.7 MB"}
+      },
+      "submissions": [
+        {"id":2200115008,"status":"Accepted","lang":"python","timestamp":1795194074,"runtime":"356 ms","memory":"44.7 MB"}
       ]
     }
   }

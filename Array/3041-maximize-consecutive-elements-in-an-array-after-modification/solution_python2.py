@@ -1,0 +1,16 @@
+class Solution(object):
+    def maxSelectedElements(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        nums.sort()
+        dp = defaultdict(int)
+        max_len = 0
+
+        for x in nums:
+            dp[x+1] = dp[x]+1
+            dp[x] = dp[x-1]+1
+            max_len = max(max_len, dp[x], dp[x+1])
+        return max_len
+        
