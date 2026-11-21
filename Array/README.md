@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 135 | 129 | 6 | 39 | 79 | 17 |
+| 136 | 130 | 6 | 39 | 80 | 17 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -122,6 +122,7 @@
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 1 | cpp | 2026-02-01 |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](../Array/3041-maximize-consecutive-elements-in-an-array-after-modification/README.md) | Hard | Solved | 1 | python | 2026-11-20 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](../Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | Solved | 4 | cpp | 2026-11-12 |
+| 3331 | [Find Subtree Sizes After Changes](../Array/3331-find-subtree-sizes-after-changes/README.md) | Medium | Solved | 1 | cpp | 2026-11-21 |
 | 3364 | [Minimum Positive Sum Subarray ](../Array/3364-minimum-positive-sum-subarray/README.md) | Easy | Solved | 1 | cpp | 2026-11-14 |
 | 3483 | [Unique 3-Digit Even Numbers](../Array/3483-unique-3-digit-even-numbers/README.md) | Easy | Solved | 2 | cpp | 2026-09-11 |
 | 3619 | [Count Islands With Total Value Divisible by K](../Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | Medium | Solved | 2 | python3 | 2026-10-26 |
