@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2200532082,
+  "synced_through": 2201368479,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5626,6 +5626,24 @@
       },
       "submissions": [
         {"id":2200532082,"status":"Accepted","lang":"cpp","timestamp":1795263684,"runtime":"393 ms","memory":"279 MB"}
+      ]
+    },
+    "check-if-all-as-appears-before-all-bs": {
+      "id": "2124",
+      "title": "Check if All A's Appears Before All B's",
+      "slug": "check-if-all-as-appears-before-all-bs",
+      "difficulty": "Easy",
+      "tags": ["String"],
+      "topic": "String",
+      "dir": "String/2124-check-if-all-as-appears-before-all-bs",
+      "first_attempt_at": 1795362997,
+      "last_attempt_at": 1795362997,
+      "solved_at": 1795362997,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2201368479,"status":"Accepted","lang":"cpp","timestamp":1795362997,"runtime":"0 ms","memory":"8.5 MB"}
+      },
+      "submissions": [
+        {"id":2201368479,"status":"Accepted","lang":"cpp","timestamp":1795362997,"runtime":"0 ms","memory":"8.5 MB"}
       ]
     }
   }

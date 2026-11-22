@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 301 | 292 | 9 | 114 | 150 | 28 | 2026-11-21 |
+| 302 | 293 | 9 | 115 | 150 | 28 | 2026-11-22 |
 
 ## Topics
 
@@ -14,7 +14,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | [Database](Database/README.md) | 51 | 51 | 0 | 33 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 21 | 21 | 0 | 8 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
-| [String](String/README.md) | 17 | 17 | 0 | 6 | 7 | 4 |
+| [String](String/README.md) | 18 | 18 | 0 | 7 | 7 | 4 |
 | [Math](Math/README.md) | 15 | 13 | 2 | 8 | 7 | 0 |
 | [Linked List](Linked-List/README.md) | 12 | 12 | 0 | 3 | 8 | 1 |
 | [Stack](Stack/README.md) | 8 | 8 | 0 | 5 | 3 | 0 |
@@ -45,6 +45,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-22 | [2124. Check if All A's Appears Before All B's](String/2124-check-if-all-as-appears-before-all-bs/README.md) | Accepted | cpp |
 | 2026-11-21 | [3331. Find Subtree Sizes After Changes](Array/3331-find-subtree-sizes-after-changes/README.md) | Accepted | cpp |
 | 2026-11-20 | [3041. Maximize Consecutive Elements in an Array After Modification](Array/3041-maximize-consecutive-elements-in-an-array-after-modification/README.md) | Accepted | python |
 | 2026-11-19 | [2567. Minimum Score by Changing Two Elements](Array/2567-minimum-score-by-changing-two-elements/README.md) | Accepted | python |
@@ -59,13 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Wrong Answer | cpp |
 | 2026-11-15 | [1524. Number of Sub-arrays With Odd Sum](Array/1524-number-of-sub-arrays-with-odd-sum/README.md) | Accepted | cpp |
 | 2026-11-14 | [3364. Minimum Positive Sum Subarray ](Array/3364-minimum-positive-sum-subarray/README.md) | Accepted | cpp |
-| 2026-11-14 | [215. Kth Largest Element in an Array](Array/0215-kth-largest-element-in-an-array/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 52 | 76 |
+| 2026-11 | 53 | 77 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -338,6 +338,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2089 | [Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-10-19 | 2026-10-19 |
 | 2095 | [Delete the Middle Node of a Linked List](Linked-List/2095-delete-the-middle-node-of-a-linked-list/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 2 | 2025-08-18 | 2025-08-18 |
 | 2104 | [Sum of Subarray Ranges](Array/2104-sum-of-subarray-ranges/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-07-27 | 2026-07-27 |
+| 2124 | [Check if All A's Appears Before All B's](String/2124-check-if-all-as-appears-before-all-bs/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2026-11-22 | 2026-11-22 |
 | 2149 | [Rearrange Array Elements by Sign](Array/2149-rearrange-array-elements-by-sign/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-10-12 | 2025-10-12 |
 | 2220 | [Minimum Bit Flips to Convert Number](Bit-Manipulation/2220-minimum-bit-flips-to-convert-number/README.md) | [Bit Manipulation](Bit-Manipulation/README.md) | Easy | Solved | 1 | 2026-07-14 | 2026-07-14 |
 | 2243 | [Calculate Digit Sum of a String](String/2243-calculate-digit-sum-of-a-string/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2026-11-16 | 2026-11-16 |

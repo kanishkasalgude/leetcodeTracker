@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 17 | 17 | 0 | 6 | 7 | 4 |
+| 18 | 18 | 0 | 7 | 7 | 4 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -22,6 +22,7 @@
 | 1021 | [Remove Outermost Parentheses](../String/1021-remove-outermost-parentheses/README.md) | Easy | Solved | 1 | java | 2026-01-29 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](../String/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md) | Medium | Solved | 1 | cpp | 2026-09-30 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](../String/1614-maximum-nesting-depth-of-the-parentheses/README.md) | Easy | Solved | 3 | cpp | 2026-06-15 |
+| 2124 | [Check if All A's Appears Before All B's](../String/2124-check-if-all-as-appears-before-all-bs/README.md) | Easy | Solved | 1 | cpp | 2026-11-22 |
 | 2243 | [Calculate Digit Sum of a String](../String/2243-calculate-digit-sum-of-a-string/README.md) | Easy | Solved | 1 | cpp | 2026-11-16 |
 | 2315 | [Count Asterisks](../String/2315-count-asterisks/README.md) | Easy | Solved | 1 | cpp | 2025-07-03 |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](../String/2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Medium | Solved | 2 | cpp | 2026-11-18 |
