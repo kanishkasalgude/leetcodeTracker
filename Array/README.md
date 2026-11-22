@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 136 | 130 | 6 | 39 | 80 | 17 |
+| 137 | 131 | 6 | 40 | 80 | 17 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -110,6 +110,7 @@
 | 1848 | [Minimum Distance to the Target Element](../Array/1848-minimum-distance-to-the-target-element/README.md) | Easy | Solved | 2 | cpp | 2026-09-08 |
 | 1882 | [Process Tasks Using Servers](../Array/1882-process-tasks-using-servers/README.md) | Medium | Solved | 1 | cpp | 2026-11-07 |
 | 1901 | [Find a Peak Element II](../Array/1901-find-a-peak-element-ii/README.md) | Medium | Solved | 3 | cpp | 2026-06-07 |
+| 1967 | [Number of Strings That Appear as Substrings in Word](../Array/1967-number-of-strings-that-appear-as-substrings-in-word/README.md) | Easy | Solved | 2 | cpp | 2026-11-22 |
 | 2089 | [Find Target Indices After Sorting Array](../Array/2089-find-target-indices-after-sorting-array/README.md) | Easy | Solved | 1 | cpp | 2026-10-19 |
 | 2104 | [Sum of Subarray Ranges](../Array/2104-sum-of-subarray-ranges/README.md) | Medium | Solved | 1 | cpp | 2026-07-27 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 1 | cpp | 2025-10-12 |

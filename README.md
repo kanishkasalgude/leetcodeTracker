@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 302 | 293 | 9 | 115 | 150 | 28 | 2026-11-22 |
+| 303 | 294 | 9 | 116 | 150 | 28 | 2026-11-22 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 136 | 130 | 6 | 39 | 80 | 17 |
+| [Array](Array/README.md) | 137 | 131 | 6 | 40 | 80 | 17 |
 | [Database](Database/README.md) | 51 | 51 | 0 | 33 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 21 | 21 | 0 | 8 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -45,6 +45,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-22 | [1967. Number of Strings That Appear as Substrings in Word](Array/1967-number-of-strings-that-appear-as-substrings-in-word/README.md) | Accepted | cpp |
+| 2026-11-22 | [1967. Number of Strings That Appear as Substrings in Word](Array/1967-number-of-strings-that-appear-as-substrings-in-word/README.md) | Runtime Error | cpp |
 | 2026-11-22 | [2124. Check if All A's Appears Before All B's](String/2124-check-if-all-as-appears-before-all-bs/README.md) | Accepted | cpp |
 | 2026-11-21 | [3331. Find Subtree Sizes After Changes](Array/3331-find-subtree-sizes-after-changes/README.md) | Accepted | cpp |
 | 2026-11-20 | [3041. Maximize Consecutive Elements in an Array After Modification](Array/3041-maximize-consecutive-elements-in-an-array-after-modification/README.md) | Accepted | python |
@@ -58,14 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Wrong Answer | cpp |
 | 2026-11-15 | [175. Combine Two Tables](Database/0175-combine-two-tables/README.md) | Accepted | mysql |
 | 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Wrong Answer | cpp |
-| 2026-11-15 | [1524. Number of Sub-arrays With Odd Sum](Array/1524-number-of-sub-arrays-with-odd-sum/README.md) | Accepted | cpp |
-| 2026-11-14 | [3364. Minimum Positive Sum Subarray ](Array/3364-minimum-positive-sum-subarray/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 53 | 77 |
+| 2026-11 | 54 | 79 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -334,6 +334,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1907 | [Count Salary Categories](Database/1907-count-salary-categories/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-02 | 2026-11-02 |
 | 1922 | [Count Good Numbers](Math/1922-count-good-numbers/README.md) | [Math](Math/README.md) | Medium | Solved | 3 | 2026-08-19 | 2026-08-19 |
 | 1934 | [Confirmation Rate](Database/1934-confirmation-rate/README.md) | [Database](Database/README.md) | Medium | Solved | 2 | 2026-10-25 | 2026-10-25 |
+| 1967 | [Number of Strings That Appear as Substrings in Word](Array/1967-number-of-strings-that-appear-as-substrings-in-word/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-11-22 | 2026-11-22 |
 | 1978 | [Employees Whose Manager Left the Company](Database/1978-employees-whose-manager-left-the-company/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-11-02 | 2026-11-02 |
 | 2089 | [Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-10-19 | 2026-10-19 |
 | 2095 | [Delete the Middle Node of a Linked List](Linked-List/2095-delete-the-middle-node-of-a-linked-list/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 2 | 2025-08-18 | 2025-08-18 |

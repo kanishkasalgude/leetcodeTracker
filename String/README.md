@@ -50,6 +50,7 @@ Filed under their main topic, but they use this one too.
 | 1358 | [Number of Substrings Containing All Three Characters](../Hash-Table/1358-number-of-substrings-containing-all-three-characters/README.md) | Hash Table | Medium | Solved |
 | 1781 | [Sum of Beauty of All Substrings](../Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Hash Table | Medium | Solved |
 | 1903 | [Largest Odd Number in String](../Math/1903-largest-odd-number-in-string/README.md) | Math | Easy | Solved |
+| 1967 | [Number of Strings That Appear as Substrings in Word](../Array/1967-number-of-strings-that-appear-as-substrings-in-word/README.md) | Array | Easy | Solved |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](../Two-Pointers/2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md) | Two Pointers | Hard | Solved |
 | 3331 | [Find Subtree Sizes After Changes](../Array/3331-find-subtree-sizes-after-changes/README.md) | Array | Medium | Solved |
 | 3844 | [Longest Almost-Palindromic Substring](../Two-Pointers/3844-longest-almost-palindromic-substring/README.md) | Two Pointers | Medium | Attempted |

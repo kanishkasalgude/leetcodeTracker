@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2201368479,
+  "synced_through": 2201395295,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5644,6 +5644,25 @@
       },
       "submissions": [
         {"id":2201368479,"status":"Accepted","lang":"cpp","timestamp":1795362997,"runtime":"0 ms","memory":"8.5 MB"}
+      ]
+    },
+    "number-of-strings-that-appear-as-substrings-in-word": {
+      "id": "1967",
+      "title": "Number of Strings That Appear as Substrings in Word",
+      "slug": "number-of-strings-that-appear-as-substrings-in-word",
+      "difficulty": "Easy",
+      "tags": ["Array","String"],
+      "topic": "Array",
+      "dir": "Array/1967-number-of-strings-that-appear-as-substrings-in-word",
+      "first_attempt_at": 1795364868,
+      "last_attempt_at": 1795365604,
+      "solved_at": 1795365604,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2201395295,"status":"Accepted","lang":"cpp","timestamp":1795365604,"runtime":"0 ms","memory":"11.8 MB"}
+      },
+      "submissions": [
+        {"id":2201387498,"status":"Runtime Error","lang":"cpp","timestamp":1795364868,"runtime":null,"memory":null},
+        {"id":2201395295,"status":"Accepted","lang":"cpp","timestamp":1795365604,"runtime":"0 ms","memory":"11.8 MB"}
       ]
     }
   }
