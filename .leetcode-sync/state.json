@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2201395295,
+  "synced_through": 2201818221,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5663,6 +5663,24 @@
       "submissions": [
         {"id":2201387498,"status":"Runtime Error","lang":"cpp","timestamp":1795364868,"runtime":null,"memory":null},
         {"id":2201395295,"status":"Accepted","lang":"cpp","timestamp":1795365604,"runtime":"0 ms","memory":"11.8 MB"}
+      ]
+    },
+    "product-of-the-last-k-numbers": {
+      "id": "1352",
+      "title": "Product of the Last K Numbers",
+      "slug": "product-of-the-last-k-numbers",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Design","Data Stream","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/1352-product-of-the-last-k-numbers",
+      "first_attempt_at": 1795426145,
+      "last_attempt_at": 1795426145,
+      "solved_at": 1795426145,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2201818221,"status":"Accepted","lang":"cpp","timestamp":1795426145,"runtime":"125 ms","memory":"98.1 MB"}
+      },
+      "submissions": [
+        {"id":2201818221,"status":"Accepted","lang":"cpp","timestamp":1795426145,"runtime":"125 ms","memory":"98.1 MB"}
       ]
     }
   }

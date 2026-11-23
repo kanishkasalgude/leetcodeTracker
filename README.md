@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 303 | 294 | 9 | 116 | 150 | 28 | 2026-11-22 |
+| 304 | 295 | 9 | 116 | 151 | 28 | 2026-11-23 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 137 | 131 | 6 | 40 | 80 | 17 |
+| [Array](Array/README.md) | 138 | 132 | 6 | 40 | 81 | 17 |
 | [Database](Database/README.md) | 51 | 51 | 0 | 33 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 21 | 21 | 0 | 8 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -45,6 +45,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-23 | [1352. Product of the Last K Numbers](Array/1352-product-of-the-last-k-numbers/README.md) | Accepted | cpp |
 | 2026-11-22 | [1967. Number of Strings That Appear as Substrings in Word](Array/1967-number-of-strings-that-appear-as-substrings-in-word/README.md) | Accepted | cpp |
 | 2026-11-22 | [1967. Number of Strings That Appear as Substrings in Word](Array/1967-number-of-strings-that-appear-as-substrings-in-word/README.md) | Runtime Error | cpp |
 | 2026-11-22 | [2124. Check if All A's Appears Before All B's](String/2124-check-if-all-as-appears-before-all-bs/README.md) | Accepted | cpp |
@@ -59,13 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Accepted | cpp |
 | 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Wrong Answer | cpp |
 | 2026-11-15 | [175. Combine Two Tables](Database/0175-combine-two-tables/README.md) | Accepted | mysql |
-| 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Wrong Answer | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 54 | 79 |
+| 2026-11 | 55 | 80 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -293,6 +293,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1321 | [Restaurant Growth](Database/1321-restaurant-growth/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-04 | 2026-11-04 |
 | 1327 | [List the Products Ordered in a Period](Database/1327-list-the-products-ordered-in-a-period/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-11-05 | 2026-11-05 |
 | 1341 | [Movie Rating](Database/1341-movie-rating/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-03 | 2026-11-03 |
+| 1352 | [Product of the Last K Numbers](Array/1352-product-of-the-last-k-numbers/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-23 | 2026-11-23 |
 | 1358 | [Number of Substrings Containing All Three Characters](Hash-Table/1358-number-of-substrings-containing-all-three-characters/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-09-13 | 2026-09-13 |
 | 1373 | [Maximum Sum BST in Binary Tree](Dynamic-Programming/1373-maximum-sum-bst-in-binary-tree/README.md) | [Dynamic Programming](Dynamic-Programming/README.md) | Hard | Solved | 1 | 2026-06-13 | 2026-06-13 |
 | 1378 | [Replace Employee ID With The Unique Identifier](Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-27 | 2026-10-27 |

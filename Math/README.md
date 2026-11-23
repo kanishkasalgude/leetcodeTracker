@@ -39,6 +39,7 @@ Filed under their main topic, but they use this one too.
 | 453 | [Minimum Moves to Equal Array Elements](../Array/0453-minimum-moves-to-equal-array-elements/README.md) | Array | Medium | Solved |
 | 462 | [Minimum Moves to Equal Array Elements II](../Array/0462-minimum-moves-to-equal-array-elements-ii/README.md) | Array | Medium | Solved |
 | 1248 | [Count Number of Nice Subarrays](../Array/1248-count-number-of-nice-subarrays/README.md) | Array | Medium | Solved |
+| 1352 | [Product of the Last K Numbers](../Array/1352-product-of-the-last-k-numbers/README.md) | Array | Medium | Solved |
 | 1512 | [Number of Good Pairs](../Array/1512-number-of-good-pairs/README.md) | Array | Easy | Solved |
 | 1524 | [Number of Sub-arrays With Odd Sum](../Array/1524-number-of-sub-arrays-with-odd-sum/README.md) | Array | Medium | Solved |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](../Array/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | Array | Hard | Solved |

@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 137 | 131 | 6 | 40 | 80 | 17 |
+| 138 | 132 | 6 | 40 | 81 | 17 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -91,6 +91,7 @@
 | 1248 | [Count Number of Nice Subarrays](../Array/1248-count-number-of-nice-subarrays/README.md) | Medium | Solved | 1 | cpp | 2026-09-13 |
 | 1267 | [Count Servers that Communicate](../Array/1267-count-servers-that-communicate/README.md) | Medium | Solved | 1 | cpp | 2026-11-08 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](../Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | Medium | Solved | 1 | cpp | 2026-03-21 |
+| 1352 | [Product of the Last K Numbers](../Array/1352-product-of-the-last-k-numbers/README.md) | Medium | Solved | 1 | cpp | 2026-11-23 |
 | 1385 | [Find the Distance Value Between Two Arrays](../Array/1385-find-the-distance-value-between-two-arrays/README.md) | Easy | Solved | 1 | cpp | 2026-11-05 |
 | 1423 | [Maximum Points You Can Obtain from Cards](../Array/1423-maximum-points-you-can-obtain-from-cards/README.md) | Medium | Solved | 2 | cpp | 2026-09-13 |
 | 1470 | [Shuffle the Array](../Array/1470-shuffle-the-array/README.md) | Easy | Solved | 1 | cpp | 2026-04-21 |
