@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 304 | 295 | 9 | 116 | 151 | 28 | 2026-11-23 |
+| 305 | 296 | 9 | 117 | 151 | 28 | 2026-11-24 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 138 | 132 | 6 | 40 | 81 | 17 |
+| [Array](Array/README.md) | 139 | 133 | 6 | 41 | 81 | 17 |
 | [Database](Database/README.md) | 51 | 51 | 0 | 33 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 21 | 21 | 0 | 8 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -45,6 +45,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-24 | [3411. Maximum Subarray With Equal Products](Array/3411-maximum-subarray-with-equal-products/README.md) | Accepted | python3 |
 | 2026-11-23 | [1352. Product of the Last K Numbers](Array/1352-product-of-the-last-k-numbers/README.md) | Accepted | cpp |
 | 2026-11-22 | [1967. Number of Strings That Appear as Substrings in Word](Array/1967-number-of-strings-that-appear-as-substrings-in-word/README.md) | Accepted | cpp |
 | 2026-11-22 | [1967. Number of Strings That Appear as Substrings in Word](Array/1967-number-of-strings-that-appear-as-substrings-in-word/README.md) | Runtime Error | cpp |
@@ -59,13 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-16 | [2243. Calculate Digit Sum of a String](String/2243-calculate-digit-sum-of-a-string/README.md) | Accepted | cpp |
 | 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Accepted | cpp |
 | 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Wrong Answer | cpp |
-| 2026-11-15 | [175. Combine Two Tables](Database/0175-combine-two-tables/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 55 | 80 |
+| 2026-11 | 56 | 81 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -360,6 +360,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-11-12 | 2026-11-12 |
 | 3331 | [Find Subtree Sizes After Changes](Array/3331-find-subtree-sizes-after-changes/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-21 | 2026-11-21 |
 | 3364 | [Minimum Positive Sum Subarray ](Array/3364-minimum-positive-sum-subarray/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-11-14 | 2026-11-14 |
+| 3411 | [Maximum Subarray With Equal Products](Array/3411-maximum-subarray-with-equal-products/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-11-24 | 2026-11-24 |
 | 3483 | [Unique 3-Digit Even Numbers](Array/3483-unique-3-digit-even-numbers/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-09-11 | 2026-09-11 |
 | 3536 | [Maximum Product of Two Digits](Math/3536-maximum-product-of-two-digits/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-25 | 2026-07-25 |
 | 3619 | [Count Islands With Total Value Divisible by K](Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-10-26 | 2026-10-26 |

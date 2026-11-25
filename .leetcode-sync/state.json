@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2201818221,
+  "synced_through": 2202670358,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5681,6 +5681,24 @@
       },
       "submissions": [
         {"id":2201818221,"status":"Accepted","lang":"cpp","timestamp":1795426145,"runtime":"125 ms","memory":"98.1 MB"}
+      ]
+    },
+    "maximum-subarray-with-equal-products": {
+      "id": "3411",
+      "title": "Maximum Subarray With Equal Products",
+      "slug": "maximum-subarray-with-equal-products",
+      "difficulty": "Easy",
+      "tags": ["Array","Math","Sliding Window","Enumeration","Number Theory"],
+      "topic": "Array",
+      "dir": "Array/3411-maximum-subarray-with-equal-products",
+      "first_attempt_at": 1795533820,
+      "last_attempt_at": 1795533820,
+      "solved_at": 1795533820,
+      "languages": {
+        "python3": {"file":"solution.py","id":2202670358,"status":"Accepted","lang":"python3","timestamp":1795533820,"runtime":"6 ms","memory":"19 MB"}
+      },
+      "submissions": [
+        {"id":2202670358,"status":"Accepted","lang":"python3","timestamp":1795533820,"runtime":"6 ms","memory":"19 MB"}
       ]
     }
   }

@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 138 | 132 | 6 | 40 | 81 | 17 |
+| 139 | 133 | 6 | 41 | 81 | 17 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -126,6 +126,7 @@
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](../Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | Solved | 4 | cpp | 2026-11-12 |
 | 3331 | [Find Subtree Sizes After Changes](../Array/3331-find-subtree-sizes-after-changes/README.md) | Medium | Solved | 1 | cpp | 2026-11-21 |
 | 3364 | [Minimum Positive Sum Subarray ](../Array/3364-minimum-positive-sum-subarray/README.md) | Easy | Solved | 1 | cpp | 2026-11-14 |
+| 3411 | [Maximum Subarray With Equal Products](../Array/3411-maximum-subarray-with-equal-products/README.md) | Easy | Solved | 1 | python3 | 2026-11-24 |
 | 3483 | [Unique 3-Digit Even Numbers](../Array/3483-unique-3-digit-even-numbers/README.md) | Easy | Solved | 2 | cpp | 2026-09-11 |
 | 3619 | [Count Islands With Total Value Divisible by K](../Array/3619-count-islands-with-total-value-divisible-by-k/README.md) | Medium | Solved | 2 | python3 | 2026-10-26 |
 | 3693 | [Climbing Stairs II](../Array/3693-climbing-stairs-ii/README.md) | Medium | Solved | 1 | python | 2026-11-10 |
