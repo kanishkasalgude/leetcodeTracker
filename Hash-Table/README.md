@@ -59,4 +59,5 @@ Filed under their main topic, but they use this one too.
 | 3483 | [Unique 3-Digit Even Numbers](../Array/3483-unique-3-digit-even-numbers/README.md) | Array | Easy | Solved |
 | 3842 | [Toggle Light Bulbs](../Array/3842-toggle-light-bulbs/README.md) | Array | Easy | Solved |
 | 3843 | [First Element with Unique Frequency](../Array/3843-first-element-with-unique-frequency/README.md) | Array | Medium | Attempted |
+| 3934 | [Smallest Unique Subarray](../Array/3934-smallest-unique-subarray/README.md) | Array | Hard | Solved |
 | 4038 | [Count Integers Appearing in a Single Block](../Array/4038-count-integers-appearing-in-a-single-block/README.md) | Array | Easy | Solved |

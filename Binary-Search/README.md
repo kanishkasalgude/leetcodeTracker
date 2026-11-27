@@ -42,3 +42,4 @@ Filed under their main topic, but they use this one too.
 | 1901 | [Find a Peak Element II](../Array/1901-find-a-peak-element-ii/README.md) | Array | Medium | Solved |
 | 2089 | [Find Target Indices After Sorting Array](../Array/2089-find-target-indices-after-sorting-array/README.md) | Array | Easy | Solved |
 | 2812 | [Find the Safest Path in a Grid](../Array/2812-find-the-safest-path-in-a-grid/README.md) | Array | Medium | Solved |
+| 3934 | [Smallest Unique Subarray](../Array/3934-smallest-unique-subarray/README.md) | Array | Hard | Solved |

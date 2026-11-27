@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2202670358,
+  "synced_through": 2203395811,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5699,6 +5699,24 @@
       },
       "submissions": [
         {"id":2202670358,"status":"Accepted","lang":"python3","timestamp":1795533820,"runtime":"6 ms","memory":"19 MB"}
+      ]
+    },
+    "smallest-unique-subarray": {
+      "id": "3934",
+      "title": "Smallest Unique Subarray",
+      "slug": "smallest-unique-subarray",
+      "difficulty": "Hard",
+      "tags": ["Array","Hash Table","Binary Search","Rolling Hash","Suffix Array","Hash Function"],
+      "topic": "Array",
+      "dir": "Array/3934-smallest-unique-subarray",
+      "first_attempt_at": 1795627737,
+      "last_attempt_at": 1795627737,
+      "solved_at": 1795627737,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2203395811,"status":"Accepted","lang":"cpp","timestamp":1795627737,"runtime":"804 ms","memory":"357.7 MB"}
+      },
+      "submissions": [
+        {"id":2203395811,"status":"Accepted","lang":"cpp","timestamp":1795627737,"runtime":"804 ms","memory":"357.7 MB"}
       ]
     }
   }
