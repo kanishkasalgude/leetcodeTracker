@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2203395811,
+  "synced_through": 2204696259,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -5717,6 +5717,24 @@
       },
       "submissions": [
         {"id":2203395811,"status":"Accepted","lang":"cpp","timestamp":1795627737,"runtime":"804 ms","memory":"357.7 MB"}
+      ]
+    },
+    "maximum-number-of-items-from-sale-i": {
+      "id": "3946",
+      "title": "Maximum Number of Items From Sale I",
+      "slug": "maximum-number-of-items-from-sale-i",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Greedy"],
+      "topic": "Array",
+      "dir": "Array/3946-maximum-number-of-items-from-sale-i",
+      "first_attempt_at": 1795799595,
+      "last_attempt_at": 1795799595,
+      "solved_at": 1795799595,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2204696259,"status":"Accepted","lang":"cpp","timestamp":1795799595,"runtime":"30 ms","memory":"39 MB"}
+      },
+      "submissions": [
+        {"id":2204696259,"status":"Accepted","lang":"cpp","timestamp":1795799595,"runtime":"30 ms","memory":"39 MB"}
       ]
     }
   }

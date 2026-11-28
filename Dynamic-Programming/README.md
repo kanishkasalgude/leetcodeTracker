@@ -39,3 +39,4 @@ Filed under their main topic, but they use this one too.
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](../Array/3041-maximize-consecutive-elements-in-an-array-after-modification/README.md) | Array | Hard | Solved |
 | 3693 | [Climbing Stairs II](../Array/3693-climbing-stairs-ii/README.md) | Array | Medium | Solved |
 | 3844 | [Longest Almost-Palindromic Substring](../Two-Pointers/3844-longest-almost-palindromic-substring/README.md) | Two Pointers | Medium | Attempted |
+| 3946 | [Maximum Number of Items From Sale I](../Array/3946-maximum-number-of-items-from-sale-i/README.md) | Array | Medium | Solved |

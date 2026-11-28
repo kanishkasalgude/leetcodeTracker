@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 140 | 134 | 6 | 41 | 81 | 18 |
+| 141 | 135 | 6 | 41 | 82 | 18 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -140,6 +140,7 @@
 | 3903 | [Smallest Stable Index I](../Array/3903-smallest-stable-index-i/README.md) | Easy | Solved | 1 | cpp | 2026-09-04 |
 | 3904 | [Smallest Stable Index II](../Array/3904-smallest-stable-index-ii/README.md) | Medium | Solved | 1 | cpp | 2026-09-05 |
 | 3934 | [Smallest Unique Subarray](../Array/3934-smallest-unique-subarray/README.md) | Hard | Solved | 1 | cpp | 2026-11-25 |
+| 3946 | [Maximum Number of Items From Sale I](../Array/3946-maximum-number-of-items-from-sale-i/README.md) | Medium | Solved | 1 | cpp | 2026-11-27 |
 | 3994 | [Minimum Adjacent Swaps to Partition Array](../Array/3994-minimum-adjacent-swaps-to-partition-array/README.md) | Medium | Attempted | 6 | cpp | - |
 | 3996 | [Even Number of Knight Moves](../Array/3996-even-number-of-knight-moves/README.md) | Easy | Solved | 1 | cpp | 2026-07-19 |
 | 3998 | [Transform Binary String Using Subsequence Sort](../Array/3998-transform-binary-string-using-subsequence-sort/README.md) | Medium | Attempted | 1 | cpp | - |

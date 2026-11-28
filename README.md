@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 306 | 297 | 9 | 117 | 151 | 29 | 2026-11-25 |
+| 307 | 298 | 9 | 117 | 152 | 29 | 2026-11-27 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 140 | 134 | 6 | 41 | 81 | 18 |
+| [Array](Array/README.md) | 141 | 135 | 6 | 41 | 82 | 18 |
 | [Database](Database/README.md) | 51 | 51 | 0 | 33 | 17 | 1 |
 | [Hash Table](Hash-Table/README.md) | 21 | 21 | 0 | 8 | 9 | 4 |
 | [Tree](Tree/README.md) | 19 | 19 | 0 | 6 | 13 | 0 |
@@ -45,6 +45,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-27 | [3946. Maximum Number of Items From Sale I](Array/3946-maximum-number-of-items-from-sale-i/README.md) | Accepted | cpp |
 | 2026-11-25 | [3934. Smallest Unique Subarray](Array/3934-smallest-unique-subarray/README.md) | Accepted | cpp |
 | 2026-11-24 | [3411. Maximum Subarray With Equal Products](Array/3411-maximum-subarray-with-equal-products/README.md) | Accepted | python3 |
 | 2026-11-23 | [1352. Product of the Last K Numbers](Array/1352-product-of-the-last-k-numbers/README.md) | Accepted | cpp |
@@ -59,13 +60,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-11-18 | [2914. Minimum Number of Changes to Make Binary String Beautiful](String/2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Wrong Answer | cpp |
 | 2026-11-17 | [1189. Maximum Number of Balloons](Hash-Table/1189-maximum-number-of-balloons/README.md) | Accepted | python |
 | 2026-11-16 | [2243. Calculate Digit Sum of a String](String/2243-calculate-digit-sum-of-a-string/README.md) | Accepted | cpp |
-| 2026-11-15 | [55. Jump Game](Array/0055-jump-game/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 57 | 82 |
+| 2026-11 | 58 | 83 |
 | 2026-10 | 49 | 75 |
 | 2026-09 | 26 | 32 |
 | 2026-08 | 27 | 50 |
@@ -380,6 +380,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 3903 | [Smallest Stable Index I](Array/3903-smallest-stable-index-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-09-04 | 2026-09-04 |
 | 3904 | [Smallest Stable Index II](Array/3904-smallest-stable-index-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-09-05 | 2026-09-05 |
 | 3934 | [Smallest Unique Subarray](Array/3934-smallest-unique-subarray/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-11-25 | 2026-11-25 |
+| 3946 | [Maximum Number of Items From Sale I](Array/3946-maximum-number-of-items-from-sale-i/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-11-27 | 2026-11-27 |
 | 3963 | [Create Grid With Exactly One Path](Other/3963-create-grid-with-exactly-one-path/README.md) | [Other](Other/README.md) | Easy | Solved | 1 | 2026-10-27 | 2026-10-27 |
 | 3992 | [Rearrange String to Avoid Character Pair](Two-Pointers/3992-rearrange-string-to-avoid-character-pair/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 3 | 2026-07-18 | 2026-07-18 |
 | 3993 | [Maximum Value of an Alternating Sequence](Math/3993-maximum-value-of-an-alternating-sequence/README.md) | [Math](Math/README.md) | Medium | Attempted | 2 | 2026-07-18 | - |
